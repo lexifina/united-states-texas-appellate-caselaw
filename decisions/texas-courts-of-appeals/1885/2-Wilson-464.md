@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1715"
+decided: "1885-01-17"
+citations: ["2 Wilson 464"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. H. Hannah et al. v. J. N. Chadwick."]
+source_url: "https://static.case.law/willson/2/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1370598
+cites_cases: ["28 Tex. 219", "29 Tex. 191", "41 Tex. 472"]
+---
+
+# Hannah v. Chadwick
+
+## Majority (Will-son, J.)
+
+Opinion by
+Will-son, J.
+§ 517. Failure of consideration; insufficient plea of; case stated. Chadwick sued Hannah as maker, and McDermot and Hudgins as indorsers, of a promissory note. Hannah pleaded specially, under oath, failure of consideration, alleging, in substance: 1. That said note was executed for the' purchase price of certain personal property, sold by plaintiff to him, said plaintiff representing at the time- that his title to said property was valid. 2. That plaintiff warranted to him the title to said property. 3. That thereafter, said property, without the knowledge or consent of defendant, was taken by other persons, and he was thereby deprived of the same. This plea was excepted to by the plaintiff specially, because it did not appear therefrom that defendant had been lawfully dispossessed of said property by any person having a superior right thereto, nor that any person had a superior right thereto. The exceptions to the plea were sustained, and plaintiff recovered judgment for his debt, etc. Held: It was not error to sustain the exceptions to the plea. “Where the purchaser holds under an executed contract, as a deed with warranty, he cannot resist the payment of the purchase money on proof that the title may be doubtful. He must do more. He must show with reasonable certainty that the title has failed in whole or in part, and that he has been evicted, or, if not, is liable to be evicted by a superior outstanding title of which he had no notice at the time of his purchase.”' [Price v. Blount, 41 Tex. 472.] It being necessary for the defendant to prove such facts in order to make good his defense of failure of consideration, jt was essential that he should allege them in his plea. The rule above quoted is applicable in all cases, whether the property be real or personal. [Lemmon v. Hanley, 28 Tex. 219.] While a purchaser may use a breach of warranty as a defense, he must allege and prove the facts which constitute the breach. [Ante, § 105.] In this plea it is not made apparent but that the property_was taken from the defendant by a mere wrong-doer, having no legal right whatever thereto. If such were in fact the case, there was no breach of warranty.
+§518. Continuance or postponement; insufficient grounds for. After the exceptions to defendant Hannah’s special plea had been sustained, he was granted leave to amend said plea, and the trial of the cause was postponed from 19th to 21st instant to enable him to prepare and file his amendment. When the cause was again called for trial his counsel made application to continue or postpone, stating as a ground for the delay that the defendant Hannah was absent from the court, some ten miles-distant; that his counsel had used diligence, stating the diligence, to inform him that his presence at court was necessary; that the presence of said defendant was necessary to make oath to the-truth of the matters' alleged in his amended plea; that said defense was meritorious, etc. This application was overruled, and exception saved to the ruling of the court. Held: The ground stated in the application is not the ground specified in the statute, that is, the want of testimony, and the application was, therefore, one addressed to the discretion of the court, the exercise of which discretion is, ordinarily, not revisable. [McMahon v. Busby, 29 Tex. 191; W. & W. Con. Rep. § 1292.] In this instance it does not appear that the court abused its discretion. It was Hannah's duty to be present at court, giving his attention to his defense. Litigants are required to be vigilant in the prosecution or defense of their causes, and will not be permitted to delay trials to subserve their own convenience, or for trifling reasons. It is quite apparent that if defendant has suffered injustice by not having his defense properly presented on the trial, it is attributable to his own carelessness and want of reasonable diligence. There was no error in refusing the application.
+January 17, 1885.
+§ 519. New trial; motion for, controverted. Hannah moved for a new trial, alleging that he had been caused to believe, from statements made to him by the plaintiff, that this cause would not be called for trial at the term at which it was tried, but would be continued, and that, relying upon these statements, he did not attend court, etc. Plaintiff answered this motion with a counter-affidavit denying that he had made any statements reasonably calculated to warrant defendant in believing that the case would be continued. Held, it was within the discretion of the court to refuse the new trial, and in the opinion of this court that discretion was not abused. [W. & W„ Con. Rep. § 725.]
+Affirmed.
