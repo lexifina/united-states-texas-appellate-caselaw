@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1908-05-27"
+citations: ["51 Tex. Civ. App. 167"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. B. Rice v. E. H. Vasmer et al."]
+source_url: "https://static.case.law/tex-civ-app/51/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4413959
+cites_cases: ["11 Kans., 378", "16 Iowa, 118", "17 Mich., 480", "18 Pa., 55", "2 Blackf. (Ind.), 336", "22 Iowa, 301", "29 Iowa, 434", "3 Blackf., 72", "37 Ala., 298", "45 Ind., 10", "45 Iowa, 328", "5 Neb., 105"]
+---
+
+# Rice v. Vasmer
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+The original petition was filed in this case by the appellant Rice on May 8, 1906. On February 6, 1907, plaintiff filed an amended petition, wherein he sought to recover against appellees E. H. Vasmer, formerly county judge, and John Achenbach, one of the sureties on his official bond, and against Albert Kuhn, independent executor of the estate of E. F. Schmidt, the other surety on Vasmer’s official bond, two sums of money, with interest thereon, one for $1,424.46 and the other for $456.38, alleged to have been received by Vasmer as county judge of Harris County, which he should have paid over to plaintiff, but failed so to do.
+The defendants each filed answers, containing general and special demurrers, all of which the court sustained. The plaintiff declined to amend and elected to stand upon his amended petition, whereupon the court dismissed the plaintiff’s suit, adjudging the costs against him. From this judgment plaintiff has appealed.
+The amended petition alleges that plaintiff was administrator of the estate of W. M. Rice, deceased. That defendant Vasmer was county judge of Harris County, Texas, and as such, judge of the probate court of said county, in which the administration of the W. M. Rice estate was pending. That as county judge he demanded of plaintiff, as fees and commissions due him as county judge from said estate the two sums of $1,424.46 and $456.38, respectively; that plaintiff paid said sums to Vasmer at his special instance and request as county judge of Harris County, Texas, and upon his statement and representation that he was entitled to the same as commissions due him and accruing to him as county judge in the administration of the estate of W. M. Rice, deceased; that plaintiff paid said sums to Vasmer under the mistaken belief that he was entitled to the same by virtue of his office as county judge, as and for his commissions arising in the administration of said estate, and that defendant Vasmer demanded and received said sums under the same mistaken belief; that in truth and in fact, said Vasmer was not entitled to either of said sums or any part thereof as such fees, commissions or charges; that plaintiff had no knowledge or notice of the mistake until his annual accounts were presented to the probate court of Harris County, and said items rejected and plaintiff ordered to charge himself with said amounts; that in his annual and final accounts as administrator of said estate he presented and included each of said items as a disbursement or charge against said estate, but the probate court refused to allow the same, and ordered the, plaintiff to charge himself with said sums and that he became and is liable to said estate for said sums.
+Plaintiff further alleges that defendant Vasmer became bound and obligated, both personally and as county judge, to hold said sums for the use and benefit of plaintiff, and to pay the same to plaintiff.
+The petition further alleges the execution of the official bond of defendant Vasmer, payable to the county treasurer in the sum of th^ee thousand dollars, conditioned that he would faithfully perform and discharge all his duties as county judge, and pay over, within thirty days after receiving the same, all moneys coming into his hands as such county judge to the parties entitled to the same; that said bond was executed by said Vasmer as principal and by E. F. Schmidt and the defendant John Achenbach, as sureties; that Schmidt died and the defendant Albert Kuhn was duly appointed and qualified as the independent executor of the estate of said Schmidt, and is acting in said capacity.
+The petition contains the formal allegation of demand and default, and prays for judgment against the defendants, and each of them, upon said bond for said sums of money, with interest and costs, and for general relief.
+Opinion.—The first question to be considered as raised by the assignments, is, were the sureties liable on the bond in question? Their liability extends only to the official conduct of their principal. The principal having received fees which he was not entitled to, the sureties would not be liable for the same, and as to them this case is practically controlled by Henderson County v. Richardson, 15 Texas Civ. App., 701. and Warswick v. State, 36 Texas Crim., 63.
+As to Vasmer, the principal, it is contended that he is liable, independent of the fact that the amount received by him was not a liability covered by the bond. Plaintiff’s action was based upon the bond, and if it could be held that the petition contained averments sufficient to also create a liability against Vasmer for money had and received, it is apparent that that cause of action was barred by limitation, and as to this branch of the case Vasmer interposed a special demurrer raising the question of limitation.
+It is also contended by the plaintiff that the liability of all of the defendants can be worked out on the theory that the bond is a common law obligation, binding all to a repayment of the sum wrongfully demanded and received by Vasmer. As before said, the bond merely seeks to hold all the obligors responsible for the official conduct of the county judge, and as the conduct was not official, it would not embrace a sum for which Vasmer and the sureties would be liable, as it would be a demand not covered or embraced within the terms of the bond.
+The bond was made payable to the county treasurer, and no common law cause of action would lie upon it in favor of the plaintiff.
+We find no error in the record and the judgment is affirmed.
+Affirmed.
