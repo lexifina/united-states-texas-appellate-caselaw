@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-10-19"
+citations: ["36 Tex. Civ. App. 613"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. E. Guinn v. W. F. Ames."]
+source_url: "https://static.case.law/tex-civ-app/36/cases/0613-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4379451
+---
+
+# Guinn v. Ames
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+The recital contained in the judgment of the trial court to the effect that the plaintiff withdrew his first supplemental petition and all the allegations of the same, eliminated the issue of ratification and waiver of the fraud and deception practiced upon the appellant in the sale of the land in question to him. This was matter which the plaintiff should have pleaded, as well as proven, in order for it to form the basis of the judgment of the trial court.
+The trial court in its conclusions of law states that the defendant is not entitled to a rescission of the contract, because he ratified the contract and waived the fraud and deception, if there was any, by various acts, after he discovered the discrepancy in the location of the land. The court further follows this statement with another, to the effect that if oil had been found on the land in question the appellant would have accepted the conveyance without complaint, which in our opinion is immaterial, and further concludes that he did not at a proper time manifest his purpose to repudiate said contract. ■ We do not regard the trial amendment filed by the appellant as bringing these issues into the case; and in our opinion the averments of the trial amendment upon this subject should not dispense with proper pleadings upon the part of the plaintiff below, if he desired these matters to become an issue in the case.
+The findings of fact, together with the conclusions of law, impress us with the belief that the trial court made the question of the appellant’s supposed ratification and waiver of the fraud the principal ground upon which it predicated a judgment against him. The last portion of subdivision 1 of the conclusions of law, to the effect 'that the appellant did not at a proper time manifest his purpose to repudiate said contract,” was doubtless a matter which the plaintiff could establish without specially pleading the fact, for parties that rely upon cancellation must take steps to rescind or repudiate within a reasonable time after the mistake or fraud is discovered; and as to this much of the finding, we think it is an issue that was raised by the pleadings. But it is clear from the findings of fact that the court did not predicate its judgment alone upon the delay of the appellant, but that it in the main relied upon the acts constituting a ratification and waiver of the fraud and deception, if any, that was practiced upon the appellant.
+The second conclusion of the trial court is as follows: "He [meaning the appellant] is not entitled to recover or have set-off on his cross-action for deceit, for the same reason that he can not have the contract rescinded.” Of course, it is true that one injured by the fraud of another might waive the same, or so estop himself that he could not recover, even for the damages sustained, as well as recover also upon his action for rescission. But if the court meant by this conclusion to hold that a party who has been damaged by the fraud of another should, by reason of his failure to rescind the contract, in all cases be defeated in his action for deceit for the damages sustained by reason of the fraud, we can not approve it as a correct announcement of the law. The one upon whom the fraud has been practiced can, in many instances, retain the property purchased and still recover the damages that resulted to him by reason of the fraudulent representation. The facts as found by the trial court possibly bring this case within that rule; but upon this subject we do not wish to be understood as holding that the claim for damages could not also be waived, or that the damaged party could not, by his conduct, estop himself from recovering the damages sustained.
+There are findings to the effect that the land that was sold to the appellant by the appellee was represented to be located in one place, when as a matter of fact its location was different, which difference in location at that time affected its value. And there are findings which would warrant the conclusion that these representations were falsely made, and that they induced the appellant, who then believed in their truth, to purchase the land. How if this is true, the mere fact that the appellant retained possession of the land and elected not to rescind the sale, or if the trial court should determine that circumstances exist that would not entitle him to rescission, still, the facts and circumstances might be such that he would be entitled to recover the damages he sustained by reason of the false representations.
+For the reasons stated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
