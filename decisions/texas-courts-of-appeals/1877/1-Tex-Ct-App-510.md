@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1877"
+decided_precision: "year"
+citations: ["1 Tex. Ct. App. 510"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Giles Miles v. The State."]
+source_url: "https://static.case.law/tex-ct-app/1/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 123725
+---
+
+# Miles v. State
+
+## Majority (Ector, Presiding Judge.)
+
+Ector, Presiding Judge.
+The appellant was indicted and convicted for the theft of a cow. There are various errors assigned by him, only one of which we deem it necessary to notice, and that is as to the oath which was administered to the jury.
+The oath prescribed by law to be taken by the jury was •omitted, and a different one administered. Article 563 of the Code of Criminal Procedure prescribes the oath to be administered to a jury in criminal cases. “ Art. 563. You solemnly swear that, in the case of The State of Texas against (naming the defendant) the defendant, you will a true verdict render according to the law and evidence, so help you God.” ,
+This form must be followed, or what has been considered its equivalent administered in its absence. The oath administered to the jury in this case (as shown from the record), after stating the case, is thus set out: “ Whereupon came a jury of good and lawful men, to wit, S. N. Richardson and eleven others, who, being duly impaneled and sworn well and truly to try said cause of The State of Texas v. Giles Miles,” etc.
+In the case of Arthur v. The State, 3 Texas, 405, the oath prescribed by the statute then in force was not administered to the jury, and for this the judgment was reversed. Wheeler, J., delivering the opinion, says : “ Had the record, stated merely that the jury was duly sworn, we must have presumed that the proper oath was administered to them but when it appears affirmatively that they were not sworn as the law requires, there is no room for any intendment in favor of the regularity and legality of the proceeding, and the objection must be held fatal. When the legislature has. undertaken to prescribe the oath which shall be taken, it. must be observed. • And when the record shows that the statutory requirement has been disregarded, and the court, has proceeded to substitute something else in its stead, it-will be as if no oath had been administered.”
+In the case of Sutton v. The State, 41 Texas, 515, the jury were sworn as follows: “ Well and truly to try the issue-between The State of Texas and the defendant, Bob Sutton;” and the court say: “Had the record shown that-the jury wer,e ‘ duly sworn ’ or £ sworn according to law,’ it. might be presumed that the oath prescribed was administered to them. In this case it affirmatively appears that the proper oath was not administered to the jury. The-omission is a fatal defect, for which the judgment must be reversed.”
+In the case of Edmondson v. The State, 41 Texas, 496, the record recites that the jury were “ sworn to well and truly try the issue joined between The State of Texas- and Luke Edmondson.” Justice Gould, in delivering the opinion of the court, says : ‘ ‘ This is not the oath required by law to be administered. If the record assumes to-set forth the oath, it should do it correctly. It is sufficient, however, if it states that ‘ the jury were sworn according to law,’ without attempting to set out the oath, and that, we think, is the better plan.” If the record merely recited that the jury “ were duly sworn,” or if it recited they ‘6 were sworn according to law, ’ ’ we would hold this sufficient. In the case of Morgan v. The State, 42 Texas, 225, the jury ‘ ‘ were duly impaneled and sworn to try the issue . joined between The State of Texas and Charles Morgan upon his plea of not guilty,” and the court say, “ this is not the oath prescribed by the Codeand for this error the judgment was reversed.
+We would not have extended this opinion to the length we have done but for the frequency with which we have been forced to reverse judgments for the same error as we find in this record. In the case before us the oath administered to the jury is stated in the record. It is not the oath prescribed by the statute, and, in contemplation of law, is no oath. The finding of the jury, not under oath, cannot constitute a legal verdict upon which the court can proceed to give judgment.
+As this case will be tried again, we deem it proper to say, from an examination of the statement of facts, that, if the proof should be the same on another trial, we think it would be proper for the court to give to the jury some additional instructions. Where there is testimony before the jury which, if true, would show that the accused took the property described in the indictment in good faith, believing it to be his own, or by the authority of another whom he honestly believed to be the owner, he is not guilty of thefb.
+“ In all cases where a party, in good faith, takes another’s property, under claim of title in himself, he is exempt from the charge of theft, however puerile, or unfounded, or mistaken the claim may be in fact. And the same is true where the taking is on behalf of another, believed to be the owner.” 2 Bishop on Cr. Law, 873. When-, on the trial of one charged with theft, the testimony is of such a character as to require of the court to inform the jury what facts would rebut the presumptions of a fraudulent talcing, an omission to give such information in the charge is a material error, calculated to injure the rights of the defendant by leaving the jury to decide the law as well as the facts of the case. On the trial of a criminal case it is not proper for the judge to announce merely the general principles of law defining the offense charged, but he ought also to instruct the jury on the law applicable to the particular case before them by the facts proved.
+The judgment is reversed and cause remanded.
+Reversed and remanded.
