@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1899-01-14"
+citations: ["20 Tex. Civ. App. 343"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fireman’s Fund Insurance Company v. R. C. Shearman."]
+source_url: "https://static.case.law/tex-civ-app/20/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 274292
+cites_cases: ["11 Atl. Rep., 572", "22 Fed. Rep., 516", "40 Wis., 446", "43 Mo. App., 51", "43 Mo. App., 518", "92 Pa., 15"]
+---
+
+# Fireman's Fund Insurance v. Shearman
+
+## Majority (RAINEY, Associate Justice.)
+
+RAINEY, Associate Justice.
+This suit was brought by appellee against appellant to recover on an insurance policy issued by appellant. Appellee recovered; appellant appealed. Special issues were submitted to the jury, and upon their findings the court based its judgment.
+It appears from the record that the policy was issued by appellant and covered a certain building occupied and used by insured for mercantile purposes and a private dwelling. The property insured was destroyed by fire during the life of the policy. The policy contained a clause which provided: “This entire policy, unless otherwise provided by agreement, indorsed hereon or added hereto, shall be void * * * if there be kept, used, or allowed on the above described premises, * * * gasoline, * * * or other explosives, phosphorus, or petroleum, or any of its products of greater inflammability than kerosene oil, of the Hnited States standard (which last may be used for lights and kept for sale according to law, but in quantities not exceeding barrels, provided it be drawn and lamps filled only by daylight or at a distance not less than ten feet from artificial light).”
+During the time the policy was in force the insured purchased one gallon of gasoline, into which was put a double handful of salt, a handful of soda, and a piece of gum camphor as large as the end of the thumb. This fluid was placed in a coal shed situated on the lot on which the building stood, but it was in the yard and separate and apart from the store building. It was used in the store in a lamp on the desk for lighting purposes. It was called “French electric fluid,” and the quantity of same that was in the building at any one time was about one-half pint. Hone was in the building for two weeks before the fire. In answer to the question, “Did the putting of said salt, soda, and camphor into said gasoline, in the manner that the same was put into it, and the quantity s= * * in any way change the nature of said gasoline?” the jury replied, “No material change as far as can be determined.” In answer to questions, “Did the insured keep, use, or allow on the insured premises any explosive, or petroleum or any of its products of greater inflammability than kerosene oil of United States standard? the jury replied, “Yes, as stated in answers 1, 2, and 3 of original charge.” The answers referred to by the jury were to the effect that the insured had purchased during the time the policy was in force one gallon of gasoline, which was put in a coal shed out in the yard, and mixed with salt, camphor, and soda, and the quantity in the insured building at any one time was about one-half pint.
+The jury further found that the “fluid burned the same as kerosene in a lamp.”
+Practically only one issue is raised by appellant, and that is, that the finding of the jury did not authorize the court to render judgment for appellee, but that judgment should have been rendered for appellant, the contention being on the part of appellant that the findings of the jury show that the insured "kept, used, and allowed on the insured premises gasoline and other explosives and certain products of petroleum of greater inflammability than kerosene oil of United States standard, contrary to the terms of the policy sued on, whereby said policy became null and void.”
+The only explosive (other than kerosene, which was allowed under the policy) kept, used, or allowed on the insured premises was the “French electric fluid,” in the manner heretofore shown.
+Do the findings of the jury show that the “fluid” was kept, used, or allowed on the insured premises in such a manner as to come within the terms of the prohibitory clause of the policy relied on by the appellant? We think not.
+Forfeiture clauses in policies are to be “construed most strongly against the insurer’1’ (Insurance Co. v. Gordon, 68 Texas, 144), and to defeat a recovery on a policy on the ground of a violation of its terms, there must be a substantial breach thereof. The period of time that the “fluid” was kept and used by the insured is not shown. Nor is it shown how often it was used. We have only the finding of the jury that one gallon of gasoline was placed in a shed in the yard and mixed with other ingredients, and about a half a pint at a time carried into and used in the building. We think it a fair deduction from the findings of the jury that the insured was experimenting with the “fluid” to determine its merits for lighting purposes, and its use was merely temporary.
+We do not think it was contemplated by the parties to the contract that such a casual use of the “fluid” should forfeit the policy. The current of authority is to the effect that such use does not fall within the prohibiting clause of the policy. Mears v. Insurance Co., 92 Pa., 15; Insurance Co. v. Hughes, 10 Lea (Tenn.), 461; La Force v. Insurance Co., 43 Mo. App., 51; Insurance Co. v. Insurance Co., 1 Handy (Ohio), 408.
+The having of one gallon of the “fluid” in the coal shed in the yard could not be considered a breach of the policy, as the facts fail to show that it was on the premises insured. There is nothing to show that the coal shed was sufficiently near or adjacent to the building as to make the keeping of the fluid there obnoxious to the terms of the policy. The word premises has been construed to “mean the building, and does not prevent the insured from storing gasoline on his own lot outside of the building.” Sperry v. Insurance Co., 22 Fed. Rep., 516; Insurance Co. v. Insurance Co., 40 Wis., 446; Insurance Co. v. P. Ex. Soc., 11 Atl. Rep., 572; La Force v. Insurance Co., 43 Mo. App., 518.
+The burden of showing a forfeiture of the policy rested upon the appellant. We are of the opinion that the findings of the jury fail to disclose a violation of the terms of the policy prohibiting the keeping, using, and allowing on the premises inflammable articles.
+The judgment is affirmed.
+Affirmed.
+Writ of error refused.
