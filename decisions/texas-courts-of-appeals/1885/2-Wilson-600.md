@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3412"
+decided: "1885-05-09"
+citations: ["2 Wilson 600"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fort Worth & Denver City R’y Co. v. William Ratliffe."]
+source_url: "https://static.case.law/willson/2/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1370509
+cites_cases: ["61 Tex. 660"]
+---
+
+# Fort Worth & Denver City R'y Co. v. Ratliffe
+
+## Majority (White, P. J.)
+
+Opinion by
+White, P. J.
+§ 681. Fire from railroad engine; proof of, may be by circumstantial evidence; negligence may also be proved by such evidence. Appellee recovered judgment for $230 against appellant for killing two of his cattle, crippling four others, and for destroying by fire communicated from its engine twenty tons of his hay. Appellant submits the following proposition: “When it appears that if fire was set by company’s engine at all, it must have been set by one certain engine, testimony that other fires had occurred at other places along the line of railway, both before and after the time in question, is inadmissible, unless confined to the engine which must have set the said fire, and is certainly inadmissible when the witnesses do not know how the fires about which they are testifying were caused.” In R. R. Co. v. Timmerman, 61 Tex. 660, it is held that in order to charge a railroad company, when the allegation is that fire was caused from sparks from the engine, the jury must affirmatively find that this was true, and that the damage was caused by the negligence of the servants or agents of the company. “The burning, the injury, the escape of fire from the company’s engine, and the negligence, are all facts required to be alleged and proved in every case. But they can be proved, like all other facts, by such pertinent evidence as will satisfy a reasonable mind of their existence.” In R. R. Co. v. Holt, this court held that the fact that the burning was caused by sparks emitted from a company’s engine may be proved by circumstantial evidence, and that “negligence may also be shown by circumstantial evidence, and direct proof of a particular act of negligence is not required. [Pierce on Eailroads, 438.] Evidence that the company’s engines at other times, before and after the fire in question, threw sparks as far from the track as the place where the fire began, and that they set other fires, is admitted to show both the possibility that it set the fire in question, and as proof of negligence.” [W. & W. Con. Rep. §§ 836-838.] From these authorities it is evident that appellant’s proposition is not sound in law.
+§ 682. Negligence; leaving combustible material on right of tuay; contributory negligence in land-owner; what is not. It is shown by the evidence that though appellant’s servants had, but a short time before the fire, attempted to burn off the right of way, yet in places this was imperfectly done, and in some places not at all. Near by, and at the point where the fire in this instance occurred, there were grass and weeds on the right of way, in which the fire caught, and communicated from thence to plaintiff’s land. “ It is held to be negligence in a railroad company to leave grass and other combustibles lying along the track where they are peculiarly liable to take fire by falling sparks or coals. The rules of contributory negligence apply here as in other cases, but the fact that the neighboring land-owner leaves grass and other combustibles on his premises near the road, does not render him chargeable with contributory negligence; the obligation of care to prevent fires resting, not upon him, but upon the company.” Cooley on Torts, 592yante, §§ 649-50.
+§ 683. Measure of damages for injury to personal property, where property is not a total loss. Another error assigned is, that “'the court erred in allowing plaintiff to prove and fix the amount of damages to the crippled animals upon the condition they appeared to be in, immediately after they were hurt.” And the proposition under this assignment is, that, “in actions for injuries to personal property, if the article is only partially destroyed, and the plaintiff retains it, the amount which he is entitled to recover is the difference between the value of the article and its value in the injured condition.” In his work on damages, the rule is thus stated by Mr. Field: “Where the property is not entirely lost to the plaintiff by destruction or otherwise, but is only partially so, the usual measure of damages is the difference between the value of the same before the injury and immediately after, and any reasonable expenses incurred, or value of time spent in preserving it, or restoring it. Thus, where the plaintiff’s horse was injured through the negligence of the defendant’s servant, the expenses of a veterinary surgeon’s treatment of the horse; the value of the services of the horse during’ his disability, and the difference between the value of the horse before the injury, and immediately after the treatment, were held to be proper elements of damage.” [Field on Dam. § 782.]
+May 9, 1885.
+Affirmed.
