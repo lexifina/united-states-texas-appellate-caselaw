@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-01-11"
+citations: ["37 Tex. Civ. App. 601"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. Pauls et al v. F. M. Mundine."]
+source_url: "https://static.case.law/tex-civ-app/37/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4379034
+cites_cases: ["39 S. W. Rep., 315", "44 S. W. Rep., 544", "70 S. W. Rep., 986", "8 How., 128"]
+---
+
+# Pauls v. Mundine
+
+## Majority (EIDSON, Associate Justice.)
+
+EIDSON, Associate Justice.
+On the 6th day of June, 1902, the appellant J. E. Pauls, in the County Court of Lee County, recovered judgment against appellee F. M. Mundine for the recovery of certain machinery, or the value thereof, in the event the same, or any part thereof, could not be found,- the machinery being described and valued in the judgment as follows: “One 70-saw gin-stand, feeder and condenser of the value of $50; one 50-saw gin-stand, feeder and condenser of the value of' $50; one grist mill of the value of $50; one 25-horse power Skinner & Wood center crank and plane engine of the value of $75, and one 50-horse power Atlas boiler, with attachments and piping, of the value of $150, the total value of which is $375.” Said judgment was also for damages in the sum of $100 for the unlawful detention of said machinery.
+Subsequently this judgment was affirmed on certificate by this court. On the 12th day of December, 1903, execution was issued on this judgment and placed in the hands of the sheriff of Lee County. On the 4th day of January, 1904, F. M. Mundine, the defendant in said writ, paid to the sheriff of Lee County $109.50, in satisfaction of the amount recovered by said judgment for the unlawful detention of said machinery, and interest thereon, and at the same time paid the costs of court, and also tendered to said sheriff the machinery described in said judgment except a steam gouge, a piece of piping and two brush belts. Said defendants at this time tendered to said sheriff the sum of $12.50, to cover what he claimed to be the value of said articles not tendered. The sheriff accepted said amount of- $109.50 and the court costs, but refused to accept any part of said machinery and the $12.50 in cash tendered as aforesaid.
+It appears from the record that this writ was not further executed. On the 2d day of March, A. D. 1904, an alias execution was issued out of the County Court of Lee County on said judgment, and placed in the hands of the sheriff of said county, which execution was by said sheriff levied upon the various lots or parcels of land described in appellee’s petition in this suit, and afterwards advertised said property for sale.
+On the 30th day of April, A. D. 1904, appellee filed his petition in the County Court of Lee County, alleging that said judgment had -been satisfied and that said alias execution issued thereon was void, and prayed for an injunction to restrain the sale of said property under said execution, and to perpetually enjoin the further issuance of execution on said judgment. On the same day the county judge of Lee County granted the temporary injunction prayed for.
+At the June term of the County Court of Lee County the appellant, J. B. Pauls, having filed answer to said petition, and the sheriff and deputy sheriff of Lee County also having filed answers to said petition, a trial was had before a jury which returned a verdict in answer to special issues submitted to them by the court, upon which the court rendered judgment in favor of the appellee, and perpetuated the temporary injunction theretofore issued.
+The only question presented for our determination on this appeal is whether, under the judgment in favor of appellant against appellee, above mentioned, the latter had the legal right to satisfy same by a delivery or tender of less than the whole of the property recovered by said judgment. We are of the opinion that the recital in the judgment, to the effect that the plaintiff recover the value of each article of said machinery, stating the separate value thereof, the total value of which being $375, in the event the said machinery or any part thereof could not be found, conclusively answers this question in the negative. Under the provisions of this judgment, the appellee could not satisfy same without a delivery or tender of the entire property recovered, or the payment of its value, as stated in the judgment. (Byrne v. Lynn, 18 Texas Civ. App., 252.) It follows, therefore, that the court below erred in overruling appellants’ special exception number 2, which assailed appellee’s petition upon the ground that it alleged that a part of the machinery was not rendered or returned; whereas, the judgment sought to be enjoined was for the value of the property, in the event same or any part thereof could not be found. And for the same reason, the court below erred in perpetuating the temporary injunction issued in this cause. The petition of appellee, showing upon its face that he was not entitled to the injunction, the court below should have sustained appellants’ said exception and dismissed the appellee’s action and dissolved said injunction.
+The judgment of the court below is, in all things, reversed, and judgment here now rendered in favor of the appellants dissolving and holding for-naught the injunction issued in this cause by the court below. "
+Reversed and rendered.
