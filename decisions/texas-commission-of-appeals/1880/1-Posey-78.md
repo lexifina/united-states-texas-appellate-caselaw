@@ -1,0 +1,51 @@
+---
+court: "Texas Commission of Appeals"
+docket: "Case No. 3050"
+decided: "1880-04-19"
+citations: ["1 Posey 78"]
+reporter: "posey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George White v. C. O. Affleck."]
+source_url: "https://static.case.law/posey/1/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1870755
+cites_cases: ["11 Tex., 281", "13 Tex., 626", "16 Tex,, 23", "16 Tex., 23", "26 Tex., 294", "37 Tex., 305", "4 Tex., 147", "4 Tex., 237", "47 Tex., 503", "6 Tex., 443", "9 Tex., 151"]
+---
+
+# White v. Affleck
+
+## Majority (A. S. Walker, J.)
+
+A. S. Walker, J.
+The appellee instituted this suit to recover from the appellant damages for the breach of a contract set out in the petition, by which appellant undertook and agreed that he would, with $1,000 furnished to him' by appellee, buy certificates on the best terms and locate lands in the state of Texas, and, after procuring patents, convey to appellee' two-thirds of the land so acquired. The contract was dated May 3, I860. Suit in the district court-was filed March 9, 1874, the petition charging that defendant had failed to acquire the lands and convey to appellee as he had contracted to 'do, alleging a total failure to perform his part of the contract by the defendant, and asking judgment for $2,000 and interest, being amount of the bond executed by defendant, conditioned for his performance of the contract. The petition also further alleged purchase of the certificates, and failure to locate, etc.; damage at $10,000.
+Defendant filed a special demurrer that the cause of action was barred by limitation, plea of ,general denial, and limitation of four years.
+By amended answer defendant pleaded that he had furnished to plaintiff a report, "showing that he had purchased under his contract certain certificates amounting to two thousand four hundred and thirty-six acres for $960, and expended $30 in buying them, leaving in his hands $10. He pleaded that the frontier of Texas had been subject to Indian raids, and it was unsafe to locate said lands. That he had entered the Confederate army in 1861, and could not make the locations, and since the war had closed, the Indians had made constant raids on the frontier, so that it was unsafe to make the locations. He also set up acts claimed as a substantial compliance. The greater part of the lands were located subsequent to the institution of suit.
+A jury gave a verdict for the plaintiff in the sum of $3,742, actual damages. The court rendered judgment, and defendant, upon the overruling of his motion for a new trial, appealed.
+The assignment of errors relates to the rulings of the court in admitting and excluding testimony on the trial; to the instructions given by the court and the refusal of charges asked by the defendant; and that the verdict is excessive, not supported by-law or the evidence.
+In noticing such of the assignments of error as are necessary to the disposition of the case a sufficient statement of the case will be given. The brief for appellant does not comply with the rules in indicating by statements the views urged in his brief as applied to the record.
+The conduct of the case by plaintiff was upon the theory of a total abandonment of the contract by him, on the ground of an utter and entire failure on the part of defendant to comply with his obligations. His testimony was directed to the alleged breach and the damages sought to be recovered.
+The defendant sought to excuse his delay, and, by a tardy or partial compliance with the substantial purpose of the contract, to reduce damages to a mere nominal or reduced amount.
+The charges given by the court, and which were by the district judge selected from instructions asked by the parties, having been principally taken from those asked by the plaintiff, were exclusively directed to the questions of breach and measure of damages.
+The charges refused related to the evidence and pleadings of the defendant, relied on to show a substantial compliance after a long delay, accounted for by the condition of the country during the period of the delay.
+1. The charge defining the duty of White under the contract; delay, and due diligence in complying with the contract sued on, are not injurious to the defendant.
+2. Considering the testimony sufficient to sustain the plaintiff on the issue as to breach of the contract, the instructions-asked by the defendant, being upon that branch of the case, become immaterial.
+3. There is no evidence in the statement of facts of fraud on the part of the defendant, although the delay may have been held by the jury evidence of gross negligence, unless in fact they should find that the condition of the country excused it.
+4. The court instructed the jury that “ The measure of. damages under the contract would be the reasonable and fair value of the land which defendant might have procured by the exercise of due diligence and sound judgment. If you believe that the defendant has broken his contract, under the rule laid down in the preceding charges, you will ascertain the whole number of acres of land that might have been acquired in the proper and faithful performance of the same, and ascertain the reasonable value of the land, if well selected, and find for the plaintiff two-thirds of the amount so found.”
+In direct response to this charge the jury seem to have based their verdict for the value of two thousand four hundred and thirty-six acres, amount of certificates reported by White January 1,1861, to have been bought and valued at $2.25 per acre, two-thirds of which sum they found for plaintiff.
+In support of this charge we are referred to several authorities.
+McMullen v. Kelso, 4 Tex., 237. This was a suit for an attorney’s fee, which was by contract to be a certain league of land. The court apportioned the contract, and the value of one-fourth the league was found; that having been taken as a measure of the value of the services performed under the contract for the league.
+Taylor v. Rowland, 26 Tex., 294. This opinion relates to the right to sue for, but gives no expression to the measure of damages in the case.
+The other cases and authorities cited relate to cases of violation by agents of trusts, and duties affecting personal property.
+The contract being for the conveyance of a quantity of acres measured by two-thirds of the acreage, in certificates which $1,000 would buy, was not probably <>ne which could have been enforced by suit for specific performance, unless aided by part performance on part of defendant, to the extent of identifying the lands to which the contract should apply. The purchase money advanced in such case, in the absence of an express stipulation, would be the measure of damages. Durst v. Swift, 11 Tex., 281, 283. This was a suit for damages for failure to comply with an obligation to convey five and' a half leagues of land in certain named counties at a stipulated price paid, but agreeing upon such sum as the measure of damages on breach of the contract. Held, that suit for specific performance could not be maintained, and that in the absence of an agreement as to the purchase money being the rule, such “ was the measure of damages which would have governed the jury.” It was not shown that the obligation named the penalty as liquidated damages.
+If the case of Durst v. Swift, just cited, while indicating the rule, be not direct authority for the application to this case of the rule adopted in this state as the measure of damages for the breach of warranty of lands sold, and a failure to convey under contract for sale of lands specifically described, still the analogy is so clear that, in the absence of express authority, we would adopt the rule; the measure being the purchase money, or contract price, with eight per cent, as damages. Sutton v. Page, 4 Tex., 147; Garrett v. Gaines, 6 Tex., 443; Hall v. York, 16 Tex., 23.
+The uncertainty or difficulty in applying the rule given by the court below is evident from the testimony from which the jury was expected to ascertain a value. Competent and intelligent witnesses estimated lands located within the territory in which the parties may naturally have anticipated that the lands would be selected at from fifty cents to $5 per acre.
+The rule we have adopted seems to have been recognized in several cases akin to this. Mitchell v. McLemore, 9 Tex., 151; Murchison v. Payne, 37 Tex., 305; Eborn v. Zimpelman, 47 Tex., 503. In this last case the report does not show, as the pleadings and testimony did, that the money was placed in the hands of the intestate for the purchase of land.
+5. Taking this rule the damages were excessive. On the total repudiation by plaintiff of the acts of defendant under the contract as an execution, the limit would be the money advanced and damages at statutory interest. Close v. Fields, 13 Tex., 626.
+6. The testimony of the witnesses to the relative values of old and new locations, and as to reasonable time for defendant to have performed his work, were competent to show the effect of the delay as a circumstance from which the want of proper diligence could be inferred, on the’ issue as to whether defendant had broken the contract or could claim his recent acts as a substantial compliance with the contract.
+[Opinion delivered April 19, 1880.]
+7. The conversations detailed by plaintiff in his testimony as to the counties where the lands were to be located were not admissible to add such terms to the written contract executed at the time.
+8. On a question of fraud, should plaintiff seek to adopt the acts of defendant and pursue the lands obtained, the testimony of the defendant explaining apparent conflicts of dates in transfers, in exchanging certificates, would be admissible; but not in the suit, as by plaintiff repudiating the acts in toto of the defendant.
+9. There is no limitation in the case. Defendant at no time ever repudiated his obligation; at all times did he recognize his obligation to plaintiff under the contract.
+For the error in the court in charging upon the measure of damages, and because the verdict is excessive, the judgment below should be reversed.
+Reversed and remanded.
