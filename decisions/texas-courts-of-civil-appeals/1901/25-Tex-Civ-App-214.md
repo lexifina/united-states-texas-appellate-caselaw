@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-01-30"
+citations: ["25 Tex. Civ. App. 214"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. & C. A. Mattison v. Sovereign Camp Woodmen of the World et al."]
+source_url: "https://static.case.law/tex-civ-app/25/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2870322
+cites_cases: ["1 Pa. St., 506", "101 Mass., 36", "108 Mass., 582", "22 Atl. Rep., 1055", "51 N. W. Rep. 8"]
+---
+
+# Mattison v. Sovereign Camp Woodmen of the World
+
+## Majority (FLY, Associate Justice.)
+
+FLY, Associate Justice.
+Mrs. Mary C. Mattison instituted this suit against Sovereign Camp Woodmen of the World, a mutual benefit society, to recover the sum of $1000 alleged to be due by reason of the death of her husband, James P. Mattison, who held a certificate for that amount in the society. The organization or society admitted its liability for the payment of the thousand dollars, but alleged that there was a contest, as to who should receive the money, between Mrs. Mattison and appellants, the brothers of deceased, and it asked leave to pay the money into court and that the court determine to whom it belonged. The appellants intervened in the suit, claiming to be the beneficiaries in the certificate. The cause was tried by the court and judgment rendered in favor of Mrs. Mattison.
+James P. Mattison had a benefit certificate in the society for the sum of $1000, of date August 4, 1896, Annie Mattison, a widow, the mother of said James P. Mattison, being named as the beneficiary in the certificate. On June 15, 1898, J. P. Mattison was married to Mary C. King. Mrs. Annie Mattison, the beneficiary named in the certificate, died on March 17, 1899. On April 24, 1899, James P. Mattison died without designating another beneficiary, and left surviving him his. wife, Mary 0. Mattison, and his brothers, the appellants herein.
+Section 3 of the constitution of the society, which was in force at the time the certificate was issued and at the time of the death of J. P. Mattison, provides that at the death of a beneficiary member the sum specified in the certificate shall be paid to the person or persons named therein as beneficiary or beneficiaries, which shall be “his wife, children, adopted children, parents, brothers, sisters, or other relatives.” It is further provided in the same section: “In case said benefits are payable to one of the relatives named herein, who shall, at the time of the death of the member, be also deceased, and no designation or change has been made' by the member in writing upon his certificate during life, the benefitsishali be due and payable to the next living relative in the order named in this section. If there be no relative surviving, the said benefits shall be forfeited to and remain in the beneficiary fund of the jurisdiction.”
+It has been held in some States, as well as in England, that the word “relative” in its legal and technical sense includes neither husband on wife. Esty, Admr., v. Clark, 101 Mass., 36; Storer v. Wheatley, 1 Pa. St., 506; Kimball v. Story, 108 Mass., 582; Bacon, Ben. Soc., sec. 260a. There are authorities, on the other hand, in which it is held that in construing statutes as to benefit societies the term “relative” should include those popularly known as such, as the wife or the wife’s nephew, ■or a stepson. Bennett v. Van Riper (N. J.), 22 Atl. Rep., 1055; Simcoke v. Grand Lodge A. O. U. W. (Iowa), 51 N. W. Rep. 8.
+Some difficulty might occur in choosing from the conflict of authority the proper signification of the term “relative” as used in the certificate, had not all difficulty been removed by the wife being designated as one of the relatives, in the certificate, and by the further provision that the nearness of the relationship to the deceased shall be determined by the order in which the relatives are named in the ertificate. In the order named the wife takes the first place as the next living relative. Giving a proper construction to the words “next living relative in the order named,” we do not think it can with any degree of reason be contended that it was intended that the relative named after the dead beneficiary should be the one to whom the money should be paid. On the other hand it seems clear that the relative referred to is the one next to the deceased in relationship as named in the certificate, and not the one next to the dead beneficiary. If the theory contended for by appellants were the correct one, and the last relative indicated, that is, a sister, were named in a certificate, the money would pass to a relative in a distant degree, rather than to the wife, children, parents, or brothers and sisters of the deceased. Or in case there were no other relativss in the order named next to the dead sister, the certificate would fail altogether. The admission of testimony as to report of the committee of the society deciding that the money belonged to Mrs. Mattison, and the letter to her from the chairman of the finance, committee, was doubtless erroneous, but it was harmless, as under the terms of the certificate no one except Mrs. Mattison was entitled to the money.
+The judgment is affirmed.
+Affirmed.
