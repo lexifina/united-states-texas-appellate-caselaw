@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2954"
+decided: "1891-01-17"
+citations: ["4 Willson 304"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. D. Rand v. C. R. Johns & Sons."]
+source_url: "https://static.case.law/willson/4/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368698
+---
+
+# Rand v. C. R. Johns & Sons
+
+## Majority (Hurt, J,)
+
+Opinion by
+Hurt, J,
+§ 203. Evidence; negligence of agent in loaning money of principal; case stated. Appellee, a corporation doing business in the city of Austin, negotiated a loan of money for Rand, taking therefor a note purporting to have been made by one Clark, which note was accompanied by two other notes as collateral, which purported to be vendor’s lien notes. These three notes were presented to appellee by one Muir, and the money was delivered by appellee to Muir, or, to be more particular, appellee gave a check on a city bank in favor of Clark, the purported maker of the note first mentioned, and with that check Muir secured the money. Afterwards it was discovered that Clark was a myth, and that the three notes were forgeries. Appellant lost the entire amount of the loan, and brought this suit against appellee to recover the amount of his loss. Verdict and judgment for defendant. The question in the case is, did C. R. Johns & Sons, acting as .agents of plaintiff in the transaction, use that degree of care and diligence in making the loan that a prudent or careful man would have exercised in relation to his own business? The plaintiff in his petition alleged that on September 1, 1887, and long before, Muir was a person of notorious bad character in the city of Austin, and that his want of character for honesty and integrity was well known to the business men of Austin, where Muir resided, and was well known to defendant, or should have been known by use of ordinary care, prudence and diligence. The plaintiff was permitted to prove that Muir’s reputation for honesty and integrity was very bad in the city on and before September 1, 1887, but the court refused to allow the witnesses Folts; Fulmore and others to testify in answer to the following question: Was said Muir’s general reputation for honesty and integrity on and before September 1, 1887, so bad as that prudent business men in Austin, at and before that date, would not have been justified in having any financial dealings with him, or in trusting or acting upon any representations made by him? The witnesses would have answered affirmatively. The objection to this testimony was that the jury were to draw their own conclusions, and it was not competent testimony. This objection, we think, was well taken, and there was no error in excluding the testimony.
+It is also assigned as error that the court excluded the evidence of Folts to the effect that in fact Muir was a forger prior to September 1, 1887, and the appellant contends that he was entitled to prove this fact, whether the defendant had heard it or not. The bill of exception shows that the witness was asked if Muir had not forged his name to a guardian’s bond in July, 1887. Being interrogated by counsel for defendant, the witness stated that he did not find out anything about said forgery until December, 1887, and, so far as he knew, it was not known. The defendant then objected because it was not shown that the defendant had notice of the forgery, and the court sustained the objection. There was no error in rejecting this evidence. The defendant proved by Lewis Hancock that, as Muir’s character “was not such as would warrant us in charging him with forgery, we (the bank) would have paid a check indorsed by him.” The plaintiff objected to this evidence because (1) Hancock was not sufficiently acquainted with Muir’s character to speak to the same; (2) what witness would or would not do was not the standard of diligence and prudence inquired by law. Hancock was cashier and vice-president of the State National Bank of Austin, Walter Bremond being the paying teller. At the date of the negotiation of the loan involved in this suit, the bank paid Muir a check upon which Muir had forged an indorsement of the pretended W. J. Clark. This being the case, the error in admitting the evidence of Hancock was rendered harmless; because Hancock and Bremond, having been shown to have been men of skill and prudence in this line of business, in fact trusted Muir in the same character of transaction. But it is contended that proof that other business men, under the same circumstances, acted as did the defendant, is not competent. To this proposition we do not assent. [Ewell, Evans’ Ag., pp, 294, 295; Chapman v. Walton, 10 Bing. 57.]
+January 17, 1891.
+§ 204. Charge of the court; clerical error in. A clerical error in a charge does not constitute reversible error, when it is apparent from the whole charge that the error could not have misled the jury.
+Affirmed.
