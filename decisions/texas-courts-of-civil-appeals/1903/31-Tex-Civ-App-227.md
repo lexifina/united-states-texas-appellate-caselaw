@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-01-15"
+citations: ["31 Tex. Civ. App. 227"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. A. Thweatt v. Houston East & West Texas Railway Company."]
+source_url: "https://static.case.law/tex-civ-app/31/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4370031
+cites_cases: ["24 S. E. Rep., 468", "36 S. W. Rep., 485", "55 N. Y., 108", "67 Miss., 376", "69 Iowa, 577", "77 Ala., 591"]
+---
+
+# Thweatt v. Houston East & West Texas Railway Co.
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+The appellant brought this action against the appellee in the District Court of Nacogdoches County to recover damages for negligently permitting the appellant to be assaulted while he .was a passenger on one of the company’s trains. Appellant purchased a ticket at Garrison for Nacogdoches and boarded the train upon its arrival. Garrison was a regular meal station and a stop of twenty minutes was made there for dinner. After the conductor and other members of the crew had seen the passengers off and on the train and had gone to dinner, one Jopling entered the car where the appellant was sitting and demanded of him money alleged to be due for buggy hire. They got into a dispute over the matter, and Jopling struck and assaulted the appellant. One Sapp, a deputy sheriff, who was a passenger on the train, interfered and put Jopling off the train. After Jopling had been put off the appellant continued to use boisterous and violent language, when Sapp took him into custody and ejected him from the train and turned him over to a local officer. The train crew had no reason to expect the assault, and were at dinner and not within hearing, and knew nothing of the assault and ejection until after it was all over. Upon this state of facts the trial judge instructed a judgment for the defendant.
+It is a well established doctrine that a passenger is entitled to protection by a carrier from injury by a fellow passenger or a third person, and it is the duty of the carrier to use a high degree of care to prevent it. Whenever a carrier through its agents or servants knows, or has opportunity to know, of a threatened injury, or might have reasonably anticipated the happening of an injury, and fails or neglects to take the proper precautions or use proper means to prevent or mitigate such injury, the carrier is liable. 5 Am. and Eng. Enc. of Law, 2 ed., p. 553. The carrier is liable for an assault upon a passenger by an intruder or a fellow passenger, when such assault could have been prevented by the carrier or its servants by the exercise of proper care. Id., p. 555. But the carrier should not be held responsible for acts of violence by one passenger to another or by an intruder, if its servants were not present and could not have reasonably anticipated the violence ’to the passenger. Galveston, H. & S. A. Railway Co. v. Long, 13 Texas Civ. App., 664, 36 S. W. Rep., 485; Batton v. Railway Co., 77 Ala., 591 ; Putnam v. Railway Co., 55 N. Y., 108 ; Connell’s Executors v. Railway, 24 S. E. Rep., 468 ; Royston v. Railway Co., 67 Miss., 376 ; Felton v. Railway Co., 69 Iowa, 577.
+■The crew were at dinner after having attended to their duties in connection with the stopping of the train at the station. Garrison was a regular meal station, and the leaving of the train without any one in charge while the crew were taking their meals was a reasonable regulation. The servants and agents of the appellee could not reasonably have anticipated the assault upon the appellant. It appeared from the uncontradicted evidence that the appellee was not liable, and there was no error in directing a verdict in its favor. The judgment of the court below will be affirmed.
+Affirmed.
+ON MOTION FOR REHEARING.
+■ In his motion for a rehearing the appellant challenges the correctness of the conclusions of the court in which it was stated that Sapp was a deputy sheriff, and that after Jopling had been put off the train the appellant continued to use boisterous and violent, language, when Sapp took him into custody and ejected him and turned him over to a local officer, the objection being that Sapp was not a deputy sheriff of Nacogdoches County and authorized to make arrests in that county: that Garrison, in whose custody the appellant was placed, was not an officer; and that the preponderance of the evidence did not show that 'appellant was using violent and boisterous language. While the conclusions were inaccurate in the respect complained of, still we do not deem them material to the disposition of the case, since we are of the opinion that the assault upon the appellant by Jopling as well as by Sapp was' not reasonably within the contemplation of the appellant or its servants in charge of the train, and not being present, and being ignorant of it, they were not negligent in failing to protect him therefrom; but we make the following correction: Sapp was a deputy sheriff of Angelina County. There was evidence that the appellant used violent and boisterous language before Sapp ejected him. Sapp turned the appellant over to one Garrison to hold until the constable could come, and he was arrested by the constable that afternoon. The motion for a rehearing will be overruled.
+Overruled.
+Writ of error refused.
