@@ -1,0 +1,22 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-03-15"
+citations: ["35 Tex. Civ. App. 212"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. M. Beauchamp v. H. N. Runnels."]
+source_url: "https://static.case.law/tex-civ-app/35/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1977561
+cites_cases: ["121 Mass., 494", "14 S. W. Rep., 627", "50 Barb., 245"]
+---
+
+# Beauchamp v. Runnels
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+Appellant’s wife while a feme sole leased to W. P. Wilson and H. N. Runnels, a mercantile firm doing business in the town of Center under the firm name of Wilson & Runnels, 60x170 feet of ground adjoining the brick storehouse in which the said Wilson & Runnels were then doing business. The lease was in writing dated November 4, 1901, and expressed a consideration of one dollar paid "and also many other considerations passing from said Wilson & Runnels in many ways by their assistance in the management of my business and home affairs.” It recited the presence on said lot of a wooden house built by said Wilson & Runnels and granted them permission to place upon said grounds "such improvements as they may deem proper for their own use and benefit, and at any time they, may deem proper they may remove such improvements that they may hereafter make or have heretofore made off of the same.” The following is the provision as to term: ."This lease is to continue for such time as the said Wilson & Runnels or either of them may desire to use the same, and are not to be interfered with by me, my heirs or assigns without their consent; and they shall have full power to .place upon said grounds any and all fences, houses, gates or other improvements, or other property, and to use the same as they so desire.” No improvements were put upon the property after the execution of the lease. The firm of Wilson & Runnels was dissolved and Wilson assigned his interest in the lease to Runnels. The lessor was afterwards married to the plaintiff and the lot is her séparate property. In her behalf the plaintiff demanded possession in writing on- March 26, 1903, and the next day brought this suit of forcible entry and detainer. There was judgment in favor of the plaintiff in the justice court and on appeal by the defendant to the district court judgment was rendered in favor of the defendant.' The rental value of the property pending appeal was $10 a month and the reasonable expenses in prosecuting the case an attorney fee of $30.
+In action of forcible entry and detainer the -right of possession is the only issue to be tried. Land Co. v. Turman, 53 Texas, 622; Hoffman v. Blume, 64 Texas, 336. But it is the duty of the court to determine in case of holding over under a lease whether the lease has terminated, and for that purpose it will be necessary to hear evidence thereof and to construe the lease in order to determine the right of possession. The lease in this case recites the nominal consideration of one dollar and past services voluntarily rendered in neighborly offices to the lessor for which she leased the lot to the firm of Wilson & Runnels as long as they or either of them should desire to occupy it, with privilege of moving off the warehouse already built thereon by them and any improvements thereafter made. Gathering the meaning of the writing from the entire instrument in the light, of the circumstances it can be construed as creating only a tenancy at the will of the lessees (Amick v. Bribaker, 14 S. W. Rep., 627; Lee v. Hernandez, 10 Texas, 137; Sarsfield v. Healy, 50 Barb., 245; Gardner v. Hazleton, 121 Mass., 494); and being at the will of the lessees it was also at the will of the lessor. Guffey Pet. Co. v. Oliver, 3 Texas Law Journal, 18, 9 Texas Ct. Rep., 426. The statute does not prescribe any length of time for the demand in writing for the possession before the lessor shall be entitled to possession, and demand made on the day before the complaint was filed was sufficient. The judgment of the court below will be reversed and judgment will be here rendered in favor of the plaintiff for the possession of the premises and damages. This judgment will be without prejudice to the right of the defendant to remove his improvements as stipulated in the lease.
+Reversed and rendered.
