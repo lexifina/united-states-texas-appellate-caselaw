@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1900-06-06"
+citations: ["24 Tex. Civ. App. 122"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["International & Great Northern Railroad Company v. Mrs. C. W. Barton."]
+source_url: "https://static.case.law/tex-civ-app/24/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286660
+cites_cases: ["101 N. Y., 173", "12 Fed. Rep., 10", "12 La., 159", "13 Iowa, 518", "13 Wis., 84", "16 Fed. Rep., 22", "173 U. S., 555", "21 Fed. Rep., 218", "34 N. Y. Supp., 1090", "35 Fed. Rep., 3", "39 Fed. Rep., 587", "50 Fed. Rep., 640", "58 Fed. Rep., 720", "60 Fed. Rep., 786", "7 Fed. Rep., 520", "75 Fed. Rep., 113", "77 U. S., 204", "79 Fed. Rep., 228", "80 Fed. Rep., 419", "84 Fed. Rep., 833", "93 U. S., 548", "97 U. S., 331", "99 U. S., 169"]
+---
+
+# International & Great Northern Railroad v. Barton
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+Appellee brought this suit against appellant to recover damages for personal injuries alleged to have resulted from appellant’s negligence in moving a car upon which she was a passenger while she was in the act of alighting therefrom at a depot.
+Appellant pleaded, in abatement of the suit, the pendency of a former action instituted by appellee. It also interposed a general denial and a plea of contributory negligence. After hearing evidence submitted in reference thereto the trial court overruled the plea in abatement; thereupon appellant presented an application for a continuance, which was overruled. A jury trial followed, resulting in a verdict and judgment for the appellee for $5000.
+The verdict involves these propositions of fact, which are supported by testimony and therefore found by this court as conclusions of fact: (1) Appellant was guilty of negligence, as alleged; (2) appellee was not guilty of contributory negligence; and (3) she sustained injuries as the result of appellant’s negligence to the extent of $5000.
+The principal question presented for decision is the ruling of the court on the plea in abatement. This question has been elaborately and skillfully presented in the briefs submitted by the respective parties, and after due consideration, we have reached the conclusion that the plea was properly overruled. It presented in substance the following facts: Appellee had instituted a former suit in the District Court of Travis County, upon the same cause of action presented in this suit, against appellant and the Pullman Palace Car Company, which suit had been removed to the Circuit Court of the United States, But in response to the plea it was shown by proof that appellee had paid all the costs in the State court and in the Federal court in the case described in the plea of abatement, and had filed in each of said courts a motion to dismiss the former cause, and elected to abandon the former and prosecute this suit. This right of election seems to have been recognized and approved by our Supreme Court. Payne v. Benham, 16 Texas, 364. Trawick v. Martin, Brown Co., 74 Texas, 522. See also Willson v. Milliken, 42 Law. Rep. Ann., 449. Furthermore, we concur with counsel for appellee that as the Federal courts derive their power and jurisdiction from a different sovereignty from that of the State courts, in that sense they are foreign jurisdictions, in like manner as the courts of different States are foreign to each other; and therefore the pendency of a prior suit in a Federal court will not abate a suit subsequently brought in a State court between the same parties and for the same cause of action, although the two courts may sit in the same State and have the same territorial jurisdiction. On this subject there is conflict in the decisions, but we think the weight of authority supports appellee’s contention. Cooper v. Newell, 173 U. S., 555; Gordon v. Gilfoil, 99 U. S., 169; Hyde v. Stone, 61 U. S. (20 How.), 170; Prendergast v. Custer, 77 U. S., 204; Stanton v. Embrey, 93 U. S., 548; Insurance Co. v. Harris, 97 U. S., 331; Short v. Hepburn, 75 Fed. Rep., 113; Latham v. Chafee, 7 Fed. Rep., 520; Logan v. Greenlaw, 12 Fed. Rep., 10; Crescent, etc., Co. v. Butchers, etc., Co., Id., 225; Weaver v. Field, 16 Fed. Rep., 22; Hurst v. Everett, 21 Fed. Rep., 218; Briggs v. Stroud, 58 Fed. Rep., 720; Coe v. Aiken, 50 Fed. Rep., 640; Pierce v. Feagans, 39 Fed. Rep., 587; Beekman v. Railway, 35 Fed. Rep., 3; Rejall v. Greenhood, 60 Fed. Rep., 786; Merritt v. Barge Co., 79 Fed. Rep., 228; Zimmerman v. SoRelle, 80 Fed. Rep., 419; Hughes v. Green, 84 Fed. Rep., 833; Bank v. Bonney, 101 N. Y., 173; Litchfield v. City of Brooklyn, 34 N. Y. Supp., 1090; Checkley v. Providence, etc., Co., 60 How. Prac., 511; Wood v. Lake, 13 Wis., 84; Wurtz v. Hart, 13 Iowa, 518; Hampton v. Barrett, 12 La., 159; Caine v. Railway, 41 Pac. Rep. (Wash.), 904.
+There are other questions presented in appellant’s brief which we deem it unnecessary to discuss in this opinion. .We have given them due consideration and have reached the conclusion that they point out no ground for reversal. This 'opinion embodies our conclusions both of law and fact, and finding no reversible error, the judgment will be affirmed.
+Affirmed.
+Writ of error refused.
