@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1898-03-16"
+citations: ["19 Tex. Civ. App. 292"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. C. Lee et al. v. N. McFarland et al."]
+source_url: "https://static.case.law/tex-civ-app/19/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 251655
+cites_cases: ["33 S. W. Rep., 1038", "42 S. W. Rep., 401"]
+---
+
+# Lee v. McFarland
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+Action by appellants in trespass to try title, they claiming an undivided half of seven tracts of land, and certain rent. The court rendered judgment for defendants.
+The material facts are substantially stated as follows: The lands were originally the community property of Jasper and Clarissa McFarland. Jasper McFarland died in February, 1888, and Clarissa in January, 1897. The latter did not marry again. On April 4, 1887, each executed a separate will. That of the husband gave to his wife, the said Clarissa, all his estate (with the exception hereafter noted) of every kind to have and to hold the same for and during her natural life or until she may marry, and upon the happening of either of such events, then all of his property was to be equally divided between their two sons, Jasper T. and Newton McFarland, share and share alike, or their descendants. The will provided that at any time after his death his said wife and devisee might sell or dispose of any of the personal property. The exception above alluded to is this provision: “I give and bequeath to my beloved granddaughter, Gertrude Jane Murphy, seventy-five acres of land to be taken out of the southeast corner of my present homestead tract, the same being a part of the Mary Morris survey (one of the tracts involved and community property), and in the event that my said granddaughter shall die before she shall marry, or in the event she shall die without heirs of her body, it is my will and wish that said land shall be divided equally between my said two sons, Jasper T. and Newton McFarland, or their descendants, share and share alike in fee simple.” The said Gertrude Jane Murphy died in infancy before the death of her grandfather, the said Jasper McFarland.
+The will of said Clarissa McFarland (made at the same time as that of her husband) left all of her estate of every kind to her husband, Jasper McFarland, to have and to hold the same for and during his natural life and until he may marry again, and after the happening of either of such events, then all of her property should be divided equally between her two sons, Jasper T. and Newton McFarland, share and share alike, or their descendants. The wills were substantially identical, with the exception of the devise to the infant granddaughter by the will of Jasper McFarland.
+The son, Jasper T. McFarland, died in November, 1888, leaving a surviving wife (the plaintiff in this action, Mrs. Lee) to whom he willed his property, but no children were ever born to him, and therefore he had no descendants.
+The wills of Jasper and Clarissa and Jasper T. were each probated.
+The will of Jasper McFarland made his son, Jasper T., independent executor, and upon the inventory filed in his estate appear all the tracts described in the petition and the personal property. It appears, however, that Clarissa McFarland took and possessed all the property, real and personal, and kept the same until her death, except the personalty, which she disposed of.
+Conclusions of Law.—1. The will of Jasper McFarland, whereby he undertook to dispose of a seventy-five acres tract (a part of the community property) and giving his wife benefits in respect to the remainder of his property, which but for the will she would not have received, placed her upon election as to whether she would affirm the will or insist on her community rights. Smith v. Butler, 85 Texas, 130; Chase v. Gregg, 88 Texas, 552. From the manner in which she dealt with her husband’s share of the community after his death, she must be held to have taken thereunder what benefits it conferred upon her, and therefore she should be bound by the disposition the will made of the seventy-five acres.
+2. ' The infant devisee of this seventy-five acres, Gertrude Jane Murphy, having died before the testator, the will by its terms vested title thereto in his two sons, Jasper T. McFarland (then living) and Newton McFarland, in equal shares, subject to the right of the widow to use it during her life, it being a part of the homestead. In other words, Jasper T. McFarland by the will took a vested estate in an undivided half thereof, subject to the right of the widow to use the same during her life, which he disposed of by his will to his wife, the plaintiff in this case. The right of the widow to use the homestead was not an estate. Foster v. Johnson, 89 Texas, 645. We conclude plaintiff should have been allowed to recover an undivided half interest in said tract of seventy-five acres. Foster v. Johnson, 89 Texas, 640; Stallings v. Hullum, 33 S. W. Rep., 1038.
+3. As to the balance of the property sued for, we conclude as follows: The plaintiff’s claim of title must come through the said will of Jasper McFarland, which left it to the wife until she married again or died, and upon the happening of either of these events, his estate therein was to go to the two sons in equal shares or to their descendants. Before her death, and before the vesting of the estate in remainder according to the will, Jasper T. had died without leaving, or having had, any descendants, the class of persons that were to take under his will upon the death of the wife, if he, the said Jasper T., was then dead. Loeb v. Struck, 42 S. W. Rep., 401. There being none of the designated persons to take upon the death of the wife, the devise lapsed and there is no basis for any claim to said property in favor of the wife of Jasper T. McFarland.
+4. The judgment of the District Court is affirmed in all things except as to the seventy-five acres aforesaid, and as there is no description thereof in the record identifying the same, the judgment will be reversed for the purpose of ascertaining said tract if it can be done, and of adjudicating the title thereto, and the question of rents in respect thereto, in accordance with this opinion.
+Affirmed in part.
+Reversed and remanded in parti
+Writ of errror refused.
