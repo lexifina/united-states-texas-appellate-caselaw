@@ -1,0 +1,43 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "67"
+decided: "1893-01-10"
+citations: ["2 Tex. Civ. App. 118"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. A. Black v. E. G. Caviness and E. E. Patterson."]
+source_url: "https://static.case.law/tex-civ-app/2/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 219133
+cites_cases: ["10 Paige Ch., 179", "12 How., 139", "2 Johns. Ch., 30", "26 Ala., 312", "26 Miss., 574"]
+---
+
+# Black v. Caviness
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+In the summer of 1886, plaintiff in error, R. A. Black, and one J. D. Cock, entered into a verbal agreement to purchase together a certain tract of land situated in Lamar County. In pursuance of this agreement the deed was taken in the name of Cock, but the purchase was understood to be for their mutual benefit. The purchase price of the land was $300, of which $50 was borrowed on their joint note, and paid as the money of Black. After the execution of the deed to Cock, he borrowed, with the consent of Black, from E. G. Caviness, in the month of September, 1886, $300, secured by a deed of trust on the land, out of which money so borrowed the $50 note was paid off, together with the rest of the purchase money.
+In December following, the land was conveyed by Cock, without the knowledge or consent of Black, to Caviness, in satisfaction of this $300 loan, then not due.
+Prior to this, said Cock and Black agreed to sell to E. E. Patterson the tract of land in consideration of his paying the $300 note on the 1st day of January, 1887 (the date of its maturity), and executing his own note for $300 additional, payable one year from that date; out of which transactions Cock seems to have made a profit to the amount of 37-¡- bushels of corn, exacted by him of Patterson as an additional consideration for the sale. Patterson failed to raise the money prior to the conveyance of the land to Caviness, and the latter afterward sold and conveyed the same to the former for the same price and on the same terms as he agreed to do when Cock conveyed to him.
+The evidence is conflicting as to whether at the date of the conveyanceirom Cock to Caviness the latter had notice of the interest or claim of Black. The court, in the third finding of fact, found that Caviness had no such notice of any interest or claim of Black, and there is evidence to sustain this conclusion.
+After the $300 note executed by Patterson matured, suit was brought thereon by Caviness to foreclose the vendor’s lien on the land. R. A. Black intervened in this suit, claiming that he had been defrauded, and that he was entitled to half the amount to be collected on said note as against' Caviness, the plainiiff in said suit, and that the same should be paid him on foreclosure of the vendor’s lien, praying in addition for general relief; and failing to recover, he prosecutes this writ of error. The court’s conclusions of fact are all sustained by the statement of facts.
+Between plaintiff and defendant an agreed judgment was entered, by which plaintiff’s suit was dismissed.
+Our construction of the transactions disclosed in the foregoing conclusions of fact leads to the following conclusions of law:
+1. The conveyance to J. D. Cock made him a trustee for R. A. Black, to the extent of a half-interest in the land in controversy, subject to the encumbrance created by the deed of trust.
+2. Inasmuch as Caviness paid no new consideration, but accepted am absolute conveyance from Cock in satisfaction of his pre-existing debt, he was substituted to Cock’s position as trustee for Black, though he accepted said deed without notice of the interest of Black.
+3. By the sale and conveyance to Patterson by Caviness, the former succeeded to the position of trustee to the extent of a half-interest in the-land for the benefit of Black, subject to the satisfaction by the latter of his proportionate part of the encumbrance removed from the title by the-payment of the amount originally secured by the deed of trust.
+These conclusions are supported by the following propositions and authorities:
+1. Under the facts found, Cock and his assigns became trustees by construction of law to the extent of Black’s interest in the land; or at least between Cock and Black an express trust was created (which may be shown by paroi in this State). Clark v. Haney, 62 Texas, 511; Hudson v. Wilkinson, 45 Texas, 444; Bailey v. Harris, 19 Texas, 109.
+•2. A purchaser from a trustee without notice of the trust, where the sole consideration is the payment of a pre-existing debt, takes the property subject to the trust. Everett v. Railway, 67 Texas, 430; 1 Perry on Trusts, secs. 217, 241; McKamey v. Thorp, 61 Texas, 652; Overstreet v. Manning, 67 Texas, 660.
+In McKamey v. Thorp, above cited, it was decided, in accordance with the great weight of American authority, that a creditor who buys from his debtor, and pays the consideration money by merely crediting the amount upon a pre-existing debt, is not a bona fide purchaser for value. Chief Justice Willie, however, in commenting on the statement in Wallace v. Campbell 54 Texas, 90, that such a purchase might be bona fide when a previous judgment or execution lien had been secured upon the property sold, uses this language: “It may also be remarked, that in such case a purchaser surrenders an existing security, viz., the previous lien of his judgment or execution, and this is held equivalent to the payment of a valuable consideration,” Citing Love v. Taylor, 26 Miss., 574, and Padgett v. Lawrence, 10 Paige Ch., 179.
+As this remark of the learned chief justice, though in substance repeated in a subsequent part of the opinion, was merely by way of illustration or comment, and not essential to the determination of the question involved in that case, it is not believed to be binding on us as authority, especially after examining the cases cited in its support. The first case cited is from Mississippi, where the general American rule followed in this State, as decided in McKamey v. Thorp, and reaffirmed in Overstreet v. Manning, does not prevail, it having been expressly decided by the Supreme Court of that State, in the subsequent case of Soule v. Shotwell, 52 Mississippi, 236, that the payment and extinguishment of an antecedent debt, in consideration of a simultaneous transfer of property, constituted the vendee a purchaser for value to the same extent as-if he had paid the money; citing the above case of Love v. Taylor, 26 Mississippi, 574.
+In McKamey v. Thorp, commercial paper taken in due course of trade is recognized as an exception to the general American rule, as is well settled by a long line of decisions in and out of this State, following Swift v. Tyson, 16 Peters, 1-24; and yet the decision in Love v. Taylor was rested upon the ground that no reason was perceived why the rule in regard to negotiable securities was not applicable to the purchase of lands.
+In the other case cited, the property purchased seems to have been taken in payment and satisfaction of a debt secured by a judgment lien on other property. If the satisfaction of a mortgage on the identical property conveyed to the purchaser, as in this case, should be deemed a new consideration, it would seem that for the same reason the satisfaction of an unsecured debt should have like effect. On this point see West v. Naylor, 93 Indiana, 431, though on the main question the courts of Indiana seem to follow the rule adopted in Mississippi.
+We can not perceive how an absolute deed to Caviness could place him in a worse position than when he held only a mortgage on the property. If the transaction was not to his disadvantage in its results, we think he should not be permitted to avail himself of the equity of an innocent purchaser to deprive Black of a profit which he otherwise might have made.
+We are therefore of opinion that if plaintiff in error was willing to accept in satisfaction of his interest in the land one-half the amount of the profit derived by Caviness from the sale to Patterson, as represented in the $300 note of the latter, that defendant in error should not be heard to deny him that relief. Wiseman v. Baylor, 69 Texas, 63.
+We think plaintiff in error should be permitted to choose between this relief and the assertion of his interest in the land.
+It follows that the judgment must be reversed, and we think the cause' should be remanded for a new trial, and it is so ordered.
+Reversed and remanded.
+Delivered January 10, 1893.
