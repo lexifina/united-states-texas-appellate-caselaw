@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1880"
-citations: ["8 Tex. Ct. App. 412", "8 Tex. Ct. App. 493", "8 Tex. Ct. App. 209", "7 Tex. Ct. App. 516"]
+decided_precision: "year"
+citations: ["8 Tex. Ct. App. 412"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
