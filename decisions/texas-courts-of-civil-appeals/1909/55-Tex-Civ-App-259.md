@@ -1,0 +1,36 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-04-14"
+citations: ["55 Tex. Civ. App. 259"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["V. H. Vickers et al. v. A. I. Peddy."]
+source_url: "https://static.case.law/tex-civ-app/55/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4405378
+cites_cases: ["36 S. W., 910"]
+---
+
+# Vickers v. Peddy
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+The action was by appellee in trespass to try title to 100 acres of land against Y. H. Yickers and W. F.' Goodrich.
+Defendants, besides the general issue, pleaded limitations, and alleged that they purchased the land from Nellie Brown, a widow, and her children; that about 1880 Cary Brown, the husband of said Nellie, deeded the land to A. J. Peddy, the husband of plaintiff, at which time it was homestead, Cary Brown having theretofore abandoned his family; that Nellie did not join in said deed; that she and her children continued to reside upon and to claim the land as their homestead and adverse to all others up to the date of the transfers to defendants; that said deed was in fraud of the wife and was void.
+Plaintiff by supplemental petition alleged that Cary and Nellie Brown were never married; that when Peddy bought from Cary Brora he called upon Nellie Brora and informed her of his intention, and she then informed plaintiff that she was not Cary’s wife, and in reliance upon this statement the land was bought; that plaintiff then rented the land to Nellie, who continued to occupy it as plaintiff’s tenant and never asserted any ownership and, because of this, defendants are estopped to claim that Cary and Nellie were married and from claiming she had homestead rights; and that if she ever resided upon the land as her home, then, long prior to the time she conveyed same to defendants, she had abandoned it as her home and thereby confirmed the sale of her husband, and she and defendants are estopped from claiming it now.
+The cause was tried by the judge, who gave plaintiff a judgment for an undivided half of the land upon the ground that the land was community property of Cary and wife, and Cary having died and his deed, being a general warranty deed, operated after the termination of the homestead use to vest in plaintiff the husband’s one half interest by estoppel. The other half was given, 31% acres to Vickers, and 18% acres to Goodrich. From this judgment Vickers and Goodrich have appealed.
+The first and second assignments of error seek to question the judge’s following conclusions of fact:
+“6th. I find that his wife, Nellie Brown, lived upon and used the land in controversy as her homestead until the latter part of the year 1900 or first of the year 1901, at which time she left the place to live with her kindred, being old and feeble and unable to take care of herself; that no one lived on the place after she left it or cultivated any part of it.
+“7th. I find that Nellie Brown and Laura Brown conveyed by deed to V. H. Vickers, for the sum of $75, all of the 100 acres that had not been previously conveyed to W. F. Goodrich by deed dated May 5, 1902, "which was after she had left the place.”
+The proposition made under these assignments is as follows: “Nellie Brora had not removed her household effects from the land in controversy until after she had sold out to V. H. Vickers in May, 1902. The land, less the 18% acres which she had previously sold to Goodrich, was her homestead at the time she transferred the land to V. H. Vickers, May 30, 1902, and when she visited her daughter she was at the time only temporarily absent from her home.”
+The property being homestead, the deed from her husband to Peddy was void as to the wife, and upon no theory did it convey any title to the land except by force of the covenant of warranty it contained, and the estoppel in this respect would operate against his heirs and upon his interest, which was an undivided half. As against his wife’s homestead right the deed was of no effect whatever. He died about 1881, but so long as she continued to live upon the property and until she had in fact abandoned it as a home, no possessory rights could be asserted under the Peddy deed against her, although Peddy may have had a good title to an undivided half by estoppel against Cary’s heirs. Doubtless it is with reference to this theory that appellants question the correctness of said findings of fact, and insist that the evidence showed that Nellie had not in fact abandoned, but was remaining away only temporarily from, this place as her home.
+It is evident that the court concluded from the evidence that she had finally abandoned all intention of returning to the place, and the evidence, notably that‘of Nellie herself, fully sustains such conclusion. But stress seems to be laid on certain testimony, that when she made the sale to Vickers she had an oral understanding with him that she could still use the place for a home as long as she chose to do so. There is authority that such an agreement is valid and ehforcible though not embodied in the deed. 2 Devlin on Deeds, Sec. 766.
+Assuming that she continued, after executing the deed to Vickers and after leaving the place, to have the right under this agreement to return and use the property "as her home, we do not think the existence of the agreement constituted of itself an absolute substitute for the homestead user. It might so long as she entertained an expectation to return, but certainly not after it became evident from the facts and circumstances that she would not return.. We, therefore, overrule said assignments.
+Under the third assignment are three propositions which we do not sustain. They assert that the deed from the husband to Peddy was an absolute nullity and conveyed nothing, either in praesenti or in futuro, and could have no effect in any way as an estoppel or against his heirs. The deed contained a covenant of general warranty. The following cases appear to settle the question against the contentions of appellant. Colonial & U. S. Mortgage Co. (Ld.) v. Thetford, 27 Texas Civ. App., 152; Ley v. Hahn, 36 Texas Civ. App., 208.
+The fourth assignment is predicated upon the theory that nothing was capable of passing by the deed from Cary Brown to Peddy, and is, therefore, overruled.
+We likewise overrule the fifth. The deeds from Nellie Brown to Goodrich and Vickers could convey only of what she owned. The interest which her husband and his children, as his heirs, owned was vested in Peddy' by estoppel, and the children’s deed conveyed nothing. Goodrich obtained 18% acres of the undivided 50 acres which belonged to Nellie Brown, and Vickers the remainder, or 31% acres, as found by the court.
+In pursuance of what has been said, we overrule the proposition stated under the sixth, seventh, eighth and ninth assignments of error.
+We overrule the tenth assignment for the reason that plaintiff’s right of possession under the deed from Cary Brown was subject to the right of Nellie Brown to use the property. Her possession was referable to this right and was not inconsistent with. plaintiff’s right under said deed.
+'Affirmed.
