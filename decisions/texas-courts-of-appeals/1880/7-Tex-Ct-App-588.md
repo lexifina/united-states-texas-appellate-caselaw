@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1880"
+citations: ["7 Tex. Ct. App. 588"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. D. Rains v. The State."]
+source_url: "https://static.case.law/tex-ct-app/7/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4414963
+---
+
+# Rains v. State
+
+## Majority (White, P. J.)
+
+White, P. J.
+A special instruction to the jury was asked by the defendant, in the following words: “That it must be shown by proof that the owner of the cattle charged to have been stolen did not give his consent to the taking thereof by the defendant, if they believe any such taking occurred, before a conviction of theft of the animals can be had.” To which the court added : “ Gentlemen, I give the above instruction with the addition that the want of consent of the owner may be shown by circumstantial evidence.” The rule that want of consent may be established by circumstantial evidence is held in this State in those cases ‘1 where the circumstances proven are of such a nature as to exclude absolutely every reasonable presumption that the owner gave his consent to the taking.” Wilson v. The State, 45 Texas, 76; McMahon v. The State, 1 Texas Ct. App. 102.
+In the case at bar, the witness Chamberlain testified that he went to examine the cattle, and upon examination found two belonging to King, upon which King’s brand had been altered. He says : “ King sent me to examine the animals, and recover any animals of his that I might find among them.” We can scarcely imagine a stronger circumstance to show King’s want of consent than the fact that he sent his agent to examine the animals and recover any which might belong to him; and from that fact, in connection with the other facts proven, and the further negative fact that the defendant, in the face of this strong prima facie case made by the State, introduced no evidence accounting for his possession, we think the jury were fully warranted in feeling morally certain that King did not give his consent to the taking.
+The matters presented in the first bill of exceptions as explained by the judge show that no error was committed to the prejudice of the defendant, but on the contrary that the jury were organized in conformity with the spirit and meaning of the statute as it has been heretofore frequently construed. Harkins v. The State, 6 Texas Ct. App. 452, and authorities there collated.
+The second bill of exceptions states, “That upon the presentation of the motion for a new trial of the defendant in this cause, and whilst the court was rendering judgment upon said motion, the court in rendering judgment therein commented upon and discussed the evidence upon the trial; to which action of the court the defendant excepted.” The action of the court was clearly wrong, and directly against the inhibition of the statute, which is that “in granting or refusing a new trial the judge shall not sum up, discuss, or comment upon the evidence in the case, but shall simply grant or refuse the motion without prejudice to either the State or the defendant.” Code Cr. Proc., art. 782.
+In this particular case we cannot see how, error though it be, this action of the judge could by any legitimate reason be availed of by the defendant. Inasmuch as we are clearly of the opinion, this ruling aside, that the case should in all things be affirmed, because fully substantiated by the law .and the facts, we can perceive no good or even tenable reason why, when the action of the court can in no possible manner, up to this time, have operated prejudicially to the defendant, we should reverse the case in order that a harmless error may have effect when the cause is called again for trial. In other words, we are of opinion that the court did not err in overruling the motion for a new trial, however much it might have erred in- discussing the case and giving the reasons for its action in doing so. Another question would have been presented had the case been one which upon substantial errors required a reversal. Then the question on a new trial would have been, how far the unauthorized discussion of the case by the judge had affected the defendant’s right to a fair and impartial trial before him, and in a community where his peculiar views as to the guilt or innocence of the accused were already known. The statute is intended to obviate these difficulties upon a second trial, and judges should be careful to observe it lest they produce these very difficulties by an unnecessary zeal to maintain the correctness of their action in the first instance. It is sufficient for the judge to be satisfied merely to announce his ruling upon the motion, and beyond that the law excuses him from expressing his opinion on the merits of the case.
+We have been unable to see that any substantial error has been committed on the trial below which requires a reversal, and the judgment is therefore affirmed.
+Affirmed.
