@@ -1,0 +1,42 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-03-09"
+citations: ["59 Tex. Civ. App. 521"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. B. Easterwood v. Pyke Burnett."]
+source_url: "https://static.case.law/tex-civ-app/59/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4403868
+cites_cases: ["27 S. W., 766", "29 S. W., 937", "36 S. W., 758", "43 S. W., 172", "56 S. W., 565", "59 S. W., 290", "68 S. W., 65", "72 S. W., 406", "72 S. W., 432", "73 S. W., 830", "84 S. W., 415"]
+---
+
+# Easterwood v. Burnett
+
+## Majority (KEY, Chief Justice.)
+
+KEY, Chief Justice.
+This is an action of debt, founded upon a dormant judgment, and from a recovery in favor of the plaintiff the defendant has appealed. The trial court filed the following findings of fact and conclusions of law:
+"Findings of fact.—I. I find that Pyke Burnett, the plaintiff in this suit, on the 6tli day of January, 1900, filed suit against H. B. Easterwood & Co. in the Justice’s Court of precinct No. 2 of Bobertson County, Texas, and that citation was issued in said suit on the same day; that on the 15th day of February, 1900, plaintiff recovered a judgment in said suit against H. B. Easterwood & Co. for the sum of $149.76, with interest from the date of said judgment at the rate of six percent per annum and for costs of suit; I further find that the costs of said suit amounted to the sum of $5.10, and that said costs were paid by plaintiff. In connection with this finding of fact I attach hereto a transcript of the Justice’s Court docket, marked Exhibit ‘A,’ showing the judgment of said Justice’s Court in said cause, and showing also other notations on said docket in said cause, which transcript I find to be an accurate copy of all the entries made upon said docket in said cause.
+II. “I find that no execution was issued on said judgment of said Justice’s Court; that the same was not appealed from or otherwise vacated; that the same has not been paid, in whole or in part, and that the plaintiff herein, Pyke Burnett, is the present owner of said judgment.
+III. “I find that it does not appear from the recitals of said judgment who composed the firm of H. B. Easterwood & Co., nor does it appear therefrom upon whom, if any person, service was had, nor who appeared and answered in said suit; but I find that said judgment does recite that the £Deft.’ appeared in person and by attorney and announced ready for trial.
+IY. “I find that said judgment, read alone in the light of the recitals therein contained, is ambiguous as to the party or parties against whom it was rendered.
+Y. “I find that all of the original papers in the case wherein said judgment was rendered, including the citation and the return thereon, have been lost or destroyed.
+VT. “I find from evidence aliunde the record that said suit in said Justice’s Court was brought against H. B. Easterwood & Company, which in the citation issued in the original suit was alleged to be a mercantile firm composed of H. B. Easterwood as the sole constituent member; and I further find that said citation in the trial of the cause in the Justice’s Court was adopted by plaintiff as his pleadings in the case.
+VIL “I find that H. B. Easterwood & Co. was at the time that said suit was brought and said judgment rendered in said Justice’s Court, a mercantile firm, whbse sole constituent member was H. B. Easterwood, the defendant in this suit; and I further find that the said H. B. Easterwood, in person and by attorney, appeared and defended said suit against'H. B. Easterwood & Co.
+VIII. “I find that defendant is indebted to plaintiff on said judgment in the sum of $239.24, and was so indebted to plaintiff on the 16th day of March, 1909, when the judgment in this suit was rendered.
+"Conclusions of law.—I. I conclude that the judgment here sued upon, being ambiguous, must be read in the light of the entire record of the case originally tried in the Justice’s Court of precinct No. 2, which, in the sense here used, I conclude to embrace the pleadings and citation in said original suit.
+II. “It having been affirmatively shown that the citation and all of the papers in said original suit were lost, and it further appearing in the trial of said suit that plaintiff had adopted his citation as his pleadings in said suit, I conclude that paroi testimony was admissible for the purpose of showing what said- citation contained; and I further conclude that it was admissible in the trial of this suit for plaintiff to show paroi testimony that the recital in the judgment of said Justice’s Court of the fact that ‘Deft, also appeared in person and by attorney and announced ready for trial’ had reference to H. B. Easterwood, the defendant in this suit.
+III. “I conclude that the judgment against H. B. Easterwood & Co. is a valid and binding judgment against H. B. Easterwood, who was the sole member of said firm, and who, in the trial in which said judgment was rendered, appeared and answered in person in said cause.
+IV. “I conclude that plaintiff is entitled to judgment in this suit against said H. B. Easterwood for the sum of $239.24, the amount due plaintiff by defendant upon said judgment rendered in said Justice’s Court.
+“Will C. Perry,
+“County Judge of Robertson County, Texas, presiding in the trial of this cause.
+“Exhibit CA.’—On this, the 15th day of Eeby., A. D. 1900, the above styled and numbered cause came on to be heard and tried, and the plaintiff appeared in person and by attorney and announced ready for trial, and the deft, also appeared in person and by atty. and announced ready, and the court after hearing the evidence, pleadings, law and argument as submitted by each, is of the opinion that the law and the evidence is with plaintiff Pyke Burnett, and that he should have and recover of and from the defts. H. B. Easterwood & Co. the sum of $149.76, amount sued Jjor on note, and all costs of this suit and interest thereon at 6 percent per annum from this date until paid, all of which is so ordered, adjudged and decreed and for which let execution issue.
+“W. C. Bishop, J. P,
+“Deft, denies each and every allegation in plaintiff’s citation and requires strict proof of same. Says that if the said note was ever made and executed that he had fully paid off, extinguished, satisfied and discharged said obligation. Claims that the interest is usurious and illegal.
+“W. C. Bishop, J. P.”
+Opinion.—The first assignment of error asserts, in general terms, and without stating any reason therefor, that the court erred in overruling the defendant’s general demurrer to the plaintiff’s pleadings. In the appellant’s brief it is sought to submit that assignment as a proposition of law, and it is not followed by any proposition or statement indicating any reason why it is claimed that the court erred in the ruling complained of. This does not present any question for the decision of this court. We do not mean to hold that the assignment of error is too general if it had been followed by an appropriate proposition and a statement presenting some particular question for decision, but the assignment itself does not assert any specific proposition of law, and therefore it can not be submitted as such. Appellant’s brief contains several other assignments in the same condition.
+There are also several assignments relating to rulings upon the admissibility of testimony, but appellant’s brief does not indicate the objections made to the introduction of the testimony, and therefore the questions of law involved in the rulings referred to are not presented in appellant’s brief, and can not be ascertained without looking to the transcript. This is not in compliance with the rules, but the bills of exception have been examined, and we think the trial court ruled correctly.
+All other questions have been considered, and, without prolonging this opinion, and without further discussion, we adopt and approve the trial court’s conclusions of law, and in support thereof, and of the judgment sought to be reversed, the following authorities are cited: Dunlap v. Southerlin, 63 Texas, 38; Hodges v. Robbins, 56 S. W., 565; Crum v. Winston, 18 Texas Civ. App., 1, 43 S. W., 172; Stephens v. Turner, 9 Texas Civ. App., 623, 29 S. W., 937; Blumenthal v. Youngblood, 24 Texas Civ. App., 266, 59 S. W., 290; Smith v. Chenault, 48 Texas, 555; State v. Cloudt, 84 S. W., 415.
+Affirmed.
