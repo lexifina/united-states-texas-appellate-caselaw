@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1907-12-18"
+citations: ["48 Tex. Civ. App. 259"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. Niday v. J. B. Cochran."]
+source_url: "https://static.case.law/tex-civ-app/48/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4392918
+cites_cases: ["65 S. W. Rep., 209", "66 S. W. Rep., 576", "73 S. W. Rep., 548", "74 S. W. Rep., 778", "77 S. W. Rep., 953", "80 S. W. Rep., 385", "81 S. W. Rep., 811", "85 S. W. Rep., 1167", "85 S. W. Rep., 1169"]
+---
+
+# Niday v. Cochran
+
+## Majority (BEESE, Associate Justice.)
+
+BEESE, Associate Justice.
+This is an appeal from a judgment of the District Court of Harris County. Appellee has filed a motion to dismiss the appeal on account of failure of appellant to file briefs as required by law.
+The transcript was filed in this court on March 8, 1907, being two days before the expiration of the time allowed by law. No briefs were filed in the District Court. On October 24 appellant filed briefs in this court, but no notice thereof was given to appellee or his counsel, nor did they have knowledge thereof until November 16, when they were furnished with a copy. The ease was set for submission in its regular order November 21. This motion to dismiss was filed November 18. In his motion appellee sets out the facts with regard to the failure to file briefs, and the want of notice, etc., and alleges that on account of other business it will be impossible for his counsel to prepare and file briefs in this cause on or before the day set for submission or at any time for an indefinite period thereafter. The only excuse offered by appellant’s counsel ' for failure to file briefs as required by law is that he was under the impression that there had been an agreement between his co-counsel and counsel for appellee with regard to filing briefs. He admits that no such agreement was, in fact, made, and suggests that submission be postponed in order that appellee’s counsel may have time to prepare and file briefs.
+Appellant was required to file with the district clerk a copy of his brief five days before the time of filing of the transcript in this court. It is made the duty of the district clerk forthwith to give notice of such filing to appellee or his attorney of record, who is then required, in twenty daj'S after such notice, to file a copy of his brief with the clerk of the court below, and with the clerk of the Court of Civil Appeals four copies. (Art. 1417, Bev. Stats.) It is further provided that causes in this court shall be docketed in the order of their filing, and that they shall be set for submission in the order in which they are docketed “unless continued to some future time for good cause shown.” (Art. 1022, Bev. Stats.)
+Under these provisions of the statute appellee has two substantial rights: (1) to have the cause submitted in its regular order, and (2) to be allowed twenty days after notice of the filing of appellant’s brief with the district clerk within which to prepare and file his own brief. There has been no agreement to waive any of these requirements. To overrule his motion to dismiss in the- present case will inevitably require him to yield one of these substantial rights. We will have either to postpone the submission or hear and determine the cause without a brief for appellee. Certainly, appellee could not have been expected to prepare and file briefs in this court in the limited time from November 16, when he first received a copy of appellant’s briefs filed in this court, and the 21st of November, the day set for submission. We do not think the allegation of appellant’s answer to the motion presents good cause for the postponement of the submission, thus impairing the substantial right of appellee to have the cause submitted in its regular order. Appellant’s excuse for failure to file briefs as required can not be considered sufficient to authorize such action. We are not unmindful of what is said in San Antonio & Aransas Pass Ry. Co. v. Holden (93 Texas, 212). It has been the rule in this court to refuse to dismiss for failure on the part of appellant to file briefs in strict compliance with the rules, where a relaxation of the rule would not delay a submission of the case, and there was ample time after the filing to allow appellee to prepare and file briefs before submission. This is not such a case. The following authorities will show that our action in dismissing this appeal is in entire harmony with the ruling of other Courts of Civil Appeals, sanctioned by the Supreme Court as shown by refusal of writ of error in some of the cases referred to. Harris v. Bryson, 73 S. W. Rep., 548; Hunt v. Glasscock, 65 S. W. Rep., 209; Booher v. Anderson, 80 S. W. Rep., 385; Gulf, C. & S. F. Ry. v. Hall, 74 S. W. Rep., 778; Elkins v. Kempner, 66 S. W. Rep., 576; Dodd v. Presley, 81 S. W. Rep., 811; San Antonio & A. P. Ry. Co. v. Brock, 77 S. W. Rep., 953; Nigro v, Hodges, 85 S. W. Rep., 1169.
+For example of a case in which strict compliance with the rule will not be required, see Deaton v. Feazle, 85 S. W. Rep., 1167.
+The motion to dismiss the appeal must be sustained.
+Dismissed.
