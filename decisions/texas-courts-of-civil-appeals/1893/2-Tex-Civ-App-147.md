@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "81"
+decided: "1893-01-24"
+citations: ["2 Tex. Civ. App. 147"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. N. Barker v. Abbott & Keller."]
+source_url: "https://static.case.law/tex-civ-app/2/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 219162
+cites_cases: ["16 Cal., 81", "39 N. W. Rep., 95", "8 Atl. Rep., 697"]
+---
+
+# Barker v. Abbott
+
+## Majority (HEAD, Associate Justice.)
+
+HEAD, Associate Justice.
+Abbott & Keller were partners, engaged in business as merchants in the town of Mangum, Greer County, Texas. One W. N. Barker attached their entire stock of goods, and also their store house and lots upon which it was situated. The defendant Abbott reconvened, alleging that the attachment wras wrongfully issued, and that his partner Keller refused to join in his plea of reconvention, and asked that he be made a party thereto. It seems that Keller was made a party to the suit. The trial resulted in a verdict and judgment in favor of appellee for the benefit of the firm, for the full value of the stock of goods, house, and lot, as claimed by him.
+The court below instructed the jury, that the measure of damage appellee would be entitled to recover, in case they found for him, would be the reasonable market value of the property levied upon and seized under the writ of attachment, at the time and place of such seizure, with interest from the date of the levy; and also, at the request of appellee, the jury wrere instructed, that this measure of damage would be “such an amount as the goods and house and lots were reasonably worth on the market at the date they were attached, together with interest thereon at the rate of 8 per cent from the date of such levy.” The giving of this charge, we think, will necessitate a reversal of the judgment.
+That the value of real estate is not the measure of the damage for levying an attachment thereon seems to be conceded; but appellee attempts to sustain this charge upon the theory that the land referred to was in Greer County, and that the court judicially Imows that no one has title to land in that county, and that therefore the house was personal property; but we think this would be no answer, even if it be conceded that the court did have such judicial knowledge. It will be noted, that the jury were instructed to find the value of the house and lots—not the value of the house alone, disconnected from the lots; and the evidence upon which the finding of the jury was based included the value of the lots. Appellee Abbott testified, that “ the house bought of plaintiff was worth about $100 at Vernon, and after they rebuilt it at Mangum, it and the lots were worth about $600.” If it be conceded that the lots were not the property of appellee, it will certainly not be contended that his right to recover their value is better than if he owned them.
+Appellant contends that appellee should not be allowed to maintain Ms plea in reconvention, because it appears therefrom that Keller, one of the partners, refused to join therein; and also, because it is claimed the attachment was with the consent of such partner. As a general rule, it must be conceded that all of the partners should join to recover for the conversion of partnership property. Kirbs & Spies v. Provine, 78 Texas, 353; Tynburg & Co. v. Cohen, 67 Texas, 220; 2 Bates on Law of Part., sec. 1030; 1 Lind, on Part., 279. But one partner can not defeat the rights of his copartner by refusing to join in such suit. Where one of the partners refuses to join, the other can, in some cases, use his name, even against his consent (1 Bindley on Partnership, 271, and authorities cited in note); and in other cases the nonconsenting partner can be made a party defendant. 2 Bates on Part., sec. 1027.
+If the attachment was wrongfully sued out, and this was done by collusion between appellant and Keller, for the purpose of injuring Abbott, Keller should be made a defendant in the plea of reconvention, and Abbott restricted to his individual damage, unless he should affirmatively show a case which entitles him to recover the full value of the partnership property thus converted, such as that he had paid partnership debts, and this would be necessary to reimburse him, or some other equitable cause that would entitle him to the proceeds of all the property as against his partner.
+If the attachment was wrongfully sued out by appellant without any collusion on the part of Keller, upon the refusal of Keller to join in the plea of reconvention, Abbott should be* allowed to use his name to recover the full amount of damage sustained by the firm.
+If appellant contends, that notwithstanding the attachment may have been wrongfully sued out, yet he was caused to take this step for the collection of his debt by the acts of Abbott or Keller, whereby they or the firm are estopped from denying that the attachment was rightfully issued, he should plead such estoppel, and the questions thus raised should be submitted under appropriate instructions to the jury. Scarbrough v. Alcorn, 74 Texas, 358.
+If Keller gave his consent to this attachment, knowing or believing that the legal grounds therefor existed, and with no intention to unlawfully injure his partner, but desiring thus to prefer appellant over the other creditors of the firm, we think this would be a protection to him for levying upon the firm property. Schneider & Davis v. Sansom, 62 Texas, 201; Baines v. Ullmann, 71 Texas, 529; Goodbar, White & Co. v. Bank, 78 Texas, 461; Martin Brown Co. v. Perrill, 77 Texas, 199; Blum v. Schram, 58 Texas, 524. But if this consent was given by collusion between appellant and Keller, understanding that the grounds therefor did not exist, then we believe that such consent would be no protection to appellant against the damage caused to Abbott. Bateman Bros. v. Ramsey, 74 Texas, 589; Orr & Lindsey Shoe Co. v. Harris, 82 Texas, 273.
+If appellee still desires to recover the value of the house, it will be necessary for him by amendment to allege a state of facts which will show that it was no part of the land, and that the levy was made by taking actual possession, as in case of personal property. Cullers & Henry v. James, 66 Texas, 494.
+We think what we have said disposes of all the questions presented in appellant’s brief which are likely to arise upon another trial.
+Let the judgment of the court below be reversed and the cause remanded.
+Reversed and remanded,
+Delivered January 24, 1893.
