@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1754"
+decided: "1884-11-15"
+citations: ["17 Tex. Ct. App. 132"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack Harris v. The State."]
+source_url: "https://static.case.law/tex-ct-app/17/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 139572
+---
+
+# Harris v. State
+
+## Majority (Willsox, Judge.)
+
+Willsox, Judge.
+Defendant was indicted and convicted for the theft of $250 in money, and his punishment was assessed at eight years’ confinement in the penitentiary. The indictment was in the usual form under article 721 of the Penal Code, which defines theft in general, and the punishment was assessed in accordance with the charge of the court under article 735 of said Code. The evidence proved unquestionably that the theft was from the person, as defined and punished by articles 744 and 745 of said Code.
+Defendant requested a special charge as follows: “If you believe from the evidence that the money stolen from Bailey Johnson, as charged in the indictment, was privately stolen from his person, then you cannot find the defendant guilty under the charge in this case.” This charge was refused and defendant excepted. We are of the opinion that the proposition contained in the charge requested is a correct one, and should have been submitted to the jury. Theft from the person is a distinct offense from any other theft, and the punishment prescribed therefor is not graded the same as in other thefts. It is a felony without regard to the value of the property stolen, and the punishment prescribed for it cannot be greater than confinement in the penitentiary seven years, while that prescribed for theft of property of the value of $20 or over may be such confinement for ten years, and in this case was fixed at eight years, one year more than the law authorizes for the offense of theft from the person.
+A question, precisely the same in principle, arose in the case of Payne v. The State, decided at the present term, in which case the defendant was convicted of wantonly and wilfully killing a cow, under an information charging that offense. Tho evidence strongly tended to show that he killed the cow while she was inside his inclosure, and that the fence around his inclosure was insufficient under the law. We held that the offense charged in the information was a distinct one from that which the evidence tended to show, and that it should have been left to the jury to say which one of the offenses he was guilty of, and, if they believed he was guilty of the latter, they could not convict him under the information. We founded our conclusion upon the ground that the two offenses were separately defined, and different punishments were prescribed for them, the punishment for the latter offense being graded more favorably for the defendant than that of the former.
+.In the above cited case, and in the case now before us, if the penalties prescribed for the two offenses were the same, our conclusion would be different. Thus where the charge was theft, and the evidence proved not only the theft, but robbery, it was held that a conviction of theft was proper, because the evidence established both offenses in the same act, and the penalty for the two offenses was the same. (Skipworth v. The State, 8 Texas Ct. App., 135.) So, where the defendant was indicted for theft of a yearling, and the proof showed that he was guilty of illegal marking and branding, the conviction was sustained, the penalty for the two offenses being the same. (Smith v. The State, 8 Texas Ct. App., 141.)
+Ifc appears paradoxical to hold that when the defendant has been proved beyond question to be guilty of the theft of property of the value of §20 or over, still he cannot be convicted under an indictment charging such a theft, because the evidence shows further that he stole the property privately from the person of its owner. The transaction is the same, and he cannot be guilty of stealing from the person privately without at the same time being guilty of theft under the general definition of that offense. But, as unreasonable as this may seem to the unprofessional mind, it is nevertheless the rule of the law, and is founded upon good reason. Whether or not the statute which makes this distinction between theft generally and theft from, the person, so as to prevent a conviction of the latter under an indictment for the former, is wise legislation is not for us to determine. We can only administer the law as we find it, and we find that the Legislature has created and defined the specific offense of theft from the person, and has prescribed therefor a maximum punishment less than that prescribed for the theft of property of the value of $20 or over, and making said offense a felony regardless of the value of the property stolen. And it is further expressly provided that the penalty prescribed for theft generally does not apply to theft from the person. (Penal Code, art. 737.) Such being the case, the defendant, if punished, must be punished alone for the specific offense committed by him.
+Reversed and remanded.
+[Opinion delivered November 15, 1884.]
