@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1900-06-23"
+citations: ["24 Tex. Civ. App. 84"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Western Union Telegraph Company v. J. A. Lovett."]
+source_url: "https://static.case.law/tex-civ-app/24/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286573
+---
+
+# Western Union Telegraph Co. v. Lovett
+
+## Majority (COHHER, Chief Justice.)
+
+COHHER, Chief Justice.
+This suit was instituted in the District Court of Cooke County, on December 31, 1898, by J. A. Lovett against the Western Union Telegraph Company, for damages in the sum of $1900 to himself and his wife, Mrs. Bettie Lovett, accruing to them on account of the alleged negligence of the defendant company in transmitting and delivering to the plaintiff at Lehigh, Indian Territory, a telegraphic message filed in its office at Whitesboro, Texas, about 7 o’clock a. m. on August 11, 1898, signed “Bettie Lovett,” and reading: “Baby very sick. Hot expected to live. Come at once,” whereby plaintiff was prevented from being present at the death of his child, which occurred near Whitesboro at 4 o’clock p. m. of said August 11, 1898.
+The defendant answered by general demurrer and general denial, and specially pleaded contributory negligence on the part of plaintiff and his wife, and further specially pleaded its office hours for the transaction of its business at its office in Denison, Texas, on said August 11, 1898, through which office messages from Whitesboro, Texas, destined to Le-high, Indian Territory, had to pass in the regular transaction of its business, and that if there was any delay in the transmission and delivery of said message it was caused by the observance of its office hours at its Denison office, which were from 8 a. m. to 10 p. m. of each day, which were reasonable, and which it had the right to observe.
+There was evidence tending to show that had this message been promptly transmitted during office hours and promptly delivered, appellee could and would have attended the bedside of his child before its death.
+The cause came to trial before a jury on November 6, 1899, and resulted in a verdict and judgment for plaintiff for $800. A motion for a new trial was duly filed, which was overruled, and defendant gave notice of appeal and filed appeal bond and assignments of error, and brings the case before this court for a revision of errors.
+The court gave the following charge on the measure of damages, to which error is assigned: “In case you find that the plaintiff and his wife, or either of them, has suffered any grief or sorrow on account of the plaintiff not being able to see his child before its death, you will find for plaintiff and assess his damage at such sum as in your opinion, under the evidence, will afford him a just and fair pecuniary compensation for the grief and sorrow so suffered. But you can not allow him anything for the grief or sorrow suffered by plaintiff or his wife on account of the death of their child. He can only receive (if you find that he is entitled to receive at all) the additional grief and sorrow suffered by himself and wife, if any such they did suffer, on account of plaintiff not being able to see his child before it died.”
+We think it apparent from a careful reading of this charge that the jury was thereby permitted, in assessing damages, to estimate the distress of the wife on account of the inability of the husband to see his child before its death. The distress of the father arising from this fáct was a proper element of damage. The distress of the wife arising from the want of the comfort and sustaining power of the husband’s presence was not submitted, and can not, we think, be fairly included in the terms of the charge quoted. The distress of the wife resulting from the fact of the child’s death was properly excluded in the charge. It follows that that distress of the wife which we must presume was considered by the jury was of a reflex character,—the distress arising from her soulful sympathy for the husband,—the pain it gave her by reason of her love for him to know that he had been deprived of what to him, though deeply sorrowful, was beyond price. Grief so arising, though tender and sacred it is, is considered by our law in its wisdom as not being a proximate, but a remote, result of the wrong done, for which no damages will lie. Telegraph Co. v. Cooper, 71 Texas, 508, and particularly Car Co. v. Trimble, 8 Texas Civ. App., 335, where the authorities are ably reviewed by Justice Head.
+It necessarily follows that the charge given was affirmatively erroneous and materially so, in that the damages were not itemized in the verdict, and we have no means of knowing what amount may have been assessed by the jury on this account.
+In our judgment, as stated, the element of the wife’s distress in not .having the comforting, sustaining presence of the husband was not included in or submitted by the charge quoted, and hence we have not found it necessary to determine, in the light of the latest expression of our Supreme Court, whether the face of the message affected appellant with notice of this consequence of the failure shown. See Telegraph Co. v. Luck, 91 Texas, 178. Hor, in view of the conclusion reached, is it necessary to pass upon the assignments questioning the sufficiency of the evidence to support the verdict and judgment.
+For the error discussed, however, the judgment below is reversed and the cause remanded.
+Reversed and remanded.
