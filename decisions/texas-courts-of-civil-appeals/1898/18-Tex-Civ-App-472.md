@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1898-03-23"
+citations: ["18 Tex. Civ. App. 472"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mack Williams et al. v. W. H. Thomas et al."]
+source_url: "https://static.case.law/tex-civ-app/18/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 255607
+cites_cases: ["25 S. W. Rep., 1096", "25 S. W. Rep., 1097", "32 S. W. Rep., 440"]
+---
+
+# Williams v. Thomas
+
+## Majority (COLLABD, Associate Justice.)
+
+COLLABD, Associate Justice.
+This suit was originally instituted on the 10th day of April, 1896, and prosecuted by amended petition, filed October 8, 1896, by Mack Williams against W. H. Thomas and W. F. Clark, in form of trespass to try title for 640 acres of land, patented to W. IT. Morris March 26, 1863.
+May 13, 1896, defendant W. H. Thomas amended, disclaiming all the land sued for except the west half of the survey of 640 acres, to the suit for which he demurred, filed a plea of not guilty, and title by limitation of three, five, and ten years, and claim for valuable improvements, itemizing the same. He also impleaded his warrantor, J. H. Cole.
+February 15, 1897, defendant Clark amended his original answer filed June 1, 1896, and his second amended original answer, filed November 27, 1896, disclaiming all the land except the east half of the survey, to the suit for which he demurs and pleads not guilty, and the three, five, and ten years statutes of limitations, and limitation of two and four years title to the bounty warrant by virtue of which the survey was located, and claims compensation for valuable improvements.
+Cole answered by general denial. Plaintiff, October 24, 1896, filed supplemental petition, setting up that the land was patented to W. H. Morris, the 26th day of March, 1863; that he died July 13, 1884, leaving his daughter Nancy Williams his only heir; that prior to the death of W. U. Morris, the heir, Nancy Williams, had intermarried with P. J. Williams, which marriage relation continued until the 22d day of October, 1887, at which time P. J. Williams died; that there was born to said Nancy, in said wedlock, one son, an only child, the plaintiff; and that Nancy Williams died in 1893.
+There was a trial on the 24th day of February, 1897. The court instructed the jury to find a verdict for plaintiff against defendant Clark for the east half of the land sued for, and in favor of W. H. Thomas for the west half of the survey. Such verdict was returned and judgment was rendered pursuant thereto for plaintiff against Clark for the east half, and for Thomas, against plaintiff, Mack Williams, for the west half of the 640 acres of land sued for. Defendant Clark appealed and assigned errors; but on February 24, 1898, Clark, by his attorneys, makes known to the court that all the points at issue between him and plaintiff below, Mack Williams, have been fully settled, and he agrees that the judgment against him rendered in the court below for the east half of the Morris survey be affirmed; and Mack Williams, appellee, as to Clark, has moved the court to affirm the judgment as to Clark, as agreed by him. The motion will be granted, and the judgment of the lower court in favor of Mack Williams against Clark is affirmed.
+Mack Williams has also appealed from the judgment against him in favor of W. H. Thomas, and assigned errors.
+Opinion.—The appeal of Williams against Thomas is mainly upon the ground that the court erred in instructing the jury to find for Thomas as to the west half of the 640 acres survey. The proof fails to support the pleas of three and ten years limitation, pleaded by Thomas. He exhibited no title from the sovereignty of the soil, and though his possession may have been for the full period of ten years prior to the suit, the statute was not put in motion under such possession until October 22, 1887, at which time plaintiff’s mother became a widow by the death of her husband, P. J. Williams, this suit having been brought April 10, 1896. The Thomas possession began in 1885 and W. TJ. Morris died July 13, 1884, so that the statute did not run against him before his death; his daughter, Mrs. Nancy Williams, was a married woman, wife of P. J. Williams at that time.
+The sufficiency of the proof to sustain the plea of five years is then the only question for us to decide at this time. The deed on which the plea rests is a tax deed, executed by C. B. Gillespie, tax collector of Dallas County, to John H. Cole, of date the 6th day of May, 1884, duly authenticated for record the 26th of May, 1884, filed for record in the office of the county clerk of Dallas County, where the land lies, and duly recorded in the deed of records of the county May 31, 1884. This deed described the land conveyed as “the following described tracts or parcel of land, viz: situated in the county of Dallas, State of Texas, and being the west half of the W. N. Morris 640 acres survey, and being the remainder of said survey not paid on by W. E. Hall.”
+The land in controversy is the west half of the W. H. Morris 640 acres, situated in Dallas County. W. N. Morris and W. H. Morris are not identical names, of the same person. Battle v. Guedry, 58 Texas, 114; Golden v. Patterson, 56 Texas, 628; Crumbley v. Busse, 32 S. W. Rep., 440; Clark v. Kirby, 25 S. W. Rep., 1096.
+The question is not one of idem sonans, but one of identity. The record of the deed conveying the west half of the W. N. Morris survey would not constitute notice of claim to the west half of the W. H. Morris survey. The deed to be good, as supporting the plea of five years limitation, must by its own terms convey the land claimed, and it can not be aided by paroi. The deed read in evidence by Thomas is not, tested by its own terms, a deed to any part of the W. U. Morris survey, and does not support the plea under the five years statute of limitation. Wofford v. McKinna, 23 Texas, 36; Clark v. Kirby, 25 S. W. Rep., 1097; Brokel v. McKechnie, 69 Texas, 32; Murphy v. Welder, 58 Texas, 240.
+Because of the error in the charge of the court directing the jury to return a verdict for defendant Thomas, the judgment should be reversed, but because of other issues not determined, it would not be proper to reform or render judgment.
+It is ordered that the judgment of the, lower court be reversed and the cause remanded.
+Reversed and remanded.
