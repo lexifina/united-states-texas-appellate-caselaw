@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["4 Tex. Ct. App. 327"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. McReynolds v. The State."]
+source_url: "https://static.case.law/tex-ct-app/4/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4417975
+---
+
+# McReynolds v. State
+
+## Majority (White, J.)
+
+White, J.
+Appellant was indicted for an aggravated assault and battery, committed upon one Gr. B. Wadsworth, in Limestone County, “ with a certain iron fork with a wooden handle, with the prongs of the fork about ten inches in length and pointed, the said fork being a deadly weapon.” He was found guilty, and his punishment assessed at a fine of $100.
+Two errors are complained of with regard to the charge as given to the jury : one that the court erred in the definition of a deadly weapon; the other, that the court erred in its charge as to the venue of the offense, and in the refusal to give the special instruction asked in behalf o'f defendant upon that subject.
+The definition of a deadly weapon was this : ‘6A deadly weapon is one which, in the manner used, is capable of producing death, or of inflicting great bodily injury, or seriously wounding.” This is almost identical with the definition as given by our Supreme Court in Skidmore v. The State, 43 Texas, 93: “A deadly weapon is one likely to produce death or great bodily injury.” See, also, Kouns v. The State, 3 Texas Ct. App. 13.
+Upon the question of venue the charge was': “If from the evidence you believe that the defendant, in this county, or within four hundred yards of the county line, within two years before the finding of the indictment in this cáse (October 31, 1874), struck G. B. Wadsworth with a deadly weapon (as here affirmed), with intent to injure him, or by such blow, if given in anger, inflicted serious bodily injury upon said Wadsworth, you will find him guilty of an aggravated assault and battery; otherwise, you will find him not guilty.”
+Again, the jury were further charged “ that a verdict of guilty, and judgment thereon, would preclude a prosecution for the same offense in any other county. The defendant is entitled to any reasonable doubt you may have as to his guilt. By a reasonable doubt is meant, not an imaginary or speculative doubt, but a real doubt, growing out of the evidence when fairly and candidly considered. You are to look at the evidence as candid, sensible men, and if, after doing so, you are not satisfied of the guilt of the defendant, you should acquit him; but if, after doing so, you .believe him guilty, you should so find. You are the judges of the weight and credit to be given to the evidence.”
+We can perceive no error in this charge. As to the venue, it was in conformity with the statute which provides that “ an offense committed on the boundary of any two counties, or within four hundred yards thereof, may be prosecuted and punished in either county, and the indictment or information may allege the offense to have been committed where prosecuted.” Pasc. Dig., art. 2659.
+The charge asked for defendant was :
+“ If you are not satisfied from the evidence that the place where the assault was committed was in Limestone County, or within four hundred yards of the line between Limestone and Navarro Counties, or if you have any reasonable doubt of this fact, growing out of the evidence, or from lack of evidence, you will acquit the defendant.”
+This charge was indorsed: “ Refused because given in substance in the general charge.” We think the court was correct in holding that the substance of the charge had already been given, as shown in the extract above quoted from the general charge.
+But it is contended that the instruction should have been given because it presented (which was not directly done in the general charge) the question of reasonable doubt as to the locus in quo or venue of the offense. Even if the position assumed was correct, still, under the previous decisions of our Supreme Court, it seems that it would not have been error to have failed or refused to charge the reasonable doubt in relation to venue. In Barara v. The State, 42 Texas, 260, the point was considered, and the court, Gould, J., delivering the opinion, says : “ It is contended that the evidence must establish the venue beyond a reasonable doubt. That there must be evidence of venue is well settled, and, indeed, elementary; but we are not sure that the presumption of innocence, which entitles a party to an acquittal in case of a reasonable doubt as to his guilt, has been held to apply to the merely jurisdictional question of venue. When the fact appears in the course of a trial that the defendant is not liable to prosecution in the county where the indictment was presented, the Code of Procedure requires that the jury be discharged, and that the defendant be kept in custody, or held to bail to await a warrant of arrest from the proper court. Pasc. Dig., arts. 3055, 3056. That the defendant should be acquitted because the evidence as to the county boundaries does not establish the jurisdiction beyond a reasonable doubt, does not seem within the contemplation of the law. Nor do the decisions of this court support the proposition ; ’ ’ citing Henderson v. The State, 12 Texas, 535, and Henderson v. The State, 14 Texas, 503.
+As to the evidence upon this point, all that portion which was at all positive and most certain established the locus in quo in Limestone County. The conflicting evidence establishing it in Navarro was entirely hypothetical and negative in its character. ‘ ‘ Credible witnesses who swear affirmatively are much more reliable, and should have much more weight, than those who are merely negative in their character.” Winkfield v. The State, 41 Texas, 148.
+The evidence was sufficient to establish the fact that the weapon used was a deadly weapon, and that serious bodily injury was inflicted with it. Skidmore v. The State, 43 Texas, 97. Wadsworth, the party assaulted, says: “ He struck me a heavy blow, which knocked me senseless for a few moments, and made me feel that I was just rising up. * * * The blow cut my head, and it bled profusely, and for several nights it bled. I was in bed six days from the wound.”
+Seeing no error in the record for which the judgment should be reversed, it is affirmed.
+Affirmed.
