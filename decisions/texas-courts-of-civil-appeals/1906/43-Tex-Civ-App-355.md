@@ -1,0 +1,44 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-06-06"
+citations: ["43 Tex. Civ. App. 355"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Franklin County v. J. A. Huff."]
+source_url: "https://static.case.law/tex-civ-app/43/cases/0355-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4388152
+cites_cases: ["100 Iowa, 631", "33 S. W. Rep., 297", "36 Minn., 425", "66 S. W. Rep., 864"]
+---
+
+# Franklin County v. Huff
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+Huff by fences obstructed a public road legally opened and established, whereupon the county brought this suit to abate same as a public nuisance, and to restrain Huff from maintaining such obstruction. The case below was tried before the court and judgment was rendered against the county.
+We have considered the cross assignments of error contained in appellee’s brief, and find that none are well taken. The pleadings of the plaintiff are sufficient and so is the evidence to support the finding of the trial court. The appellee’s objections to evidence are overruled.
+The finding of fact of the trial court is as follows:
+“1. I find that at the February term of the Commissioners’ Court of Franklin County, 1904, the defendant presented to said court a petition signed by 19 citizens of said county asking said court to change a portion of the public road leading from the town of Mt. Vernon, Texas, to the town of Pittsburg, in Camp County, Texas; that the portion of said road asked to be changed or altered was about 660 yards long and that that portion of the said road was to be discontinued and a new road to be opened up so as to connect ends of the old road so discontinued.
+“2. I find that said petition represented and that the defendant represented to said court that the route for the new rqad was on as good and practicable ground for a road as was the old road and that the new road or new part of the road would not be any longer than that part of the old road discontinued and would be on as good ground.
+“3. I find that the new road was in fact on much worse ground for a road than that of the old road; that the ground on which the new road was placed was and is impracticable for a road.
+“4. I find that the change in the road makes the road about 160 yards longer than it was before the change, that is, the new part of the road is about 160 yards longer than that part of the old road discontinued.
+“5. The court ordered that part of the old road affected by the change discontinued when the new road was established and cut out according to law and I find that the defendant fenced up and stopped the public from using the old road before the new road was cut out and put in a condition to be used by the public.
+“6. I find that the change in the road was agreed to be made solely for the benefit of the defendant and that he agreed with the Commissioners’ Court to lay out, cut out and establish the new road on as good ground as the old road was on and put the same in as good condition as the old road was before he fenced up the old road, and I find that the old road was on good ground and that the new road was on bad ground. I also find that the old road was in good condition and that the new road was and is in bad condition and not cut out as the law requires for a second class road.
+“7. I find that at the August term of the Commissioners’ Court of Franklin County there was presented to said court a petition of thirty or thirty-two of the citizens of said county protesting against the proposed change in said road, and that, acting on said petition, the court rescinded its former order made at the February term of the court and ordered the old road to be opened up to the public.
+“8. I find that defendant had placed his fence across the old road and excluded the public from its use and that when notified by the overseer of said road to open up said old road and to remove his fence, he refused to do so claiming that he had an order of the Commissioners’ Court authorizing him to fence it up.
+“9. I find that the order of the said court made at its February term, 1904, under which defendant claimed to have fenced said road was a conditional order and only authorized him to fence said road when and not till when he had opened up and established the new road according to law and that defendant had not opened up said new road according to law and that the said new road had never been opened up according to law.
+“10. I find that there was never any notice of the proposed change in said old road posted up along or about the place or route of said proposed change or anywhere else and that the said court at its February term, 1904, acted on said petition asking for said change without any such notice. I further find that no jury of view was ever appointed to view out said proposed new road, and I also find that the Commissioners’ Court or any of its members never viewed or went over said route along which said new road was to be established.
+“11. I find that no notice was served on the defendant notifying him that said court was going to act on said petition presented to it at its August term praying said court to rescind said order made by said court at its February term, but I find that defendant had actual knowledge that said petition had been presented to said court.”
+The conclusions of law are as follows:
+“The Commissioners’ Court has no power to alter, change or discontinue any part of a first or second class road of their county without first appointing a jury of view to view out the new road along such change or without first going over the route of the proposed change in person and viewing out the route of the new part of said road. The Commissioners’ Court has no power or authority to alter or change the route of a first class or second class public road of their county, whereby the said road is placed on worse ground and the road is thereby made longer.
+“The Commissioners’ Court has no power or authority to change, alter or discontinue a first or second class public road of their county, on the petition of citizens freeholders of their county without written notices of such proposed change are posted up along the route of said change.
+“For the want of all the above prerequisites I conclude that the order of the Commissioners’ Court making the change in said road and altering the same and discontinuing a portion of said road was illegal and void and that the defendant had no right to fence or obstruct said old road or any part thereof by virtue thereof and that he has no right to maintain his fence across said road.
+“2. I conclude that the plaintiff is entitled to the relief sought if the equity powers of this court can be invoked to grant the relief.
+“3. I conclude that the plaintiff has an adequate remedy at law. That the overseer of said road should remove the obstructions from said old road and open it up to the public. That the equity powers of this court can not be invoked to grant the relief prayed for. I therefore refuse the injunction prayed for and find for the defendant.
+“4. I conclude that, as the order of the Commissioners’ Court made at its February term, 1904, was a conditional order and depended upon the defendants opening up the new road according to law the said court had jurisdiction of the .matter and of the defendant, and that said court had the right and legal authority to make the order at its August term, 1904, rescinding said order made at its February term, 1904.”
+The findings of fact entitle the plaintiff to the relief asked. If the overseer of the road was seeking the relief of a court of equity to abate and restrain the nuisance, the existence of an adequate legal remedy in his favor would justify a denial of relief by the court. But here the action is by the county whose right of possession of property it holds for public use is unlawfully disturbed and interfered with; and the power of a court of equity in such a case to grant relief was by this court considered and admitted in the case of Llano v. Llano County, 5 Texas Civ. App., 137, although some other remedy might be open to the plaintiff. The principles decided in that case which we have followed in subsequent decisions, if correct, are controlling in the disposition of this case. In the note to Drew v. Geneva, 42 Law Rep. Ann., 814, are cited many cases of similar import.
+The judgment is reversed with instructions to the trial court to render a judgment in appellant’s favor in accordance with this opinion, with such orders as may be necessary to abate the nuisance and to restrain its maintenance.
+Reversed and remanded with instructions.
+Application for writ of error dismissed for want of jurisdiction.
