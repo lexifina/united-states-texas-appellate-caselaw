@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2936"
+decided: "1884-10-22"
+citations: ["2 Wilson 314"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. J. Woodward v. A. Griffith."]
+source_url: "https://static.case.law/willson/2/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1370332
+cites_cases: ["34 Cal. 63"]
+---
+
+# Woodward v. Griffith
+
+## Majority (Willson, J.)
+
+Opinion by
+Willson, J.
+(Transferred from Austin.)
+§ 360. Domestic animals may run at large; owner may recover damages for injury to; case stated. Griffith constructed a barbed wire fence around a lot of land belonging to him, situated in the town of Denton.. This fence was not constructed in the manner prescribed by law. It was not four and one-half feet high, had no board or rail hung to the top wire, and the posts were more than fifteen feet apart. Three of Woodward’s horses, which were running at large in the town, in the night-time became entangled in this fence and were seriously injured by the wire. Woodward brought this suit to recover damages for the injury to his horses. The facts as above stated, and the amount of damage sustained, were proved on the trial. There was a verdict and judgment for the defendant Griffith. Held: At common law, it was the duty of every man to keep his domestic animals within the limits of his own possessions, and if they strayed upon the lands of another, he was chargeable with a trespass. [Oooley on Torts, § 337.] But this rule of the common law is inconsistent with, the legislation of, this state, and is therefore not in force. Here, the owner of domestic animals which are not vicious may permit them to run at large, except where prohibited by some local law, and if, while running at large, they are killed or injured, his right to recover damages is not affected by the fact that they were not upon his premises at the time. It is not made to appear in this case that the horses were vicious, or that they were prohibited by any law from running at large in the town of Denton. Hence, it was not negligence on the part of appellant, nor wrongful, to permit his horses to run at large.
+§ 361. Fence; an owner of land may fence it; barbed wire fence, when lawful. It is also the law of this state, that the owner of land may inclose it with a fence — with a barbed wire fence—if he so chooses. But the law expressly and specifically provides the hind of such fence. It must have three strands of barbed wire, with posts not farther apart than fifteen feet, with a board not less than four inches wide and one-half inch thick, hung to the top wire; or two strands of barbed wire and a board not less than five inches wide and one inch thick; or two strands of wire and a rail; and it must be not less than four and one-half feet high. [E. S. Appendix, p. 12.] In this case it is not pretended that appellee’s fence was constructed in accordance with the requirements of the statute. It was only about three feet high, without either board or rail, and the posts were thirty feet apart.
+§ 362. Negligence in constructing such fence; liability for injury caused thereby. Was appellee, by the construction of this fence upon his own land, guilty of negligence such as would make him chargeable for injuries received by stock running at large, occasioned by contact therewith? We think so. It was made his duty by statute to construct the fence in a particular manner. The object of this requirement was to protect individuals and their property from being injured by barbed wire fences, it being well known that they were dangerous when constructed with posts far apart, and without board or rail, and especially dangerous in the night-time, the wire alone being almost invisible in the dark. “The statute evidently intended that such fences should be so constructed as to be readily seen by persons and animals passing near them, and the danger of contact with them be thus averted.” [Williams v. Mudgett, 2 Tex. Law Rev. 331.] When a duty is imposed by statute, it is negligence to fail to perform such duty. [Cooley on Torts, 650 et seq.] “'If a duty is enjoined upon A. by express statute, and B. is, without fault on his part, injured by reason of the fact that A. has failed to perform it, B. makes out a case of damages against A. by merely showing that A.’s neglect to comply with the statute was the proximate cause of the injury which he sustained.” [2 Thomp. on Neg. 1232, § 5.]
+§ 363. Same; what constitutes negligence. Negligence is the omission to perform a statutoiy duty, or “ it is the omission to do something which a reasonable man, guided by those considerations which ordinarily regulate the conduct of human affairs, would do, or the doing of something which a prudent and reasonable man would not do.” In the use of his own property a man must act with reasonable skill and care to avoid injury to others. He “is bound in law to the use of such care, in the use of his own property, as a prudent man would employ under similar circumstances, if he were himself the owner of the property exposed to damage.” [2 Thomp. on Neg. 1233, § 6; Addison on Torts, § 590; Richardson v. Kier, 34 Cal. 63-75.] We are of the opinion that under the facts and the law of this case, appellant is entitled to recover of appellee damages for the injury done to the horses by the unlawful and dangerous fence. The trial judge misdirected the jury in the law of the case, and refused requested instructions which were correct and applicable to the evidence.
+October 22, 1884.
+Reversed and remanded.
