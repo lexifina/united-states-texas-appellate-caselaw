@@ -1,0 +1,38 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-11-18"
+citations: ["33 Tex. Civ. App. 530"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["First National Bank of Lampasas v. City of Lampasas."]
+source_url: "https://static.case.law/tex-civ-app/33/cases/0530-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4375907
+cites_cases: ["45 Kan., 726", "46 Ohio, 424"]
+---
+
+# First National Bank v. City of Lampasas
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+This is a suit by the city of Lampasas to recover $600 as taxes, and 10 per cent thereon as a penalty, from the . First National Bank of Lampasas. There was a nonjury trial resulting in a judgment for the plaintiff for the" amount sued for, and the defendant has appealed.
+The trial judge filed the following findings of fact:
+“1. I find as a fact that the city of Lampasas is a municipal corporation, duly incorporated under and by virtue of the laws of the State • of Texas, as a city of over one thousand inhabitants.
+“2. I find as a fact the defendant is a corporation duly and legally incorporated as a national bank, and was engaged in doing a banking business on January 1, 1902, with a capital stock of $50,000, of which $200 was invested in real estate mentioned in plaintiff’s petition, and . was also possessed of a surplus fund of $10,000 over and above said $50,000 capital stock, and was doing business and located in the city of. Lampasas, with J. F. Skinner as president, H. N. Key as second vice-president, and J. F. White as cashier.
+“3. I find that on to wit, the 22d day of May, 1902, plaintiff, through its regularly qualified city assessor and collector of taxes, called upon defendant to render its property for taxes for the year 1902, whereupon said defendant, through its cashier, J. F. White, made out under oath and rendered to said city assessor and collector, a rendition containing among other items the following: ‘500 shares of capital stock, etc., value $49,800,’ also the real estate mentioned in the petition of the value of $200.
+"4. I find that said city assessor, in accordance with law, delivered to the board of equalization of said city the various lists of property rendered for taxes for said year 1902, among which was the list so rendered by J. F. White as cashier of defendant.
+“5. I find as a fact that said board of equalization were duly qualified to act as such, and did thereafterwards, on or abou^t July 23, 1902, enter an order placing the valuation of said 500 shares of capital stock so rendered by defendant at the sum of $59,800.
+“6. I find as a fact that said valuation was ascertained and found by said board by considering the valuation of said stock as rendered, together with the value of said surplus fund of $10,000; and I further find that said board considered under all the evidence that said 500 shares of stock so rendered was of the fair and reasonable value of $59,800 on the 1st day of January, 1902. And I further find that said 500 shares of stock was in fact of the fair and reasonable market value of $5.9,800 on said 1st day of January, 1902.
+“7: I find as a fact that after determining to raise said valuation of said stock from $49,800 as rendered to $59,800, the real value thereof, said board of equalization caused the defendant to be duly notified of said proposed increase in valuation, and thereupon the said defendant appeared before said board, and after a full hearing said valuation as changed and raised by said board, was ordered by said board to bel placed on the tax rolls of said city for the year 1902, which was accordingly done. I further find that on August 9, 1902, said rolls were duly approved by said board, said rolls then showing that said 500 shares of stock were valued at $59,800, and the real estate of said defendant was valued at $200, all being assessed in the name of the First National Bank of Lampasas, and making a total valuation of $60,000.
+"8. I find that the city council of the city of Lampasas duly levied the following taxes for the year 1902: On each $100 of assessed values as shown by the assessment rolls, viz: For current expenses of said city, .25 on each $100 assessed valuation. For permanent improvement fund, .25 on each $100 assessed valuation. For support, etc., free schools of said city, .35 on each $100 assessed valuation. Maintainance, etc., of streets and alleys, .15 on each $100 assessed valuation, making 100 cents on each $100 valuation of property as shown by as-> sessment rolls for the year 1902. And I find that the aggregate taxes due to plaintiff by defendant amounted to the sum of $600 for the year 1902, and was due and payable oh October 1, 1902.
+“9. I find as a fact that defendant has failed and refused to pay the same on or before January 31, 1903, and that the same now1 remains wholly due and unpaid.”
+In addition to these findings it was shown by undisputed testimony that the shares of stock referred to in the rendition were those issued by the defendant bank, and not the stock of some other corporation. It was also shown by undisputed testimony that on January 31, 1903, the defendant tendered to the plaintiff’s tax collector the sum of $500, "in payment of the taxes due by it, which amount said collector refused to accept, because the tax rolls showed the amount of the defendant’s taxes to be $600.
+• Opinion.—It is settled by decisions of the Supreme Court of the United States that it is not within the power of a State to subject the property of national banks to taxation without the consent of the Federal Congress. The only provision of the Federal statutes which authorizes such taxation, is section 5219 of the Revised Statutes of the United States, and that permits such taxation as against such banks upon real estate only. It authorizes State taxation of the stock of such banks as against the owners of such stock, but not as against the banks. In harmony with that statute, the Legislature of this State has made full provision for the assessment and collection of taxes upon national banks stock from the owners of such stock, and has made no attempt to compel national banks to pay taxes on such property. Rev. Stats., arts. 5079, 5079a, and 5080. Hence we are of opinion that the bank was under no legal obligation to render and pay taxes on the property in question. These views are supported by authority. Miller v. First National Bank, 46 Ohio, 424; First National Bank v. Fisher, 45 Kan., 726.
+However, as the bank voluntarily rendered the property for taxation, and states in its answer that it is willing to pay taxes thereon according to its rendition, we shall not, as we otherwise would, hold it not liable for any portion of the taxes on the bank stock. But not being originally liable for taxes on the stock, we are of opinion that the board of equalization could not, without its consent, augment its conceded liability by adding other personal property to its rendition, or raising the value of that which had been rendered.
+We are also of the opinion that, as the bank tendered payment of the taxes due, according to its rendition before the time fixed by the statute for the accrual of the penalty, the bank is not liable for the penalty.
+Therefore, the judgment appealed from will be reformed so as to reduce the appellee’s recovery from $600 to $500, together with the costs of the District Court. The costs of the appeal will be taxed against the appellee.
+Judgment reformed and affirmed.
+Reformed and'affirmed.
+Application for writ of error dismissed.
