@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-04-10"
+citations: ["26 Tex. Civ. App. 194"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Wills Point v. L. W. Williams."]
+source_url: "https://static.case.law/tex-civ-app/26/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2878160
+---
+
+# City of Wills Point v. Williams
+
+## Majority (BOOKHOUT, Associate Justice.)
+
+BOOKHOUT, Associate Justice.
+This was a suit for damages instituted by the appellee, L. W. Williams, against the appellant, the City of Wills Point, alleging that the incorporation of said city under title 18, Revised Statutes, providing for the incorporation of cities and towns exceeding 1000 population, and of less than 10,000 population, and alleging that on the 2d day of March, 1900, while driving his team hitched to a two-horse wagon loaded with wood, over the streets of appellant, he drove on a culvert over a small branch, which said culvert was rotten, had holes in it, and had planks off of it, and that with no knowledge of the condition of the culvert, and while driving in a careful manner, one of his wagon wheels fell into one of the holes, causing his wagon to be suddenly wrenched to one side and precipitating appellee to the ground, whereby he was “injured -in the spine, back, hips and legs, shoulder and head, and neck hands and arms, and was hurt internally, and suffered great bodily pain and mental anguish,” to his damage in the sum of $5000. Further alleging that the condition of the culvert had been dangerous for a long while prior to the date of the injury, and that the city marshal and ex officio street commissioner of appellant had full notice of the defective condition prior to the accident, and had negligently failed to repair same; that at the time of the injury appellee was 61 years old, and was stout and healthy and able to do any character of m arm al labor, but that such injury so permanently and seriously injured bim as to incapacitate him for any future labor.
+Defendant answered by general demurrer, general denial, and alleged that appellant had no notice prior to the accident, either actual or constructive, of the defective condition of the culvert; further answering, appellant alleged that if appellee was inured at all, it was the result of appellee’s own negligence in attempting to cross a culvert which he knew to be defective, when there was a roadway on each side of the culvert, both of which were passable, convenient, and used by the general public, and of the existence of which the appellee had full knowledge.
+Trial by jury was had on the 1st day of November, 1900, and a verdict was returned for appellee, assessing his damages at $625. From a judgment overruling appellant’s amended motion for a new trial, this appellant duly excepted, gave notice of appeal, and has perfected its appeal to this court.
+In its first assignment of error appellant complains of the action of the court in sustaining exceptions to and in excluding from the jury certain statements contained in the certificate made by plaintiff, and presented to the American Benevolent Association for the purpose of obtaining an accident benefit from that company, in which plaintiff, at the time of the injury to himself, held a policy.
+In this certificate this question, among others, is asked, “For what length of time do you claim benefits?” To which he answered: “Two weeks, from March 2, 1900, to March 17, 1900, which, when paid, shall be in full discharge and final settlement of all claims which I have or may have, on account of the personal injury aforesaid.”
+The plaintiff had testified as a witness in the case, and upon cross-examination he was asked if he made this certificate. He stated that he did, and that the statements therein contained were true. He was not further interrogated in reference to the statements. The statement did not in any manner tend to contradict the witness. It was not, therefore, admissible for that purpose. We are not advised as to the terms of plaintiff’s contract with the insurance company. It may have been a condition of that contract that the beneficiary was not entitled to benefits unless there was a total disability upon his part to perform any labor, and he may. have been unwilling to swear that he was totally disabled from performing any manual labor for longer than two weeks. In the condition of the record, we can not say that there was error in excluding this statement. This holding disposes also of the third assignment adversely to appellant.
+The remaining assignments of error complain of the overruling of the motion for new trial, because the evidence is insufficient to support the verdict, and because the verdict is excessive. There was evidence from which the jury could find that the accident was the result of negligence on the part of the city in maintaining a defective culvert in one of its streets, and in failing to repair the same after knowledge of its defective condition, and that by reason thereof plaintiff was injured and thereby sustained damage in the amount found by the jury, and that at the time" of the accident plaintiff was not guilty of contributory negligence. In deference to the verdict of the jury we find these facts. There being no error in the record the judgment is affirmed.
+Affirmed,
+Writ of error refused.
