@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "857"
+decided: "1893-11-22"
+citations: ["5 Tex. Civ. App. 60"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Western Union Telegraph Company v. S. M. and S. D. Karr."]
+source_url: "https://static.case.law/tex-civ-app/5/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 227402
+cites_cases: ["10 Wis., 388", "3 R. I., 88", "7 Cal., 118"]
+---
+
+# Western Union Telegraph Co. v. Karr
+
+## Majority (HEAD, Associate Justice.)
+
+HEAD, Associate Justice.
+The institution of this suit, by filing the original petition and the issuance and service of the citation, within sixty days after the messages were sent, was a substantial compliance with that clause of the contract which provides, that “ the company will not be liable for damages in any case where the claim is not presented in writing within sixty-days after sending the message.” Thomp. on Elec., sec. 256; Tel. Co. v. McKinney, 2 Willson’s C. C., sec. 647.
+In the case last cited, it is held to be necessary to file an amended petition in cases where the institution of the suit is relied upon to show a compliance with this part of the contract, this requirement being treated as a condition precedent, a compliance with which is necessary to be alleged and proven by the plaintiff in order to make out his case. We believe a noncompliance with this provision has generally been regarded in the light of a defense, to be interposed and established by the one relying thereon, and if this be correct, there could be no necessity for filing an amendment, as required by the Court of Appeals, in order to make plaintiff’s cause of action complete. But be this as it may, in this case the amendment was filed and the trial had upon the pleading as so amended.
+We find no error in the action of the court in permitting S. H. Purcell, the addressee of one of the messages, to testify that if he had received it in time, he would have met Mrs. Karr at the train and assisted her to his house. This was entirely proper, if not necessary, to show that injury had been sustained by the nondelivery.
+The court did not err in refusing to give the charge requested by appellant, to the effect, that if the messenger boy 11 made numerous and repeated inquiries in Midland * * * as to the whereabouts of S. H. Purcell, and that said inquiries were prosecuted from day to day until said telegrams were delivered to him; and if they further believe that said inquiries were made of the merchants in Midland, and of such other persons who were likely to be cognizant of the whereabouts of said Purcell,” etc.
+This charge directed the attention of the jury too pointedly to the particular acts of diligence therein relied upon, and we think would have been a charge upon the weight of the evidence. It should have been so framed as to leave the jury to decide, upon a consideration of all the evidence, whether or not appellant had used ordinary diligence to make delivery of the message. In this case the evidence was undisputed, that the addressee was well acquainted, and for three years had resided, in Midland, and it is not pretended that the messenger boy looked for him at his house; and we believe a wrong impression would have been conveyed to the jury had they been told they could find appellant free from negligence under the circumstances detailed in the requested charge as applied to the facts developed by this record.
+The court, in the charge given the jury, perhaps, required of appellant a higher degree of diligence than is imposed upon it by the law, and appellant seeks to take advantage of this in its proposition under the assignment of error to the refusal of the requested charge above set forth; but this assignment only challenges the refusal of a charge requested by appellant, and not the correctness of a charge already given by the court.
+We think the court should have either required appellees to remit the exemplary damages found by the jury, or should have granted appellant a new trial, because there was no evidence to sustain a verdict against it for such damage. It is conceded by appellees that in this State the principal is not liable in exemplary damages for the negligence of his agent, unless authorized or ratified by him; and it is only sought to hold appellant in this case for its own alleged negligence in employing the agents who caused the injury.
+The allegations of appellant’s negligence in this respect are certainly very general, but we have not found it necessary to decide as to whether or not the court erred in refusing to sustain exceptions thereto for that reason, because a careful examination of the record fails to disclose any evidence to sustain such allegations, if held to have been properly made. There is no evidence that either the operator or messenger boy had ever been negligent before or since their employment by appellant, except in this particular instance, much less that appellant either had or should have had notice of such negligence at the time it engaged them. Under these circumstances, we think it clear no case was made for exemplary damages.
+Delivered November 22, 1893.
+We think the negligence of appellant’s servants in failing to deliver these messages was amply proven, and that it is legally liable for whatever actual damage resulted to appellees therefrom. As a result of the failure to deliver the first message, Mrs. Karr, with her 4-year-old child and a heavy valise, was compelled to find her way on foot from the depot to her friend’s house, a quarter of a mile distant, at 12 o’clock at night, in company with a strange gentleman whom she had requested to assist her, instead of being met at the train by her friend, as would have been the case had appellant performed its duty; and by the failure to deliver the second message, she was exposed to severely cold weather from Midland to Marienfield. Under these circumstances, we are unable to say that a verdict for 8100 actual damage found by the jury is excessive, although no actual sickness resulted from appellant’s acts.
+The judgment of the court below will be reversed and cause remanded for a new trial, unless appellees, within twenty days, shall file in this court a remittitur of the exemplary damages allowed, in which case it will be affirmed as to the actual damage.
+Affirmed, remittitur having been filed.
