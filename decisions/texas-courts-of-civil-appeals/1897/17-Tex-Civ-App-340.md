@@ -1,0 +1,37 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1897-11-24"
+citations: ["17 Tex. Civ. App. 340"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["International & Great Northern Railway Company v. Orin Davis."]
+source_url: "https://static.case.law/tex-civ-app/17/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 258659
+cites_cases: ["105 Mo., 270", "19 L. R. A., 340", "22 Mo. App., 60", "25 S. W. Rep., 136", "3 S. W. Rep., 720", "33 N. E. Rep., 116", "34 S. W. Rep., 677", "38 S. W. Rep., 304", "50 Am. Rep., 783", "53 Fed. Rep., 224", "71 Ind., 523", "71 Ind., 533", "74 Fed. Rep., 499", "9 Ill. App., 388"]
+---
+
+# International & Great Northern Railway Co. v. Davis
+
+## Majority (NEILL, Associate Justice.)
+
+NEILL, Associate Justice.
+This action was brought by the appellee to recover from appellant damages sustained by him by reason of appellant’s negligent failure to have a car properly heated, upon which the appellee was traveling in the employment of the Hnited States government as its postal clerk.
+As his cause of action, the appellee, among other things, alleged that on September 38, 1896, he was a duly commissioned and regularly acting Hnited States postal clerk or route agent, employed by the Hnited States government, and by it assigned to the duty of accompanying mails carried upon the cars of defendant from the city of San Antonio to Long-view, in the State of Texas. That under the law and its contract with the government it was the duty of said defendant to carry said mails upon its cars, and also to carry some one in charge of said mails free from any compensation other than is received from the Hnited States government. Thht it was its further duty to provide sufficient cars, with proper fixturcs and furniture and properly heated and lighted, for the use of route agents or postal clerks, and to enable them comfortably to occupy said cars and distribute the mails, without any specific charge therefor.
+The appellant answered, (1) by general demurrer; (2) by specially excepting upon the ground that the allegations in the petition did not 'show that in September ordinary care required defendants to provide a heated ear; (3) by general denial; (4) that appellee was a trespasser upon the car of defendant, and it owed no duty to him; and (5) contributory negligence, in that the appellee failed to provide himself with an overcoat or wrap to protect him from the cold after he discovered that the car was not heated.
+The appellant, defendant below, demurred to plaintiff’s evidence, and the demurrer being overruled, the issue as to the amount of damages was alone submitted to the jury, who returned a verdict in favor of the appellee for $870, upon which the judgment was entered from which this appeal is prosecuted..
+Oonclusions of Fact.—The uncontradicted evidence shows:
+1. That on September 28, 1896, the appellee was and had been for two years prior thereto in the.service of the United States government as a postal clerk, employed in the discharge of his duties upon the trains of appellant, in carrying the mail from the city of San Antonio to Long-view, Texas.
+2. That upon said day and for two years prior thereto the appellee was recognized and received by appellant upon its mail coach running between the cities aforesaid, as a United States postal clerk, and was entitled to be carried as such in the discharge of his duty on said train.
+3. On September 28, 1896, the appellee was assigned by the United States government to the duty of accompanying the mails carried upon appellant’s cars from the city of San Antonio to Longview, and to take care of said mail and see that it was properly distributed at the various postoffices on the line of said road between said points, and to perform generally all the duties required by law of United States postal clerks or route agents.
+4. September 28, 1896, was a cold and damp day, and the car of appellant in which the appellee was riding in the discharge of his duties as postal clerk was not heated in any manner. The appellee notified the appellant that the car was unheated, and, through its conductor in charge of the train, informed it that it was uncomfortable and disagreeable for him to ride in the car on account of its being so cold, and requested appellant to provide it with heat so as to make it comfortable.
+5. The appellant, after having been so informed and requested, negligently failed to heat said car.
+6. That by reason of said negligence of appellant, the appellee contracted a severe cold and became sick and suffered thereby great pain and discomfort, and incurred medical expenses, to his damage in the amount found by the jury.
+7. The appellee was guilty of no negligence contributing to the injury thus occasioned him by the negligence of appellant.
+Conclusions of Law.—1. The petition of appellee stated a good cause of action as against the demurrer and exception of appellant.
+2. It was the duty of appellant to appellee to keep the car in which the latter was discharging his duty so heated as to make it safe and comfortable for him; for the road having accepted the appellee and received him on its cars as a United States postal clerk, owed him the same duty it owed to a passenger on its train. Railway v. Wilson, 79 Texas, 313; Taylor v. Railway, 38 S. W. Rep., 304; Railway v. Hyatt, 34 S. W. Rep., 677; Hastings v. Railway, 53 Fed. Rep., 224; Railway v. Hutchinson, 33 N. E. Rep., 116; 2 Am. and Eng. Encyc. of Law, 744; 19 L. R. A., 340; Hutch, on Carr. (Mechem’s ed. 1891), sec. 515d. Nor was it necessary for thé appellee to show a written contract between appellant and the United States to carry their mail. The fact that it carried and had been carrying such mail continuously for a number of years was sufficient proof of the contract.
+3. There was no error in the court’s overruling appellant’s demurrer to the evidence. The evidence not only tended to but established fully the appellee’s cause of action. Railway v. Templeton, 87 Texas, 46, 25 S. W. Rep., 136; Dangerfield v. Paschal, 11 Texas, 579; Bradbury v. Reed, 23 Texas, 260; Pitt v. Storage Co., 4 White & W. C. C., sec. 295; Holliman v. Griffin, 37 Texas, 453.
+The sixth, seventh, eighth, tenth, thirteenth, fourteenth, fifteenth, seventeenth, eighteenth, nineteenth, twentieth, twenty-first, twenty-sec- and, twenty-third, and twenty-fifth assignments of error complain of the admission of testimony over the appellant’s objection. If these assignments were not waived by the demurrer to the evidence, we should hold that no one of them is well taken, for even if the evidence excepted to had gone before the jury, the appellant could not have been prejudiced by it, though it should be conceded it was erroneously admitted. It seems, however, upon principle and authority, that a demurrer waives all objection to the admissibility of the evidence to which it is addressed, and amounts to an admission that such evidence is complete, that the witnesses are entitled to credit, and that all inferences favorable to the opposite party which may reasonably be drawn from the evidence are true. Railway v. Templeton, supra; 44 Cent. Law Jour., 514; Chapize v. Bane, 1 Bibb (Ky.), 613; Miller v. Porter, 71 Ind., 523.
+There is no error in the judgment appealed from, and it is affirmed.
+Affirmed.
