@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-04-20"
+citations: ["35 Tex. Civ. App. 542"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Missouri, Kansas & Texas Railway Company of Texas v. Conrad Baker."]
+source_url: "https://static.case.law/tex-civ-app/35/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1977577
+---
+
+# Missouri, Kansas & Texas Railway Co. v. Baker
+
+## Majority (EIDSON, Associate Justice.)
+
+EIDSON, Associate Justice.
+Appellee brought this action against appellant to recover damages for personal injuries sustained while engaged at work for appellant in its shops at Denison, caused by a heavy iron car wheel falling on him through the negligence of appellant in not providing a reasonably safe place for him to work. A trial before a jury resulted in a verdict and judgment in favor of appellee for $5000, to reverse which this appeal is prosecuted.
+Appellant’s first assignment of error complains of the action of the court in refusing to strike out the answer to the third direct interrogatory in the deposition of appellee. The interrogatory objected to was as follows: “If you had not received the assurance from Mr. Coppen that the floor would be fixed or repaired, would you have continued working there ?” The answer to this interrogatory was as follows: “If Coppen had not promised that the floor would be fixed I would not have gone on working there. It was right in the way of where I had to roll the wheels, taking them in and out.”
+The objection to the interrogatory was that it was leading and suggestive. We are inclined to the opinion that the interrogatory was not subject to the objection interposed. An interrogatory is not necessarily leading because it admits of a direct affirmative or negative answer. It must also suggest the desired answer. This interrogatory did not do this. International & G N. Ry. Co. v. Dalwigh, 92 Texas, 655; Lott v. King, 79 Texas, 292. However, there is another reason why the action of the court was not error, because substantially the same testimony as that complained of was admitted without objection. This witness, in reply to the fourth interrogatory embraced in his deposition, answered : “I did regard the hole as dangerous after the wheel went into it and fell over, two or three days before I got hurt. I thought so then because the wheel fell over, and if it had fallen on anybody it would have hurt them, and it would have hurt me if it had fallen on me. I would have quit the place, if I had not thought he would fix it.” Evidently the appellant was not injured by the admission of the answer to the interrogatory objected to, and the court did not err in refusing to strike out such answer.
+The charge of the court, when considered and construed as a whole, is not subject to the criticisms of appellant embraced in its second and third assignments of error. The court in its general charge required the jury to believe, before they could find in favor of appellee, that he believed that the foreman would comply with his promise to repair the. defect in the floor, and that he relied upon such promise to repair; and the charge also instructs the jury that where a promise to repair was made and the employe has reasonable ground to believe and does believe that same will be complied with, and if, under all the circumstances, an ordinarily prudent person would continue in said service and rely upon such promise, then that such employe did not by continuing in the employment assume the risk incident to the discharge of his duties in performing his work at such place for a reasonable time after such promise is made for such defects to be repaired.
+We are of opinion that the charge of the court was correct, and sufficiently full and specific as to the matters complained of; but if it was not sufficiently specific and full, being correct as far as it went, appellant should have requested special charges covering the points which it claims were omitted from the general charge. It was not necessary, in order to relieve appellee of the assumption of the risk caused by the defect in the floor complained of while continuing in the service of appellant, that the promise to repair same should have fixed any definite time within which such repairs would be made; and it was not necessary that they should in fact be made within any specified time. In all such cases the master has a reasonable time within which to comply with such promise, and until it is or should be manifest to the servant that the promise to repair would not be complied with, and that the defect would not be remedied, a further continuance by him in the master’s service will not impose on him the assumption of the risk occasioned by such defect. The question as to what would be a reasonable time, under the particular facts of this case was a question of fact for the jury to determine, and this question was properly and correctly submitted to the jury.
+This disposes of all of the assignments of error presented in appellant’s brief. There is no complaint made as to the sufficiency of the testimony to sustain the verdict of the jury. However, we have examined the testimony in the record, and it appears to be amply sufficient to support the judgment of the court below.
+Finding no reversible error in the record, the judgment is affirmed.
+Affirmed..
+Writ of error refused October 12, 1904.
