@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1807"
+decided: "1884-11-15"
+citations: ["17 Tex. Ct. App. 161"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gilpin Heskew v. The State."]
+source_url: "https://static.case.law/tex-ct-app/17/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 139500
+cites_cases: ["54 Vt., 112"]
+---
+
+# Heskew v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+In selecting a jury from the lists furnished him, defendant had in striking from the lists exhausted his tea peremptory challenges. Amongst the names remaining upon the list of jurymen found to be chosen was that of E. F. Fisher. When, the jury chosen was called to take their places in the box, it was found that the juror Fisher was not present, and defendant insisted that said juror should be brought in, because his challenges had beea exhausted and because Fisher had been chosen. In his explanation to the bill of exceptions the learned judge says it was ascertained that the juror Fisher was absent and sick, and when, upon an order from the court, another juror was called to complete the panel in place of Fisher, and was accepted by the district attorney for the State, the court informed defendant’s attorney that if he was not satisfied with such juror he might exercise the right oi challenge upon him, and that the court would stand him aside and get another ¿ and defendant and his counsel refusing to say anything, the panel was completed with the new juror.
+Under these circumstances, there being no objection to the new juror, we cannot see that defendant’s rights have been disregarded, or his interests prejudiced. “The right of peremptory challenge is not of itself a right to select, but a right to reject jurors It excludes from the jury those whom the prisoner objects to, u\.t ,1 he exhausts his peremptory challenges. The right, therefore, of ;hallenge does not necessarily draw after it the right of selection, but merely of exclusion. It enables the prisoner to say who shall not try him, but not to say who shall be the particular jurors to try him.” (Loggins v. The State, 12 Texas Ct. App., 80; Turpin v. The State, 2 Grim. Law Magazine, 532; 54 Vt., 112.) It is true that, Fisher’s name, being left upon the list after all challenges were exhausted, he was in contemplation and by operation of law one of the chosen jurymen, yet he had neither been impaneled nor sworn; and because such was the effect of the law that was no reason why, when he was found tc he absent, sick and unable to sit as a juryman, his place should not be supplied by another juror in every respect competent. To hold otherwise would in such cases unnecessarily delay if it did not entirely defeat a trial. Had the juror been impaneled and sworn, the rule would be different. (Sterling v. The State, 15 Texas Ct. App., 246; Hill v. The State, 10 Texas Ct. App., 618; Ellison v. The State, 12 Texas Ct. App., 557.)
+We are of opinion that the court erred in refusing to permit defendant to prove that, prior to his taking possession of and marking and branding the animal, he had informed the witness Dismukes of the circumstances concerning the purchase of the same, and that he asked and followed the advice of Dismukes in taking and branding the animal. Whilst these declarations might not come strictly within the rule of res gestee, and not be admissible as such, still they tended to sho'w a taking upon a claim of right and an open assertion pf right. “A party may in certain cases show by his contemporaneous statements that he was at the particular time not acting illegally.” (Wbart. Grim. Evid. (8th ed.), § 692.)
+Again: the defendant offered to prove by the witnesses Mooney and Botts that, two days after Glover had claimed and gotten the animal from Ollison, to whom defendant had loaned him to work, he, defendant, stated to the witnesses that he had bought the animal from one Goodwin, and took it believing he had a fair and honest claim to it. On objection by the prosecution, the court refused to allow the defendant to introduce this evidence. Defendant, at the time he made this statement, was for the first time apprised of the fact that Glover had set up a claim to and had taken the animal from Ollison. We are of opinion he was entitled to the evidence. It was an explanation of his possession of the animal when the fact that his right of possession was questioned and controverted was for the first time made known and brought home to him.
+When the possession of recently stolen property is relied on as inculpatory of the accused, his explanation thereof is admissible in his behalf provided it was given on the first occasion for any explanation by him. It is not material even that the first occasion did not present itself until three or four weeks after he had parted with the possession. (Anderson v. The State, 11 Texas Ct. App., 576; Lewis v. The State, ante, p. 140.)
+But, as was said in Taylor v. The State, 15 Texas Ct. App., 356: “To be admissible, the party must be in possession of the property, or the explanation must be made when arrested for the theft, or when charged or informed that he is suspected of the theft. And another rule must be borne in mind, which is that the exnlanation must be made when the party is first directly or circumstantially called upon to explain.” (See, also, Castellow v. The State, 15 Texas Ct. App., 551.) The facts shown, in our opinion, bring this case within the rule.
+Other errors are complained of, but, being of a character not likely to arise on a second trial of this case, we deem it unnecessary to discuss them. The judgment is reversed and the cause remanded.
+Reversed and remanded.
+[Opinion delivered November 15, 1884.]
