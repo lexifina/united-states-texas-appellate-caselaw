@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1882"
+citations: ["12 Tex. Ct. App. 118"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John O’Bryan v. The State."]
+source_url: "https://static.case.law/tex-ct-app/12/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 131378
+---
+
+# O'Bryan v. State
+
+## Majority (Winkler, J.)
+
+Winkler, J.
+The appellant objected to being forced to select a jury from .an array of jurors which had been selected by jury-commissioners who had been appointed at the Hay term of the court, and not at the January term of the court. The objection to the jury is presented in several different forms, which are shown by bills of exception and mentioned in the first four assignments of error.
+It is provided by law that if from any cause the jury-commissioners should not be appointed at the time prescribed by law, or should fail to select jurors as required, or should the panels selected be set aside, or the jury-lists returned into court be lost or destroyed, the court shall forthwith proceed to supply a sufficient number of jurors for the term under the provisions of this title, and may, when it may be deemed necessary, appoint commissioners for that purpose. Rev. Stats. art. 3023. It is further provided that “the County Court shall, at the January and July terms of said court in each' year, appoint three persons to perform the duties of jury-commissioners in said court, who shall possess the same qualifications as jury-commissioners in the District Court, and the same proceedings shall be had in the County Court by the officers thereof and by the commissioners for procuring jurors as are required by this title for similar proceedings in the District Court, except as modified by the provisions of this chapter.” Rev. Stats. art. 3037. It is true that art. 3022; is found in chapter two of title 57, while article 3027 is. found in chapter three of the same title. These two-articles of the Revised Statutes are susceptible of being-construed in harmony with each other as being in pari materia.
+In fact such construction is rendered necessary from the fact that the County Court would be without remedy if from any cause the jury-commissioners should not be: appointed at the time prescribed, or should fail to select-jurors as required, or the panels selected should be set. aside, or the jury-list returned into court be lost or destroyed, unless the provisions of article 3022 apply as well to the County as to the District Court. Hence we conclude-it was competent for the county judge to make an appointment of three persons as jury-commissioners at the. May term thereof, and that it was the duty of the county judge to ascertain whether the emergency had arisen which required him to act; and it must be presumed, in the absence of any showing to the contrary, that some one of the causes existed which are enumerated in article 3022, and which rendered the action of the court at the time a proper exercise of his discretionary powers. We. conclude, therefore, that the court did not err in refusing to set aside the array of jurors selected by jury-commissioners at the May term of the County Court.
+This primary question being settled adversely to the views contended for by the "defendant’s counsel, it carries with it the other questions raised to the jury. Ho challenge to the array shall be entertained when the jurors have-been selected by jury-commissioners under the provisions, of title 57, Rev. Stats. art. 3075. Jurors selected by jury-commissioners in the County Court apply to both civil and criminal cases. Rev. Stats. art. 3029. It should be-borne in mind that the subjects mentioned in these articles of the Revised Statutes have no relation to challenges. of an individual juror either for cause or peremptorily..
+It is complained that the court refused to give to the jury a certain special instruction requested by the defendant’s counsel, and refused to sign officially his views for refusing the instruction. It is true in cases of felony correct practice requires not only that the general charge given by the court, but also those given or refused at the request of either party, shall be certified by the judge and filed among the papers of the case, and shall constitute a part of the record on appeal. Code Crim. Proc. art. 680. But in misdemeanors the court is not required to charge the jury except at the request of counsel on either side. Id. art. 681. In the present case, however, no injury has resulted to the appellant, for the reason that the refused charge appears in the transcript as well as the reasons given by the judge for refusing to give it to the jury; which were proper and sufficient. Other minor matters are complained of which do not tend to show that the appellant was deprived of any substantial right guarantied to him by law.
+Finding no error in the judgment it is affirmed.
+Affirmed.
