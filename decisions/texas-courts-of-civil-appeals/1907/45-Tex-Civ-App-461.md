@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1907-03-09"
+citations: ["45 Tex. Civ. App. 461"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George S. Berry v. J. A. Joiner et al."]
+source_url: "https://static.case.law/tex-civ-app/45/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4390846
+---
+
+# Berry v. Joiner
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+Appellant declared on a promissory note executed by the appellees, J. A. Joiner and his father (the latter signing as surety) August 17, 1904, payable to order of First National Bank of Merkel, Texas, eight months after date, in the sum of $1,188. When the note was assigned to appellant, who was an officer of the bank, it was past due. Appellees admitted the execution of the note, but pleaded a discharge of their liability in a settlement made between J. A. Joiner and the bank October 13, 1904. The right of appellant to recover was admitted unless defeated by this settlement. There was a jury trial, which resulted in a verdict and judgment in favor of the appellees, from which this appeal is prosecuted.
+Clearly the court did not err in holding that appellees, who had fully assumed the burden of proof, were entitled to the opening and conclusion in the argument. If the court erred in admitting hearsay testimony to prove that appellant had refused to answer interrogatories propounded to him by the appellees it was' harmless, since this refusal was admitted by appellant, who was permitted to fully explain it to the jury. Besides, in making the ruling complained of the court seemed to be in doubt and only ruled tentatively, requesting counsel for appellant to again call his attention to the matter, which they failed to do.
+The court did not err in refusing to postpone the trial to enable appellant to send for the books of the bank, since he offered no excuse for not obtaining these books before going into the trial—not even pleading surprise. Ho motion in writing or under oath was made, but only an oral request for postponement. In his brief it is stated that “appellees raised the issue as to the correctness of the account in the said bank by pleadings filed the day of the trial.” It is not even shown that this issue was thus for the first time raised. On the contrary, the case was tried on an amended answer, which presumptively but stated in better form what had been previously alleged. Besides, appellant went to trial without objection in the face of the allegations in the amended pleading, thus taking chances on the-result of the contest without the bank books, which were in his possession, he still being president of the bank. Hor did the court err in excluding the statement from the books of the bank of the account of J. A. Joiner with the bank, the books themselves being the best evidence.
+All the assignments are disposed of in the foregoing conclusions except the fifth and sixth, in which complaint is made of the verdict; and these too we axe constrained to overrule, since the case was one of conflicting evidence. It is to be regretted, however, that the jury did not have the bank books before them, since these books might have shown that J. A. Joiner was mistaken, as seems not improbable, in the version given and so positively stated in his testimony of his transactions with the bank, particularly that of August 17, 1904, in which he claimed that the note declared on had been executed in lieu of one for $1,100 not then due and not then surrendered to him because it was held by a bank in Hew York, where it had been discounted; and that of the settlement of October 13, 1904, which he claimed included the note declared on, though it was not surrendered to him, it being held by a bank at Abilene, Texas, and in which the note for $1,100, with other smaller notes, was cancelled and returned to him. The contrary and seemingly more reasonable version was that the principal of tire note declared on was placed to the credit of J. A. Joiner in the bank' and that he continued to be liable on the previous note till it was cancelled in the October settlement, and that that settlement did not include the note in controversy. There were, however, some circumstances which corroborated the version of Joiner. But if he had not been corroborated, in the absence of the books of the bank, which might have demonstrated which of the conflicting versions was correct, the production of which it was appellant’s duty to make, we would not be warranted in substituting our judgment for that of the jury on an issue made by the conflicting statements of witnesses whp appeared and testified before them.
+It follows that the judgment must be affirmed.
+Affirmed.
