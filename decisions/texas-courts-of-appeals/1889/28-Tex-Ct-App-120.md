@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3189"
+decided: "1889-10-23"
+citations: ["28 Tex. Ct. App. 120"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed. C. Kelly v. The State."]
+source_url: "https://static.case.law/tex-ct-app/28/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4468052
+---
+
+# Kelly v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+This appeal is from a judgment of conviction for theft of property of value over twenty dollars, with punishment assessed at seven years imprisonment in the State penitentiary. There is no statement of facts in the record, and but one question is presented for decision on this appeal. That question is as to the separation of one of the jurors from his fellows, and is made fully to appear by appellant's motion for a new trial, with accompanying alfidavits in relation thereto.'
+One of the statutory grounds for a new trial is “where from misconduct of the jury the court is of opinion that the defendant has not received a fair and impartial trial, and it shall be competent to prove such misconduct by the voluntary affidavit of a juror; and a verdict may in like manner in such cases be sustained by such affidavit.” Code Crim. Proc., art. 777, subdiv. 8. Separation of a jury has generally been considered a species of “misconduct” coming within the operation of this rule. Early v. The State, 1 Texas Ct. App., 248. It is expressly provided by our code that “after the jury has been impaneled to try any case of felony they shall not be permitted to separate until they have returned a verdict, unless by permission of the court, with the consent of the attorney representing the State, and the defendant, and in charge of an officer.” Code Crim. Proc., art. 687.
+The affidavit of. the juror Bays, whose separation from the rest of his fellows is the matter complained of, states that after the jury had been impaneled and sworn, the indictment read, the defendant had entered his plea of not guilty, and one of the State’s witnesses had been examined, the court adjourned until 9 o’clock the next morning. It seems that he understood the court to excuse the jury until that time, and he immediately separated from his fellows and was gone from that time—that is, 5 o’clock p. m. of April 1, until 9 o’clock a. m. of April 2— some fifteen or sixteen hours, including a whole night, having intervened. In an affidavit made by the officer having charge of the jury, the officer says that the juror Bays “ did make his escape and leave the rest of the jury, and remain separate and away from (his) care and keeping, and from the balance of the jury; and that he does not know where the said Bays was, or with whom he associated during that time.” Bays does not say in his affidavit where he was, nor with whom he associated. He states, however, that “ no one said anything to him about the case, and that his separation in no manner had anything to do with, or in any manner influenced him in finding a verdict.”
+“The mere separation of a jury is not cause for a new trial. In addition to a separation in contravention of law (Code Crim. Proc., art. 687) it must be further made to appear that, by reason of such separation, probable injustice to the accused has been occasioned.” Ogle v. The State, 16 Texas Ct. App., 361; Defriend v. The State, 22 Texas Ct. App., 570; Boyett v. The State, 26 Texas Ct. App., 689; Willson’s Crim. Stats., sec. 2372. “To warrant the setting aside of a verdict and the granting, of a new trial for irregularities and misconduct of a jury, it must be either shown as a fact, or presumed as a conclusion of law, that injury resulted from misconduct. When it is clear that the party against whom the verdict has been found was not injured by the misconduct, the verdict will not be disturbed.” People v. Lyle, Cal. Sup. Ct., 6 Crim. L. Mag., 76. In all the cases decided in this State, lvhere the separation has been of one or more jurors and the verdict has been upheld, we think it will upon inspection manifestly appear that the facts stated, sufficiently of themselves, show the improbability that any injustice or wrong could have been done. On the other hand, where there is a strong probability that injustice and wrong could have been done, this court has never hesitated to set aside the verdict upon the ground that the law in such case would presume injury and prejudice to the accused. Wright v. The State, 17 Texas Ct. App., 152; Warren v. The State, 9 Texas Ct. App., 619; Wilson v. The State, 18 Texas Ct. App., 576.
+We have no statement of facts in this case, and consequently we can not say that it was impossible or improbable that the defendant could in any manner have been injured. Moreover, there is no affidavit or statement from any of the other jurors showing that they were in no manner specially influenced in finding their verdict by anything said or done by the juror Bays after his return to the jury, or what active part, if any, he took, and the extent of his action in procuring the finding of the verdict which was rendered.
+Under the' facts as they are presented to us in the record, we do not believe we would be warranted in sanctioning the verdict and judgment. The judgment is therefore reversed and cause remanded for a new trial.
+Reversed and remanded.
+Hurt, J., absent.
