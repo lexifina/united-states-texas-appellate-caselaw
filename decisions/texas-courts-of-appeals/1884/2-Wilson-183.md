@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3081"
+decided: "1884-06-07"
+citations: ["2 Wilson 183"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["I. & G. N. R. R. Co. v. G. W. Donalson & Co."]
+source_url: "https://static.case.law/willson/2/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1370552
+cites_cases: ["1 Tex. 604", "10 Tex. 535", "12 Tex. 3", "17 Tex. 30", "2 Tex. 541", "22 Tex. 681", "24 Tex. 345", "3 Tex. 93", "34 Tex. 356", "5 Tex. 391", "6 Tex. 185"]
+---
+
+# I. & G. N. R. R. v. G. W. Donalson & Co.
+
+## Majority (Willson, J.)
+
+Opinion by
+Willson, J.
+§ 238. Joinder of causes of action. This suit was upon an account which embraced various and numerous items, for overcharge of freight on goods shipped on appellant’s road, excess of freight charges paid on freight shipped but not delivered, loss of, and damage to, goods shipped, etc. Held, it was an action upon an account, composed of various items, growing out of several contracts, and was in no part an action ex delicto. There is no inconsistency in the several causes of action embraced in the account. In our system the splitting of causes of action and multiplication of suits are discountenanced, and parties are required to settle all their controversies in a single suit, if practicable. [Chevallier v. Rusk, Dallam, 511; Pitts v. Ennis, 1 Tex. 604; Francis v. Northcote, 6 Tex. 185; Haggerty v. Scott, 10 Tex. 535; Henderson v. Morrill, 12 Tex. 3; Ponton v. Bellows, 22 Tex. 681; W. & W. Con. Rep. § 1246.]
+§ 239. Pleadings in justices’ courts. Pleadings in justice’s court being oral, the same degree of fullness and particularity is not required in respect to them as in the case of written pleadings; and the rule is the same in the county court in a case appealed from justice’s court. [W. & W. Con. Rep. §§ 576, 765, 891.]
+§ 2 40. Limitation; may be set up by special exception; when set up against an account. The statute, of limitation may be set up by special exception; and where some of the items of an account sued on are barred, and the exception is to the whole account, such exception should be sustained as to the barred items and overruled as to those not barred. [Coles v. Kelsey, 2 Tex. 541; Swenson v. Walker, 3 Tex. 93; Page v. Findley, 5 Tex. 391; Hopkins v. Wright, 17 Tex. 30; Smith v. Fly, 24 Tex. 345; Hudson v. Wheeler, 34 Tex. 356.]
+§ 241. Notice to produce papers; requisites of. A notice to produce papers on the trial of a case, in order to lay the basis for the introduction of secondary evidence of their contents, in case of their non-production, “ must describe the writing demanded, so as to leave no doubt that the party was aware of the particular instrument intended to be called for.” [1 G-reenl. Ev. § 562.] “The notice should contain a plain and concise statement of what is called for. ... If the notice is sufficiently certain to avoid misleading the opposite party, it will be held good, though it be inartificially drawn. As where the descriptive part of the notiee was in these words: ‘An agreement bearing date the 12th of December, 1855, made between the plaintiff and the defendant,' whereby the defendant agreed to let, and the plaintiff to take, the house and premises No. 2,’ etc. (describing them), it was held sufficient. So, where the papers designated were, ‘ All and every letters written by the said plaintiff to the said defendant, relating to the matters in dispute in this action,’ the description was held sufficiently certain, because it mentioned the writer, and the person to whom written. And even where a particular paper was desired, which was among certain accounts, and the notice called for ‘ all accounts relating to the matters in question in this cause,’ it was held sufficient, because enough was expressed, under the peculiar circumstances, to leave no doubt that the particular instrument would be called for.” [Wade on Notice, § 1282.]. In this case, the description portion of the notice is as follows: “ G. W. Donalson & Co., at different times, from time to time, since the date of the 19th of December, 1880, and prior to the date of the institution of this suit, placed in the hands of defendant sundry bills of lading, and sundry bills of' invoice, to be referred to by defendant for information bearing upon the subject-matter of this suit, which said papers said defendant has never returned to said plaintiffs; and said plaintiffs hereby request of said defendant to produce upon the trial of said cause, in open court, each, and all, and every, such bill of lading, and bill of invoice whatsoever, received by said defendant, from said plaintiffs, at any time subsequent to the date of the 19th day of December, 1880, and prior to the date of May 16, 1883.”- Held, that under the peculiar circumstances of this case the description of the papers called for was sufficient.’ They were papers -which were delivered by plaintiffs to defendant, and related to the matters involved in this suit. The notice left no room for defendant to be misled as to the papers wanted; — they were the papers, and all of them, which had been delivered to it by plaintiffs, between specified dates, and . which related to the account sued upon. There was no error in admitting secondary evidence of the contents of the papers.
+June 7, 1884.
+Affirmed.
