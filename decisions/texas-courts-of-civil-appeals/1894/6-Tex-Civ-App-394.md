@@ -1,0 +1,37 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "570"
+decided: "1894-02-28"
+citations: ["6 Tex. Civ. App. 394"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Western Union Telegraph Company v. W. J. Wingate."]
+source_url: "https://static.case.law/tex-civ-app/6/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 229746
+cites_cases: ["15 S. W. Rep., 206"]
+---
+
+# Western Union Telegraph Co. v. Wingate
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+This is an action for damages for failure to deliver with proper diligence a telegram announcing the serious illness of appellee’s mother.
+Appellee’s petition alleges, that on the 3rd day of February, 1890, the message was delivered to appellant’s agent and manager at Orange, Texas, and the charges for its transmission and delivery paid, to be sent to appellee at Ballinger, Texas; that the message was transmitted to and received at appellant’s office at Ballinger at 9:25 p. m. of the same day, but was not delivered until 10 a. m. February 4; that trains left Ballinger in the direction of Orange at 1:35 a. m. daily; that if the message had been delivered prior to 1:35 a. m. of February 4, he could and would have reached Orange at 9 a. m. of February 5; that learning on February 4, by another telegram, of the death of his mother, he telegraphed to his father to postpone the burial, if possible, until his arrival; that he started On the next train from Ballinger at 1:35 a. m. February 5, and reached Orange at 9 a. m. February 6; but that his mother had been buried at 3 p. in. of February 5.
+Appellant, among other defenses, pleaded as follows: “ That defendant’s established office hours at Ballinger, during which it undertook or held itself out to deliver messages, were from 8 a. m. to 8 p. m. of each day. That it had no night operator or messenger in its employ at Ballinger after 8 o’clock p. m. to receive and deliver messages, and kept no office for the transaction of business at Ballinger after 8 p. m., nor except during its regular office hours, and if the message was received at Ballinger, it was out of defendant’s established office hours, and was received by some one not in the employ of defendant. That its office hours at Orange and Ballinger were known to plaintiff and the sender of the message, and were reasonable.”
+There was testimony tending to support this defense; and the court refused to give the following special charge asked by appellant: “ You are instructed, that the defendant telegraph company has the right to adopt reasonable office hours for the transaction of its business; and if you find that the defendant company had, at the time of the receipt of the message sued on, established certain hours at its Ballinger office within which it undertook to deliver messages; and if you believe such regulations were reasonable at said Ballinger office, and that Burr, the sender of the message, knew or was informed at the time said message was sent that defendant company did not deliver messages after 8 o’clock at night, and that the same could not be delivered at night at Ballinger, according to defendant’s office hours, then defendant company is not liable in this case, and you will find for defendant.”
+The refusal of this charge is assigned as error, and upon the authority of Western Union Telegraph Company v. Neel, decided by our Supreme Court at its present term [86 Texas, 368], the assignment must be sustained. In that ease it was held, that a charge more favorable to the telegraph company upon the question of its right to make reasonable rules and regulations should have been given. The court not only refused the special charge referred to, but in the fourth paragraph of its charge announced the contrary as the law; and of course to this extent the court’s charge was erroneous.
+The court also committed error in the fifth paragraph of its charge, in reference to the alleged verbal contract between the sender of the message and appellant’s agent, to the effect that appellant should not be required to deliver it during the night. If the verbal contract was made, as pleaded by appellant, then it was not liable, and appellant’s requested instruction to that effect should have bee'n given.
+For the errors above indicated, the case must be reversed.
+The general demurrer to appellee’s petition was correctly overruled; and no error is made to appear in the court’s ruling on the admission of evidence.
+It would have been quite proper for the court to have given the instruction asked by appellant, directing the jury not to consider the testimony of Norsworthy as to statements made by the witness Harris, except-as it might affect the credibility of Harris as a witness. Weir v. McGee, 25 Texas Supp., 32.
+We think the court, with propriety, might have given appellant’s special charge telling the jury, in effect, not to allow appellee damages for any distress of mind other than that caused by the fact that he was not present at the burial of his mother. Of course the chief cause of appellee’s mental suffering on the occasion in question was the death of his-mother; and for that appellant was in nowise responsible. It was only for augmenting that suffering, by preventing his presence at her funeral, that appellant could be held liable; and it would have been entirely proper for the court to so have admonished the jury.
+The court’s charge is not free from appellant’s criticism, that it submitted to the jury the question of negligence in the transmission of the message from Orange to Ballinger» During the trial appellant abandoned this issue; and for this reason-it should not have been submitted to the jury.
+Delivered February 28, 1894.
+It is complained that appellee’s counsel were allowed to read to the court, in the hearing of the jury, opinions of our Supreme Court, including the amounts recovered, in other cases against appellant.
+The record does not show what cases were read, what amounts were recovered in them, nor whether they were affirmed or reversed. Therefore it is not made to appear that the reading of the decisions could possibly have influenced the jury. The amounts recovered in the cases referred to may have been very small; or if large, they may have been reversed because of that fact. Beading authorities to the court, in the hearing of the jury, is a matter of practice largely confided to the discretion of the trial court; and unless an abuse of such discretion is shown, it will not be revised.
+Several remarks made by appellee’s counsel while arguing the case before the jury are objected to, and some of these objections are not without merit. When one objection was made, the counsel who was addressing the jury said: “ Gentlemen, you see the galled jade winces. They will do it every time you hit them.” These remarks were excepted to. It is the right of every litigant, while acting in good faith, to object to any argument made to a jury on behalf of his adversary, which he regards as improper and prejudicial to his rights; and it is not proper for opposing counsel to ask the jury, either directly or by implication, to consider such an objection as evidence against the party making it, on the merits of his case.
+For reasons heretofore stated, the judgment appealed from is reversed ■and the cause remanded.
+Reversed and remanded.
