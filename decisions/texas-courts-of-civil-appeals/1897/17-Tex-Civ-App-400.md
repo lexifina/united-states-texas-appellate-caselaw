@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1897-12-02"
+citations: ["17 Tex. Civ. App. 400"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["San Antonio & Aransas Pass Railway Company v. W. A. Robinson."]
+source_url: "https://static.case.law/tex-civ-app/17/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 258413
+cites_cases: ["26 Pac. Rep., 439", "30 S. W. Rep., 845", "39 S. W. Rep., 323"]
+---
+
+# San Antonio & Aransas Pass Railway Co. v. Robinson
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+This spit was brought by Hhe appellee for the recovery of the value of certain animal's killed by ithe appellant, about August 31, 1895, the petition alleging thalt the appellant had negligently permitted the fence which inclosed its track and roadbed to get -in a bad condition, so as to be entirely insufficient to turn ithe stock or to keep them from entering -the right of way, and negligently constructed t-he crossing over its track and right of way, and failed and neglected to construct cattle guards at said crossing so as to turn stock therefrom, so 'that the animals entered upon the roadbed of the appellant and were killed by its ears. The evidence showed that the crossing was a private crossing, where gates were put in at the request of the owner of the pasture through which the railroad ran. In such a case it is not necessary for the appellant to construct cattle guards. Rev. Stats., 4427, et seq. The track having been fenced, the company was liable for stock killed by its locomotives and cars only in cases resulting from want of ordinary care. Art. 4528.
+As appears from the proviso in the statute, the company would not be held responsible if it exercised ordinary dare in the maintenance of its fences. From the evidence in the record with regard to the condition of the fence, the jury might have found that the company was negligent in failing to keep it in good repair; but it was not the duty of the company to see that the gates of the crossing were kept closed. Adams v. Railway, 26 Pac. Rep., 439. It devolved upon appellee, therefore, in making out his case, to show that the stock entered upon "the railroad track through the fence and not through the gate, as the company would not he responsible for the leaving of the gate open. Railway v. Glenn, 30 S. W. Rep., 845; Adams v. Railway, supra. This, we think, the appellee failed to do. The testimony of the witnesses does mot develop very clearly the situation of the gates and the place from where the animals escaped, but we infer that the railroad ran through a large pasture containing about 600 acres of land, and that most of the inclosure lay on the north side of the railroad. Appellee was camping or stopping in a house some distance from the railroad and outside of the pasture. The horses escaped from an inclosure into the pasture, and in trying to make their way home to the city of Houston, reached the railroad at some point on the line in the pasture. There was evidence that the three top wires of the fence were down west of the crossing on the San Antonio side of it, and that on the east side of the crossing towards Houston there was only one strand of wire loose, the top strand being fast. Going from the place where the horses escaped into the pasture to the gate, or in the direction of Houston, it does not appear that they would have to pass along the fence where it was down on the west side of the gate. One of the witnesses testified, that every Saturday afternoon when he passed the gate going into Houston he saw it open. There was no evidence that the gate was kept closed, or that it was open on 'the night the animals were killed, hut the evidence is such that it can not he said whether the animals entered the right of way through the fence or through the gate. In other words, the appellee failed to show by any evidence before the jury that -the horses entered through the fence. The evidence having failed to show where the animals entered, whether through the gate or the fence, the appellee failed to make out his case. Railway v. Johnson, 39 S. W. Rep., 323, and cases cited supra.
+The testimony of the witness He Cune, that there were no cattle guards at the 'crossing, was admissible to show that if the horses had entered the right of way where the fence was down west of the gate.they would have had an unobstructed passage along the railroad to the place where they were killed at the bridge, and there was no error in receiving it for that purpose.
+Because the facts did not show that the animals went .on the right of way through appellant’s fence, the judgment of the court below must be reversed and the cause remanded for another trial.
+Reversed and remanded.
