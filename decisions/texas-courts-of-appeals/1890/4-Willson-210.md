@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Appeals"
+docket: "6555"
+decided: "1890-06-21"
+citations: ["4 Willson 210"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Absalom Phillips v. J. M. Warner."]
+source_url: "https://static.case.law/willson/4/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368827
+cites_cases: ["14 Tex. 598", "59 Tex. 205", "60 Tex. 209"]
+---
+
+# Phillips v. Warner
+
+## Majority (White, P. J.)
+
+Opinion by
+White, P. J.
+§ 147. Homestead; leasehold interest constitutes a; crops growing on are exempt from forced sale. Appellant sued appellee for $550 damages, with interest from September 14, 1887, for converting and appropriating to his own use appellant’s exempt crop of growing cotton, and about a bale of seed cotton, picked from said growing crop. Appellant filed his first amended original petition on the 17th March, 1888. He alleged that his homestead consisted in 1887 of sixty-five acres of land, which he planted in cotton. That he was a married man, having a wife and seven children, with whom he lived, in 1887, on this sixty-five acres of land, and that they had no other home. That on the 14th September, 1887, his growing crop of cotton on this sixty-five acres of land, and about a bale of seed cotton, which had been picked therefrom, and was lying in the field, were levied on by a constable by virtue of an alias writ of execution in favor of J. M. Warner, appellee herein, against the appellant, for the sum of $141.25, by said Warner’s express direction, and on the 26th September, 1887, were sold at a sum greatly less than their value, which appellee received the benefit of. That appellant claimed his, cotton as exempt, both at the time of the levy and sale. Appellee answered by a general demurrer, and specially that the question of homestead was raised, which the county court had no jurisdiction to hear and determine; and that a growing crop of cotton on a homestead is not, under the law, exempt from forced sale. He further answered by a general denial, and that on the 28th January, 1886, in the justice court, appellee recovered a judgment against appellant for $173.20, and on the 14th September,. 1887, under an alias execution, the property mentioned in plaintiff’s petition was levied on and sold as charged by plaintiff. Appellee further pleaded that the question of homestead title and right was raised, and the county court had no jurisdiction to determine the case. On March 17, 1888, there was a trial resulting in a verdict and judgment in appellee’s favor. A motion for a new trial being overruled, appellant brings his case to this court. The appellee’s plea to the jurisdiction was not maintainable. The title to land was not involved in the issue to be tried, as presented in plaintiff’s petition. The question was the exemption of the property seized, taken and converted. Appellant (plaintiff below) did not own the land, but had it leased. The court below appears to have held that a leasehold would not support a homestead and exemption claim, under our constitution and laws. In Wheatley v. Griffin our supreme court says: “The great current of authority is to the effect that the homestead right will attach to an equitable estate, an estate for life, or even a leasehold interest. The authorities bearing upon this subject are given in sections 170-172, 174, 176, Thomp. Homest. & Ex., and these authorities, and the reasons given therein, are deemed conclusive of this question.” [60 Tex. 209.] “ Crops growing on a rural homestead are exempt from forced sale. The exemption from sale of the homestead itself was to enable the owner to support himself and family, and this object would be defeated if the creditor were permitted to seize and sell the growing crop.” [Alexander v. Holt, 59 Tex. 205; Cobbs v. Coleman, 14 Tex. 598; 1 Civil Cas. Ct. App., § 951; 2 Civil Cas. Ct. App., § 423.] The court erred in not submitting to the jury as the law of this case the special charge asked by plaintiff, which is as follows, viz.: “You are charged, gentlemen of the jury, that a homestead may exist in a leasehold interest in land whether that interest be for twelve months or more; and if you believe from the evidence that the plaintiff therein rented, for the year 188V, the land on which the growing cotton which was sold under defendant’s execution was raised, and was only a tenant on said land, and that said land was the homestead of himself and family for that year, and occupied as such, though for only one year, then the said growing crop, under the law, would be exempt as a growing crop on his homestead, not subject to sale under defendant’s execution.”
+June 21, 1890.
+Reversed and remanded.
