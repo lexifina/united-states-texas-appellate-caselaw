@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2615"
+decided: "1883-04-25"
+citations: ["14 Tex. Ct. App. 96"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ben. Cook v. The State."]
+source_url: "https://static.case.law/tex-ct-app/14/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357278
+cites_cases: ["10 Mass., 153"]
+---
+
+# Cook v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+That portion of the charge of the court which is specially complained of as being erroneous is the second paragraph, which is in these words, viz: “All persons are principals who are guilty of acting together in the commission of an offense. Where an offense has been committed, the true criterion for determining who are principals is, did the parties act together in the commission of the offense? Was the act in pursuance of a common intent, and in pursuance of a previously formed design in which the minds of all united and concurred? If so, then the law is that all are alike guilty, provided the offense was actually committed during the existence and in the execution of the common design and intent of all; whether in point of fact all were actually bodily present on the ground where the offense actually took place or not.”
+It will be found upon examination that this charge is almost a literal copy of a charge given by the trial judge in Scales v. The State, 7 Texas Court of Appeals, 361. In the opinion of Judge Clark in that case, he says, commenting upon the charge, “this instruction very clearly presented the law applicable to the case, and is in accord with the previous decisions of this court.” (Citing Welsh v. The State, 3 Texas Ct. App., 413.)
+Again, in Cohea v. The State, 9 Texas Court of Appeals, 173, one of the cases mainly relied on by appellant in the brief of his counsel, the same learned judge says: “It does not follow inevitably that any person who joins in the enterprise after the original caption is perfected, is necessarily a principal in such original caption. The better doctrine seems to be that, in order to bring the latter within the category of a principal, he must have been concerned in the original theft. (The Commonwealth v. De Witt, 10 Mass., 153.) He need not be actually present at the taking, if the act was committed in pursuance of a common intent and previously formed design, in which his mind united and concurred with that of the actual taker.” (Citing Welsh v. The State, and Scales v. The State, supra.)
+These decisions sufficiently support the correctness of the language used in the charge we have quoted, and may be regarded as settling the construction of Articles 74 and 76 of the Penal Code, in their application to parties who act together in the commission of an offense where any one or more are not actually or bodily present at the time of its perpetration. It is true that “ an accomplice is (also) one who is not present at the commission of an offense” (Penal Code, Art. 79), but it by no means follows from this that all those connected with the commission of the offense who are not present are ipso facto accomplices. We are of opinion that the proper distinction between these two characters of offenders is this: The acts constituting an accomplice are auxiliaries only, all of which may be and are performed by him anterior and as inducements to the crime about to be committed (Penal Code, Arts. 79 to 85 inclusive); whilst the principal offender not only may perform some antecedent act in furtherance of the commission of the crime, but when it is actually committed is doing his part of the work assigned him in connection with the plan and furtherance of the common purpose, whether he be present where the main fact is to be accomplished or not. When the offense is committed, by the perpetration of different parts which constitute one entire whole, it is not necessary that the offenders should be in fact together at the perpetration of the offense to render them liable as principals. (Heard v. The State, 9 Texas Ct. App., 1.) In other words, an accomplice, under our statute, is one who has completed his offense before the crime is actually committed, and whose liability attaches after its commission, by virtue of his previous acts in bringing it about through the agency of or in connection with third parties. The principal offender acts his part individually, in furtherance of and during the consummation of the crime. Accomplices, under our Code, are what, at common law, were known as “ accessories before the fact.” (McKeen v. The State, 7 Texas Ct. App., 631; Arnold v. The State, 9 Texas Ct. App., 435; Simms v. The State, 10 Texas Ct. App., 131.) Principals, under our Code, are parties to the fact.
+In the case before us, whilst in a legal point of view the charge of the court, as we have shown, was a correct enunciation of the law upon this point, we are of opinion that the evidence was not sufficient to support the verdict and judgment upon the ground of defendant’s guilty complicity as a principal offender. The evidence before us lacks that probative force which carries with it the conviction that it is incapable of explanation upon any hypothesis other than that of the defendant’s guilt.
+Again, the evidence, so far as defendant’s guilt is sought to be established, is wholly circumstantial. Such being the case, under repeated decisions it has been held error for the court to refuse, fail or omit to instruct the jury as to the law with reference to that character of testimony.
+Because the evidence was insufficient, and because the charge of the court did not submit the law essential to the evidence, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Opinion delivered April 25, 1883.
