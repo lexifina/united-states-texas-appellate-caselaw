@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1878"
-citations: ["3 Tex. Ct. App. 605", "4 Tex. Ct. App. 488"]
+decided_precision: "year"
+citations: ["3 Tex. Ct. App. 605"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["C. F. White v. The State."]
 source_url: "https://static.case.law/tex-ct-app/3/cases/0605-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4407769
-cites_cases: ["11 Ind. 481", "13 B. Mon. 149", "13 Ind. 569", "13 Smed. & M. 261", "3 Denio, 91", "31 Me. 401", "7 B. Mon. 294", "7 Wis. 676"]
+cites_cases: ["11 Ind. 481", "13 B. Mon. 149", "13 Ind. 569", "3 Denio, 91", "31 Me. 401", "7 B. Mon. 294", "7 Wis. 676"]
 ---
 
 # White v. State
