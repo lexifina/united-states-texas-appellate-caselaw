@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "349"
+decided: "1893-11-16"
+citations: ["4 Tex. Civ. App. 661"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Texas & New Orleans Railway Company v. Sarah E. Skinner."]
+source_url: "https://static.case.law/tex-civ-app/4/cases/0661-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 223745
+cites_cases: ["2 Black, 469", "24 Me., 412", "26 Me., 84", "3 Hill, 270", "65 Mo., 507"]
+---
+
+# Texas & New Orleans Railway Co. v. Skinner
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+The appellee sued the appellant in her •own right and as next friend of her minor son, Johnny Williamson, to recover damages for personal injuries received by the latter while helping to switch appellant’s cars on its track at Beaumont. The son, who was about 17 years of age at the time of the injury, was, with the consent of his mother, in the employment of the defendant as call boy in its yard office, and his duties were to deliver messages from the operator’s office to the freight office, round house, yard master, to call train crews, and to clean up the office. He sometimes had to get on a train to deliver messages, but had nothing else to do with them, or duties about them. 1-Ie was hurt under the following circumstances: On August 18, 1891, he was told by the operator to go down town for some ink and the mail. There was a switch engine and some freight cars standing ready to go down town, and the boy got on one of the cars. One Hodges was foreman of the yard and in charge of the switch crew. When the train got near the freight depot, in order to switch off a car, by the method known as “ kicking,” the foreman told Williamson to pull the coupling pin, and when the latter did so the foreman signalled the engineer, and in taking up the •slack Williamson was thrown off the car and hurt.
+■There was no testimony to show that Hodges had the authority to employ servants. Williamson testified, that he had been cautioned about riding on the trains, but was not told not to do so; that he was told he •could do so by the station master and operator; but both of them testified that he was instructed not to do so. Hodges, the foreman, did not forbid him from getting on the train, and did not tell him to get off. His mother did” not consent to his acting as a switchman. Upon the trial the •court practically charged the jury to find for the plaintiff for damages in her own right, if the boy went upon the train without the authority of his mother and was injured in the manner stated; and the jury was further instructed to return a verdict in favor of the defendant upon the «claim for damages in behalf of the son.
+We do not deem it necessary to take up the appellant’s several assignments of error, for they sufficiently raise the questions that we shall pass upon. The minor, Johnny Williamson, was employed as call boy in defendant’s telegraph office at Beaumont, with the consent of his mother; but, as she testified, she did not give her consent that he should be employed as a switchman, and if he was in fact at the time of the injury employed by the defendant as a switchman, the plaintiff ought to recover, because it would be a dangerous employment, and he was injured while engaged in the discharge of the duty of a switchman. Railway v. Brick, 83 Texas, 526. We do not think, however, that the facts show that at. the time of the injury Williamson was in the employment of the defendant as a switchman. He was casually upon the train, and did not go upon it for the purpose of acting as switchman, but only to ride down town. Hodges had no authority to employ him as switchman, or to require him to uncouple the cars. As shown bjr his own testimony, he knew that Hodges had no such authority, and that he was not obliged to obey him. Having got on the train merely to go down town, and having voluntarily performed a duty which devolved upon another of defendant’s servants, although done at the request of the foreman of the-yard, it can not be held that Williamson was employed by the defendant, in another and more dangerous service.
+Nor does this case come within the rule announced in Eason’s case, 65-Texas, 577. When Williamson uncoupled the cars he was not engaged in the performance of a service forwarding his own private interests.-
+It is true that the defendant would owe some duty to even a trespasser-on its train; but when Williamson undertook to perform the service-which he did, he became a volunteer, and as such a fellow servant with, the foreman and engineer, and the plaintiff can not recover for injury caused by negligence on their part.
+As we understand it, the only theory upon which the plaintiff’s judgment could be sustained on this appeal would be the one, that the minor was employed by the defendant as a switchman, and as we do not think they show either’an employment or an authority on the part of Hodges to employ, there is error in the judgment. We have discussed the other views of the case upon the assumption that the issue of negligence was submitted to the jury, but this was not done, and the judgment would have to be reversed even if the facts should ■ appear to bring the case within either of the other rules contended for.
+Appellee has made a cross-assignment of error, in which she seeks to review the judgment against her as next friend of her minor son. She did not except to the judgment, gave no notice of appeal, and filed no-appeal bond; and the appeal bond filed in this case is made payable to her alone. We are of the opinion that there is no appeal from the judgment against her as next friend.
+Delivered November 16, 1893.
+The judgment of the court below will be reversed and the cause remanded as to the appellee, Sarah E. Skinner, but the judgment against, her as next friend of the minor Johnny Williamson will not be disturbed.
+Reversed and remanded.
