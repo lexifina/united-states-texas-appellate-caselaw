@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-10-17"
+citations: ["33 Tex. Civ. App. 273"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Burnet Ansley Jewelry Company v. Joseph Linz."]
+source_url: "https://static.case.law/tex-civ-app/33/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4374041
+---
+
+# Burnet Ansley Jewelry Co. v. Linz
+
+## Majority (RAINEY, Chief Justice.)
+
+RAINEY, Chief Justice.
+The appellant appealed from a judgment sustaining general and special demurrers to its petition. The allegations of the petition necessary to state are, in substance, that the plaintiff is a private corporation, and was on or about the 12th day of December, 1896, and prior thereto, engaged in the wholesale jewelry business, and for that purpose had rented from the defendant a certain building for which it was paying $100 per month in advance. That on the 1st day of December an. installment of rent became due. That said installment not having been paid, the defendant brought suit for same and other installments that were to fall due monthly till July, 1897, When said lease would expire, though the failure to pay one installment did not mature subsequent installments. That he, without notice to plaintiff, procured the appointment of a receiver of plaintiff’s property by maliciously and falsely representing to the court that plaintiff was insolvent and was disposing of its assets at slaughter prices and putting , the proceeds thereof out of the reach of said Linz; that plaintiff had re- . moved its property out of said rented building; that he had a lien on said property to secure payment of the rents, and that he had no adequate remedy at law. That the said acts of said Linz were done for the purpose of- wrecking plaintiff’s business; that plaintiff might not be able ■ to compete with him, Linz, who was engaged in a similar business. That. plaintiff was able and ready' to pay said rent, but that it was understood between them that said Linz would draw on plaintiff, or that he would come to Sherman and" collect in person. That former installments had been paid in that way, and in this instance plaintiff was expecting the defendant to do as it was understood and as had been the custom theretofore.
+That on said 12th day of December said receiver took charge of plaintiff’s property, by reason of which plaintiff, in order to -avoid great expense and sacrifice of its property and for the purpose of paying its creditors, was compelled and did make a deed of general assignment, conveying all of its property to an assignee for the benefit of creditors. That on the 14th day of December, 1896, the court vácated the receivership and ordered said property to be delivered over to plaintiff or its assignee.
+That at the time the receiver was appointed plaintiff -was solvent and able to pay its debts, but was rendered unable to pay all of its indebtedness; that the property taken possession of was of the reasonable value of $30,000, but by reason of said proceedings said property was sold for not exceeding $7500, and that plaintiff had been damaged in the sum of $35,000. That plaintiff had been prevented from complying with contracts of sale of goods that it had made by which it would have realized a -profit of $500, and it was damaged in that amount. Plaintiff prayed for $25,000 exemplary damages. Plaintiff further alleged that “it is and was on the date of filing of the original petition herein the legal owner and holder of the claim for damages- hereinbefore set forth.”
+The allegations of plaintiff’s petition to the effect that “it is and was on the date of filing of the original petition herein the legal holder of the claim for damages hereinbefore set forth,” must be treated as a mere conclusion of the pleader in view of the other allegations that plaintiff had made a general assignment of his property for the benefit of creditors. Having, made this latter allegation, it was necessary for it to show by proper averments how it was reinvested with the ownership of the claim. When the assignment was made plaintiff was divested of all title to the claim, and title thereto was vested in the assignee. Roby v. Meyer, 84 Texas, 387; Waterman v. Siebenberg, 67 Texas, 100.
+Plaintiff having shown by averments that it had parted with the title to the claim, in order for it to state a cause of action thereon it was necessary by proper averments to show how it reacquired title to the claim.
+Ordinarily, in suing to recover the possession of, or damages to, personal property, a general allegation of ownership is sufficient, and it is held that such an allegation is not a legal conclusion of the pleader. But in a case like this, where the petition shows a parting with the title the general allegation of ownership is a mere legal conclusion. The petition should inform the defendant how title was reacquired, that he may prepare his defense. Failure in this, it was vulnerable to the special demurrer interposed, and the trial court did not err in so holding. This holding is decisive of the case, and renders it unnecessary to pass upon the other assignments presented. The judgment is affirmed.
+Affirmed.
+Writ of error refused.
