@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-12-23"
+citations: ["41 Tex. Civ. App. 250"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas and Pacific Railway Company v. J. W. Dishman."]
+source_url: "https://static.case.law/tex-civ-app/41/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4383768
+cites_cases: ["39 S. E. Rep., 831", "72 S. W. Rep., 610", "82 S. W. Rep., 785", "83 S. W. Rep., 253"]
+---
+
+# Texas & Pacific Railway Co. v. Dishman
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+This suit was instituted in the District Court of Taylor County in February, 1904, and is an action for damages for rough handling and delay in transporting a car of horses from Fort Worth to Texarkana, Texas. The final destination of the horses was Memphis, Tennessee, and this fact was known by the defendant, Texas & Pacific Railway Company. The defendant pleaded specially that the horses were shipped on written contract, and that the plaintiff agreed to hold it harmless by reason of the stock being overloaded or improperly loaded, and further, that the plaintiff undertook to load the stock and put too many head in the car, bv reason of which negligence the horses were injured. There was a trial in April, 1905, resulting in a judgment in favor of the plaintiff in the sum of $741, from which judgment this appeal had been perfected.
+We hold there was no error in refusing to permit the appellant to prove by the appellee, on his cross-examination, that he only paid $22.50 per head for the horses in the shipment upon the market at Fort Worth just prior to the shipment. There is no question but that the horses are shown to have had a market value at Memphis, Tennessee, their destination, and, this being true, appellee’s damage is to be measured by the well-known rule applicable to cases of this character; that is, the difference between the market value of the animals in an injured and uninjured condition. His damages are the same whether his stock originally cost him much or little. The fact that they may have cost him only $22.50 per head at Fort Worth in no waj1- tends to prove their market value at Memphis, Tennessee, and evidence of this fact was, therefore, properly excluded. (Missouri, K. & T. Ry. Co. v. Dilworth, 95 Texas, 327.) A different rule with respect to the admission of such evidence may obtain where the injured animals are not shown to have a market value. (Gulf, C. & S. F. Ry. Co. v. Anson, 82 S. W. Rep., 785; Gulf, C. & S. F. Ry. Co. v. Jackson & Edwards, 14 Texas Ct. Rep., 100.)
+Appellee, while testifying in his own behalf, on cross-examination, was asked if he had not had a great number of suits against appellant Compaq, and did not have at that time one pending on appeal, in addition to the present suit. He would have answered that he had had a number of suits against appellant, and also had one on appeal at that time, but, upon objection of appellee that the same was immaterial and did not tend to prove any issue in the case, the court excluded the evidence. In this we think there was no error. It is insisted by appellant that this testimony should have been admitted for the purpose of showing intent and good faith in bringing the suit, and for the purpose of showing bias or feeling against defendant. The first contention is evidently frivolous, for whatever appellee’s intent or good faith in bringing the suit may have been, it would not affect.his right to a recovery if he stated and proved a good cause of action. Nor was the evidence admissible for the purpose of showing bias or feeling against appellant. Necessarily, a plaintiff in an action is interested, and to that extent stands discredited before the jury. Proof, therefore, that appellee had other suits against appellant would add nothing to the established fact that he had cause for bias against appellant. In Carr v. Smith (39 S. E. Rep., 831) this question is discussed in the following language: “It is said that the rule (forbidding inquiry into collateral issues) is relaxed in cases when the cross-examination relates to collateral matters that tend to show the temper, disposition or bias of the witness cross-examined. But in this instance the rule can not be said to be relaxed, for the witness is one of the parties to the suit himself, and might naturally be expected to have feeling in the suit and its results. . . .”
+There was no error in refusing appellant’s special instruction number 1, because it sought to have the jury find against appellee if the car in which his horses were shipped was improperly bedded, when it had neither pleaded nor proved that appellee had undertaken to bed the car for such shipment. The court, in his general charge, seems to have followed more closely the pleading and evidence of appellant, upon the issue of appellee’s duty to properly load the car, than did the special charge referred to.
+There is nothing, either in the pleadings or evidence, that would have justified the court in giving appellant’s special instruction number 2, to the effect that it would be relieved of liability if the stockyards employes, at the Union Stockyards in Fort Worth, improperly sanded the car preparatory to loading and shipping these horses.
+All assignments of error are overruled, and the judgment is affirmed.
+Affirmed.
+Writ of error refused.
