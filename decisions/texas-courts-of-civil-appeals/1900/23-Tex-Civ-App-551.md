@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1900-05-26"
+citations: ["23 Tex. Civ. App. 551"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas & Pacific Railway Company v. B. M. Jones et al."]
+source_url: "https://static.case.law/tex-civ-app/23/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 283486
+---
+
+# Texas & Pacific Railway Co. v. Jones
+
+## Majority (HUNTER, Associate Justice.)
+
+HUNTER, Associate Justice.
+This suit was brought to recover damages from the appellant railroad company for failing to furnish cars to ship 400 head of cattle, on a day certain, to wit, on November 15, 1897, as, it is alleged, its local agent at Sweetwater, Texas, agreed to do, and which were not furnished until November 23d, during which time, on account of the scarcity of grass and water around and near said town, the appellees’ cattle were greatly reduced in weight and injured, and the market at St. Louis, Ho., where they were to be shipped, had declined materially, whereby they were damaged in the sum of $1999.50.
+The appellant company pleaded a general denial, and specially denied that it agreed to receive and ship the cattle on any certain day, and also an extraordinary demand for cattle cars at that time and a general press of freight business, and also that its local agent at Sweetwater had no authority to contract to ship cattle beyond the appellant’s line of railroad, or to furnish cars on any certain day.
+¡The case was tried by a jury, and verdict and judgment went in favor of appellees for $1340, and the appellant brings the case here for revision by appeal.
+The evidence which was not objected to on the trial establishes that the holding of the cattle at Sweetwater for eight days caused a shrinkage in weight of 150 pounds per head, and resulted in forcing them to be classified as “stale,” and thus reduced them in market value 40 cents per hundred. They would have weighed 1000 pounds per head in St. Louis, had they not been delayed at Sweetwater, whereas they only weighed about 850 pounds. The evidence established more damages than the jury gave in their verdict.
+The first and second assignments of error complain of the overruling of the motion for a new trial, on the ground that the evidence did not support the verdict. We think it did. The question raised in the second is really one of competency to the evidence of one of the witnesses, the assignment being as follows: “The court erred in overruling defendant’s motion for a new trial upon the second ground therefor set out in said motion, which is as follows: 'The plaintiffs in their testimony say the cattle should have brought 4 cents a pound in the St. Louis market. There is no evidence that they did not bring this, but the statement of plaintiff Pyron, who shows that he was not at St. Louis and could not know what the cattle sold for.’ ”
+The only proposition under this assignment is as follows: “A verdict should be based on evidence legally sufficient to support it, and when a witness shows that he can not know what he testifies to, his evidence should be ignored. The plaintiff Pyron stated that the cattle brought $3.60 at St. Louis. He also shows that he was in Sweetwater, Texas, when they were sold. No other witness testified as to what they sold for.” We think this evidence was sufficient to authorize the jury to conclude that the cattle sold at St. Louis for $3.60 per hundred pounds, and figure out their verdict upon that basis. It was proved that they would have sold for $4 per hundred pounds, had it not been for the delay.
+The proper practice, we think, would have been to object to the evidence when it was offered, and failing to do so, the appellant can not raise the question of its admissibility for the first time in a motion for a new trial. The evidence, after having been introduced without objection, must be considered by the jury and by us as having all the probative force and effect of competent testimony, although it would have been excluded as incompetent if the objection had been made at the proper time.
+The third assignment is not so easily disposed of, and yet in view of the verdict of the jury we think it, too, must be overruled. The court submitted only the issue as to whether the appellees made an express contract with the appellant's local agent to furnish them cars at Sweet-water on the 15th day of November in which to ship their cattle. The appellant requested the court to instruct the jury that "if you find from the evidence in this case that the defendant did not contract and agree with the plaintiffs to receive and ship their cattle on any certain day, nor to furnish cars for such shipment on an agreed day, and further find from the evidence that there was, at the time said cattle were offered to the defendant for shipment, such an unusual and extra press of business, including the shipment of cattle on the defendant's road, that it could not furnish the plaintiffs the cars they requested, then you will find for the defendant."
+This issue had been pleaded by the defendant company, and there was ample evidence to support the plea, and we think the issue should have been submitted to the jury as requested, and it was error in the court to refuse the instruction as asked; but the jury having found that the company had by its local agent made a contract with appellees to furnish them cars and to receive and ship their cattle on the 15th day of November, it follows that they could not have found for appellant on the requested charge presenting, as it did, exactly the opposite of the issue submitted, and we therefore have .concluded that the error becomes harmless, the verdict having cured it.
+Finding no error in the proceedings, the judgment is affirmed.
+Affirmed.
