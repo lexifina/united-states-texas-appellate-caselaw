@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3635"
+decided: "1890-12-17"
+citations: ["29 Tex. Ct. App. 310"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. E. Lane v. The State."]
+source_url: "https://static.case.law/tex-ct-app/29/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148859
+---
+
+# Lane v. State
+
+## Majority (WILLSON, Judge.)
+
+WILLSON, Judge.
+We are of the opinion,that the juror Brooks was not a householder and was disqualified to serve as a juror. A householder is one who is the head or master of a family; a person who occupies a house and has charge of and provides for a family therein. The term means something more than the mere occupant of a room or house. It implies the idea of a domestic establishment—the management of a household. It is not requisite that the person should be a married man. His family may consist of servants or others occupying the house with him, but he must be the head or master of the establishment. 9 Am. and Eng. Enc. of Law, p. 783, note 1; 1 Thomp. on Trials, sec. 53; Lester v. The State, 2 Texas Ct. App., 432.
+In Eobles v. The State, 5 Texas Court of Appeals, 346, it is stated that one who “ rents a room and boards” is a householder. This statement is too broad, and must be taken subject to the qualifications above expressed. The facts of that case are not reported, and we are unable to say that the decision is wrong upon the facts, but we do say that the mere occupancy of a rented room and boarding does not constitute a person a householder. We hold that the court erred in concluding that Brooks was a householder upon the facts proved upon that issue.
+But a majority of this court have held, and still hold, that the mere disqualification of a juror who served on the trial is not a good ground fora new trial. That to constitute it a good ground it must be made to appear that the service of such disqualified juror was calculated to injure the rights of the defendant, and did probably produce such injury. Leeper and Powell v. The State, ante.
+In his motion for a new trial the defendant complains that the service upon the jury of said Brooks was calculated to and did injure his rights, in that the said Brooks favored and advocated a verdict finding the defendant guilty of murder in the first degree and assessing the punishment at death, while other jurors were in favor of finding lower degrees of homicide, and some were in favor of an acquittal. The motion for a new trial is supported by the affidavits of the defendant and his two counsel, but as to the conduct of the juror Brooks upon the jury the affiants are not specific in their statements, merely stating that the statements in the motion are true to the best of their information and belief, without stating the source and character of their information, from whom or how it was ■obtained, or any specific facts constituting the basis of their belief. It is not shown by the motion, by bill of exception, by affidavit, or otherwise that the allegations as to the conduct of Brooks were true, or that any one would have testified to their truth. For aught that appears from the record, the information received by defendant and his counsel as to Brooks’s conduct may have been unfounded and false in toto, and Brooks may in fact have been one of the jurors who favored a verdict of acquittal. In the shape in which the matter is presented to us in the record, we are unable to say that any injury probably resulted to the defendant because of Brooks's service upon the jury.
+With respect to other jurors to whose qualifications the defendant objected, we are of the opinion that each and all of said jurors were qualified, and that the trial judge did not err in so holding. Grissom v. The State, 4 Texas Ct. App., 374; Post v. The State, 10 Texas Ct. App., 579; Ellison v. The State, 12 Texas Ct. App., 557; Steagald v. The State, 22 Texas Ct. App., 464; Bolding v. The State; 23 Texas Ct. App., 172.
+Other exceptions made to the organization of the jury have been noticed and considered by us, but in our opinion they are immaterial and do not-show error.
+Numerous objections are made to the charge of the court, and to the . refusal of the court to give special instructions requested by the defendant. We have given careful consideration to these several objections, and without taking time to discuss them in detail, we will merely say that we-think the charge given is free from error unfavorable to the defendant, and is applicable to the facts of the case, and that there was no error in refusing any of the instructions requested by the defendant.
+As we view the evidence, the only phase of it presenting the issue of manslaughter was submitted to the jury under proper instructions. If the insulting language and conduct by deceased towards the defendant's, betrothed did not constitute adequate cause for the homicide, then there is no issue of manslaughter raised by the evidence. No other facts were proved which, either singly or collectively considered, would tend to support the theory of manslaughter. There is no evidence that the deceased intended to attack the defendant, or that the defendant had any good reason to apprehend an attack from him. Deceased had not said an unkind word to or about him; had made no threats against him; had been, engaged in no quarrel or difficulty with him, and was but slightly acquainted with him. Deceased was walking upon the streets of Dallas,, where his business called him and where he had a perfect right to be. He was unarmed. He was confronted suddenly by the defendant, and without warning, or the opportunity even to explain anything to the defendant, he was shot and killed by the defendant, who appeared calm and collected in the commission of the deed. In our judgment the evidence fully warrants the conviction, and would have sustained a conviction for murder in the first degree..
+Other errors than those we have noticed have been assigned by the defendant, but none of them in our judgment exist, or if they do, are not of a material character.
+Finding no reversible error, the judgment is affirmed.
+Affirmed.
+Judges all present and concurring.
