@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-01-26"
+citations: ["59 Tex. Civ. App. 13"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Mezlar v. The City of Miles et al."]
+source_url: "https://static.case.law/tex-civ-app/59/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4402089
+---
+
+# Mezlar v. City of Miles
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+This is a suit by the plaintiff jn error against the city of Miles, Geo. S. Graves, George W. Reader, J. W. Hinkle, A. II. Dillinger and S. M. Scott, to recover damages for a horse lulled by defendants, owned by the plaintiff, alleged to be worth $250; also to recover exemplary damages in the sum of $250.
+The case was tried before the court without a jury and judgment entered that the plaintiff, John Mezlar, take nothing by reason of his suit, and that the defendants recover their costs.
+On the second page of plaintiff in error’s brief is a statement to the effect that it is admitted by him that the city of Miles would not be liable for the acts of its officers, as the basis of the suit was a tort committed by the mayor and the aldermen of the city and the city marshal and a livery stable keeper; but the plaintiff does contend that the individuals named are liable under the findings of fact by the court for at least nominal damages, and on this the plaintiff in error relies for a reversal of this case. There is no statement of facts in the record, but it comes up to this court on the following findings of fact and conclusions of law of the trial court:
+Conclusions of fact.—"1. I find from the evidence that plaintiff was the owner of the horse, for the loss of which this suit was filed, and that some two or three weeks prior to December 19, 1907, he placed the horse with defendant S. M. Scott for keeping and attention, for hire, in Scott’s public livery stable in the town of Miles, Runnels County, Texas, and that Scott was given no authority with reference to the horse, except to feed and properly care for him during the absence of plaintiff from the county.
+“2. That about ten days prior to December 19, 1907, the horse became seriously sick with bladder and kidney trouble, and after two or three days was down practically all the time, unable to get up on his feet, and that within two or three days after he got down, the horse in his struggles caused large sores to form in all places on his body where he came in contact with the ground, from which he contracted blood poison four or five days before December 19, when he was killed.
+“3. That defendant Scott procured the services of a veterinary surgeon, who could do nothing for the horse, which for three or four days prior to December 19, was unable to get on his feet.
+“4. That the sore places on his hips and legs rotted out to the bone, the odor of which became very offensive to passersby on the street and to occupants of other buildings within one-half city block.
+“5. That Scott’s livery stable was located on one of the principal business streets of the town, and the horse lay within five or six feet of the sidewalk. That various citizens of the town complained to the town authorities concerning the condition and offensiveness of the horse, and defendant Scott, on December 19, called upon the city authorities to take the horse off his hands, on which date the mayor of the town, defendant Geo. S. Graves, and two aldermen of the town, defendants Reader and Hinkle and the town health officer held an informal conference and instructed the city marshal, defendant Dillinger, to kill the horse and burn his carcass, which was done by him on the afternoon of December 19, with the consent and at the request of the defendant Scott, but without the consent or knowledge of plaintiff, who was in a distant county and knew nothing of his horse’s condition.
+“7. That the horse was in a dying condition at the time he was dispatched, and would have lived only a few hours, if left alone.
+“8. I further find from the overwhelming weight of evidence that the horse was absolutely valueless at the time he was killed, and that therefore plaintiff suffered no damages by reason thereof.
+“Conclusion of law.—1. I find that in view of the facts detailed above, that neither of the defendants, A. H. Dillinger, who killed the horse, nor the other defendants who advised him incurred any liability to plaintiff herein.”
+It is admitted by the plaintiff in error, and it is clear from the facts, that he sustained no actual damages, that the horse was worthless and practically dead when he was killed by the defendants; but the contention is that the killing was without his consent, and therefore unlawful, and from that fact alone a trespass was committed, and he is at least entitled to nominal damages. But an answer to this contention consists in the fact that it is apparent that the horse in its then condition was a public nuisance when killed; and it is clear from arts. 447 and 462, and possibly other articles upon that subject of the Revised Statutes, that the city had the right to summarily abate and abolish a nuisance of this character, which was calculated to affect the public health or the comfort of the inhabitants of the city; and that by the second article cited, the city had the right to have the same removed. The animal at tire time of its destruction could practically be regarded as dead. It was in a very offensive condition, to such an extent that the inhabitants of the town complained of it. It would have .been inhuman to have undertaken to remove the horse while he was alive, and it was an act of humanity upon the part of the defendants to kill the horse and relieve him from his then evident suffering, knowing as they did that the horse was suffering from an incurable disease and was down and helpless, and that it was a matter of a short time until he would die. The owner was not present and he could not be appealed to in order to get his consent that the means resorted to could be taken in order to abate the nuisance and relieve the animal in his then condition, which the facts clearly showed to be of such an offensive nature to the inhabitants of the city as likely to affect their comfort and the public health.
+We find no error in the record and the judgment is affirmed.
+Affirmed.
