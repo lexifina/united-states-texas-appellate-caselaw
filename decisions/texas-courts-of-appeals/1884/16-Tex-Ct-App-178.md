@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2917"
+decided: "1884-05-17"
+citations: ["16 Tex. Ct. App. 178"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. D. Womack v. The State."]
+source_url: "https://static.case.law/tex-ct-app/16/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4452437
+---
+
+# Womack v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+Our statute provides that “the confession of a defendant may be used in evidence against him . if it appear that the same was freely made, without compulsion or persuasion, under the rules hereafter prescribed.” (Code Crim. Proc., Art. 749.) Hone of the rules prescribed by statute are applicable to the question raised by the bill of exceptions in this record, because the appellant, at the time of making the confession, was neither in confinement or under arrest. If it be admitted that our Code makes provision only for such confessions as are made when the defendant is in jail or other place of confinement, or whilst in custody of an officer (Code Crim. Proc., Art. 750), then, in the absence of a statutory rule, we would bo relegated to the common law for a rule which would govern. (Code Crim. Proc., Art. 725.)
+At common law, the rule was that “the confession must be voluntary; not obtained by improper influence, nor drawn from the prisoner by means of a threat or promise; for, however slight the threat or promise may have been, a confession so obtained cannot be received in evidence, on account of the uncertainty and doubt whether it was not made rather from a motive of fear or interest than from a sense of guilt.” (Phil. Ev., 86; Warren v. The State, 29 Texas, 369.) “The material inquiry, therefore,” says Mr. Greenleaf, “is whether the confession has been obtained by the influence of hope or fear, applied by a third person to the mind of the prisoner. * * * The rule of law, applicable in all cases, only demands that the confession shall have been voluntarily made, without the appliances of hope or fear by any other person.” (1 Greenl. Ev., 13 ed., sec. 219; Whart. Crim. Ev., 8 ed., secs. 650, 651. See, also, Roscoe’s Crim. Ev., 17 ed., p. 40, et seq., and note.)
+As shown by the bill of exceptions in this case, the purported confession of defendant was made under the following circumstances: The prosecutor, Henderson, told defendant that he, Henderson, had consulted with the district attorney, and that officer had authorized him to say to defendant that if he would turn State’s evidence against his co-defendant, Fuller, he, defendant, would not be prosecuted for the theft of the hogs. Henderson also promised defendant that he, Henderson, would not file any complaint against him if defendant would appear and testify against Fuller. Under these promises, the purported confession, which the court admitted, over objection of defendant, to be given in evidence, was made to the prosecutor, Henderson. As a reason for admitting this evidence, the learned judge, in his explanation to the bill of exceptions, states, in substance, that, after the agreement with the district attorney and Henderson, the defendant repudiated the agreement, and not only refused to testify against Fuller, but also denied having told Henderson anything.
+That defendant subsequently repudiated the agreement, does not, and cannot, affect the question as to the circumstances under which the confession was made. At the time it was made, was he not induced to make it through the promise or hope held out to him by Henderson? If so, then no subsequent act of bad faith on his part could or would render valid and legal that which per se was illegal and inadmissible as a voluntary confession. We are clearly of the opinion that the court erred in ad* mitting the confession over the objections of defendant, as shown by the bill of exceptions. There is no similarity, or, r.ather, identity, between judicial and extra judicial confessions with regard to the rule invoked by the learned judge in his explanation. Had the confession been a judicial one, or one made under such circumstances as those provided for in Article 750 of the Code of Procedure, and the defendant had subsequently repudiated his agreement to testify against his co-defendant, the fact that he had been previously cautioned that his evidence would be used against him if he failed so to testify would doubtless have rendered the confession admissible as evidence against Mm when tried for the offense. But, when not under arrest or in custody, or in any of the conditions pointed out in Article 750, to make the confession of a party admissible, it must have been voluntary, that is, one not induced by any promise creating hope of benefit or d^aamunity, or any threats creating fear of punishment. (Warren v. The State, 29 Texas, 369.)
+In addition to this error committed by the court in the admission of the confession of defendant, we are of the opinion, even taking the confession to have been properly admitted, and as part of the evidence, that the testimony is not sufficient to establish the guilty complicity of defendant in the taking or theft of the hogs, however much it may show his conduct and subsequent connection with the stolen property to be reprehensible in morals and law.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
+Opinion delivered May 17, 1884.
