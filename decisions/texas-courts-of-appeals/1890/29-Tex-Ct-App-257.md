@@ -1,0 +1,37 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3381"
+decided: "1890-12-13"
+citations: ["29 Tex. Ct. App. 257"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Martin Mooney v. The State."]
+source_url: "https://static.case.law/tex-ct-app/29/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148869
+---
+
+# Mooney v. State
+
+## Majority (HURT, Judge.)
+
+HURT, Judge.
+This is a conviction of rape, the punishment assessed, being five years in the penitentiary.
+This will stand as one of the most rerfiarkable cases ever tried in the-criminal courts of Texas. The evidence is peculiar and contradictory, and, in the opinion of the writer, staggers credulity. But we have no ti me-to analyze it, and will address ourselves to the legal questions arising upon the different phases of the evidence.
+The indictment alleges that carnal knowledge was obtained by force and by fraud. The State seeks to sustain the conviction upon two hypotheses: First, that appellant used some stratagem by which the woman, Mrs. Grammar, was induced to believe that appellant was her husband, and by which the carnal knowledge was obtained. Second, that Mrs. Grammar- - was asleep when she was penetrated by appellant, and hence the offense-was consummated without her consent, and was therefore rape.
+As to the first proposition—fraud—the statute provides that the fraud must consist in the use of some stratagem by which the woman is induced to believe that the offender is her husband. Penal Code, art. 531. This, portion of the article is all which bears upon the question before us.
+The offender must use some stratagem. What is meant by the word, stratagem? Mr. Webster defines “stratagem” as follows: “An artifice, particularly in war; a plan or scheme for deceiving an enemy; a trick by ' which some advantage is intended to be obtained; any artifice.”
+What effect must the stratagem—the trick or artifice—have upon the-woman? It must induce her to believe that the offender is her husband. Hence we conclude that the accused must use some stratagem as thus, defined, with the intention of deceiving the woman, and the deception must induce her to believe the accused to be her husband. What stratagem, device, trick, or artifice was used by appellant, inducing Mrs. Grammar to believe him to be her husband ?
+How the appellant is not guilty of the rape by fraud, though Mrs. Grammar did honestly believe him to be her husband. He must have-used some stratagem for the purpose of inducing her thus to believe, and she must have been induced to so believe by the stratagem used by the appellant.
+The State contends that as Mrs. Grammar was in bed, late at night, fatigued and asleep, and being a married woman, under these circumstances she did believe that appellant was her husband. Concede this to be so, the question is, did appellant use any stratagem to induce her to believe him to be her husband? There is not the slightest factpn this record tending to show that appellant resorted to stratagem, device, or artifice to deceive this woman and induce her to believe him to be her husband. Appellant swears he did not know her to be a married woman; nor is there evidence, positive or circumstantial, remotely tending to prove that he did know that she was a married woman. Hence that he induced her to believe him to be her husband is preposterous.
+The court charged the jury that if they believed from the evidence that the defendant “by either force or fraud” had carnal knowledge of the prosecutrix, they should convict. This was error, because there was no fraud such as is defined and required by the statute in this case; and this error was strongly calculated to mislead the jury to the injury of the accused. How natural and reasonable was it for the jury, under the circumstances of this case, to have found fraud, especially as the court submitted that issue to them. King v. The State, 22 Texas Ct. App., 650; Rex v. Jackson, 2 Lead. Cr. Cases, 254; Regina v. Clarke, Id., 255.
+The second position urged by the State is that “ the woman being asleep when penetrated, rape is the result, though no greater force is used than that involved in the act.” We have given this proposition a thorough examination. The authorities are quite inharmonious. Apparently there is a serious conflict of opinion upon this subject, but when carefully scrutinized the conflict will be found to a great extent apparent only. Our researches lead us to these conclusions: If the statute defines rape to be carnal knowledge of a woman by force ^tnd without her consent, then the proposition above stated is correct. On the other hand, if the statute defines rape to be the carnal knowledge of a woman by force and against her consent, then the proposition is not correct. Some cases hold the proposition correct whether the statute says against or without. Harvey v. The State, S. W. Rep., December 1, 1890.
+But we will let Lord Campbell, C. J., state the rule. He states the result of the authorities very clearly as follows: “The question is, what is the real definition of the crime of rape, whether it is the ravishing a woman against her will or without her consent. If the former is the correct definition, the crime is not in this case proved; if the latter, it is proved.” Regina v. The Fletcher, Bell C. C., 71.
+But it may be asked what about force? If only the force commonly involved in the act is sufficient, why is it made a part of the definition of the offense? From the authorities we conclude that force is added as a test of consent.
+Without any test we know absolutely that if asleep she did not consent. If awake, to be raped she must not consent. Here we have a question of fact which, owing to its nature, is very, difficult of solution, and hence the necessity for a severe and searching test. Our statutes provide that the. " force must be such as might reasonably be supposed sufficient to overcome resistance, taking into consideration the relative strength of the-parties and other circumstances of the case.” When the woman is asleep-there is no contest of strength, and hence no necessity for greater force-than that ordinarily involved in the act. If awake the contest arises;, threats apart, every exertion in her power under the circumstances must-be made to prevent the crime, or consent will be presumed. This is the general rule. There are exceptions other than that where the woman is. asleep, but they need not be noticed here.
+How let us for a moment return to the facts of this case. If it was. certain that Mrs. Grammar was asleep the charge relating to fraud would be held harmless. Was she asleep? This is by her own testimony very doubtful. She says she was sound asleep, but she also says that defend-, ant "came to me over the foot of the bed.” She says that she was partially asleep and partially awake all the time.
+This woman must have been very sleepy. She saw defendant when begot on the bed, thinking him her husband, but went sound asleep before-he got on her.
+We will not discuss this testimony further, remarking that it is not cer-. tain that she was asleep. This being the case, the charge of the court relating to fraud was, as said above, misleading to the injury of appellant, for which the judgment must be reversed and the case remanded for a. new trial.
+Reversed and remanded..
+Judges all present and concurring.
