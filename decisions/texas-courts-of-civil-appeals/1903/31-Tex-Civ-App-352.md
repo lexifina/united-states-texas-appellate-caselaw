@@ -1,0 +1,23 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-01-29"
+citations: ["31 Tex. Civ. App. 352"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. F. Lincoln v. W. C. Corbett et al."]
+source_url: "https://static.case.law/tex-civ-app/31/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4371676
+---
+
+# Lincoln v. Corbett
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+This suit was brought by the appellant against the appellees to enjoin the sale of land belonging to the appellant which had been advertised for sale by the appellee O. C. Drew, as trustee in a deed of trust executed to secure the payment of three notes in favor of the appellee, W. C. Corbett. A preliminary injunction was granted and the sale was restrained. Afterwards when the case came on for trial the injunction was dissolved, and judgment was rendered in favor of the appellee Corbett upon his cross-bill against the appellant for the amount of the notes, with foreclosure of a lien upon the land described in the trust deed.
+On May 21, 1900, the appellant executed three promissory notes in favor of the appellee W. C. Corbett, for the sum of $690.85 each payable one two and three years after date, respectively, at the Planters and Mechanics Bank, at Houston, Texas, with interest at the rate of 8 per cent per annum, payable annually; and the failure to pay the principal or interest when due should at the option of the holder mature all of the notes. In the event of default in payment and the notes were placed in the hands of an attorney for collection, or suit brought thereon, an additional amount of 10 per cent of the principal and interest was to be added to the notes as collection fees. As shown by a recital in the notes themselves and other evidence, a deed of trust of even date with the notes, upon the lands mentioned therein, and fully described in the deed of trust and the judgment of the court, was executed by the appellant to the appellee O. C. Drew, as trustee, to secure the payment of the notes, in default of which the trustee was authorized to sell the land after due advertisement and apply the proceeds of sale to the satisfaction of such amount of the notes as remained due and unpaid. When the first note matured the appellant failed to pay the same, and the appellee Corbett declared the maturity of all of them, and requested the appellee Drew, as trustee, to sell the land for their satisfaction in accord"anee with the deed of trust. The trustee advertised the land for sale, and was about to sell the same when he was enjoined, as above stated. No part of any of the notes has ever been paid. There is a conflict in the evidence about the offer to pay the note which matured May 21, 1901. The appellant testified that on the day the note was due he telephoned from his place of business in the city of Houston to the Planters and Mechanics National Bank and inquired for the note, but was told by some one answering that it was not in the bank. Drew, who was cashier of the bank,.as well as trustee in the deed of trust, testified that he received no telephone message from the appellant about the payment of the note; and that he had the note in the collection box on his desk on the day it fell due, and would have received the money, if it had been tendered, and delivered the notes. The paying and receiving teller of the bank also testified that he did not receive any .telephone message" from the appellant about the note, and that the appellant had never offered to pay him the note or deposit the money for it with him. . After the land had been advertised for sale the appellant, for the first time, tendered the amount of the first note, principal and interest, together with the annual interest on the other notes, and also offered to pay the expense of advertising the sale. This tender was made first to Corbett, who refused it, and was afterwards made to the trustee.
+Appellant having failed to pay the note which matured May 21, 1901, and the interest on the other notes, and the appellee. Corbett having exercised his option to declare all of the notes matured, the trustee was in the lawful exercise of his power to sell, and the injunction was properly dissolved. The notes having all matured by the default - of the appellant, and the appellee Corbett having pleaded over and asked for judgment thereon with a- foreclosure of his lien, judgment was properly rendered in favor of the appellee Corbett against the appellant for the amount of the notes, with attorney fees and foreclosure as prayed for, and it will be affirmed.
+Affirmed.
+Writ of error refused.
