@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1891-01-14"
+citations: ["15 Tex. Civ. App. 145"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Galveston, Harrisburg & San Antonio Railway Co. v. H. P. Stockton."]
+source_url: "https://static.case.law/tex-civ-app/15/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 264297
+cites_cases: ["26 S. W. Rep., 44", "35 S. W. Rep., 859"]
+---
+
+# Galveston, Harrisburg & San Antonio Railway Co. v. Stockton
+
+## Majority (WILLIAMS, Associate Justice.)
+
+WILLIAMS, Associate Justice.
+Appellee, in the statement of his cause of action in the court below, stated that the land, for the burning of the grass and injury to turf upon which he sues, was owned by him. He proved on the trial that he had been in possession of the land for ten or twelve years, and, standing alone, this might have been prima facie evidence of ownership which would have authorized him to recover. He was himself introduced upon the stand, however, and testified: “The land, damage to which is sued for by me, was not, at the time of the fire, owned by me. It belonged to my mother and wife. It was bought by us during our marriage. I was then in possession of same as their agent, holding and managing same for them. I have been in possession of the land for twelve years.”
+From this statement, it is clear that he had no title of his own to the land. Such possession as he held was as agent, and was that of his mother and wife. He states no facts from which it can be inferred that he had any right in himself, as agent, or otherwise, to the grass, or that he was in any way damaged by its destruction or by injury to the turf. It is plain that he shows no right to recover for the injury to the interest of his mother, and it is doubtful if he shows such right as to the other interest in the land. He says the property was bought during marriage, but how it was bought and paid for he does not explain. If bought with separate means of his wife, it would be her separate property, and in other ways it might have become such, though acquired during marriage. It is true, it would be presumed to be community property, but he says it belonged to his mother and wife, and that he was holding and managing it for them, as their agent. This seems naturally to mean that part of it is his wife’s separate property. If part of it was community property of himself and wife, his allegation that it was owned by him would, of course, to that extent, be sustained by the proof. But we think it would be different if it were his wife’s separate property. While he could maintain the suit alone and in his own name, even if the injury were to his wife’s separate property, we think he should have alleged ownership in her, and not in himself. Railway v. Flato, 35 S. W. Rep., 859. The importance of this requirement is well illustrated by the case cited.
+So, under the statement made of his case, we do not think plaintiff showed a right to recover even the damage done to his wife’s interest. But even if he had done so, the objection arising from his mother’s joint interest would still be fatal to this judgment. It is well settled that all joint owners of land must join in suits for such injuries as this, and that one cannot maintain a separate action for his proportion of the damages, if the defendant makes objection in proper time to the non-joinder of cotenants. It is also settled, however, if objection be not properly urged in the trial court, “that &• judgment in favor of plaintiff suing alone for his proper share of the damages will not be disturbed on appeal.” But this latter proposition obtains only when the plaintiff has shown himself entitled to what he has recovered. In order to do this, he must of course show the extent of his interest in the property, and must recover no more than his just share of the damage. He does not represent the cotenant not suing, and cannot bind him, and, as against him, defendant cannot be protected by the judgment. In the present case the court held that plaintiff showed title to the whole of the land, through his possession, and gave him judgment for the whole damage. This was error for which the judgment must be reversed. Railway v. Cusenberry, 26 S. W. Rep., 44; Rowland v. Murphy, 66 Texas, 538; Lee v. Turner, 71 Texas, 264; May v. Slade, 24 Texas, 209.
+This case plainly does not belong to that class of cases in which the legal right of action is in the agent, and in which he can consequently sue. The right of action here results alone from ownership of the land or of the grass and turf. The grass and turf were a part of the land, and were not community property, if the land belonged to the wife in her separate right. No other error is found.
+Reversed and remanded.
