@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2118"
+decided: "1885-12-09"
+citations: ["19 Tex. Ct. App. 536"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Young v. The State."]
+source_url: "https://static.case.law/tex-ct-app/19/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4454517
+---
+
+# Young v. State
+
+## Majority (Hurt, Judge.)
+
+Hurt, Judge.
+George Young was tried and convicted of murder of the first degree for the killing of Fannie Young, the death penalty being assessed by the jury.
+Two bills of exceptions appear in the record. 1st. It appears that F. M. Maxwell remarked to the jury in the opening argument: “ Gentlemen, in the back part of this court room sit a number of negroes, who are watching this trial to see if you will punish a negro for murdering his wife. If you don’t convict this negro, people will not bring them to trial hereafter, but will hang them on the spot where the crime is committed. If you turn this man loose, then it is impossible to convict a man on circumstantial evidence, for it is plainer than any case reported. Gentlemen of the jury, look at the defendant; there he sits; can you not see the demon in his eyes? does not his countenance declare him a murderer? Gentlemen, the welfare and peace of society depend upon your convicting this man. If you turn him loose you encourage mob law.” When the court’s attention was called to these remarks, counsel for the State, Mr. Maxwell, did not indulge further in these or similar, but closed his argument.
+That these remarks were altogether improper cannot be questioned, and it is passing strange to us that counsel for the prosecution will indulge in such, especially after such conduct has so often received at the hands of this court such stern rebuke. Is it not possible to convict the guilty alone upon the law and the evidence? Would any member of the legal profession be willing to be tried by more or less; would he be willing that the humblest citizen of this proud State should be tried in any other manner save upon the law and the facts in the case? Then, why will counsel leave the record and drag into the case matters wholly foreign, and which are frequently very unjust and oppressive to the accused?
+How, in relation to this matter, we would be inclined to reverse the judgment if counsel for appellant had called upon the court to repress counsel for the State, and this had been refused, and such conduct had been persisted in without reproof. But it seems that when the attention of the court was called to these remarks, Mr. F. M. Maxwell closed his argument.
+Again, if counsel for defendant had requested the court to instruct the jury that they should not be influenced by any such argument,— if such remarks could be dignified as such,— and the court had refused, we think an error would have been committed such as would have required a reversal of the judgment. This, however, was not done.
+The second bill of exceptions informs us that the county attorney, Mr. Templeton, at the close of his argument said to the jury: “ Gentlemen, I believe that George Young is guilty of this atrocious murder. I am not opposed to capital punishment, and believing him-’guilty, I would have the nerve to hang him.” Counsel for defendant excepted to said remarks and did nothing else. While it is true that authors in treating upon this subject say that counsel either for or against the prisoner should never express their opinion as to the guilt or innocence of the accused, yet we would hesitate at this day to reverse a judgment because of a violation of this rule. But here again counsel for defendant should have requested the court to instruct the jury that they should not be influenced by Mr. Temple-ton’s opinion as to defendant’s guilt.
+A motion for new trial was made, based upon two grounds: 2d. The matters already noticed, to wit, remarks of counsel for the prosecution; and 1st. That the evidence is not sufficient to support the verdict and judgment. We will not discuss the evidence, but must say that in our opinion it is conclusive of his guilt; not only so, but that defendant was guilty of murder of the first degree there cannot be the least doubt.
+His wife, or the woman with whom he was living, was in the house. Appellant, at night, left the house for the avowed purpose of getting a sack of coal, telling the girl Hattie Henderson, and Fannie Young, deceased, to come to the depot after a while to get the coal; that he was going to get some coal from the depot. Shortly after defendant left, Fannie, while standing at the end of the dining table eating milk and bread, was shot through the head from the south window, the slide of which was pulled back a little, leaving an opening an inch or. so wide. The girl gave the alarm and the neighbors gathered at once at the place of the homicide. That night defendant came to the front window and called for some one to bring his coat, pants and pocket-book to him; and while at the window, defendant asked the girl if she thought he killed her mother. She replied that she did not know, “ but it looked like it or you would come into the house;” whereupon defendant said, “ if you have that in your head, good-bye,” and left.
+These are merely some of the facts establishing the guilt of the appellant, but by no means all, there being a solid chain of irrefragable facts tending unerringly to the guilt of defendant. In fact, when viewed separately, or taken together, the circumstances are of such a nature as to exclude absolutely any other conclusion save that of the guilt of defendant. It is a case, if the witnesses swear the truth, and of this we have no reason for doubt, in which the mind can rest at ease in its belief of the guilt of the accused.
+There was a motion for continuance which was overruled, but the record does not contain a bill of exceptions thereto. We will not revise the action of the court relating to this matter in the absénce of a bill of exceptions.
+We have not had the benefit of a brief or argument for appellant, to assist us in properly disposing of this appeal, but we have given this record our most careful consideration, concluding that, if there be error, we have failed to discover in what particular,— such error as would authorize a reversal of the judgment. The judgment is affirmed.
+Affirmed.
+[Opinion delivered December 9, 1885.]
