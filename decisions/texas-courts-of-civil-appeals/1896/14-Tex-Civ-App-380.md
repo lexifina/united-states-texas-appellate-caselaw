@@ -1,0 +1,34 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1896-10-15"
+citations: ["14 Tex. Civ. App. 380"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. F. Davis et al. v. W. L. Kirksey et al."]
+source_url: "https://static.case.law/tex-civ-app/14/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 267300
+cites_cases: ["34 S. W. Rep., 672"]
+---
+
+# Davis v. Kirksey
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+Appellants, who deraign their title from the heirs and devisees of James Boulter, deceased, brought this action of trespass to try title to recover of the appellees an undivided one-half of the Levi B. Dikes league of land situated in Polk County. James Boulter died in the year 1853, leaving a will which was duly probated in Cherokee County in January, 1854. At his death he owned in community with his wife, Elizabeth W. Boulter, who survived him, the land in controversy, besides other property, the James Boulter headlight league and certain tracts of land patended to him as assignee of Isaac Pate, all situated in Polk County. By his will he disposed of his property and provided for its execution as follows:
+“2nd. I give and bequeath to my beloved wife, Elizabeth W., all and singular my personal, real, and mixed estate, to possess, use, dispose of and enjoy as her own, and for supporting, educating and rearing my minor children, during her natural life, and after her death all the effects left or remaining of my estate, together with the increase and profits of the same, to be equally divided among my lawful heirs; provided, nevertheless, that should the said Elizabeth W. marry a second husband, then and in that case the above will and testament to be null and void, and all the effects remaining in her hands at the time of said marriage, not disposed of as above directed, to be divided among my heirs as the law directs.
+“3rd. I appoint my said wife Elizabeth W. and William Roark my executrix and executor of this my said will and testament.”
+Elizabeth W. Boulter died in 1893, without ever having married again. James Boulter left nine children, one of whom died without issue. On the 25th day of August, 18Y1, prior to the date of appellant’s deed, Elizabeth W. Boulter and A. B. Boulter and William L. Boulter, two of the children of James Boulter, executed to W. L. Kirksey, the original defendant in this suit, and whose surviving wife and heirs the appellees are, the following deed:
+“The State of Texas, Cherokee County:—We, Elizabeth W. Boulter, A. B. Boulter and William L. Boulter, have this day bargained and sold, and do hereby transfer and convey to W. L. Kirksey and his heirs forever, for the consideration of fifteen hundred dollars to us paid, all the interest we each and all have in and to the following described tracts or parcels of land, all situated in ' the County of Polk, aforesaid State, to-wit: The Jas. Boulter headright league of land, lying and being near the town of Livingston; 2nd, the tracts of land patented on the 16th day of August, A. D. 1856, to James Boulter, assignee of Isaac Pate, by virtue of certificate No. 146, issued from Houston County. For more full description reference is had to said patent, which is recorded in book F of Record of Deeds, etc., of Polk County, 664-5-6. 3rd, the undivided half of the Levi B. Dikes league, situate east of Smithfield, in said Polk County, which said land was originally -in Liberty County, in which county the deed from said Dikes to James Boulter is recorded. The three tracts containing in all forty-five hundred acres, be the same more or less, being our entire interest in same. ' To have and to hold the same to the said W. L. Kirksey, his heirs and assigns, forever. And we covenant with said Kirksey that we are possessed of the said lands and have a right to convey the same, and we do hereby bind ourselves, heirs and representatives to warrant and forever defend the title to the said land to the said W. L. Kirksey, his heirs and assigns, against the lawful claims of all persons whatever claiming or to claim the same or any part thereof. Witness our hands, this the 25th day of August, A. D. 1871.
+“Witnessed by: her
+“A. A. Boulter, E. x W. Boulter,
+“Y. S. Boulter. - . mark
+“A. B. Boulter,
+“William L. Boulter.”
+The court below excluded evidence in explanation of the deed, and instructed the jury to return a verdict in favor of the defendants, which was done and judgment entered accordingly. From this action of the court, the necessary inference is that it construed the will as devising the property to Mrs. Boulter, with a general power of disposition during her natural life, and that the deed was a disposition of the property in accordance with the power given in the will. In the construction of the will the court was right. Weir v. Smith, 62 Texas, 1; McMurry v. Stanley, 69 Texas, 227. The law of forced heirship does not apply to the case, because the order of the County Court establishing the validity of the will was never set aside, and became finally conclusive of the testator’s right to dispose of his property in the manner he did. Paschal’s Digest, art. 1262; Orr v. O’Brien, 55 Texas, 155. But the deed does not purport to have been executed in accordance with the provisions of the will, or to be a conveyance of the land as a disposition thereof under its terms. It was executed by the surviving wife and two of the heirs, and was for “all the interest we each and all have * * * [describing the land], being our entire interest in the same.” A proper construction of the deed is that it conveyed the community and life estate of Elizabeth Boulter and the shares of A. B. Boulter and Wm. L. Boulter, leaving unsold the shares of the other heirs of James Boulter.
+There is no ambiguity on the face of the deed that could call for any explanation, and if the grantors were mistaken as to the quantity of the land conveyed, and had grounds for correcting the deed, a suit brought for that purpose would have been necessary. So, there was no error in the action of the court in excluding evidence to show that the tracts of land contained a great excess over the estimated quantity, or that the intention of the grantors was to convey only 4500 acres. William L. Kirksey having conveyed a part of the land, the appellants could, in seeking partition, recognize his conveyances and have their portion thereof set apart to them out of the survey brought into controversy.
+In view of another trial we suggest that it is necessary to make the owner of the one-eighth interest not represented a party to the suit, and the pleadings so shaped as to have a partition.
+The judgment of the court below is reversed and the cause remanded.
+Reversed and remanded.
