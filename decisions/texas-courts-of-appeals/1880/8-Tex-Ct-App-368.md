@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1880"
-citations: ["8 Tex. Ct. App. 368", "8 Tex. Ct. App. 398"]
+decided_precision: "year"
+citations: ["8 Tex. Ct. App. 368"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["P. Flynn v. The State."]
 source_url: "https://static.case.law/tex-ct-app/8/cases/0368-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128221
-cites_cases: ["10 Mo. 277", "10 Mo. 440", "16 Ark. 37", "4 Ark. 430", "7 Barb. 393"]
 ---
 
 # Flynn v. State
