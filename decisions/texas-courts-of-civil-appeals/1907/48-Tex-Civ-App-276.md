@@ -1,0 +1,39 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1907-12-18"
+citations: ["48 Tex. Civ. App. 276"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. W. Stewart and Wife v. Ed. Rutter."]
+source_url: "https://static.case.law/tex-civ-app/48/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4393389
+cites_cases: ["109 U. S., 618", "25 Atl. Rep., 119", "39 Ohio St., 11", "40 S. W. Rep., 1025", "63 S. W. Rep., 547", "94 U. S., 98", "97 U. S., 398"]
+---
+
+# Stewart v. Rutter
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+Ed Butter, as plaintiff, brought this suit against J. W. Stuart and wife to recover a balance alleged to be due on a building contract, and to foreclose a lien on the house and lot. The defendants filed a general denial and certain special pleas, one of which charged that the plaintiff had not completed' the building according to the terms of the contract, for which reason they clainied an offset of $500. The contract reads as follows:
+“State of Texas, ' 1 County of Bowie, j
+“This agreement made and entered into this 10th (changed with a pen to ‘12th’) day of February (changed with a pen to ‘April’), A. D. Nineteen hundred and two, by and between Ed Butter, party of the first part (hereinafter designated the contractor), and Mrs. Blanche D. Stuart (interlined ‘and J. W. Stuart’), of the City of Texarkana, Texas, parties of the second part (hereinafter designated the owners).
+“Witnesseth, that the contractor in consideration of the fulfillment of the agreements hereinafter made by the owner agrees with said owner as follows:
+“1.—The contractor, under direction and to the satisfaction of Sidney Stuart, architect, shall and will provide all the materials and perform all the work mentioned in the specifications and shown in the drawings, prepared by the said architect for the construction and completion of a three story and basement brick building, to be located on the owner’s premises, viz.: On lot No. 1 in Block No. 26, in the City of Texarkana, Bowie County, Texas; which drawings and specifications are identified by the signatures of the parties hereto.
+“2.—It is mutually understood and agreed that the drawings and specifications are and remain the property of the architect and are to be returned to him upon the completion of the job and that the architect is.to furnish any further drawings that may be needed to fully explain the work.
+“3.—The contractor shall, within twenty-four hours after receiving notice from the architect to that effect, proceed to remove from the grounds or building, all materials condemned by him whether worked or unworked and to take down all portions of the work that the architect shall condemn as unsound or improper or in any way failing to conform to the drawings and specifications. And it is further agreed by and between the parties hereto that should the contractor at any time fail or refuse to supply a sufficiency of labor or materials to properly prosecute the work or fail in any of the agreements herein contained, the owners shall be at liberty after three days written notice by the architect to terminate the employment of the contractor and to enter upon and take possession of the premises and finish the work in any manner he may see fit and to deduct the cost of same from any moneys then due or afterwards to become due the contractor and if any balance remains after the completion of the work the same shall be paid to the contractor and if the cost of said work is greater than the amounts due or to become due the contractor the latter shall- make good the amount to the owner.
+“4.—The contractor shall complete the whole of the work comprehended in this agreement on or before the 10th day of June, A. D., 1902, or in case of failure- to complete said work on or before the date named above the contractor agrees to forfeit to the owners as liquidated damages the sum of five & 00/100 dollars ($5.00) for each and every day (including Sundays) that elapses after the date set for the completion of the work.
+“5.—It is hereby mutually agreed by and between the parties hereto that the price to be paid to the contractor for said work and materials shall be the sum of ten thousand three hundred and thirty & 00/100 dollars ($10,330) and that said sum shall be paid in installments as follows:
+“In sums of not less than one thousand & 00/100 dollars ($1000) each and no payment to be in a greater amount than 70% of the value of the work and materials furnished after the last preceding payment except that the final payment shall be for the balance due on this contract and shall be made upon the completion and acceptance of the work and upon satisfactory evidence that all claims against the building have been paid.
+“6.—It is also agreed that (interlined with the pen The’) contractor is to furnish iron work on this job to the extent of four hundred & 00/100 dollars (in margin with pen ‘only’) and that any iron work in excess of this amount that may be required according to the plans and specifications shall be paid for by the owners as an extra.
+“7.—It is also understood and agreed that no payments or certificates of payment given on account of this work shall be conclusive evidence of the acceptance by the owners of defective work or materials.
+“8.—It shall be the duty of the contractor to maintain full insurance against loss by fire, in his own name and in the name of' the owners and the premiums for said insurance shall be borne equally by the parties hereto.
+“9.—It is further agreed between the parties hereto that the said Contractor, (Ed Butter) shall have and hold a mechanics lien upon said premises to secure the payment of the sums of money which may be due him under this contract.”
+There was a jury trial resulting in favor of the plaintiff and the defendants have appealed.
+Opinion.—We sustain the 8th and 9th assignments of error which complain of the action of the trial court in holding that the decision of the architect was binding upon the defendants, and that his certificate and evidence to the effect that the building had been constructed and completed to his satisfaction cut the defendants off from any right they might otherwise have had to show that the plaintiff had not complied with the contract. Boettler v. Tendick, 73 Texas, 488, and the other cases cited by appellee’s counsel in support of the ruling of the trial court, differ in some essential particulars from this case. In Boettler v. Tendick, it was expressly stated in the contract that all decisions of the architect were to be conclusive upon the parties. In some of the others the contract stated that .the final payment was to be made upon the approval of the work by the architect, thereby indicating that it was the intention of the parties to make the- architect the sole judge as to whether the contractor had fulfilled his obligation. No such stipulations are found in this contract; and the 7th section, though not free from ambiguity, contains language tending to show that it was not intended to constitute the architect the final arbiter.
+We are unable to determine from the face of the contract what the parties meant by the use of the words “certificates of payment” in the 7th section, and on account of that and other ambiguities in the contract, we think the court should not have made the ruling complained of, but should have submitted to the jury the question whether or not it was the intention of the parties to make the architect the sole judge as to whether the building had been constructed in accordance with the terms of the contract.
+On the other questions presented we sustain the rulings of- the trial court.
+For the error pointed out, the judgment is reversed and the cause remanded. '
+Reversed and remanded.
