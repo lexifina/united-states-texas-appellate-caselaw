@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-05-20"
+citations: ["32 Tex. Civ. App. 477"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Borden & Antill v. Le Tulle Mercantile Company."]
+source_url: "https://static.case.law/tex-civ-app/32/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4371535
+cites_cases: ["1 Posey's U. C., 258", "35 S. W. Rep., 869"]
+---
+
+# Borden & Antill v. Le Tulle Mercantile Co.
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+—The only question in this case is whether or not, upon the following facts, defendants’ plea of privilege to be sued in Harris County, the county of their residence, should have been sustained.
+The following is the evidence heard in reference to the plea: James Antill, one of the defendants, testified: “I am a member of the firm of Borden & Antill. J. B. Cochran, T. R Borden and myself all reside with our families at Houston, Harris County, Texas, and have resided there continuously and had our domiciles there for over four years last past. Neither myself nor any member of our firm ever agreed in writing to pay the claim sued on herein in Matagorda County, Texas. We made a crop of rice in Matagorda County, Texas, during- the season of 1901, and we had a good deal" of dealing with the plaintiff during that year, but there was no agreement nor understanding where we were to pay plaintiff, but we always paid plaintiff by check on First National Bank in Houston. I was in charge of the crop, either in person or by my foreman. I was not in Matagorda County much of the time. The longest time was about ten days, when my wife was with me. I was in Matagorda County a number of times two or three days at a time, but I had my home in Harris County all the time. Mr. Lawhorn was our foreman part of the time, and Mr. Kendall was foreman part of the time. I told Mr. Le Tulle to let our foreman have whatever they wanted, and we would pay the bills. The bills were rendered about every thirty days, and were 0. K.’d either by myself or by my foreman and sent to the Houston office for payment.”
+V. L. Le Tulle testified as follows: “I am president and general manager of the Le Tulle Mercantile Company, and as such, some time in the spring of 1901,1 made an agreement with James Antill by which plaintiff was to sell defendants whatever supplies they needed and to advance to defendants what money thejr needed in connection with the cultivation of their rice crop in Matagorda County, Texas, and I was to render them bills every thirty days, and it was understood that they were to be paid in Bay City. In compliance with this agreement plaintiff furnished defendants goods and money as they needed it, and plaintiff rendered defendant bills from the 1st to the 10th of each month, and on each of these bills was printed in red letters, "Terms 30 days; all accounts payable at Bay City.’ All these bills which were paid, were paid by check on a Houston bank, delivered to me in Bay City. The defendants never said anything to me about the wording of the bills as to place of payment, but continued to buy goods to the end of the season. I also agreed with them to store their rice at 5 cents per sack on the same conditions that I sold them ■ the goods. When defendants wanted anything their foreman sent a written order which plaintiff filled. All the goods were sold at Bay City, and used in Matagorda County.”
+We are of opinion that the plea should have been sustained. The statute, as it now is, provides that when a person has contracted in writing to perform an obligation in any particular county, the suit may be brought there. Rev. Stats., art. 1194, subdiv. 5. Prior to 1879 the statute did not require that a party should so contract in writing. The change is significant, and clearly indicates that the Legislature intended that the defendant must so contract by writing executed by himself or by his authority, and to exclude consideration of all agreements existing, in parol, or arising by implication. Mahon v. Cotton, 13 Texas Civ. App., 239, 35 S. W. Rep., 869.
+Nothing was in writing emanating from the defendants. Orders for goodq were signed by their foreman, but none of these contained any promise as to the mode or place of payment. The fact that upon bills made out by plaintiff and paid by defendants from time to time, were printed the words ""Terms 30 days; all accounts payable at Bay City,” was not sufficient to answer the requirements of the statute. There was still no contract by defendants in writing to pay such bills, to say nothing of a contract by them to pay them at a particular place. At most the facts that the bills rendered were so worded, and that defendants, knowing them to be so worded, had paid some of the bills and went on ordering goods, would show a parol or an implied understanding between the parties that the goods should be paid for at Bay City, but not a written agreement to do so.
+Appellant seems to rely on the case of Miller v. McDonnell, 1 Posey’s U. C., 258. That case arose under the previous statute. The requirement that the agreement must be in writing was not there considered.
+The plea should have been sustained, and'will be here sustained, the judgment reversed and the cause dismissed for want of jurisdiction.
+Reversed and dismissed.
