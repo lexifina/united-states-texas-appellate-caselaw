@@ -1,0 +1,41 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "694"
+decided: "1894-11-08"
+citations: ["8 Tex. Civ. App. 527"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Western Union Telegraph Company v. Charles Kinsley."]
+source_url: "https://static.case.law/tex-civ-app/8/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 240422
+cites_cases: ["12 Pac. Rep., 392", "22 S. W. Rep., 534", "25 S. W. Rep., 439", "26 S. W. Rep., 490", "27 S. W. Rep., 52"]
+---
+
+# Western Union Telegraph Co. v. Kinsley
+
+## Majority (WILLIAMS, Associate Justice.)
+
+WILLIAMS, Associate Justice.
+The petition in this case sought recovery of damages for the negligent failure of appellant to transmit and deliver in proper time the following message, addressed to the wife of the appellee:
+“Fulshear, Texas, September 15, 1892.
+“ To Mrs. Annie Kinsley, Winnie Street, 44 and 4$, Galveston, Texas:
+“Tour son very low. Wants you. Will you come?
+“Gus Tom.”
+The damage which the petition alleged to Mrs. Kinsley was mental suffering resulting from the fact that she could not reach Fulshear in time to attend the funeral of her son after the message was delivered, it being conceded that her son died before she could have reached him, had the telegram been promptly sent.
+Appellant excepted to the petition, on the ground that the damages thus claimed were “not the natural and proximate result arising from the breach of contract and the negligence complained of,” and “were not such as were in the contemplation of the parties at the time the contract to transmit and deliver said telegram was entered into.”
+The overruling by the trial court of this exception is assigned as error. The decision in the case of Loper v. Telegraph Company, 70 Texas, 689, is decisive of this question, adversely to appellant. In that case, it was held that a telegram announcing serious illness was notice to the company that the sick person might die, and that the addressee of the message in that event would be deprived of the privilege of attending the funeral, if the dispatch were not promptly delivered. This ruling is in no way modified by the subsequent decisions in the Linn case, 87 Texas, 7, and in the Motley case, 87 Texas, 38. On the contrary, the same principle is recognized in those opinions, and the cases are distinguished from that of Loper. The exception was properly' overruled. The evidence established the contract of defendant to send the telegram with reasonable dispatch; its failure to use ordinary care in sending it from Fulshear to Galveston, and a resulting unnecessary delay in its delivery at Galveston to Mrs. Kinsley, which constituted negligence on the part of defendant; and her failure to reach Fulshear in time for the funeral, as the natural and proximate result of such negligence, all as alleged in the petition. As the consequence of being thus deprived of the privilege of being present at the funeral, Mrs. Kinsley suffered mental anguish, for which the jury allowed her the sum of $750, which was not excessive.
+By the contract under which the message was accepted by appellant, it was stipulated, “that the company will not be liable for damages or statutory penalties in any case where the claim is not presented in writing within ninety days after the message is filed with the company for transmission.” Within ninety days after the filing of the message the following notice was given to appellant:
+“Galveston, Texas, October 15, 1892.
+“The Western Union Telegraph Go., Galveston, Texas:
+“Gentlemen — We herewith present you the claim of Mrs. Annie Kinsley for damages accruing by the failure of your company to deliver a dispatch on the 15th day of September, 1892, notifying her of the serious illness of her son, who was then sick near Fulshear, Texas. A copy of the dispatch is as follows. [Here a copy of the message is given.]
+“You are notified that Mrs. Kinsley claims $5000, because said dispatch was not delivered in time to enable her to attend the funeral of her son, who died near Fulshear. Very respectfully,
+“Wheeler & Bhodes.”
+The defendant pleaded the provision of the contract above set out, and alleged that the notice therein provided for had not been given. When plaintiff offered in evidence the above notice, defendant objected to its admission, on the ground that it “was not a claim made by the plaintiff, Charles Kinsley, but was one made by Mrs. Annie Kinsley, the wife of the plaintiff, and was presented to defendant for her alone, and not for or on account of plaintiff.” The court overruled the objection, and this ruling is assigned as error.
+The contention is, that inasmuch as the right of action which accrued from the breach of the contract was property belonging to the community estate, and could only be prosecuted by the husband, therefore the notice must have been given by and the claim made in the name of the husband alone. The notice was not a demand for payment, its office being merely to inform the telegraph company of the claim that was made, in order that it might make proper investigation of the facts out of which its liability was claimed to have arisen. For this purpose, the notice contained all information that was essential. The notice could have had no effect if the husband had not followed it up by suit; but it does not, we think, follow from that fact that it could not fulfill the purposes for which notice was required. The claim of which notice was given belonged to the community estate, and of that fact the law, we think, charged the company with notice. In that estate the wife, being a partner, was interested quite as deeply as the husband, and her notice was given in order to secure and perfect a cause of action which constituted a part of it. While the wife can not manage or control the community property, nor prosecute actions for its recovery, it does not at all follow that she is incapacitated to do other acts for its protection. She may, on the contrary, do all acts not inconsistent with her disabilities as a married woman, or with the power and control given by law to her husband. We can see nothing in our law which forbids the wife from doing an act like this, any more than she is forbidden to devote her energies and industry in proper ways to the accumulation of community property and the advancement of the interests of the common estate. This was a notice of a claim belonging to the community estate, and not to the husband or wife in his or her separate right; and while it was given in the name of the wife, the company, nevertheless, was put on notice that under the law a suit, if brought, would be brought by the husband. It therefore put the defendant in possession of every fact of which knowledge was contemplated by the contract. It inured to the benefit of the community estate, and when the husband adopted and ratified the act of his wife by the suit, there was a compliance with the contract, which could be held insufficient only under a view too technical, we think, to be adopted.
+Delivered November 8, 1894.
+The court did not err in refusing the special charge requested by defendant, by which it was asked that the jury be instructed, in effect, that plaintiff could not recover if it appeared that, after receipt of the message, she could have sent a telegram to Fulshear giving notice that she would go, and if such a message would have caused a postponement of the funeral.
+The evidence was, that the funeral took place about the time the message was received in Galveston, and such a telegram could not therefore have delayed it. Besides, the instruction would have introduced an issue depending solely upon speculation as to the probability of a postponement of the funeral as the result of such a message, could it have been sent. And again, had the issue been a proper one, the charge was erroneous, in that it instructed, in effect, that the facts stated would constitute negligence, thus invading the province of the jury. Of the passage in the charge given by the court on the subject of contributory negligence, the appellant can not complain.
+There was no error in the refusal of a new trial, and the judgment is affirmed.
+Affirmed.
