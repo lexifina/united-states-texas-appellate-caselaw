@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1840"
+decided: "1886-01-20"
+citations: ["3 Willson 106"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G., C. & S. F. R’y Co. v. J. B. Lamkin."]
+source_url: "https://static.case.law/willson/3/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1367753
+cites_cases: ["63 Tex. 407"]
+---
+
+# G., C. & S. F. R'y Co. v. Lamkin
+
+## Majority (Will-son, J.)
+
+Opinion by
+Will-son, J.
+§ 80. Overcharge on freight; no penalty for when freight weighs less than one hundred pounds; case stated. This appeal is from a judgment in favor of appellee against appellant for $500 penalty for an overcharge for freight on a package of goods weighing fifteen pounds, shipped by appellee from. Galveston to Caldwell, Texas, .a distance of one hundred and fifty-eight miles, over appellant’s line of railway. Appellant excepted to the petition upon the grounds: 1. That no penalty is given by law for an overcharge on freight when the freight carried weighs less than one hundred pounds. 2. That the statute prescribing a penalty for an overcharge on freight [R. S. art. 4258] was repealed by the act of April 10, 1883. These exceptions were overruled. Held: According to our understanding of the decision in Murray v. R. R. Co. 63 Tex. 407, it supports the first ground of exception, above stated. In that case the suit was to recover the penalty in fourteen specified instances for overcharge on freight. In each instance the freight weighed less than one hundred pounds. The trial court held “that under the law the defendant had the right to charge for carriage of any quantity of freight less than one hundred pounds the same as it may charge for one hundred pounds; one hundred pounds being the unit fixed by the statute.” Referring to this view of the trial judge, the supreme court says: “Our statute contains the specific provision that, when the distance is fifty miles or less, the charge shall not exceed thirty cents per hundred pounds. No provision, however, is made for an amount less than one hundred pounds. We concur with the court below in the opinion that one hundred pounds must be regarded as the unit fixed by the legislature. If this rule be correct the present suit cannot be maintained, as in each of the counts in the petition the amount of freight carried was less than one hundred pounds.” Upon the ground above stated the judgment of the trial court sustaining a demurrer to the petition was sustained. In an opinion .overruling a motion for rehearing, it is said: “The statutory remedy is not exclusive but cumulative; and in such cases it has been universally held that he who would recover a penalty must bring himself within the terms of the statute.” We understand the decision to be, that the statute which prescribes a penalty for an overcharge on freight does not operate when the freight carried weighs less than one hundred pounds. The word “rate ” used in the statute, “if used in the sense of proportion, must be limited to the ascending scale; that is to say, railroads may charge fifty cents per hundred pounds, per hundred miles, and they may charge at the same rate, or in the same proportion, for larger amounts and for longer ■ distances.” Counsel for appellee contend that this construction of that decision is not correct. They claim that the court held that “.a railroad has the right to charge for the carriage of any quantity of freight less than one hundred pounds the same amount which it is entitled to charge for one hundred pounds; one hundred pounds being the unit.” That this was the only point decided in that case. The above quotation of the point which they claim was - decided is the syllabus of the reporter, and the language is nowhere found in the opinions delivered by the court, nor do we think it a correct statement of the law as announced in those opinions. It is the conclusion arrived at by the reporter, and not by the court. We are unable to give the opinions any other meaning than the one we have stated, that is, that where the freight carried weighs less than one hundred pounds the penalty for overcharge does not apply. We agree with the supreme court in this view of the question, and hold that upon this ground the demurrer to the petition should have been sustained.
+January 20, 1886.
+§81. Penalty for overcharge on freight not repealed. As to the second ground of exception, we held in R. R. Co. v. Rains & Heard, ante, p. 90, that the statute providing a penalty for an overcharge on freight was still in force, and had not been repealed by the act of April 10, 1883. It was expressly re-enacted in section † of that act. [Gen. Laws ISth'Leg. p. 68.] It is unlike the case, of an overcharge for passenger fare. In such case the penalty prescribed by art. 4258, R. S., was omitted from said act, and in Etter v. R. R. Co. 2 W. Con. Rep p. 48, this court held had been thereby impliedly repealed.
+Reversed and dismissed.
