@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Appeals"
+docket: "5656"
+decided: "1888-05-29"
+citations: ["25 Tex. Ct. App. 495"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam Lann v. The State."]
+source_url: "https://static.case.law/tex-ct-app/25/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2359331
+---
+
+# Lann v. State
+
+## Majority (Willson, Judge.)
+
+Willson, Judge.
+This conviction is for unlawfully carrying a pistol, and is based upon facts in substance, as follows: Defendant was found with a pistol on his person in a saloon in the town of Brackett, about twelve o’clock in the night, by a deputy sheriff, who arrested him and took the pistol from him. Defendant at the time was a United States soldier, and the pistol was the property of the United States, and had been issued to him by his commanding officer for use in protecting a government garden, which the defendant had been detailed to take care of, which garden was situated some distance from the barracks, and from the town of Brackett. Defendant went into the town of Brackett with the pistol on his person about eight o’clock in the evening, and into a saloon, where he was afterwards arrested. He deposited the pistol in the saloon with the barkeeper, saying at the time that he would call and get it when he got ready to return to the garden. He then left the saloon and did not return thereto until about twelve o’clock. Upon returning to the saloon he called for the pistol and the barkeeper gave it to him, asking him at the same time if he did not know that it was against the law to carry a pistol. Defendant replied that he did, but that he was going at once to the garden, and started to go out of the house, but before getting out turned and went into the back portion of the house, where he was seen in conversation with other soldiers, and was arrested and the pistol taken from him.
+It is contended by the appellant’s counsel that our statute prohibiting the carrying of a pistol on or about the person is not applicable to a soldier. This position is, we think, correct, if the soldier, at the time of carrying the pistol, be in the actual discharge of his duties as such. But, if he be not in the actual discharge of duty as a soldier, but is acting without authority, and beyond the scope of' his orders, he is amenable to the law to the same extent, and under the same rules as any other individual. Thus, if the defendant, when he went into Brackett, was in the performance Of a duty assigned him by his officer, and in the performance of such duty was authorized by his officer, or by the regulations of the army, to bear arms, he was not guilty of a violation of law. If, therefore, he lawfully carried the pistol into Brackett, and desired to go about the town attending to his private affairs, or for any purpose not relating to the discharge of his duties as a soldier, it was his duty and privilege to lay aside the pistol, and to resume it again when he again entered upon the actual discharge of his military-duties. And if he did not resume the pistol until he actually resumed such duties, and was proceeding with reasonable dispatch to perform the same, he would not be guilty of violating the law in having the pistol on his person in the saloon.
+Opinion delivered May 29, 1888.
+To constitute a violation of this statute, there must be an intent to violate it. (Lyle v. The State, 21 Texas Ct. App., 153; Sanderson v. The State, 23 Texas Ct. App., 520; Mangum v. The State, 15 Texas Ct. App., 362.) In this case there is evidence tending to show that in having and carrying the pistol the defendant did not intend to violate the law, but, on the contrary, sought to obey it, by divesting himself of the pistol while going about the town of Brackett. It is true that such innocent intent is not made clearly to appear by the evidence. The facts of the case bearing upon the defendant’s intent are unsatisfactory, and evidently not fully developed on the trial. As bearing upon this issue the defendant proposed to prove that his general character for being a peacable, law abiding man in that community was good. This proposed testimony was rejected, and he excepted, and in this ruling of the court we think there was material error. In all criminal cases wherever a criminal intent is necessary to constitute the offense, evidence of the general character of the defendant is admissible in his behalf. (Coffee v. The State, 1 Texas Ct. App., 548; Lockhart v. The State, 3 Texas Ct. App., 567; Jones v. The State, 10 Texas Ct. App., 552; Johnson v. The State, 17 Texas Ct. App., 565.)
+Because of the error committed in rejecting the evidence offered by defendant to prove his law abiding character, and because the evidence before us tends to show an honest intention on his part in having and carrying, the pistol, the judgment is reversed and the cause is remanded.
+jReversed and remanded.
