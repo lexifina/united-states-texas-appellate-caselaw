@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-03-10"
+citations: ["54 Tex. Civ. App. 356"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Parlin & Orendorff Implement Company v. T. E. Clements."]
+source_url: "https://static.case.law/tex-civ-app/54/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4407562
+---
+
+# Parlin & Orendorff Implement Co. v. Clements
+
+## Majority (RICE, Associate Justice.)
+
+RICE, Associate Justice.
+—Appellee brought this suit in the County Court of McLennan County against appellant, a private corporation, and Guy McNamara, who ivas constable of precinct No. 1 of said county, for the recovery of damages alleged to have been sustained by him on account of the wrongful levy of a pretended execution upon certain property of appellee by said McNamara at the instance of appellant.
+At the ensuing term of the County Court, McNamara having answered, and appellant having failed to do so, judgment by default, with a writ of inquiry, was rendered against it. It thereafter filed an answer setting up its defenses thereto, which appellee moved to strike out. Subsequent to these proceedings the case, by agreement of parties, together with the writ of inquiry, was continued to the next term of said court without prejudice to either party. At the ensuing term of the County Court, plaintiff dismissed his cause of action as against McNamara, and both parties having announced ready for trial on the writ of inquiry theretofore awarded, judgment was rendered against appellant in favor of appellee for the sum of $900. Appellant filed its motion for new trial and in arrest of judgment, asserting, among other things, that the c6urt had no jurisdiction of plaintiff’s cause of action, because the same was in excess of $1,000, exclusive of interest, which motion was overruled, from which judgment this appeal is prosecuted.
+Appellant by its second assignment of error assails the judgment on the ground that the court had no jurisdiction of plaintiff’s cause of action for the reason assigned in its motion in arrest of judgment. By the averments of plaintiff’s petition it is shown that on the 15th day of June, 1907, he was engaged'in the livery business at Waco, at which time defendant McNamara, who was constable of said precinct, at the instance and request of appellant, seized and converted to the use of the defendant two horses each of the value of $150; that said property was unlawfully seized and converted under the pretense of having some kind of judgment against the plaintiff on which they caused an execution to be issued and said property seized; that prior thereto plaintiff was a man of good reputation and character, standing well among his neighbors and possessing good credit; that by reason of the seizure of his said property under said pretended execution his fair name, reputation and credit was injured, and that by reason of the unlawful seizure of said property without probable cause he was greatly humiliated and his standing and credit affected; that in addition to the unlawful seizure defendant, through said McNamara as constable of said precinct, posted notices in said county, one at the courthouse door, and at other places, advertising said property of plaintiff for sale under said pretended judgment and execution, further affecting his credit, fair name and reputation, causing him humiliation to his damage, including reasonable attorney’s fees, in the sum of $950; and for the unlawful detention and deprivation of the use of said property, and the expenses incident to said seizure, the further sum of $45, said petition concluding with a prayer for the recoverj’- of exemplary and actual damages, interest and costs, etc.
+We think it clearly appears, therefore, from the recitations of said pétition that the cause of action as therein asserted embraces as well the value of the horses as it does deprivation of their use and injury to his credit, etc., and therefore is for the sum of $1,295, which is in excess of the jurisdiction of said court. The County Court has exclusive jurisdiction in all civil cases where the matter in controversy shall exceed in value $200 and does not exceed $500, exclusive of interest, and concurrent, jurisdiction with the District Court, when the matter in controversy shall exceed $500 and not exceed $1,000, exclusive of interest (Article 5, section 16, of the State Constitution; see also articles 1154 and 1155, Sayles’ Rev. Civ. Stats.).
+We therefore conclude that the County Court had no jurisdiction of 'the cause of action asserted against appellant, and that the judgment of the court below should be reversed, with instructions to that court to dismiss said cause, and that the costs of this appeal be taxed against appellee, and it is so ordered.
+Reversed with instructions.
