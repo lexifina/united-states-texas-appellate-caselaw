@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1877"
-citations: ["3 Tex. Ct. App. 150", "3 Tex. Ct. App. 228", "1 Tex. Ct. App. 485"]
+decided_precision: "year"
+citations: ["3 Tex. Ct. App. 150"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Jim Jones v. The State."]
 source_url: "https://static.case.law/tex-ct-app/3/cases/0150-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4407426
-cites_cases: ["2 Mass. 481", "3 Cush. 558", "5 Denio, 277", "7 Ala. 728"]
 ---
 
 # Jones v. State
