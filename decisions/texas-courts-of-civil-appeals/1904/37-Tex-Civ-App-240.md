@@ -1,0 +1,21 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-11-23"
+citations: ["37 Tex. Civ. App. 240"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. L. McCutcheon v. Malin & Browder et al."]
+source_url: "https://static.case.law/tex-civ-app/37/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4379328
+---
+
+# McCutcheon v. Malin & Browder
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+This suit was brought in the County Court of Harris County by J. L. McCutcheon against Malin & Browder to recover damages for ejection from a room in a hotel conducted by the defendants which the plaintiff alleged he had engaged from them as a guest. A demurrer by the defendants to the plaintiff’s petition as fail? ing to show jurisdiction in the County Court was sustained by the court and the suit was dismissed. This is the second appeal. The first appeal was decided November 3, 1903. Malin & Browder v. McCutcheon, 8 Texas Ct. Rep., 367. After the case had been remanded for another trial the plaintiff filed an amended petition to which the demurrer was sustained. The petition alleged that on March 20, 1902, the plaintiff was in possession of a room in the Hotel Logan, a public hotel of which the defendants were proprietors, using and occupying the same with his personal effects as a guest of the hotel, and that plaintiff had paid for the use of the room and was entitled to the possession thereof for seventy-one days thereafter. That on said date, during the casual absence of the plaintiff from the- room, the defendants locked and barred the door and entrance thereto, and when the plaintiff sought to enter, forcibly ejected, him therefrom; and again on March 27, 1902, again barred him from entrance thereto and with force prevented him from entering it and from access to his effects therein, and demanded of him the payment of $7 and of $1 before they would permit him to enter his said room; that plaintiff paid said sums under protest in order to obtain an entrance to his room and get possession of his property therein; that the defendants denied to the plaintiff that he had paid for the room for seventy-one days in advance, and demanded that he should pay $1 a day in advance therefor, and refused to allow him to reenter unless he paid them said sum in advance; that thereupon the plaintiff removed his personal effects from said room and moved to another hotel, where he secured a I room at $1 a day for seventy-one days. There was also a count for exemplary damages for said acts done in the presence of other guests of said hotel without just cause and in utter disregard'of plaintiff’s rights, feelings, and reputation, and done wilfully, maliciously, and with intent to oppress, vex, and harass plaintiff in a manner calculated to humiliate and mortify him and bring him into bad repute in the community, and that said acts were malicious and oppressive. The plaintiff prayed for actual damages $.350 and for exemplary damages $500.
+There is a distinction between the allegations of the petition on the former appeal and the present. In the former petition plaintiff set out no item of action for actual damages following the exclusion from his room, but alleged that, because it was done in the presence of others, he sustained humiliation, loss of standing, and loss of credit in the sum -of $400—matter that was clearly not elements of actual damage. After the case went back, the petition was amended so as to show that the damages were sustained on account of the ejection from the room. It was shown that $71 damages was sustained for the actual deprivation of the use, but there were further damages alleged for the ejection and trouble of moving and other inconveniences, all of which was laid at a sum within the jurisdiction of the County Court. Even if the amount of actual damages shown had not exceeded the sum of $71, the exemplary damages averred were correctly laid at a sufficient sum to bring it within the jurisdiction. For the error of the court below in sustaining the demurrer, the judgment will be reversed and the case remanded.
+Reversed and remanded.
