@@ -1,0 +1,37 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "11"
+decided: "1892-11-09"
+citations: ["1 Tex. Civ. App. 443"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. J. Beall, Executor, et al. v. John Evans et al."]
+source_url: "https://static.case.law/tex-civ-app/1/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 216268
+cites_cases: ["11 Pet., 41", "12 S. W. Rep., 950", "38 Cal., 697", "4 Col., 39", "7 S. W. Rep., 506", "7 Wheat., 61"]
+---
+
+# Beall v. Evans
+
+## Majority (COLLARD, Associate Justice.)
+
+COLLARD, Associate Justice.
+There was error in the court’s charge, given without qualification, that the burden of proof was upon the plaintiffs and defendants Crosby, Hills, White, and the Campbell Real Estate Company, and in refusing to charge that as to title by limitation the burden was upon the defendants setting up such title. The assignments of error upon these questions ought to be sustained.
+The pleadings and the evidence placed all the parties above named in the position of plaintiffs against defendants John Evans, Allen Blocker, W. Gr. Warren, Peter Allen, Charles Dickens, and Fred Hazzard, who pleaded not guilty and limitation of ten years.
+The court instructed the jury that the burden of proof was upon the plaintiffs T. J. Beall, executor, and Frank Olds, and the defendants Campbell Real Estate Company, Alvord White, J. F. Crosby, and W. S. Hills, to establish by a preponderance of proof the right to recover against the other defendants, naming them. The charge then proceeds to instruct the jury that all the parties had agreed that the title to the land in controversy was in the plaintiffs Beall, executor, and Olds, and the defendants the Campbell Real Estate Company, White, Crosby, and Hills, for the interests respectively claimed by each in their pleadings, unless the other defendants had shown themselves entitled to the same under their pleadings and proof. The jury were then directed to find for Beall, executor, Olds, the Campbell Real Estate Company, White, Crosby, and Hills, for the land claimed by them respectively, unless they should find that the other defendants were entitled to the same under instructions afterwards to be given.
+The court then charged upon the plea of ten years limitation set up by these defendants, and that if the jury were satisfied it was established they were instructed to find for them.
+The court also charged upon the title of these defendants by purchase from one Gillett by Evans.
+Beall, executor, and Olds claimed six-eighths of the land — block 37 in the city of El Paso — an undivided interest; Crosby and Hills each claimed one-eighth undivided interest in all of the block north of the acequia running through it; and the Campbell Real Estate Company and Alvord White each claimed one-eighth undivided interest in the block south of the acequia; all of them disclaiming as to the six-eighths interest claimed by Beall, executor, and Olds, and asking judgment by cross-bill against Evans and other defendants claiming with him.
+It was agreed that the record title to the block was in plaintiffs and defendants joining with them in the suit against the other defendants, except so far as the same is affected by deeds from John S. Gillett to John Evans, and deeds from Evans and others to other parties to the suit; but it was stipulated that the agreement was not to affect or impair any rights which defendants may set up and establish under their various pleas of the statute of limitations.
+The charge of the court was erroneous in so far as it put the burden of proof upon the plaintiffs and the defendants joining with them in the suit against the other defendants on their plea of limitation. On this plea the onus was upon the defendants pleading it. The charge nowhere relieved plaintiffs of this burden. The testimony was uncertain and conflicting upon the issue of limitation, and required a verdict to ascertain its effect. The verdict was for defendants pleading limitation; and for aught that appears, it turned upon the instructions upon the burden of proof.
+A charge was asked by appellants, which was intended to correct the error, as follows: “ The burden of proof in this case as to their title and limitation is on defendant Evans and those claiming with him by limitation, and you will not find in favor of Evans or said defendants unless the proof preponderates in favor of said Evans and said defendants under the general instructions given.”
+This instruction is not accurate, as the burden of proof was upon appellants as to appellees’ title other than limitation; but it was sufficient to call the attention of the court to the necessity of shifting the burden to appellees upon their plea of limitation. The error complained of is reversible. Cunningham v. Frandtzen, 26 Texas, 34; Clark v. Hills, 67 Texas, 149.
+The court instructed the jury, that if William Pierson re-entered and took possession of any part of said land by and through his tenants, Mrs. ticottens, Wesley Owens, or any other tenant, then limitation would cease to run in favor of defendants to all the land not actually occupied or cultivated , used or enjoyed, and defendants’ possession would be broken as to all the land not so occupied and enjoyed.
+This charge can not be approved. There was evidence tending to show that Pierson put parties in possession of the land as his tenants. This would interrupt the constructive possession of Evans to all the land not in actual possession, if he, Pierson, had the title thereto superior to the title of Evans, because the superior title draws to it the constructive possession when there is actual possession under it. This possession under the superior title would not be defeated by mere enjoyment. The error in the charge resulted doubtless from oversight in the use of the disjunctive “ or ” instead of the copulative “ and.”
+Possession under a junior or inferior title, to defeat that of the superior title, must be actual, and only such part of the premises as is in actual possession can be claimed by it. Parker v. Baines, 65 Texas, 606.
+The charge of the court upon the character of possession required to sustain the plea of limitation, though in the main correct, was not as full as it should have been. To set the statute in motion under the ten years limitation, the possession must be visible, distinct, notorious, continued, and hostile for the full period of ten consecutive years while the statute was in force; it must be an actual, visible appropriation of the land, under claim of right inconsistent with the rights of the true owner, and must disseize the owner, and the claim must be of the land in suit. When limitation is set up by one tenant in common against another, it must not only amount to an ouster of the other joint tenant, but it must be of such a character and under such claim as will give notice to them of the intention to claim the whole. Mhoon v. Cain, 77 Texas, 316; Craig v. Cartwright, 65 Texas, 421, 424; Bracken v. Jones, 63 Texas, 186; Satterwhite v. Rosser, 61 Texas, 170, 172; Word v. Drouthett, 44 Texas, 373; Moody v. Butler, 63 Texas, 213.
+Delivered November 9, 1892.
+We are of the opinion that the judgment of the court below should be reversed and the cause remanded, and it is so ordered.
+Reversed and remanded.
