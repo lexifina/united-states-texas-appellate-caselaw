@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-03-05"
+citations: ["35 Tex. Civ. App. 123"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. B. Ray v. Pecos & Northern Texas Railway Company et al."]
+source_url: "https://static.case.law/tex-civ-app/35/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1977444
+cites_cases: ["20 S. W. Rep., 930", "36 S. W. Rep., 800"]
+---
+
+# Ray v. Pecos & Northern Texas Railway Co.
+
+## Majority (CONNER, Chief Justice.)
+
+CONNER, Chief Justice.
+Appellant and others in the service of the appellee Pecos & Northern Texas Railway Company were engaged in transferring a large iron boiler from a pump house to an engine house situated in the yards of the company named, in Amarillo, Texas, across a switch track extending alongside said engine house. As a roadway for the rollers upon which said boiler was moved, heavy planks were used. After crossing the' switch track, which was at a right angle, one of these planks had been left on or near the rail nearest the engine house in such manner or position as that it was struck by a passing engine and appellant thereby injured.
+Appellant alleged that the track and yards in question were in the common use of the said owner and of the Fort Worth & Denver City Railway Company, also sued, and that the operatives of the locomotive causing the injury were guilty of negligence in passing over the track at the time they did and in failing to discover that in so doing said plank would be struck, averring, however, an inability to prove to which company said locomotive and crew belonged.
+Appellees separately answered by general denial, and that the injuries charged were the proximate result of contributory negligence on the part of appellant and his fellow servants in leaving said plank in position to be struck.
+We are of opinion that the court was in error as assigned in giving the peremptory instruction to the jury to find for appellees. There was evidence tending to show that the foreman of the crew moving the boiler ordered appellant and others to clear the switch track, and that one of appellant’s fellow servants failed to sufficiently do so. But appellant denied having heard the order, and testified that he was at the time with his back to the switch track and facing the position of the foreman, supporting some timbers with a crowbar, awaiting orders, and did not know of the condition of the track or hear the approach of the engine. If appellant was himself free from negligence, and there was negligence on the part of the engine crew, who were not fellow servants with appellant under our statute, that proximately resulted in injury, the master, whose servants the operatives of the engine were, is liable, even though there may also have been concurring and contributory negligence of persons other than appellant, fellow servants of appellant though they may have been. See vol. 3, see. 814, of the recent work by Labatt on Master and Servant, and authorities cited in note; Galveston H. & S. A. Ry. Co. v. Sweeney, 14 Texas Civ. App,. 216, 36 S. W. Rep., 800, in which writ of error was denied; Railway v. Swinney, 3 Texas Law Journal, 814, 9 Texas Ct. Rep., 228. The issue of contributory negligence should therefore have been submitted to the jury.
+It is not contended, neither can it be successfully, that the mere fact that the locomotive causing the injury may have belonged to the Fort Worth. & Denver City Railway Company would relieve the other appellee, if it be otherwise liable. Whether it be the locomotive of one or the other, the appellant Pecos & Northern Texas Railway Company, under the circumstances appearing in this case, is liable for the actionable negligence of the operatives thereof. Railway Co. v. Owens, 8 Texas Ct. Rep:, 67; International & G. N. Ry. Co. v. Underwood, 67 Texas, 589; International & G. N. Ry. Co. v. Moody, 71 Texas, 614; Missouri P. Ry. Co. v. Bond, 20 S. W. Rep., 930. These authorities are cited as sustaining the proposition that the Fort Worth & Denver City Railway Company, which seeks to have the judgment as to it affirmed at all events, is also liable. They do not, however, seem to be precisely in point. Nevertheless, the identity of the engine and crew, in the absence of attainable positive proof, may be established by circumstances, and we think the fact that the yards and track were in the use and presumably under some degree of control on the part of the Fort Worth & Denver City Railway Company are circumstances at least tending to establish that one of its engines caused the injury, and hence, in accord with the reasoning of the cases named, perhaps call for rebutting proof. But however this may be, the question does not seem to be very material, and further evidence of identity may be offered upon another trial, and we therefore conclude that the judgment should be reversed because of the error noted as to all parties, and it will be so ordered.
+■ We deem it unnecessary to discuss other questions presented. The judgment is reversed and cause remanded.
+Reversed and remanded.
