@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1902-03-05"
+citations: ["28 Tex. Civ. App. 528"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lena M. Everett et al. v. Galveston, Harrisburg & San Antonio Railway Company."]
+source_url: "https://static.case.law/tex-civ-app/28/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2897150
+cites_cases: ["60 S. W. Rep., 789"]
+---
+
+# Everett v. Galveston, Harrisburg & San Antonio Railway Co.
+
+## Majority (■JAMES, Chief Justice.)
+
+■JAMES, Chief Justice.
+This action is by appellee in trespass to try title to two sections of land. Plaintiff proved title under the State by mesne conveyances to the Buffalo Bayou, Brazos & Colorado Railway Company. Plaintiff’s evidence of title from said company consisted solely of the act of the Legislature passed July 27, 1870. Spec. Laws 12th Leg., p. 45. The effect of that act as construed by the Supreme Court in Acres v. Moyne, 59 Texas, 623, and by the Galveston branch of this court on a previous appeal (Railway v. Everett, 58 Southwestern Reporter, 547), is that, standing alone, without contradictory proof as authorized by its twelfth section, this act is prima facie evidence of title in appellee to the property of the Buffalo Bayou, Brazos & Colorado Railway Company. This view we adopt.
+The question to be considered is whether or not appellants overcame this prima facie proof of title by testimony showing that the title to the surveys in question did not in fact pass to appellee by the sales referred to in said act.
+The cases cited seem to make it clear that if, by and under the instruments recited in the preamble of said act, the lands in question had not been conveyed, the effect to which the act was otherwise entitled as evidence of title could not be accorded it. The act itself, by its twelfth section, provides that nothing therein shall be construed as to deprive any party interested of the right to disprove any assumed fact stated in the preamble. The Legislature plainly, in our judgment, did not undertake to ascertain and determine the truth of said facts, but assumed them; and did not intend to affect third parties, where the assumed facts were shown to be untrue, and that it should not operate upon and affect any property except what was in fact sold to the purchasers and their associates mentioned in the act.
+Appellants introduced in evidence certified copies from the records of Harris County of the sheriff’s deed dated July 7, 1868, and of the deed of trust, and the trustees’ deed thereunder dated January 24, 1870, manifestly and presumably copies of the identical instruments mentioned in said preamble. There being no bill of exceptions saving any objections to said certified copies as evidence* except in the body of the statement of facts which was not filed until after the term, they stand as if admitted without objection, and the only question is as to the legal effect to be given them.
+It is a fact admitted of record that neither of the two tracts of land sued for, nor any part of them, was ever occupied by the right of way or roadbed of plaintiff, or otherwise used by plaintiff. This appears also from testimony introduced. Such being the case, we find the further fact that neither the sheriff’s deed under executions, nor the trustees’ deed, mentioned in said preamble, by any description therein, include or convey the said sections. Further, the deed of trust has the following recital: “And it is mutually understood that only so much part of the land of the parties of the first part as is or may be actually covered by the depots or other structures of said railroad, or as may be necessarily occupied in the convenient operation of the same, is included in the grant and conveyances contained in this indenture, and particularly the lands donated to said parties of the first part by’ the State of Texas, and the right to the land or land scrip that has accrued or may accrue to them upon a construction of any part of said railroad are expressly reserved to said parties of the first part.”
+Opinion—We are of opinion that it was not intended by the Act of December 19, 1857 (1 Paschal’s Digest, page 816), which is mentioned in the preamble as one of the bases of the Act of 1870, that a sale of the “roadbed, track, franchise, and chartered rights and privileges” of a railway company which it declares “shall be deemed an entire thing and must be sold as such,” .should include any and all of the property of such company. No better evidence that such was not the intent can be given than article 4916 of that act, which enacts, in effect, that after such a sale the remaining property of the “sold out” company shall remain in the hands of its trustees to be administered by them (unless other persons shall be appointed by the Legislature or some court of competent jurisdiction) for the benefit of its creditors and stockholders. It is not contended, and we would not sustain such contention if made, that the Act of 1870 appoints as such trustees the purchasers and their associates mentioned in said act. With the remaining assets of the “sold out” corporation they and appellee have nothing to do. They succeeded the “sold out” corporation in respect to what was conveyed to them and no further. They acquired no title legal or equitable to the lands in question under the evidence. The title is shown to have remained with the trustees of the “sold out” company. Adridge v. Pardee, 60 S. W. Rep., 789.
+We conclude therefore as follows:
+1. That the instruments referred to in the preámble of the Act of 1870 and in evidence, showing affirmatively that the sales' did not include the surveys in controversy, destroy the effect of said act as a muniment of title to said lands.
+2. That plaintiff appearing to be without title, judgment should have been rendered against it. The judgmént will therefore be reversed and judgment rendered here that plaintiff take nothing by its suit as to appellants.
+Reversed and rendered.
+Writ of error refused.
