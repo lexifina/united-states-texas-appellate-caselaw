@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "718"
+decided: "1894-12-13"
+citations: ["9 Tex. Civ. App. 82"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. W. De Walt v. Zeigler & McIlhenny."]
+source_url: "https://static.case.law/tex-civ-app/9/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 242265
+cites_cases: ["2 Will., 719"]
+---
+
+# De Walt v. Zeigler & McIlhenny
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+— There was judgment by default in the court below. The citation to the defendant commanded him to appear “before the County Court of Fort Bend County, to be held at the court house thereof, in the city of Richmond, on the 3rd Monday in February, A. D. 1894, the same being the 19th day of February, A. D. 1894, then and there to answer,” etc. It was properly directed to the sheriff of Fort Bend County, and concluded with the direction, “Herein fail not, and have you then and there this citation, showing-how you have executed the same.” It was objected to the citation, (1) it was not made returnable on the first day of the next berm of court; (2) that in giving only the firm name of the plaintiffs, it did not state all the names of the parties to the suit; (3) that being a suit against the clerk of the court, and a clerk pro tern having been appointed, the signature, “ Clerk pro tern of the County Court of Fort Bend County,” did not show that the officer dating, testing, and issuing the writ was an officer known to the law, the order of the court appointing said clerk pro tern also failing to show that the appointment was only for the purpose of this suit.
+The citation was sufficient, although not made returnable in specific language on the first day of the next term of the court, the time to which it was made returnable being that day. Cave v. City of Houston, 65 Texas, 621; Railway v. Wheat, 68 Texas, 136; contra, Kirk v. Hampton, 2 Will., 719. The statement of the firm name of the parties in the citation was sufficient. Putman v. Wheeler & Rhodes, 65 Texas, 525. This case seems not to have been in the mind of the court when Graves v. Drane, 66 Texas, 658, was decided; but this latter case does not decide the question. The record shows, that the appointment of the clerk pro tern was made by an order in this case, and there was no merit in the objection that he was appointed clerk pro tern of the County Court of Fort Bend County, an officer not known to the law. The citation was sufficient.
+The petition set up as cause of action, substantially, that one V. S. Laughlin was on November 14, 1882, indebted to plaintiffs in the sum of $500, and to numerous other creditors; that on that day he made a general assignment of all his property for the benefit of his crédita is, to the defendant, De Walt; that the defendant as assignee accepted the trust, took possession of the trust estate, which was of the value of $10,000, and converted the same to his own use; that said Laughlin had sufficient property to pay the debt of plaintiffs, as well as of all other creditors; that plaintiffs demanded of defendant that he pay their said debt, but that he had refused and neglected to do so to their damage $500; that from and after said assignment said Laughlin became and was insolvent, and plaintiffs have not been able to collect their debt; that by reason of the conversion of the said property by the defendant, the plaintiffs had been deprived of their security under said assignment, and had lost their debt. A copy of the assignment was attached to the petition, and it appears to be a general assignment under the statute in favor of all the creditors of the said Laughlin. There is no allegation that the plaintiffs had filed their claim with the assignee.
+Plaintiffs can not maintain their action against the assignee, De Walt, for the amount of their debt upon allegation and proof that the defendant had converted the assigned estate; and that the value of said estate was sufficient to pay their debt, as well as those of all other creditors of the said Laughlin. The assignment was a statutory assignment and whatever remedy the plaintiffs have is under the statute. They can not maintain an action against the assignee, except for the benefit of other creditors as well as themselves. McIlhenny v. Todd, 71 Texas, 400; Schoolher v. Hutchins, 66 Texas, 324; Wynne v. Hardware Co., 67 Texas, 40; Blum v. Wettermark, 56 Texas, 85; Moody v. Carroll, 71 Texas, 144.
+The County Court was also without jurisdiction to entertain such a suit as plaintiff should have brought, the value of the property being-more than $1000. The failure of defendant to qualify as assignee would not give plaintiffs the right to maintain this suit. While the assignment is for the benefit of all creditors, and not only for those who should accept and release the debtor, and the plaintiffs might have the right to reach the surplus, if any, by a proper proceeding after the administration of the assignment, without garnishing the assignee, we are of the opinion, that they can not maintain this suit as for a conversion of the property on allegations and proof that the assigned estate was more than sufficient to pay all the debts, including theirs.
+Plaintiffs have shown no cause of action against the defendant, and because they can not amend and show cause of action within the jurisdiction of the County Court, the judgment will be reversed and the cause dismissed.
+Reversed and dismissed.
+Delivered December 13, 1894.
