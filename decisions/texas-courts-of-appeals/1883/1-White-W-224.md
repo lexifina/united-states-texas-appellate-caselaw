@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2705, Op. Book No. 4"
+decided: "1883-07-03"
+citations: ["1 White & W. 224"]
+reporter: "white-w"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. D. Bowden v. Charles Kelley et al."]
+source_url: "https://static.case.law/white-w/1/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1364890
+---
+
+# Bowden v. Kelley
+
+## Majority (Hurt, J.)
+
+Opinion by
+Hurt, J.
+§ 480. Mutual mistake; failure of consideration; estoppel by record. Isaac Jackson, prior to his death, divided his lands among his heirs, the gifts to take effect after his death. L. D. Bowden and Mrs. E. A. Kelley were two of these heirs, and it was understood and believed by and between the heirs that the portion given by Jackson to Mrs. E. A. Kelley would cover Jackson’s old homestead and the improvements thereon. So believing, E. A. Kelley sold to Bowden all the improvements upon the homestead, taking his note for $200 for the same. Bowden afterwards paid $100 on this note. Dissatisfaction and dissension having arisen between the heirs with regard to their respective rights in the Jackson estate, they finally agreed to arbitrate the whole matter. This was done, and the award of the arbitrators- was upon petition of all the heirs, including Mrs. E. A. Kelley, made the judgment of the district court, and the lands partitioned by decree in accordance with the award of the arbitrators. Under this award and decree, Mrs, Kelley did not receive the homestead and improvements thereon which she had sold to Bowden. Bowden demanded the $100 which he had paid her for this property, and, upon her refusal to refund, he sued her in a justice’s court and recovered judgment for $66.91, and she appealed to the county court, where both parties pleaded in writing, Bowden stating in substance that the consideration of the note had failed; mutual mistake of fact; the arbitration award, and order of the district court making the award the judgment of that court; acceptance and holding under the award by Kelley; total loss by virtue of this judgment of all the improvements purchased from Mi’s. E. A. Kelley, for which the note was executed and the $100 payment made. Mrs. Kelley set up her note, and asked judgment for the unpaid balance, together with other matters in avoidance of Bowden’s allegations. On the trial, Bowden proposed and offered to introduce in evidence all matters pertaining to the arbitration award and judgment. Defendants objected specially to each of the matters proposed, and the court sustained the objections and excluded all the evidence.
+We believe these to be sound propositions. 1st. If Mrs. Kelloy and Bowden believed that she owned the improvements, and, acting upon this belief, the sale was made, and the purchase money, or any part thereof, was paid; now, if it should transpire that this was a mistake, and that in fact she did not own them, and, by reason of the want of title in her, Bowden got no title to the property,, he would have the right to recover the money paid under such circumstances; and if he could recover back that which he had paid, certainly he could plead these facts in bar to a recovery of the purchase money. 2. If, at' the time of the sale to Bowden, Mrs. Kelley had title to the improvements, and sold the same to Bowden, but. subsequently the. sale was rescinded by the parties and the purchaser deprived of all benefits arising from his pun-chase, he would have the right to recover back his pur?chase money, if paid, and if not, to plead these facts in bar to a recovery. Reid further, the objections urged to these matters was an indirect and collateral attack upon the judgment of the district court; and that, by coming into the court, and by petition asking that the award (which was on file and subject to inspection by her) be made the judgment and decree of the court, she was estopped from denying the validity of, or attacking, the said judgment in this collateral proceeding. Reid further, that the court erred in excluding the evidence in relation to the arbitration award and judgment thereon; and that the court erred in refusing to permit Bowden to prove that he did not receive any of the improvements by virtue of his purchase, and that Mrs. Kelley did not get these, or any part of these, improvements. That the proposed facts were most clearly relevant, and tended strongly, if not conclusively, to show a failure of consideration, and this being the case, the court erred in excluding them. It was also error to permit defendants to prove the value of the imjDrovements belonging to plaintiff, there being no pretense that they were included in those sold to plaintiff by E. A. Kelley.
+July 3, 1883.
+Reversed and remanded.
