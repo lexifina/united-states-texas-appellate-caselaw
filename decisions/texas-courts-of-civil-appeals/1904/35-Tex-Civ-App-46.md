@@ -1,0 +1,34 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-03-02"
+citations: ["35 Tex. Civ. App. 46"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Missouri, Kansas & Texas Railway Company of Texas v. T. B. Moody."]
+source_url: "https://static.case.law/tex-civ-app/35/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1977621
+---
+
+# Missouri, Kansas & Texas Railway Co. v. Moody
+
+## Majority (STREETMAN, Associate Justice.)
+
+STREETMAN, Associate Justice.
+Appellee recovered a° judgment on account of personal injuries sustained by him while he was a passenger upon one of appellant’s trains.
+The first assignment of error complains that the court overruled a general demurrer to plaintiff’s petition for the reason that the allegations as to negligence were too meager, indefinite and uncertain, and that the date of the accident was not alleged with sufficient certainty, and that the petition did not negative his contributory negligence.
+The petition alleged that the accident occurred on or about the 6th day of February, 1903. It also alleged, among other things, that "plaintiff was aboard one of the passenger trains of the defendant as a passenger, traveling from said Waco, to said city of Temple, and that by feason of the carelessness and negligence of the defendant’s employes engaged in the handling of said train, in stopping so suddenly, or jerking the ear on which plaintiff was a passenger, plaintiff was violently thrown down and against the door of defendant’s said car, or against the closet of said car, and'thereby sustained permanent injuries,” etc. These allegations were, in our opinion, sufficient as against a general exception.
+The second assignment of error relates to the testimony of the plaintiff, in which he showed his conduct for some time subsequent to the date of the alleged injuries, testifying what length of time he worked at his blacksmith shop, and when he went home and why he did so, and showing the amount of pain and suffering sustained by him during that time. We can see no reason why it was not permissible for the plaintiff to testify to these facts as showing the effect of the injuries sustained by him.
+The third and fourth assignments of error complain of the exhibition of the plaintiff’s person to the jury during the time he was testifying as a witness, and to the fact that his counsel, in the presence of the jury, measured his right and left arms with a string, showing the difference in size of the two members.
+The bills of exception do not show what was the difference, as shown by these measurements, nor do they show any features of this examination which were calculated to prejudice or unduly influence the jury. From the bills of exception we are unable to tell whether the result of this exhibition was favorable to the plaintiff or the defendant. Independent of this question, however, we are unable to see any impropriety in the exhibition of injuries of this character to the jury, in order that they may see for themselves the extent of the injury sustained. The present condition of the injured party in such cases is always one of the issues to be determined, and we see no reason why the jury should not, in a case of this character, be permitted for themselves to see the injured limbs, if the plaintiff is willing to exhibit them.
+The fifth assignment of error is based upon a bill of exceptions taken to the reading by plaintiff’s counsel in argument of an extract from Wood on Railroads. The reading of legal authorities in the presence of the jury rests to a large extent within the discretion of the court; and it is only in cases where we are able to say that that discretion has been abused, and that probable injury has resulted to the appellant therefrom, that we are warranted in reversing a case upon that ground. We are unable to say that there was any abuse of this discretion in this case.
+A number of assignments are directed against the charge of the court, the complaint being that a different degree of proof was required with reference to the issues respectively of the plaintiff and the defendant, the court having charged the jury that if they found certain facts “from a preponderance of the evidence,” to find for the plaintiff; and, on the other hand, if they should “find” certain facts, they would find for the defendant.
+The complaint is that the jury were only required to find the issues upon which plaintiff relied for a recovery from a preponderance of the evidence, but that as to the defensive issues, they were required to find the theory of the defendant to be true. It is questionable whether the difference in instructing upon these respective issues is unfavorable to appellant, as contended; but if so, we think that any misapprehension that might have been caused thereby was removed by the charge given by the court upon the burden of proof. The only defensive issue in the case was that of contributory negligence.
+Among other charges the court gave the following: “In order for the plaintiff to recover in this case, the burden of proof is upon him to prove by a preponderance of the evidence that, first, he was injured as alleged; and, second, that such injury was the direct and proximate result of the negligence of the defendant, its agents or employes, and not occasioned or contributed to by any want of ordinary care on his part; and unless you so find from a preponderance of the evidence, you will find for the defendant.”
+It clearly appears from this charge that upon the sole defensive issue in the case, the jury were told, not only that said issue must be decided upon a preponderance of the evidence, but that the burden of proof as to this issue was upon the plaintiff. This, in our opinion, certainly obviated any possible objection to the other charges complained of.
+It is earnestly insisted that the verdict of the jury is not sustained by the testimony, but a careful examination of the record convinces us this this contention can not be sustained. The verdict of the jury is supported by the testimony of the plaintiff and three other witnesses to the accident. It is true that the testimony of the plaintiff is impeached by evidence as to his character and that there are some discrepancies between his statement and that of the other witnesses in the case. These matters, however, were peculiarly within the province of the jury and the trial court; and, in our opinion, there is abundant evidence in the record to sustain the verdict.
+We have not deemed it necessary to discuss all of the assignments of error complaining of the charge of the court, but they have each received our careful consideration.
+There being no error in the judgment, it is affirmed.
+Affirmed.
+Writ of error was refused by the Supreme Court April 28, 1904.
