@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1898-05-18"
+citations: ["19 Tex. Civ. App. 90"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Jameson v. T. L. Smith & Bro."]
+source_url: "https://static.case.law/tex-civ-app/19/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 251236
+---
+
+# Jameson v. T. L. Smith & Bro.
+
+## Majority (NEILL, Associate Justice.)
+
+NEILL, Associate Justice.
+On March 27, 1895, Thomas Jame-son brought suit in the Justice Court on a promissory note executed to him on February 26, 1894, by Mitchell Jackson, and payable November 1, 1894. This note before delivery was indorsed as follows: “We indorse the within and agree to pay the same, 11-1-94. T. L. Smith & Bro.” Citation in the suit was issued to and served upon Mitchell Jackson and T. L. Smith. In the citation to T. L. Smith, he is named individually, no mention nor reference being made to the firm of T. L. Smith & Bro., which firm was then composed of T. L. Smith, J. G-. Smith, and T. G. Masterson.
+T. L. Smith appeared in the suit and filed a plea in abatement setting up the fact that T. G. Masterson and J. G. Smith were members of the firm of T. L. Smith & Co., at the time the note was executed and were necessary parties and praj’ed that the suit be abated because of their nonjoinder.
+This plea was overruled by the justice, and T. L. Smith pleaded a general denial, and special pleas in bar.
+On April 18, 1895, the case was tried before a jury and the trial resulted in a judgment in favor of Jameson against Mitchell Jackson and T. L. Smith & Bro. for $125, interest and costs of suit, and in favor of T. L. Smith & Bro. against Jackson for the same amount. The judgment recites that “both parties appeared and announced ready for trial.”
+T. L. Smith & Bro. filed a motion for a new trial,.which being overruled, they, together with Mitchell Jackson, appealed to the County Court. In that court T. L. Smith & Bro. filed a motion to dismiss the appeal upon the ground that the judgment they had appealed from was not final. This motion was sustained, and the appeal dismissed. The judgment of dismissal contains the following recitals: “The motion in writing of defendants Mitchell Jackson, T. L. Smith & Bro., and T. L. Smith to dismiss their appeal in this case on the ground that the jugdment of the Justice Court did not dispose of the cause and did not dispose of T. L. Smith, was premature and not final, and the court after hearing, and considering said motion is of the opinion that the same is correct in law, and it is therefore ordered, adjudged, and decreed by the court that said appeal from Justice Court be and the same is hereby dismissed.”
+After the dismissal of the appeal execution was issued upon the judgment in the Justice Court, whereupon Mitchell Jackson and T. L. Smith and Bro., a firm alleged to be composed of T. L. and J. G. Smith, brought this suit in the District Court against Thomas Jameson, Tigner, the justice of the peace, and Williams, the sheriff, for an injunction to restrain any proceedings on said execution, upon the ground that the judgment of the Justice Court was not final, in that it failed to dispose of the issues as to T. L. Smith individually.
+A temporary writ of injunction was granted, which on final hearing was, upon the facts stated, perpetuated. This appeal is from such judgment.
+In our opinion the trial court properly held that the judgment of the Justice Court, upon which the execution issued sought to be enjoined, was final. Mitchell Jackson and T. L. Smith were the only parties defendant to the suit, they were the only ones who were cited or who answered, and the judgment as to them fully disposed of the matter in controversy. If the members of the firm of T. L. Smith & Bro. were liable on J meson’s demand, their liability was joint and several, and, at the election of plaintiff, any one or all of them could be sued. And the plaintiff having elected to sue T. L. Smith, the other members of his firm can not complain of the judgment against him. He could have had them made parties if he desired, but had no right to have the action abated because plaintiff had not sued them.
+Mitchell Jackson and T. L. Smith after having appealed from the judgment upon their own motion procured a dismissal of their appeal. The effect of the order of dismissal was to leave the judgment of the Justice Court just as if no appeal had been taken. The recital in the order of dismissal that the judgment “did not dispose of the cause and did not dispose of T. L. Smith” can not be considered as an adjudication of the matters so recited. The appellate jurisdiction of the county court extends only to the trial de nova of the cause appealed, and it is only for the purpose of determining its jurisdiction that it can inquire into the character or nature of the judgment appealed from. If, in an inquiry for this purpose, it erroneously concludes a judgment is_not final, such erroneous conclusion can not affect the judgment and make it interlocutory. If this were the effect of such a conclusion, a final judgment in the justice court could be annulled by the party against whom rendered by appealing from it, then dismissing his appeal, and have the order of dismissal recite that such order was made because the judgment appealed from was not final. The appellant from a justice court can dismiss his appeal whenever he chooses without assigning any reason therefor. And whatever reason he may give or may be recited in the order of dismissal, the appellee can not complain or appeal from the order, for he has his judgment intact—left so by such dismissal.
+We therefore conclude that the District Court erred in perpetuating the injunction, and such judgment, together with the judgment in favor of appellant on his cross-action, is set aside and judgment here rendered dissolving the injunction issued in this cause.
+Reversed and rendered.
+Writ of error refused.
