@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-03-02"
+citations: ["42 Tex. Civ. App. 210"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tyler Ice Company v. Tyler Water Company."]
+source_url: "https://static.case.law/tex-civ-app/42/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4386407
+cites_cases: ["100 Ind., 121", "132 U. S., 518", "14 How., 468", "20 Fed. Rep., 100", "25 S. W. Rep., 1032", "26 S. W. Rep., 748", "46 S. W. Rep., 70"]
+---
+
+# Tyler Ice Co. v. Tyler Water Co.
+
+## Majority (PLEASANTS, Associate Justice.)
+
+PLEASANTS, Associate Justice.
+Appellee brought this suit against appellant to recover the sum of $11,372.40, the value of water alleged to have been wrongfully taken from appellee’s water mains and by appellant converted to its use. The defendant answered by general denial and by special pleas, the nature of which it is unnecessary to state.
+There was a conflict in the evidence upon the issue of whether appellant took any water from appellee’s mains except that which came through the meter and for which it had paid.
+Hpon this issue L. M. Morehead, a witness for plaintiff, testified in substance that on April 29, 1898, with the knowledge and approval of the general manager of appellant company, he tapped appellee’s water mains behind the meter with a two-inch supply pipe and for three years thereafter, while he remained in appellant’s employment, water was used by appellant in the operation of its plant through this pipe and was therefore not registered by the meter.
+The character of this witness for truth and veracity was impeached by a number of witnesses who testified for appellant, and his statements, while they were corroborated by other testimony introduced by appellee, were directly contradicted by appellant’s manager and were in conflict with other evidence introduced by appellant. This being the state of the evidence the court gave the jury the following instruction:
+“You are the sole and exclusive judges of the credibility of each of the witness, and of the weight to be given his testimony; and this is true,' notwithstanding testimony offered for the purpose of impeaching him, either by attacking his general reputation for truth and veracity, or by seeking to show that he has made statements elsewhere inconsistent or in conflict with his testimony before you. You should, in such case, nevertheless, give to his testimony, and to the testimony of each of the other witnesses, such credit and weight, as in the light of all the evidence in the case, you may believe it is entitled to.”
+Appellant’s first assignment of error complains of this instruction on the ground that it is a charge upon the weight of evidence; and we think the assignment should be sustained.
+The only witness in the case whose character for truth and veracity was impeached was the witness Morehead, and the jury must necessarily have understood this charge to refer to his testimony, and were probably lead to believe from the language used in the charge that in the opinion of the court the testimony of the witness was entitled to credit, notwithstanding the impeaching testimony. Of course the court had no intention of intimating to the jury that such was his opinion, but after telling them that they were the exclusive judges of the credibility of the witnesses and the weight to be given to their testimony he advises them in effect that they are .not required to disbelieve the testimony of Morehead because of his impeachment, but that notwithstanding such impeachment they should give to his testimony such weight and credit as they might believe it to be entitled, under all the evidence in the case. We think the jury might have concluded from this instruction that in the opinion- of the court there was evidence in the case which would. authorize them to believe Morehead notwithstanding his impeachment. Under our system of jurisprudence the court is not allowed to intimate to the jury his opinion upon a fact issue upon which the evidence is conflicting, and the right of the parties to have the jury pass upon the facts free from any possible influence which might be exerted by the court is so jealously guarded that it has been uniformly held that any language used in a charge which would probably carry to the minds of the jury an intimation of the court’s opinion upon the facts is a charge upon the weight of the evidence, and this without regard to the soundness of the proposition of law announced. (Rev. Stats., art. 1317; Texas & Pac. Ry. Co. v. Murphy, 46 Texas, 366; Davidson v. Wallingford, 88 Texas, 619; Dwyer v. Bassett, 63 Texas, 277; Willis & Bro. v. Whitsitt, 67 Texas, 673; Mayo v. Tudor, 74 Texas, 471; Biering v. First Nat. Bank of Galveston, 69 Texas, 602; Houston, E. & W. T. Ry. Co. v. Runnels, 92 Texas, 306.)
+Our conclusion being that for this error in the charge the judgment must be reversed and the cause remanded for a new trial, it is not proper to discuss or pass upon the assignments which assail the judgment on the ground that it is not supported by the evidence and is excessive in amount.
+None of the remaining assignments present any error.
+The requested charge which relieved appellant from liability for the value of the water taken by Morehead, provided it was taken without the knowledge of appellant, and its use was not necessary in the operation of appellant’s plant, was properly refused because it ignored the issue raised by the evidence of whether the duty of determining the amount of water necessary for the operation of the plant and of procuring same was entrusted by appellant to Morehead. If the act of' More-head in procuring the water was in the line of his duty and in furtherance of the business of appellant and it was left to him to determine how much of appellee’s water should be used in the operation of the plant, appellant would be liable for the value of all the water taken by him.
+Because of the error in the charge before indicated the judgment of the court below is reversed and the cause remanded.
+Reversed and remanded.
