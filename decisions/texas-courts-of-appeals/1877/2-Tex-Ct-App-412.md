@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1877"
+citations: ["2 Tex. Ct. App. 412"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harry Conoly v. The State."]
+source_url: "https://static.case.law/tex-ct-app/2/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 126122
+---
+
+# Conoly v. State
+
+## Majority (White, J.)
+
+White, J.
+The act of August 21, 1876 (Acts Fifteenth Legislature, 231), was intended to, and did, amend solely Article 724 of the Penal Code, which partly defines burglary as known to our law. The amendment consisted in the addition of the words “ or the crime of theft” to-said Article. Pasc. Dig., Art. 2359. No change was made, or intended to be made, in Article 725 of the Penal Code, and that Article still remains in full force, and reads as follows : “He is also guilty of burglary who, with intent to commit a felony, by breaking enters a house in the daytime.”
+Under our law as it now is, and in fact has always been, there are three modes by which the offense of burglary may be committed, which are determined and characterized by the means used, to wit: 1st, by force: 2d, by threats ; and, 3d, by fraud.
+In addition to the means used, there are also three separate and distinct offenses contained in the definition of burglary, which are characterized and determined by the fact of the time of the breaking and entry into the house, to wit: 1st, when the entry is made at night, with the intent of committing felony or the crime of theft; 2d, by entering a house in the day-time and remaining concealed therein until night, with the intent of committing a felony or the crime of theft; 3d, when the entry of a house is made in the daytime, with intent to commit a felony.
+In setting out this offense in an indictment the better practice would be to charge the time of entry (whether by day or night), in connection with the other necessary and requisite allegations. This the indictment in the case we are considering does not do, and yet it would seem that in this regard, under the authority of The State v. Robinson, 32 Texas, 159, it would be sufficient; though, as in that case, the indictment here is inartificially and inartistically drawn. Nor does the indictment in this case charge in general terms that the entry was made with intent to commit a felony or the crime of theft; but it does set forth particularly the property intended to be stolen, alleging its value at $32, and further charging that it was stolen by the defendant. This is equivalent to averring that the intent was to commit a felony, since under the law theft of property over the value of $20 is a felony. In this view of the case the indictment is good under either Article 724 or Article 725 of the Penal Code. Under Article 724, as amended, the amount of the value of the property has nothing to do with determining the offense. If theft is the object, and the property has any value at all, the offense is made complete by the amendment.
+The objects and purposes of this amendment are explained and commented upon in the case, of Sims v. The State, decided at the present term, ante, p. 110. As we have seen, however, under Article 725, the breaking, when done in the day-time, is burglary only when the intention is to commit a felony.
+The learned judge who tried the case in the lower court seems to have labored under the .impression that the amendment to Article 724 comprised and equally applied to Article 725, for he charges the jury that “ burglary is constituted by entering a house by force at night, or by breaking in the day-time, with the intent to commit a theft.” This definition, given by the court, of burglary is nowhere corrected in any subsequent portion of the charge ; on the contrary, the balance of the charge is in conformity with the definition as given.
+The definition is not correct when the offense is constituted by a breaking and entry in the day-time. Had the language above quoted, taken in connection with the other portions of the charge, been “ by breaking in the day-time, with intent to commit a theft of property over the value of $20,” the whole charge would doubtless have been correct.
+But it may be contended that the proof shows that the offense was committed in the night, and that therefore the error in the charge of the court could not, and did not, injuriously affect the rights of the defendant. This is not the question we are to determine. The question is : Is the law correctly given ? Is the offense correctly defined ? Is the law distinctly set forth as applicable to the case ? Pasc. Dig., Art. 3059. If not, it must be held to be a good ground of error by this court in felony cases, although the charge in this respect was not excepted to at the time of the trial, nor objected to in the motion for a new trial. Bishop v. The State, 43 Texas, 390.
+Upon the other principal question raised, to the ruling of the court in admitting the statements and confessions of the defendant to the witness Rubles, we are of opinion that the court did not err. The defendant, at the time-the confessions were made, was not under arrest or in custody. “ A person is said to be arrested when he has actually been placed under restraint, or taken into custody, by the officer or person executing the warrant of arrest.” Pasc. Dig., Art. 2695. Besides this, the evidence shows that the stolen property was partly found in the house from which defendant requested witness Rubles to move it. Pasc. Dig., Art. 2137; and Speights v. The State, 1 Texas Ct. of App. 551; Walker v. The State, decided at the present term of this court.
+For the error, however, committed in the charge of the court as heretofore indicated, the judgment of the lower court is reversed and the cause remanded.
+Reversed and remanded.
