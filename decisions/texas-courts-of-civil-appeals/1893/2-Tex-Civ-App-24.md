@@ -1,0 +1,40 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "58"
+decided: "1893-01-12"
+citations: ["2 Tex. Civ. App. 24"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. W. Fordyce and A. H. Swanson, Receivers, v. Thomas Chancey."]
+source_url: "https://static.case.law/tex-civ-app/2/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 219089
+cites_cases: ["14 S. W. Rep., 309", "141 U. S., 327", "30 Minn., 465", "45 N. Y., 574", "77 Mo., 34"]
+---
+
+# Fordyce v. Chancey
+
+## Majority (WILLIAMS, Associate Justice.)
+
+WILLIAMS, Associate Justice.
+This is a suit by appellee, against appellants, as receivers of the St. Louis, Arkansas & Texas Railway in Texas, to recover damages for injuries received by him while traveling as a passenger over a railway controlled by appellants.
+Appellants pleaded, that pending this suit they had been discharged from the receivership by the Circuit Court of the United States for the Eastern District of Texas, which appointed them, and had relinquished control of the property committed to their charge as such receivers, to the purchasers thereof.
+On the trial it was agreed, that the property had been by the appellants turned over to the purchasers under the foreclosure proceedings, and that the appellants, since such transfer, had ceased to have any control or management of the same.
+The order of the United States Circuit Court, requiring appellants to turn over the property, provided that all claims against the receivership should be established by intervention in that court, and that the bills in the cause would be retained for the purpose of investigating such liabilities, in order to have a final settlement of such receivership.
+No order was shown expressly discharging the receivers, and there was no agreement that such order existed, and it in no way appeared that the .accounts of the receivers had ever been acted on, and a decree entered by the court discharging them. This case, therefore, differs materially from that of the same appellants against C. H. Beecher, just decided. That ■decision was based solely upon the legal effect of the decree of the Federal Court discharging the receivers, which was admitted to exist. Here the receivers, for all the record shows, may still hold their office and be in a position to defend the suit and meet the judgment rendered.
+It is true it appears that they had turned over the property put in their charge to purchasers, but they are not, so far as the record shows, removed from their offices, and the Circuit Court expressly retains the bills for the purpose of adjusting their liabilities. We do not think this state of the record presents the same question as was considered in the Beecher casé, and hold therefore that appellants’ eleventh assignment of error is not well taken.
+The nineteenth assignment of error presents the question, whether or not the court could properly declare a lien on the property which had been in the possession of the receivers, to secure a liability incurred by them. We do not find it necessary, at this time, to decide this question, and will not do so until it has been more thoroughly argued and considered.
+The points raised in the seventeenth assignment of error, and propositions thereunder, were considered in the case of these appellants against Withers (1 Texas Civil Appeals, 540), and determined against appellants.
+Appellants’ first assignment of error complains of the admission of evidence to show that after the accident in which appellee was hurt appellants had made changes and repairs in its track. This kind of evidence is usually not admissible. Railway v. McGowan, 73 Texas, 355; Railway v. Hennessey, 75 Texas, 155; Railway v. Jones, 14 S. W. Rep., 309.
+In the Withers case, above referred to, this court held, that evidence there offered by plaintiff was admissible to rebut testimony of witnesses for defendants, to the effect that the road where this wreck occurred was in safe condition before and after the wreck, and had remained in the same condition both before and after the wreck. That evidence was also held admissible as tending to show the actual condition of the track when the wreck occurred. On the trial of this case plaintiff offered the objectionable evidence in chief, and not in rebuttal of the testimony of defendants’ witnesses. It can not be held to serve any legitimate purpose in establishing the condition of the road at the time of the accident, for after the witnesses had stated all facts properly admissible for that purpose, they were allowed to go further and state in detail what had been done towards improving the track. Under the rulings of our Supreme Court, this was improper, and unless the evidence should become relevant for the purpose of rebutting testimony offered by appellants, it should be excluded on another trial.
+The fourth assignment of error complains of the following portion of the court’s charge: “You are charged, that receivers of railway companies, as other common carriers, in the operation and management of the railway under their control, are held under the law to the greatest possible care and diligence for the safety of the passengers they undertake to carry; and while they are not insurers of absolute safety of their passengers, yet they are required to provide for their safe conveyance, as far as human care and foresight will go.” This instruction was held erroneous in the Withers case, supra.
+There was error in the passage of the charge on the measure of damages, wherein the jury were instructed to allow for value of time lost, there being no evidence of such value. Some of the language of appellants’ counsel was improper, and should not occur again. The court, however, rebuked the counsel, and gave the jury proper instructions on the subject.
+We have carefully considered all of the other assignments, and find no other material errors. The court’s definition of negligence, as copied in the second assignment, is somewhat objectionable, perhaps, but full and correct instructions were given in other parts of the charge, and in special charges given at the request of appellants.
+The special charges found in the seventh and eighth assignments state the law correctly, but the rules which they announce were sufficiently given, and it would have been improper for the court to repeat in so many forms the same propositions.
+The charge complained of- in the fifth assignment of error is correct and is applicable .to the case. The evidence left uncertain the exact cause of the wreck. It may have resulted from one defect or from the combined effect of several defects and careless running of the train. The-fact that a wreck occurred is evidence for the jury to consider, and in the absence of proof showing that it was the consequence of some particular cause, it was proper for the court to give to the jury the rules by which appellants’ whole duty to their passengers was measured, in order that they might determine whether or not there had been a neglect to perform it in any particular. For this reason appellants’ fifth special charge was-correctly refused, and their tenth qualified by the court.
+The charge of the court on the measure of damages, with the exception of the part above held to be erroneous, was correct. It is not properly open to the objection made in the fourteenth assignment. In regard to future damages it was not very full, and it would have been proper to give a special charge correctly stating the rules applicable, if asked. But-the special charge requested (number 5) required that the jury be “ satisfied ’’ that the apprehended results would flow from the injuries. This exacted too high a degree of proof for a civil case, and the charge was-properly refused.
+The errors we have pointed out are all we have found of which appellants can complain.
+The judgment is reversed and the cause remanded.
+Reversed and remanded„
+Delivered January 12, 1893.
