@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-10-29"
+citations: ["62 Tex. Civ. App. 496"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas & Pacific Railway Company v. J. L. Martin."]
+source_url: "https://static.case.law/tex-civ-app/62/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4398997
+cites_cases: ["108 S. W., 177", "73 S. W., 548", "80 S. W., 385"]
+---
+
+# Texas & Pacific Railway Co. v. Martin
+
+## Majority (CONNER, Chief Justice.)
+
+CONNER, Chief Justice.
+This is an appeal from a judgment in appellee’s favor for damages in the sum of twelve hundred dollars besides costs and interest. Appellant has not filed briefs in this court, but presents an application to be permitted to do so. The appeal was perfected on the 2nd day of November, 1909, and the excuse offered for a. failure to file briefs in the court below and later here, as the statute and rules provide, is that one of appellee’s counsel agreed to waive such filing. The agreement, however, was an oral one which expressly provided that counsel for the apnellee making the agreement was to be “given time within which to brief this cause for the appellee.” Because of various business engagements counsel for appellant failed to prepare his brief and failed to file it in the court below, or to present the same to appellee until the 7th day of October, 1910, several months after the case had been set down for submission in this court for the 15th day of October, 1910. Appellant insists that this affords ample time within which to answer his brief. Appellee, however, resists the motion and by a verified answer shows, what is otherwise apparent, that appellant’s brief presents some twenty-four assignments of error, many of which are predicated upon a voluminous statement of facts, and he asks that the appeal be dismissed.
+It seems evident that we can not say as a matter of law that the time afforded is sufficient. The transcript was filed in this court January 13, 1910, and the statute (Bey. Stats., art. 1417) specifically requires an appellant or plaintiff in error to file with the clerk of the trial court a copy of his brief not less than five days before the time of filing of the transcript in the Court of Civil Appeals. After such filing and notice thereof by the clerk the appellee is then given twenty days within which to prepare and file copy of his brief in the court below. It thus appears that the law contemplates that an appellee shall be given ample time, presumably in no event less than twenty days, within which to answer the brief of appellant. Appellee has had less than ten days before the actual submission of the cause, and, as stated, he avers that it is now impossible to prepare his answering brief in accordance with the rules.
+True, rule 39 for the government of the Courts of Civil Appeals, and the case of San Antonio & Aransas Pass Ry. Co. v. Holden, 93 Texas, 211, by our Supreme Court, recognize that we may excuse appellant’s failure to file briefs below as provided by statute for “good cause shown,” and appellant insists that the oral agreement referred to affords such good cause. Buie 46 for the Courts of Civil Appeals provides that: “All agreements of parties or their counsel relating either to the merits or conduct of the case in the court, or in reference to a waiver of any of the requirements prescribed by the rules looking to the proper preparation of an appeal or writ of error for a submission, shall be in writing, signed by the parties or their counsel; and filed with the transcript or be contained in it, and, to the extent that such agreement may vary the regular order of proceeding, shall be subject to such orders of the court as may be necessary to secure a proper preparation for a submission of the case.” To entertain appellant’s motion to file his briefs is but to violate the letter and the spirit of the rule quoted. The rule contemplates that we shall not be required to consider and determine the often conflicting contentions of counsel as to the form and effect of oral agreements, and such agreements we think should not be considered good cause for so pronounced a failure as now exhibited. It further appears that counsel for appellee reside several hundred miles from the sitting of this court and we now see no way to indulge appellant’s long delay without denying appellee the very substantial rights of time in which to meet his adversaries’ case and of having the appeal disposed of in its regular order.
+We, therefore, conclude that appellant’s motion should be overruled and that appellee’s motion to dismiss the appeal should be sustained. See Bowden v. Patterson, 108 S. W., 177; Harris v. Bryson, 31 Texas Civ. App., 514 (73 S. W., 548); Booher v. Anderson, 35 Texas Civ. App., 436 (80 S. W., 385).
+Dismissed.
