@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-10-15"
+citations: ["62 Tex. Civ. App. 306"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Santa Fe, Llano Estacado & Pacific Land & Trust Company v. James T. Cumley."]
+source_url: "https://static.case.law/tex-civ-app/62/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4398470
+cites_cases: ["76 Am. Dec., 99", "91 Am. Dec., 405"]
+---
+
+# Santa Fe, Llano Estacado & Pacific Land & Trust Co. v. Cumley
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+This is an action by James T. Cumley against the Santa Fe, Llano Estacado & Pacific Land & Trust Company, a co-partnership composed of I. J. Pierce and G. W. Power, to recover the sum of eighteen hundred and eighty dollars alleged to be due on certain contracts set out. The suit was instituted in the District Court of Midland County and Pierce and Power each filed his plea of privilege to be sued in Jones County, the county of their residence. Upon the trial of these pleas the District Court sustained them and ordered the clerk of his court to make a complete transcript of the papers of said cause and transmit the same to the clerk of the District Court of Jones County. To this judgment the plaintiff excepted and gave notice of appeal to this court, and the trial court allowed thirty days after adjournment in which to prepare and file statement of facts and bills of exceptions. Ho appeal bond appears to have been filed, and on June 24, 1909, the transcript of the papers was filed in the District Court of Jones County, and on July 7, 1909, a judgment by default was entered in favor of the plaintiff for the amount sued for. From this judgment the present writ of error is prosecuted.
+The ground of attack set out in the first and second assignments of error is predicated upon the alleged insufficiency of the citation issued by the clerk of the District Court of Midland County. But whatever the defects in that writ, they must he held to have been waived when the defendants filed their answer in that court. It is true the answer consisted alone of a verified plea of privilege, but it in no way limited the appearance to the purpose of urging this plea, and if it did, the effect would probably not be different, since the object of a writ of citatian is to give notice to the defendant, and it is well settled, both by statute and decision, that the filing of an answer constitutes an appearance for the defendant so as to dispense with the necessity for the issuance or service of citation upon him. Sayles’ Texas Civil Statutes, article 1242; York v. State, 73 Texas, 651.
+It is next insisted by plaintiff in error that plaintiff’s petition is insufficient to support a judgment by default, the supposed vice being that there is no allegation that the due bill sued on was ever delivered to plaintiff, or that the defendants became liable and promised to pay plaintiff the said sum, or that the plaintiff was the legal owner or holder of the instrument at the time of bringing suit. It is true the petition does not expressly allege a delivery of the instrument, but it does allege that the defendant executed and entered into the said writing, a copy of which is set out. An allegation that an instrument was made and executed imports a delivery of it. Blount v. Ralston, 20 Texas, 132; Loungeway v. Hale, 73 Texas, 495. The petition further alleges that the instrument of writing evidences an indebtedness due the plaintiff by reason of the premises, and is, we think, sufficient as against the objections made. The due bill appears to have been given to the plaintiff’s wife, but the petition discloses the relation of the parties and as matter of law the husband is a proper party plaintiff on such an instrument.
+Finally, it is contended that the giving of notice of appeal by the plaintiff in the District Court of Midland County had the effect to excuse appellants from all diligence in attending the District Court of Jones County pending the time when by law the plaintiff might have perfected-his appeal or sued out his writ of error. It is true the statute now in force under which the transfer to Jones County was made appears to authorize an appeal from such order, and it would of course follow that an appeal duly perfected would suspend the jurisdiction of the court to which the transfer had been made pending such appeal, but we can not hold that the mere giving notice of appeal would have such effect, especially after the lapse of the time within which by law an appeal bond is required to be filed. The preceding we think is analogous to the issuance of an execution on a final judgment. It may be suspended by perfecting.an appeal but the mere notice of appeal will have no such effect. It was the duty of appellants to take notice óf all proceedings properly had in the District Court of Jones County, the court to which their cause was properly transferred upon their own plea.
+We find no error in the judgment and it is affirmed.
+Affirmed.
