@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1900-06-23"
+citations: ["24 Tex. Civ. App. 201"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mrs. N. C. Taylor v. R. H. Jones, County Judge."]
+source_url: "https://static.case.law/tex-civ-app/24/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286730
+cites_cases: ["51 S. W. Rep., 304"]
+---
+
+# Taylor v. Jones
+
+## Majority (BOOK-HOUT, Associate Justice.)
+
+BOOK-HOUT, Associate Justice.
+This is an application for a mandamus against R. H. J ones, county judge of Bowie County, commanding him peremptorily to proceed to try the cause of Mrs. N. C. Taylor v. St. Louis Type Foundry Company, pending in the County Court of said county upon the sole issue of the value of the property described in the bond of complainant, in accordance with the opinion, judgment, and mandate of this court pronounced in said cause while the same was pending in this court upon appeal. It is alleged in said application that this court remanded the suit of Mrs. Taylor on the claim bond of the St. Louis Type Foundry Company, for the specific and sole purpose of having the value of the property described in the bond determined by that court, and after its determination to render judgment against the claimants and its sureties for the amount of her debt. "Upon the return of the mandate from this court defendant amended, and among other things plead limitation to plaintiff’s suit upon the bond. The plaintiff excepted to said plea, and moved the court to strike out the same because the judgment and opinion of this court were final and conclusive upon all questions and issues in said cause, except the issue as to the value of the property turned over to the claimant upon execution of the bond. The county judge refused to strike out said plea, and overruled exceptions thereto,' holding that the cause was reversed and remanded as to all issues in the case. The suit was originally upon the claimant’s bond filed in the County Court of Bowie County by the St. Louis Type Foundry as claimant of certain property levied upon by the sheriff of said county by virtue of a distress warrant issued in the case of Mrs. N. C. Taylor v. Charles E. Beard. In the claimant’s suit Mrs. Taylor plead her debt against Beard and set out the bond of the claimant, and sought judgment against the claimant and its bondsmen.
+In the County Court there was a judgment in favor of the claimant, and an appeal taken to this court by Mrs. Taylor. We held that by reason of the loches on the part of the claimant, the St. Louis Type Foundry, in filing its affidavit and bond in the proper court, and prosecuting its suit for the trial of the right to the property, it had abandoned its claim to the property, and therefore the judgment for the trial to the right of property was reversed and the claimant’s suit dismissed. The suit of Mrs. Taylor against the St. Louis Type Foundry to recover her debt against the principal and sureties on the claimant’s bond was reversed and remanded for another trial. See 21 Texas Civ. App., 69; 51 S. W. Rep., 304.
+The applicant insists that her suit against the principal and. sureties on the claim bond was reversed with instructions to the trial court to proceed to determine the sole question as to the value of the property turned over to the claimant, and to enter the proper judgment against said bondsmen. If this be true, then this court would have jurisdiction to require the county judge to proceed to carry out the orders of this court.
+Mr. Chief Justice Willie, in the case of Wells v. Littlefield, 62 Texas, 30, in speaking of the jurisdiction of appellate courts to enforce its mandates and judgments, says: “This jurisdiction continues until the case, as made by the appeal or writ of error, is fully determined by this court and its judgment is completely executed by the court below. If the judgment below is affirmed, or reversed and rendered or reformed, this court can see that the party in whose favor its decision has been given has the benefit of all proceedings below necessary to enforce its judgment. If remanded for a new trial, it retains control until the new trial is allowed in accordance with its mandate. If reversed and sent down to have some special judgment rendered by the- court below, jurisdiction remains until that particular judgment is entered up, and the mandate of the court obeyed. For the purpose of enforcing all such orders coming within the appellate jurisdiction of the court, it may resort to the writ of mandamus, or any other appropriate writ known to our system of jurisprudence.”
+Upon the examination of the opinion and judgment of this court in said cause, it clearly appears therefrom that the suit of plaintiff upon the claimant’s bond was remanded generally for another trial, and that the opinion does not restrict the county court to the sole issue as to the value of the property.
+In the discussion in the opinion showing why judgment should not here be rendered, stress was laid on the fact that the value of the property turned over to the claimant had not been found by the trial court. In the order, however, remanding the case, no restriction or limitation was placed upon the lower court in the trial of the case.
+We conclude that the applicant has failed to show a case entitling her to a writ of mandamus, and the same is refused.
+Mandamus refused.
