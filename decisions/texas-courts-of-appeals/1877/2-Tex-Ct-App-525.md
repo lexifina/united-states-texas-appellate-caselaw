@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1877"
+citations: ["2 Tex. Ct. App. 525"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. J. Edwards v. The State."]
+source_url: "https://static.case.law/tex-ct-app/2/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 126039
+---
+
+# Edwards v. State
+
+## Majority (Winkler, J.)
+
+Winkler, J.
+The appellant, a justice of the peace, was indicted under the act of April 7, 1873, for failing to report to the police or county court moneys other than taxes collected by him for the benefit of Burleson county, between the times mentioned in the indictment.
+Several exceptions were taken to the sufficiency of the indictment, and set out in a motion to quash it, filed in the court below, which motion was overruled ; and upon these exceptions arise the material questions for consideration here.
+True, there are other matters presented in the motion for a new trial, which, under a different condition of the record, would require notice, and among others the sufficiency of the evidence to support the verdict, and the correctness of the charge of the court; but we are not at liberty to notice these subjects in the absence of a statement of facts. There is set out in the transcript what on its face purports to be a statement of facts, but, from the fact that it is not approved as such by the judge who tried the case, it is the same as no statement of facts, and must be so treated. See Brooks v. The State, decided by this court at the Galveston term, 1877, not yet reported, where the state of the record was in this respect identical with the present [ante, p. 1]; see, also, Branch v. The State, 1 Texas Ct. of App. 99; Haynie v. The State, 41 Texas, 573; Tally v. The State, 1 Texas Ct. of App. 688, and authorities therein cited.
+To return to the question as to the sufficiency of the indictment. One exception taken is that the accused is not one of the officers authorized or required by law to collect moneys other than taxes. Another is that the indictment does not charge that the defendant collected any money other than taxes in the name or for the use of the state or county.
+If we examine the offices mentioned in the statute, in order to determine whether or not it embraces that of justice of the peace, we are of the opinion that the objection "first above set out is well taken. The officers mentioned by name are sheriffs and their deputies, constables, town or city marshals, police officers of state, city, and town; all of whom, with the single exception of district attorney, mentioned in the 1st section of the act, and who is not named in any of the sections requiring a report of moneys received, are of the class generally known and designated as ministerial officers ; and we do not find that justices of the peace, or any other judicial officer, is anywhere mentioned in the statute.
+Looking to the expression "and all other officers collecting moneys,” mentioned in section 2 of the act, and referred to in the 3d section in this language, “ and all other persons such as named in section second of this act,” and construing the two sections with reference to the whole act, and to the caption of the act, we are of the opinion that the legislature intended to regulate the conduct of ministerial officers only, and not judicial or executive officers, as they are each known in contradistinction to each of the others.
+As to the other objection, to-wit, that the indictment does not charge that the defendant collected any money, etc. It is obvious from the wording of the statute that one of its objects, if not the principal one, was to secure a proper application of, and accounting for, all moneys to which the public—that is, the state, or the counties or other municipal organizations — were entitled, and to further this leading object by requiring those officers, and other persons charged under the law with collecting them, to report at short intervals any moneys collected by them for the public, and subjecting them to indictment and fine in case they should fail to make such report. It would seem that the law contemplates that it is a failure to report moneys collected, and not merely a failure to report simply, that creates the liability to indictment. The precise expressions of the statute are that they “ shall report * * * the amounts of money that, may have come into their hands,” etc.; and said reports, besides being required to be made in writing and under oath, it is required shall show, not only the amounts collected, but also from whom, and by virtue of what process, collected; from which we conclude that this report was to operate as a check upon officers charged with the'collection of fines or any other moneys in which the state, or any of’ the counties of the state, or any city or town within the state, had an interest, or to which either might be entitled.
+The 2d section of the act, besides prescribing the manner of making the report, relates to moneys of the state, and requires the report to be made to the district courts. The 3d relates to county moneys, and requires the report to be made to the police or county court; and the 4th section to moneys of cities or towns, and requires the report to be made to the mayor and board of aldermen.
+The indictment in this case is for a violation of the 3d section of the act, and should have charged that the accused had collected money for the county, and which he had failed to report.
+For the above reasons the court erred in the first instance in overruling the defendant’s motion to quash the indictment ; and in the second place in overruling the motion in arrest of judgment; and for these errors the judgment of the district court of Burleson county in,this case is reversed and the cause dismissed.
+Reversed and dismissed.
