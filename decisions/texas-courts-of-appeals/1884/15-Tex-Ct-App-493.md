@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1577"
+decided: "1884-03-05"
+citations: ["15 Tex. Ct. App. 493"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas A. McDonald v. The State."]
+source_url: "https://static.case.law/tex-ct-app/15/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136411
+---
+
+# McDonald v. State
+
+## Majority (Willson, Judge.)
+
+Willson, Judge.
+1. There is no application for continuance in the record, and no bill of exceptions to the action of the court in overruling any such application; and therefore defendant’s first assignment of error, that the court erred in refusing to continue the cause at his instance, cannot be considered.
+2. There was no error in refusing to sustain the defendant’s motion to quash the special venire. This motion is based upon the ground that E. B. Seay, one of the jury commissioners who selected the juries for the term of the court at which this conviction was had, was a witness in behalf of the State in the prosecution of this cause, and had employed counsel to prosecute said cause in behalf-of the State. At the time Seay acted as jury commissioner he had not employed counsel to assist in the prosecution. It was not until the term of the court at which the cause was tried that he employed counsel. We are of the opinion that he was not disqualified to act as jury commissioner. He had no suit in that court which required the intervention of a jury. This cause was not his • suit at that time, even if it might be so regarded at the time of its trial, which question it is not necessary that we should determine. (Code Crim. Proc., Art. 352.)
+3. It appears from a bill of exceptions that, during the retirement of the jury, when considering of their verdict, they were for a while in the room where the homicide was committed, and examined the holes in the walls of the room, etc., and also read the Penal Code upon the subject of murder. It is not made to appear, however, nor do we think it is at all probable that such was the case, that the jury were in the least degree influenced in their verdict by these matters. We regard the assignments of error in relation to the supposed misconduct of the jury, as without merit.
+4. While the jury were considering of their verdict, they came into open court in a body, and propounded to the court in writing the following question: “ In considering threats made by the person killed, together with the character of the deceased as a dangerous man, and one likely to carry into execution any threats he might make, are the jury to understand that the person killing may be so impelled by fear of personal violence or deadly intent of deceased, by reason of said character and threats as to justify, him (the one killing), to prepare himself with a deadly weapon, and putting himself in the presence of the party killed for the purpose of engaging in deadly conflict with deceased ?” To this question the court responded in writing: “ No.” This action of the jury and court was excepted to by the defendant at the time it occurred, and is assigned as error. We are of the opinion that the proceeding complained of was in strict accordance with the law (Code Crim. Proc., Art. 696), and that the instruction given to the jury by the learned judge in answer to their question, was correct, and was not, as is contended by defendant, a charge upon the weight of evidence.
+5. Exceptions were also taken to the charge of the court: 1. Because it failed to present a clear view of the law of homicide. 2. Because it failed clearly to define the law of murder in the second degree. 3. Because it instructeu at all upon murder in the second degree, there being no evidence to justify such charge. 4. Because the court charged upon an inculpatory theory not sustained by the evidence, that is, on the theory that defendant sought the difficulty. 5. Because the charge failed to present clearly the law of self defense.
+We find, after a very careful scrutiny of the charge, that it presents fully and clearly the law of homicide, as applicable to every phase in this case. It clearly defines and explains the elements of both degrees of murder. That it instructs upon murder in the second degree is an objection which the defendant cannot be heard to urge, because, in view of the evidence in the case, this instruction was favorable to him. We think the court would have been justified under the evidence in confining its charge to murder in the first degree, for every fact necessary to establish that degree of homicide was abundantly proved, and there was no evidence which even tended fairly and reasonably to reduce the killing to a lower degree. That portion of the charge which instructed the jury upon the theory that defendant sought the difficulty was, we think, fully warranted by the evidence. Upon the law of self defense the charge is sufficient. If there had been no charge upon this subject we should not have held its'omission to be error, because there is no evidence in the case which raises that issue. In charging upon self defense at all, the court gave the defendant the benefit of a defense that the evidence, in our opinion, did not entitle him to. We think the charge of the learned judge was most fair and favorable to the defendant, and the errors contained in it are favorable to him.
+Opinion delivered March 5, 1884.
+6. That the verdict of the jury is sustained by the evidence there can be no question. As we have before said, the evidence established murder in the first degree, and that the jury found the defendant guilty of the lower degree of murder, assessing ,the penalty therefor at the minimum fixed by law, exhibits a leniency on the part of the defendant’s triers for which he should be deeply grateful.
+The judgment is affirmed.
+Affirmed.
