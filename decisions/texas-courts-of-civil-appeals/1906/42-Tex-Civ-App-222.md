@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-03-03"
+citations: ["42 Tex. Civ. App. 222"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas & Pacific Railway Company v. D. H. McNairy."]
+source_url: "https://static.case.law/tex-civ-app/42/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4385741
+---
+
+# Texas & Pacific Railway Co. v. McNairy
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+This suit for damages was brought against appellant and the Rock Island Railway Company on account of loss sustained by appellee in the transportation of cattle from Stanton, Texas, to Port Worth, Texas, and to St. Joseph and Kansas City, Missouri. A part of the damage was done after the cattle left appellant’s line, and that part of the claim was settled in a compromise with the Rock Island Railway Company and the suit was dismissed as to that company. Appellee recovered judgment against appellant for the damages done on its line, and from that judgment it has appealed assigning error, first, to the action of the court in overruling its plea in abatement; second, to the charge of the court on the measure of damages.
+Hnder the first assignment the following proposition is submitted: "The appellee having filed the petition in bankruptcy subsequently to the filing of this suit, and having been adjudicated a bankrupt and the bankrupt proceedings still pending in the Hnited States Court, this cause of action should have been abated, or at least postponed unless the trustee in bankruptcy had made himself a party to the suit and assumed charge of the litigation.” It is a sufficient answer to this proposition that the record fails to show that the alleged proceeding in bankruptcy was pending when this suit was tried, or that any trustee in bankruptcy had ever been appointed. On the contrary, it affirmatively appears that the referee in bankruptcy, after adjudging the appellee a bankrupt, on the petition voluntarily filed by him, set aside this adjudication and dismissed the petition. The contention of appellant, however, seems to be that in dismissing the petition in bankruptcy the referee exceeded his powers, but we do not so interpret the bankrupt law. Section 38 of that law invests referees, "subject always to a review by the judge,” with jurisdiction to consider all petitions referred to them and make the adjudications or dismiss the petition, and certain other powers not necessary now to be stated. We find no authority for the contention of appellant that the power of the referee was exhausted in this instance after he had adjudged appellee a bankrupt. It seems to us that the power to make the adjudication necessarily includes the power to set it aside. There is nothing in the record to suggest, and it is not even claimed, that the action of the referee in dismissing the petition had been disapproved by the district judge. Presumptively he was proceeding in accordance with the rules or orders prescribed by the court of bankruptcy in that district, as provided in sub-section 4 of section 38. As to the further contention that, because the creditors of appellee were not all notified before the order was entered setting aside the adjudication and dismissing the petition, the referee had no power to enter the order, it is sufficient to say that sub-section g of section 59, on which this contention is founded, “has to do only with dismissals other than on the merits,” the dismissal in this instance being on the merits and therefore not covered by the provisions of that sub-section. See Collier on Bankruptcy, section 59, Y., sub-section g, under the head of Dismissal of Petitions.
+As to the complaint of the charge on the measure of damages, “that it authorized the jury to find against appellant for any damages that the cattle may have sustained after they left the line of the appellant and while they were on the line of its connecting carrier from Fort Worth to destination,” we think this objection was sufficiently met by the following clause in the charge: ‘Tad-they not been delayed on the Texas & Pacific Railway.” That is to say, the court instructed the jury to measure the damages by the difference between the market value of the cattle at the points of destination at the time and in the condition of their arrival, and at the time and in the condition they should have arrived, “had they not been delayed on the Texas & Pacific Railway.” Besides, the charge throughout excluded the idea that appellant was liable for any damage done after the cattle left its line, and there is nothing in the amount of the verdict, of which no complaint is made, to suggest that the jury assessed against appellant more than its proportion of the damages.
+No other questions are raised by the appeal, and the judgment is affirmed.
+Conner, Chief Justice, not sitting. •
+Affirmed.
+Writ of error refused.
