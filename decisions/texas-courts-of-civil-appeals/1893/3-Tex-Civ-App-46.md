@@ -1,0 +1,36 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "105"
+decided: "1893-03-15"
+citations: ["3 Tex. Civ. App. 46"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Scott et al. v. L. Weisburg et al."]
+source_url: "https://static.case.law/tex-civ-app/3/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 220982
+---
+
+# Scott v. Weisburg
+
+## Majority (COLLARD, Associate Justice.)
+
+COLLARD, Associate Justice.
+This suit was brought in form of trespass to try title, by George Scott and his wife Nettie Scott, the appellants, against L. Weisburg and Morris Lochman, for part of a lot in block 15 of the D. T. Chamberlin addition to the city of Waco.
+The part of the lot in dispute is described in the petition as beginning on the east line of Sixth Street south 52° west (evidently intended for east) 15 feet from the northwest corner of a lot conveyed by Wiley Jones to George Scott on July 14, 1885, running thence with the street south 52° east 35 feet, for front, and thence back north 38° east 165 feet, forming a parallelogram.
+Lochman disclaimed. Weisburg pleaded not guilty, and statute of limitations of three and five years and improvements in good faith; interpleaded his warrantors, Stanley Epstein and Wiley Jones; Epstein adopting the pleas of Weisburg, and Jones denying liability as warrantor.
+The court tried the case without a jury, and gave judgments for defendants, from which plaintiffs have appealed.
+Both plaintiffs and defendants claim under Wiley Jones as a common source of title. The dispute as to the ownership of the strip of land in suit arose upon the following facts: On March 25, 1878, J. D. Bell was the owner of certain land in the Chamberlin addition to the city of Waco, lying between Fifth and Sixth Streets, which ran north 45° west a short distance, and then changing course to north 52° west, the south line of the Bell block running south 45° west. March 25, 1878, Bell conveyed to one Jackson a strip 25 feet wide on the end of the block, calling for the south line of Marlboro Avenue at its north line, running south 45° west from Fifth to Sixth Streets. At this time, stakes were driven down at the intersection of the north line of Marlboro Avenue with Fifth and Sixth Streets, Bell being present, so as to make the avenue 65 feet wide at Fifth and 50 feet wide at Sixth Street. The course of the north line of the avenue is not given, but the length of the line is about 350 feet. On the 6th of April, 1878, Bell conveyed to one Angelí a tract between Fifth and Sixth streets, the south line being the north line of Marlboro Avenue as marked. This survey begins on the west line of Fifth Street and runs from the avenue with Fifth Street, which here runs north 52° west 192 feet; thence south 38° west 350 feet to Sixth Street; thence with Sixth Street 191 feet to a point where it intersects the north line of Marlboro Avenue, and thence with this line to the beginning (course not given). Immediately after his purchase, Angelí fenced the land conveyed to him, and afterwards lived on it, the fence on the north line being almost parallel with the north line of the avenue, and 191 feet from the avenue on Sixth Street.
+June 15, 1885, Angelí and wife conveyed the tract to Wiley Jones, copying field notes in the deed from Bell; the whole tract then fenced.
+On July 15, 1885, Wiley Jones conveyed to George Scott lot 50 feet wide on Sixth Street, and running back 165 feet north 38° east. Jones afterwards sold the residue of the Angelí survey, and by mesne conveyances defendant Weisburg became the owner.
+While Jones and George Scott were negotiating, the lot sold to Scott was pointed out to him by Jones, the north line being the fence erected by Angelí 165 feet in length; and the said lines 50 feet long were measured and stakes driven down to mark the corners. The line between these two stakes was pointed out to him as his south line, and the fence as his north line. When he built on the lot he placed his fence on this south line.
+The confusion of boundary arises in this manner: If the north line of the Angelí tract is run according to course, south 38° west, it will intersect Sixth Street some 30 feet south of the point where the fence reaches the street, and the line from such point of intersection south 52° east to Marlboro Avenue will be too short by the same distance; whereas, by making the fence the north line of the Angelí tract, the distance on Sixth Street from the point where the fence intersects it to the avenue will be correct. The court below solves the difaculty by making course yield to distance, making the fence the north line, and giving the full distance called thence to the avenue along Sixth Street. This gives the land in dispute to defendants.
+We can not say but that this conclusion is more consistent with all the facts in evidence showing the intention of the parties at the time of the deed to Angelí, than the other conclusion insisted on by appellants, that the course of the north line should prevail.
+This conclusion, it seems to us, becomes irresistible when applied to Scott’s survey. The land was so pointed out to him, and his lines and corners so designated and established at the time of his purchase. He settled upon the lot as thus located, and has since lived upon it. Under the facts, we do not think the court’s finding should be disturbed. This disposes of the principal and important question in the case.
+We can not see that the court erred in explaining his findings of fact and law by the map referred to and filed therewith. It is true, it was not offered in evidence, though it was used in connection with the testimony as explanatory of it. The court so used it in his findings to render them more intelligible. He could properly have made a sketch of his own from the testimony, and filed it as a part of his findings. Instead of this, he adopted a sketch prepared by one of the witnesses for the purpose, which he .had the right to do.
+The court’s finding, that Fifth and Sixth Streets run north 52° west, when in fact they for a short distance run north 45° west, was immaterial, and did not affect the case or the conclusion reached.
+The testimony supported the finding, that to run the north line of the Angelí block south 38° west, according to call in the deed to Jones, would shorten the west line on Sixth Street to the avenue by about 30 feet. Scott could, under the circumstances of his purchase and the designation of his boundaries, only hold the land 50 feet from the fence on Sixth Street.
+We have already seen that the court was authorized by the testimony in giving preference to the fence as Scott’s north line, and in confining his premises to an area of 50 feet in width from the fence, measured on Sixth Street, and it is unnecessary to repeat what has been said upon that subject in answer to special assignments raising the same question. This finding is the controlling feature in the case and must stand. It leaves the disputed strip sued for as defendants claim it to be, and necessitates the judgment as rendered by the court below, which is ordered to be affirmed.
+Affirmed.
+Delivered March 15, 1893.
