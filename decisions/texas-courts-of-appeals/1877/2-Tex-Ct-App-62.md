@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1877"
+citations: ["2 Tex. Ct. App. 62"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Coney v. The State."]
+source_url: "https://static.case.law/tex-ct-app/2/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 126165
+---
+
+# Coney v. State
+
+## Majority (Ector, P. J.)
+
+Ector, P. J.
+The indictment charges “ that Charles Coney and one Lewis (whose name other than Lewis is to the grand jury unknown), in said county and state, on the second day of February, in the year of our Lord eighteen hundred and seventy-four, did then and there unlawfully, in and upon the body of one Louis Brechiani, an Italian (whose name other than Louis Brechiani to the grand jury is unknown), commit an aggravated assault; that they, the said Coney and said Lewis, did then and there, unlawfully and with premeditated design, with a certain deadly weapon, to wit, a glass beer-tumbler, a. means calculated to inflict great bodily injury, then and there held in their hands, assault, eat, strike, bruise, and wound him, the said Brechiani, in the face of him the said Brechiani, with the intent on the part of said Coney and said Lewis then and there to injure him, the said Brechiani, against the peace and dignity of the state. R. M. Johnson, foreman of the grand jury.”
+On the motion of the district attorney, a nolle prosequi was entered as to the defendant Lewis.
+There was no exception taken to the indictment in the district court. The appellant, Charles Coney, was convicted of an aggravated assault. The verdict of the jury is as follows; “ We, the jury, find the defendant guilty of an aggravated assault, and assess a fine of one hundred dollars, and imprisonment in the county jail for three (3) months. J. L. Brittain, foreman.” The appellant made a motion for new trial, which was overruled.
+The counsel for appellant, for the first time in this court, in their able and ingenious brief, raise an objection to the indictment, that it undertakes to charge two grounds of aggravation in the same count. 1st, that the assault was made with “premeditated design;” and, 2d, with “a certain deadly weapon, to wit, a glass beer-tumbler, a means calculated to inflict great bodily injury.”
+The proper time to take advantage of an indictment, for duplicity, is before the verdict. In this country it has been often held that an objection to an indictment, that charges which might have been the subject of distinct indictments are included in one count, comes too late after a verdict. 1 Whart. Cr. Law, 6th ed., sec. 359.
+Mr. Archbold, writing of the English practice, says: “ In civil actions the usual mode of objecting to pleadings, for duplicity, is by special demurrer; it is cured by general demurrer, or by the defendant’s pleading over. In criminal cases the defendant may object to it by special demurrer, perhaps also upon general demurrer ; or the court, in general, upon application, will quash the indictment. But it is extremely doubtful whether it can be made a motion in arrest of judgment or of writ of error; and it is cured by a. "verdict of guilty as to the one of the offenses, and not guilty as to the other.” Archb. Cr. Pl. & Ev., 13th Lond. ed., 54.
+Mr. Bishop says: “In matter of principle, duplicity would seem to be a defect of such mere form as ought to be deemed cured by the verdict; because the objection is one which relates simply to the convenience of the defendant in making his defense, while by not taking the objection he seems to have suffered no inconvenience, and therefore to have waived it.” 1 Bishop’s Cr. Proc., sec. 443.
+Under our Code, if the duplicity was such as to produce uncertainty of, and confusion as to, what was intended to be charged, it might be a good ground of an exception to an indictment.
+This indictment was drawn under subdivision 9 of Article 2150, Paschal’s Digest. If the defendant, in the lower court, had moved to quash the indictment in this case because it charged in one count that the assault was committed under two of the circumstances or subdivisions named in Article 2150 of Paschal’s Digest, the objection ought to have been overruled by the district judge.
+The charge of the court confined the jury in their investigation to an assault committed under the 9th subdivision of said Article 2150. The indictment fills the full measure in charging an aggravated assault, “ committed with premeditated design, and by the use of means calculated to inflict great bodily injury.” It fully apprised the defendant of the charge against him. It states more than is necessary to constitute the offense of an aggravated assault, without charging that the glass beer-tumbler, with which it was made, “ is a deadly weapon.” It is evident that the pleader intended to allege only one offense against the appellant, covering one and the same transaction, and the particularity with which it was set out would only the better aid the defendant to plead a previous conviction or acquittal of the same offense, should it afterwards become necessary.
+We believe that the evidence shows, 1st, that the assault was “ committed with premeditated design and, 2d, that it was committed “ by the use of means calculated to inflict great bodily injury.” The proof shows that the assault was committed by the appellant on Louis Brechiani, at the time and place mentioned in the indictment. Rosa Mariana testified “ that, on February 2, 1874, in the evening, about six or seven o’clock, Charley Coney told her to get his pistol; that he intended to kill Brechiani. This was after the difficulty with Brechiani. He then had a small pistol. I heard Coney say that day, before the difficulty,, that he intended to kill Brechiani."
+The testimony in the record further shows that, on the same evening, the appellant made a most unprovoked assault on Brechiani; that, after cursing and abusing him, he drew a pistol out of his coat pocket with his left hand, and, at the same time, he threw a glass beer-tumbler, partly filled with beer, at the head of Brechiani, striking him a violent blow on his cheek-bone, knocking out one of his jaw-teeth, lacerating the flesh, and that Brechiani’s left eye was soon closed from swelling caused by the blow. We only speak of the injury thus inflicted as affording evidence sufficient to satisfy us that the assault was committed as charged in the indictment.
+We find no error in the charge of the court, and nothing in the record that requires a reversal of the judgment.
+The judgment of the district court is, therefore, affirmed.
+Affirmed.
