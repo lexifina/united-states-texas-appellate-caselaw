@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1897-12-01"
+citations: ["17 Tex. Civ. App. 506"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Pace et al. v. American Freehold Land and Mortgage Company, of London, Limited."]
+source_url: "https://static.case.law/tex-civ-app/17/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 258422
+cites_cases: ["13 Fed. Rep., 159", "19 Ark., 528", "19 Ind., 130", "26 S. W. Rep., 132", "26 S. W. Rep., 885", "27 S. W. Rep., 33", "28 Fed. Rep., 280", "30 Conn., 316", "30 Fed. Rep., 537", "30 S. W. Rep., 509", "30 S. W. Rep., 512", "38 S. W. Rep., 214", "42 Iowa, 110", "45 Am. Dec., 633", "61 Ind., 147", "61 Mo., 187", "70 Iowa, 83", "75 Mo., 573", "79 Am. Dec., 254", "79 Ind., 417"]
+---
+
+# Pace v. American Freehold Land & Mortgage Co., of London
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+This suit was brought by the appellee against Pace and his wife and one W. H. Richardson, on a note executed by Pace for the sum of $2500 and to foreclose a lien created by deed of trust against all of the appellants upon certain lands described in plaintiff’s petition. Pace and wife in effect alleged, that the land described in the deed of trust in part embraces their homestead, and that at the time of the execution of the deed of trust and its subsequent renewal it was understood between the parties that certain lands set out and described in the defendants’ answer should not be embraced in the deed of trust, and that by mutual mistake of the parties the land that was intended to he excepted from the operation of that instrument was included in the deed of trust: and further,- that, if it was not so included by mistake, it was so included by the wrongful and fraudulent acts of R. L. and J. Gordon Brown, to whom the notes were formerly executed and Who prepared the deed of trust, and who stated at the time of its execution and at the time at which it was subsequently renewed that the land intended to be excepted from its operation was not included. Appellant alleged that he had confidence in the integrity of Brown Bros, and relied upon their statements, and, believing those representations to be true, he and his wife executed the deed of trust, and that he never discovered the mistake or fraud until long after these instruments h ad been executed; that the deed of trust did embrace the land that was intended to be reserved from its operation, and did include his homestead. Appellants asked that the deed of trust be reformed so as to exclude this land. Appellee addressed to this answer general and special demurrers, whie-h the court overruled. The case was tried before a jury, who returned a verdict for the plaintiff, and thereupon judgment was rendered.
+There is some evidence in the record tending to establish the issues raised by the answer of appellants. The court, after submitting to the jury the issue of mistake and fraud, gave this charge: “In cases like this, wherein it is sought to prove by paroi evidence mutual mistake or fraud in a written contract for the purpose of having the written contract changed, the law requires that in order to authorize the change the 'evidence must be such as to leave no reasonable doubt in the mind of the jury as to the extent of the mistake or fraud, and if in this case yon do not believe, beyond a reasonable doubt, either that there was a mutual mistake, as pleaded by the defendants, or mistake on the part of the defendant Charles Pace and fraud on the part of the agents of plaintiff, as alleged by defendants, you will return a verdict for plaintiff on the issues as to reforming the deed of trust.”
+This charge was clearly erroneous. We can not recall to mind any controversy of a civil nature between litigants which miay be instituted in the courts of this State, under -the rules of law and practice that obtain with us, where it would be proper to require either party to the controversy to establish the issues raised beyond a reasonable doubt. Sparks v. Dawson, 47 Texas, 138; Rider v. Hunt, 6 Texas Civ. App., 241; Wallace v. Berry, 83 Texas, 330; Baines v. Ullman, 71 Texas, 529.
+We can not say that error is shown as complained of in appellants’ second assignment of error. The charge of the court in submitting the issue of mistake and fraud was correct as far as it went, except in the particular just pointed out, and if the appellants had desired it to have embraced the question presented in the second assignment of error, they Should have asked a charge upon that question; and if the charge had been correctly framed in presenting the point suggested in the assignment the court should have given it, and doubtless would have done so if the appellants had made 'the proper request.
+We do not think there is any merit in the points presented by the cross assignments of errors. The court correctly overruled the demurrers, and properly refused the special charge asked by the plaintiff.
+For the error of the charge as pointed out, the judgment is reversed and the cause remanded.
+Reversed and remanded.
