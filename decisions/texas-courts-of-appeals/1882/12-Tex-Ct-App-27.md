@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1882"
+citations: ["12 Tex. Ct. App. 27"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fernando Lopez v. The State."]
+source_url: "https://static.case.law/tex-ct-app/12/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 131372
+cites_cases: ["10 Pick. 477", "29 Mich. 173"]
+---
+
+# Lopez v. State
+
+## Majority (White, P. J.)
+
+White, P. J.
+With regard to accomplices or co-defendants who are permitted to turn State’s evidence against their fellows, Mr. Greenleaf says: “If an accomplice, having made a private confession upon a promise of pardon made by the attorney general, should afterwards refuse to testify, he may be convicted upon the evidence of that confession.” 1 Greenl. Evid. § 319. Mr. Bishop says: “The agreement is that the accomplice shall disclose all he knows, honestly and fairly, and if his testimony is corrupt, or if otherwise his disclosures are only partial, he gains nothing and his confessions may be used against him.” 1 Bish. Cr. Proc. § 1164 (3d edition).
+That the confession could be used as evidence against him when tried after repudiating his agreement seems to have been well established at common law (3 Russ. on Crimes, 5th Eng. ed. 601 and note), and is the rule which obtains in some of the American States. Hamilton v. People, 29 Mich. 173; Comm. v. Knapp, 10 Pick. 477; Bowden v. State, 1 Texas Ct. App. 187. Many reasons might be advanced in favor of the justice and efficiency of such a rule, were the question an open one in this State.
+But such is not the case. No exceptions to the statute relating to confessions, save those enumerated, can with us be availed of by the State. “ The confession of a defendant may be used in evidence against him if it appear that the same was freely made, without compulsion or persuasion, under the rules hereafter prescribed.” Code Crim. Proc. art. 749. “Art. 750. The confession shall not be used if at the time it was made the defendant was in jail or other place of confinement, nor while he is in custody of an officer, unless such confession be made in the voluntary statement of the accused taken before an examining court in accordance with law, or be made voluntarily after having been first cautioned that it may be used against him,” etc.
+To authorize such confessions, or confessions made with an agreement to turn State’s evidence, to be admitted on the "subsequent trial of the party making them, in this State and under this statute, it should be made to appear not only that they were made freely and without compulsion or persuasion, but, if the defendant was under arrest, in jail or other place of. confinement, it would have to be further shown that they were made voluntarily after he had been first cautioned that they might be used against him. But the confession in no such case can be used “ unless freely made without compulsion or persuasion. ” If the party has been threatened into making, or persuaded into making it, in the hope that he would be permitted to turn State’s evidence and thereby gain immunity from punishment, in no event could such confession be used against him, if he subsequently repudiated the agreement and refused to testify as a witness for the State. If, however, he should freely and without compulsion- or persuasion send for the prosecuting officer and propose to confess, and the officer should first caution him that it might be used against him, the confession would be admissible though he might have made it in the hope of immunity. Fear of legal punishment would not of itself be such compulsion as would deprive him of his freedom of action in’the premises, and especially so if he was first cautioned that his confession might be so used. Nor would an agreement entered into by the parties after a confession so made, to the effect that if defendant would turn State’s evidence and testify to the facts confessed he would be released and relieved from prosecution and punishment,, operate to destroy the legality and admissibility of such a confession, should he afterwards repudiate the agreement and refuse to testify. For such agreement would only be subordinate to the confession, and would form no part of it. But a confession obtained by an official promise to put an end to a prosecution will not be received. Whart. Cr. Ev. § 650.
+In the case we are considering, defendant confessed, and the district attorney promised that he would not prosecute him if he appeared and testified against his co-defendant, but it does not appear that he cautioned defendant that his confession might be used against him in case he refused to testify. When the co-defendant was placed on trial, defendant failed and did positively refuse to testify against his co-defendant. Afterwards he was placed upon his own trial, and, over his objections, his confessions made to the district attorney were admitted in evidence against him. This was error because it was not shown, as a predicate for the admission of the confession, that it was made in compliance with the provisions of the statute above discussed.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
