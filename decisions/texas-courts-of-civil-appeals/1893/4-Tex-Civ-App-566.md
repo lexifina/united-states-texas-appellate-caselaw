@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "206"
+decided: "1893-10-06"
+citations: ["4 Tex. Civ. App. 566"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eva B. Park et al. v. Prendergast, Smith & Co."]
+source_url: "https://static.case.law/tex-civ-app/4/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 223743
+cites_cases: ["103 Ind., 533", "112 U. S., 150", "14 Neb., 513", "40 Barb., 435", "44 N. Y., 50"]
+---
+
+# Park v. Prendergast, Smith & Co.
+
+## Majority (FINLEY, Associate Justice.)
+
+FINLEY, Associate Justice.
+Conclusions of Fact.—The conclusions, of fact of the trial judge are approved and adopted by this court.
+Conclusions of Law.—The first assignment of error presented in brief of plaintiffs in error is as follows: “ The court erred in giving judgment for Prendergast, Smith & Co. against the said Ada B. McCain, executrix,, etc., and in holding their lien superior to plaintiffs’, because there was no-such pleadings filed by said Prendergast, Smith & Co., setting up a new promise in writing, as would authorize the judgment in their favor against said executrix.”
+Plaintiffs’ petition avers, that Prendergast, Smith & Co. claimed to. have a lien, etc., on the property they seek to foreclose on. Mrs. McCain, executrix, answers and sets up the execution, etc., of the Mrs. Yarbro notes, and the mortgage to secure them, and states the amount due-on them, etc. Prendergast, Smith & Co. answer, and plead the said Mrs. Yarbro notes, and the lien on said land to secure them, fully and correctly, and all other facts necessary to recover judgment on them and to-foreclose their lien on said land against both the executrix and plaintiffs, in error, and pray fully for the relief applicable, and then pray ‘ ‘ for such other and further relief as the nature of the case may require,” etc. Then in reply to plaintiff’s plea of limitation, after demurring, etc., they plead “ that the executrix of said J. H. McCain, deceased, on the 1st day of October. 1889, and previous to the expiration of four years after the maturity-of the notes forming the basis of their claim, endorsed on said notes an acknowledgment of the amount then due upon each, and allowed the same as a just claim against the estate of said deceased, to be paid in due course. And they further aver, that by the terms of the instrument itself, the foreclosure of which is sought by the plaintiffs, of date December 2, 1877, the debt set up by these defendants is recognized and admitted by the debtor, the said J. H. McCain, and it is therein specially provided that the payment of the debt claimed by these defendants should take precedence of the debt set up by plaintiffs.”
+Plaintiffs in error did not demur, either generally or specially, to any of the pleadings. They did not object to the introduction of the evidence, and in no way on the trial called the attention of the court below to any supposed imperfection or omission in the pleadings.
+We are of opinion that the issues formed by the pleadings embraced the matter of the new promise by the independent executrix to pay the Yarbro indebtedness, and its .acknowledgment as a prior lien in plaintiffs’ mortgage. If these facts were imperfectly alleged in the pleadings of defendants, Prendergast, Smith & Co., which we do not decide, the op-. pell ants could only avail themselves of the defect by exception to the pleadings or objection to the evidence in the court below. The court did not err in refusing to give effect to plaintiffs’ plea of limitations against the prior mortgage. McClellan v. The State, 22 Texas, 405; De Witt v. Miller, 9 Texas, 239; Rutherford v. Smith, 28 Texas, 322; Railway v. Montier, 61 Texas, 122.
+The remaining assignments necessary to be noticed are as follows: (1) “ The court erred in concluding as matter of law, from the facts found and filed in the case, that under the acknowledgment made by McCain in his. mortgage to plaintiff Eva B. Smith, the lien to secure the debt held by Prendergast, Smith & Co. was not barred as to plaintiffs.’ ’ (2) “ The court erred in concluding as matter of law, from the facts found and filed in the record, that under the endorsements made on the Yarbro notes by the executrix, before they were barred, the lien of Prendergast, Smith & Co. was not barred by the statute of limitation as to plaintiffs.”
+The mortgage lien of plaintiffs was given subject to the mortgage lien previously given to secure the Yarbro debt; the existence of the Yarbro debt and mortgage to secure it was not merely recited in plaintiffs’ mortgage, but it was therein expressly provided that it should be subject to it. A junior mortgagee, whose mortgage is expressly made subject to a. prior mortgage, can not defeat the prior mortgage lien by showing that it is invalid against the mortgagor, and thereby secure a larger lien than that contracted for. Plaintiffs’ claim upon the land was subordinate to the Yarbro mortgage, and can not be asserted in hostility to it; and the court did not err in so treating it. 1 Jones on Mort., 484, sec. 595; Freeman v. Auld, 44 N. Y., 50; Hardin v. Hyde, 40 Barb., 435; Hancock v. Flemming, 103 Ind., 533; Forgy v. Merryman, 14 Neb., 513.
+The disposition of this question renders it unnecessary for us to decide the point raised by the last assignment above copied; but we will quote, with our full endorsement, the language of Mr. Justice Gaines, in the case of Howard v. Johnson, 69 Texas, 658. He says: “ The allowance by the executor was made before the claim was barred, and implies a distinct promise to pay in due course of administration. What effect this had upon the operation of the statute of limitations we need not determine. It does not follow that because an executor may not revive a debt. already barred, he may not suspend the operation of the statute before the bar is complete. Wood on Urn., sec. 190. In the case of independent executors, the exercise of such a power may, in some instances, be highly beneficial to the estates in their hands.”
+Delivered October 6, 1893.
+We will further add, that where the executor is the sole legatee, as in this case, it is difficult to conceive of any reason why the power here questioned should not be exercised.
+The judgment of the court below is affirmed.
+Affirmed.
