@@ -1,0 +1,34 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-05-21"
+citations: ["61 Tex. Civ. App. 229"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. C. Kirby v. Pitchfork Land & Cattle Company."]
+source_url: "https://static.case.law/tex-civ-app/61/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4402127
+cites_cases: ["39 Cal. 24", "51 S. W., 1103", "79 S. W., 863"]
+---
+
+# Kirby v. Pitchfork Land & Cattle Co.
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+— This is an action of trespass to try title and for damages brought by J'. C. Kirby against Pitchfork Land & Cattle Company, to recover six hundred and forty acres of land known as abstract No. 57, certificate No. 13-2852, survey No. 73, originally granted -to the Houston & Great Northern Railway Company, patented to Elizabeth A. Halferty, assignee of the said Houston & Great Northern Railway Company by patent 182, vol. 36. The defendant pleaded not guilty, and limitations under the three, five and ten years’ statutes. A trial before the court without a jury, resulted in a judgment in favor • of defendant, expressly finding in its favor on the plea of limitations of five years.
+It is first insisted that the instrument under which appellee prescribes is not such a deed as will support its plea of limitations of five years under the statute. The deed is as follows:
+“The State of Texas, County of Dallas:
+“Know all men by these presents, that I, Joseph S. Burton, of the County of Dallas, State of Texas, in consideration of the sum of five hundred dollars to ........ in hand paid by the Pitchfork Land & Cattle Company of the County of St. Louis, State of Missouri, the receipt of which - is hereby acknowledged, have granted, bargained, sold and conveyed and released, and by these presents, do grant, bargain, sell, convey and release unto the said Pitchfork Land & Cattle Company, its successors and assigns, the following described property, to wit: Houston & Great Northern Bailroad Company surveys, numbered seventy-three and eighty-three, by virtue of certificate issued to said railroad company and numbered 13-2852 and 13-2846, -abstract number 213 and 211; also, Indianola Bailway Company survey numbered 95, by virtue of certificate issued to said railway company, numbered 16-258, 'abstract number 257, each of said three surveys containing 640 acres, and all of said -surveys being situated in Dickens County, Texas, and all bought by me from the State of Texas on the 26th day of October, A. D. 1880, as shown by Comptroller’s tax deed conveying said lands to me, dated January 4, A. D. 1881. I hereby convey to 'said Pitchfork Land & Cattle Company -all right, ti-tle, and 'interest I have in said three surveys by virtue of said Comptroller’s tax deed.
+“To have and to hold all and singular the premises above mentioned unto the said Pitchfork Land & Cattle Company, its successors -and assigns forever. And I do hereby bind myself, my heirs and legal representatives, to warrant and forever defend all and singular, the said premises unto the said Pitchfork Land . & Cattle Company, its successors and assigns, against every person whomsoever lawfully claiming or to claim the same, or any part thereof, by, through or under me.
+“Witness my hand at..........this 6th day of July, A.-D., 1885.
+Joseph S. Burton.”
+The proposition is that a deed which conveys only the right, title and interest which the grantor has is not such a deed as will support the plea. Assuming the proposition to be correct', we think the rule of construction has marked its limit in the cases of Hunter v. Eastham, 95 Texas, 648, and Slaughter v. Coke County, 34 Texas Civ. App., 598, (79 S. W., 863). But in those cases it will be seen that the “right, title, interest and claims” only were conveyed, whereas, in the instrument under consideration, the grantor “by these presents do grant, bargain, sell, convey and release unto the said Pitchfork Land & Cattle Company, its successors or assigns, the following described property, to wit:” We think the instrument is thus characterized as a conveyance of the land and that its nature is not changed by the subsequent clause to the effect that the grantor conveys “all right, title and interest” he has by virtue of the Comptroller’s tax deed.
+It was further objected to this deed that it gave the wrong abstract number, to wit, 213, when the land sued for was described as abstract No. 57. A similar objection was made to the introduction of numerous tax receipts describing the land as abstract No. 57, when the deed under which posséssion was held described it as 213, but we find . no merit in these objections. The question is placed beyond doubt in the evidence that a mistake occurred in the General Land Office and in the Comptroller’s office, whereby both numbers were used to designate the same land, and the 213 was afterwards dropped, and the 57 treated as the proper abstract number. The land was otherwise fully described and definitely identified, and this, we think, is sufficient to meet the objection of variance or the statutory requirement of the payment of taxes.
+The evidence justified a finding to the effect that appellee had separately fenced the section in controversy, and held the same in full compliance with all the requirements of the statute for the full period of five years before the institution of this suit, so that it becomes unnecessary to consider the point made by appellant that the land was embraced in a large pasture of some sixty thousand acres, and used in such a way as not to show an adverse possession within the meaning of the statute.
+The only assignment not disposed of by these conclusions is one raising the question that appellee, being a foreign corporation, could not acquire title to the lands in Texas by limitation. The statute thus invoked, is as follows: “Ho private corporation heretofore or
+hereafter chartered or created., whose main purpose or business is the acquisition or ownership of land by purchase, lease or otherwise, shall hereafter be permitted to acquire any land within this State by purchase, lease or otherwise.” Sayles’ Texas Civil Statutes, article" 749a. It is a sufficient answer, we think, to this assignment to say that nothing is shown in appellant’s brief, nor in the record as to that, to indicate that appellee’s “main purpose is the acquisition or ownership of land by purchase, lease or otherwise.” Indeed, the evidence tends to show that appellee owned and leased no more lands than were necessary in the prosecution of its business of raising cattle, which appears to he authorized by article 749c of the statute.
+The judgment is affirmed.
+Affirmed.
+Writ of error refused.
