@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1882-07"
+citations: ["1 Tex. L. R. 252"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAMP. LAGRONE vs. THE STATE."]
+source_url: "https://static.case.law/tex-l-r/1/cases/0252-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1207733
+cites_cases: ["63 Ala., 83"]
+---
+
+# Lagrone v. State
+
+## Majority (Willson, J.)
+
+Willson, J.
+Opinion by This prosecution is by information for a violation of article 645 of the Penal Code. The information charges that the defendant did “ unlawfully, willfully, maliciously, wantonly, and falsely orally impute to Sarah Lagrone, an unmarried female, in this State, a want of chastity, and in the manner and form aforesaid the said Hampton Lagrone did then and there slander the said Sarah Lagrone.”
+Among oth'er objections made to this indictment is the one that it is not sufficiently certain; in this, that it does not set out the words constituting the oral slander.
+The offense is charged in this information in the language of the statute, and in general it is sufficient to thus charge an offense creased by statute. (Estes vs. The State, 10 Texas, 300; Antle vs. The State, 6 Ct. App., 302.) But to this general rule there are well established exceptions. One of the requisites of an indictment or information is,.that it set forth the offense in plain and intelligible language. (C. C. P., 420-430.) It is also provided that “ the certainty required in an indictment is such as will enable the accused to plead the judgment that may be given upon it in bar of any prosecution for the same offense.” (C. C. P., 422.) In commenting upon the last cited provision, the Supreme Court, in Alexander vs. The State 19 Texas, 496, says: “This does not mean merely that the indictment must allege that the party accused has done some act which is an offense against the laws, nor does it mean that it is enough to say in an indictment that the accused committed murder, or an assault, or stole a horse, or the like. There must be some particularity, or what the law calls certainty, in an indictment. The particular act of which the State complains must be set forth in plain and intelligible words, so that the party who is accused may know what he will be called to answer, and may be able to prepare for his defense.” In the State vs. Hanson, 23 Texas, 233, the defendant was charged with publishing an indecent newspaper. It was held that the composition or print should have been set out, or such description given of it as that the court could judge of its character in reference to the alleged indecency and obscenity,” etc. The facts constituting the offense must be averred directly, forcibly, and with certainty, and not by way of argument or inference. (Parker vs. The State, 9 Ct. App., 351; Gaddy vs. The State, 8 Ct. App., 127.)
+The offense created by article 645 of the Penal Code is of the same nature as the offense of libel, and of the common law offense of oral slander, and also of the common law offense of oral blasphemy. In all of these offenses it is essential to set forth'in the indictment the writing or language which constitutes the libel, slander, or blasphemy. (2 Bish. Cr. Pro., 783, 787, 807, 123; 1 Bish. Cr. Pro., 530; 2 Whart. Cr. L., 1656; 2 Whart. Prec., 939; Ib. 963.)
+The State of Alabama has a statute creating the offense of defamation, which is similar to our statute of slander. (Code of Ala., 4107.) A form for an indictment under that statute is prescribed in the Code (Form Ho. 56), which requires that the words spoken, written, etc., shall be substantially set out. (See Haley vs. The State, 63 Ala., 83.)
+Upon principle and upon authority we conclude that in charging the offense created by article 645, Penal Code, the indictment or information is bad unless it sets out, at least substantially, the language or writing constituting the imputation of a want of chastity: We think the defendant is entitled to be informed in the charge of the particular slander which he is called upon to answer, that he may ¡trepare his defense. He is allowed under the statute to justify by proving the truth of the imputation. How can he come to the trial, prepared to avail himself of this defense, unless he has been informed of the particular imputation charged against him ?
+Another question upon this statute is raised and discussed by defendant’s counsel, which we deem it proper to determine. It is contended that it was not within the power of the Legislature to dispense with proof on the part of the State showing the falsity'oi the imputation. (C. C. P., 646.) It is, wo think, a sufficient answer to this proposition to say that the law presumes a female to be chaste until the contrary is proved. The law presumes every man and woman to be sane, to be honest, virtuous and innocent of crime, and it devolves upon the person denying the truth of the facts thus presumed to prove them untrue. In the case of the slander of a female, the law’s presumption is that she is chaste, and when a want of chastity is imputed to her, the law presumes the imputation to be false, and proof of its falsity is thus supplied by the presumption of the law.
+Holding, as we do, that the information is fatally defective in not setting out the slanderous words, the judgment of the court below is reversed and the prosecution is dismissed.
