@@ -1,0 +1,37 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3618"
+decided: "1890-12-17"
+citations: ["29 Tex. Ct. App. 328"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cul Lincecum v. The State."]
+source_url: "https://static.case.law/tex-ct-app/29/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148881
+cites_cases: ["1 N. Y. Cr. Rep., 249", "102 Ind., 502", "2 Mass., 317", "5 Cush., 324"]
+---
+
+# Lincecum v. State
+
+## Majority (WHITE, Presiding Judge.)
+
+WHITE, Presiding Judge.
+This is an appeal from a judgment of conviction for rape.
+On the trial the defendant offered to prove by the sheriff of Lampasas County, and also by another witness, that they were acquainted with his general reputation in the neighborhood where he lived as “a peaceable man" and “a law abiding man." Objection to this evidence, as made by the State, was that the inquiry should be limited to his general character for chastity and morality. This objection was sustained and the evidence excluded.
+“ While a defendant’s character is presumed to be good until it is impeached, it is always admissible for him to prove that his character was such as to make it unlikely that he would have perpetrated the act charged .upon him.” “And the character he is entitled to prove most be such as would make it unlikely that he would be guilty of the particular crime with which he was charged.” Whart. Crim. Ev., 9 ed., secs. 57, 60; 3 Am. and Eng. Enc. of Law, p. 110, et seq.
+Mr. Bishop says: “ Probably by all opinions it is competent to give ■evidence as to the particular trait of character which the indictment impugns. And some deem the inquiry should be limited to such trait, it being obviously irrelevant and absurd on a charge of stealing to inquire into the prisoner’s loyalty; or on a trial for treason to inquire into his ■character for honesty in his private dealings. But by the better reasoning, and according to what is common in practice, in at least part of the States, whilst this consideration should not be wholly disregarded the evidence as to character is permitted a wider range. Goodness and wickedness do not flow altogether in channels, and one of good character in general is less likely to commit a particular wrong than one of bad character in general.” 1 Bish. Crim. Proc., 3 ed., sec. 1113; see also 9 Crim. Law Mag., p. 444, et seq.
+In Jones v. The State, 10 Texas Court of Appeals, 552, it was held that “in criminal prosecutions, where guilty knowledge or criminal intention is of the essence of the offense, it is competent for the defendant to put his general character in evidence with respect to the offense charged .against him.” That was a case of rape.
+In Johnson v. The State, 17 Texas Court of Appeals, 565, which was a ■case of assault with intent to rape, the extent of the issue presented as ■ to character by the defendant was that his reputation was good as “a peaceable negro, and one who was always polite to white people, especially to ladies,” and it was held that it was error to permit the prosecution to investigate the defendant’s general reputation as “a law-abiding man” when he had not put it as such in issue. It was not decided in that case that the defendant could not have put in issue his character as “a law-abiding man,” but only that defendant not having done so in the first instance, the State could not do so. “The prosecution is not allowed to ■call witnesses to the general bad character of the prisoner unless to rebut the evidence of his good character already adduced, by the prisoner.” Coffee v. The State, 1 Texas Ct. App., 548, citing 3 Greenl. Ev., sec. 25; 2 Russ. on Crimes, 704, 786; 1 Phil, on Ev., 469; 1 Bish. Crim. Proc., 3 ed., sec. 64. It is not competent for the prosecution to go into the inquiry until the defendant has. voluntarily put his character in issue, and in such case there can be no examination as to particular facts. Commonwealth v. Hardy, 2 Mass., 317; Commonwealth v. Webster, 5 Cush., 324.
+In the case under consideration the defendant was charged with rape-committed by assault and by force. The crime carries with it as an essential element a criminal intent to do the act by assault with force, and without the consent of the injured female. “In all criminal cases, whenever a criminal intent is necessary to constitute the offense, evidence of the-general character of the defendant is admissible in his behalf.” Lann v. The State, 25 Texas Ct. App., 495.
+In Matthews v. The State, 32 Texas, 117, evidence of character was rejected as irrelevant to the issue in a trial for assault and battery, the admission of such evidence being held to be in the discretion of the court, and it being invariably admissible only in cases where the life of the' prisoner is involved. Such is not the law as we understand it. Mr. Bishop says: “ This evidence is admissible in all offenses, the high and low alike,” where the defendant’s character is in any manner fairly involved. 1 Bish. Crim, Proc., 3 ed., sec. 1114; 2 Lead. Cr. Cases, 2ed., 351, and note:
+In all cases where an accused is charged with personal violence upon, another he should be permitted to prove his general character for peace and quiet—that is, that he is a peaceable man. Comm. v. Mitchell, 1 Brewst., 563; Sawyer v. The People, 1 N. Y. Cr. Rep., 249; Walker v. The State, 102 Ind., 502.
+The case of The State v. Lee, 22 Minnesota, 407, was a rape case, and it was there held that “ quiet and peaceable character” may be proved in. defense to an indictment for rape.
+Guided by the light and reason of the authorities cited, we are of opinion, the court erred in rejecting defendant’s proffered evidence as to character.
+One of the defendant’s grounds of motion for new trial was the newly discovered evidence of one Hubert Robinson. The testimony of the prosecutrix was tliat the rape was committed upon her on the public road; that-defendant stopped his buggy in a ravine and ravished her in the buggy. Robinson swears that he was hunting horses near the said road; that he saw the defendant and a lady in a buggy pass the road not seventy-five yards from him; that ten minutes afterwards he came into the same road going in the same direction, and traveling at about the same rate of speed, they did; that when he passed the house of Rogers, near where the prosecutrix said the rape occurred, he saw a buggy with top up in the same road about three-quarters of a mile ahead of him. He says that he, Robinson, traveled on behind Lincecum and the lady; that he did not see them stop anywhere on the road, and that if they had stopped any length of timé he, Robinson, would have seen them while they were stopped, if they stopped at all.
+We think the evidence important, in view of the facts in the case. The jury, if such evidence had been before them, might have doubted if the rape could have been accomplished as stated by the prosecutrix, and the buggy have had time to go three-quarters of a mile beyond the place of the crime at an ordinary gait in the space of ten minutes—the time the buggy was out of sight of the witness Robinson.
+We are of opinion that the court should have granted a new trial on account of this newly discovered evidence, and that it was error to refuse it.
+For the errors discussed the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Judges all present and concurring.
