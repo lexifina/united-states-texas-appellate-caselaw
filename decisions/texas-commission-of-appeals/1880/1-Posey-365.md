@@ -1,0 +1,40 @@
+---
+court: "Texas Commission of Appeals"
+docket: "Case No. 3033"
+decided: "1880-05-31"
+citations: ["1 Posey 365"]
+reporter: "posey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. L. Dean, Ex’r, v. Thos. M. Hudson et al."]
+source_url: "https://static.case.law/posey/1/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1870780
+cites_cases: ["17 Wall., 1", "40 Tex., 251", "45 Tex., 27", "45 Tex., 628", "48 Tex., 244", "48 Tex., 245", "48 Tex., 344", "48 Tex., 463", "50 Tex., 317", "50 Tex., 324", "50 Tex., 54"]
+---
+
+# Dean v. Hudson
+
+## Majority (Quinan, J.)
+
+Quinan, J.
+Upon the statement already given, which embraces the material facts developed by the trial, in a condensed form, we are of opinion— ■
+1. That the note upon which the suit was brought having been given for part of the purchase money of the land mentioned in it, had a valid vendor’s lien thereon to secure its payment. “ It is said to be a natural equity that the land shall stand charged with so much of the purchase money as remains unpaid.” Flanagan v. Cushman, 48 Tex., 244.
+2. This note being recited in the deed for the land from: Matthews to Parnell, all persons claiming under Parnell are-' chargeable with notice of it. They are bound to know, whatever facts are recited in the conveyances which form .a part of their chain of title. Wood on Notice, 134; Willis v. Gay, 48 Tex., 463.
+3. It was not evidence of a waiver of the lien that .the conveyance recited that the note was received as cash down. It described the nóte particularly as due one day after date, and conveyed direct information that in point of fact the payment then had not been made. And the note itself recites the consideration. These facts show that it was not intended that the lien should be released. It attached to the note as a matter of course, and the burden of proof was upon the defendants to show that it had been expressly or impliedly waived. Irvin v. Garner, 50 Tex., 54.
+4. The transfer of this note by Matthews to Dean carried with it the security for its payment. Flanagan v. Cushman, 48 Tex., 244; Cordova v. Hood, 17 Wall., 1. There is nothing in the circumstances of that transaction to support the appellee’s proposition, that the payment by Dean to Matthews of the $500 was intended as a payment of the note and discharge of the lien. On the contrary, the fa'cts are all the other way. The note was indorsed and delivered-to Dean by Matthews. It was the money of Dean which was paid to Matthews, and the note did not pass into the possession of Parnell at any time, but was retained by Dean as a lien upon the land, and so understood by Dean and Parnell at the time. Mor does it prove that the hen of the note was waived or intended to be waived; that Dean took it up at Parnell’s request, or that Parnell was to pay commission for Dean’s advancing the money to Matthews, or that Dean in his mercantile books charged up the amount in Parnell’s account, or that he ever took a new note, including the amount with interest and commission, upon which this note is indorsed as a credit.
+The manner in which Dean kept his books, showing the state of his account with Parnell — his charging this note in that account with other items, or taking a larger note, in which the amount of money paid Matthews is included with other sums—are circumstances of little significance tó prove an agreement to release so large a benefit as this lien for the purchase money on the land. The controlling fact still remains, that Matthews indorsed the note to Dean, who continued to hold it; that Parnell continued to recognize it as a debt and lien upon his land; that both parties so understood it; that the purchase money remained unpaid.
+So it has often been held that a new note given in renewal of the purchase money note, or additional security taken subsequently, or a mortgage or a mere change of the form of the security to secure it, will not, of itself, divest the lien unless so intended. Irwin v. Garner, 50 Tex., 54; Ellis v. Singletary, 45 Tex., 27. The lien is a security for the purchase money. It is not merely a security for the note, but for the debt, of which the note is merely the evidence. Cushman v. Flanagan, 48 Tex., 245. And it subsists until the debt is paid, or the lien discharged by a valid agreement therefor. Robertson v. Guerin, 50 Tex., 317.
+Hor was the right of the plaintiff to enforce the lien periled; nor was he precluded from asserting it by the judgment and sale had in the proceedings by Hudson in his suit upon the second note given for the purchase money of the same land. Hot being a party to that suit, it is very clear he was in no way affected by it. McDonough v. Cross, 40 Tex., 251; Delespine v. Campbell, 45 Tex., 628; Robertson v. Guerin, 50 Tex., 324.
+The judgment of the district court was therefore erroneous. We concur in the findings of the judge as to the facts, but in his views of the law we do not concur. Both parties seem to have formed erroneous views of their rights, the plaintiff insisting that as the note upon which he sues first became due he has the prior right, and Hudson, that by liis diligence in first obtaining judgment and enforcing his lien he has acquired a priority. The law is now settled otherwise. The several notes given for the purchase money of the same land in the hands of different parties have equal rights to satisfaction out of the land. Robertson v. Guerin, 50 Tex., 324; Delespine v. Campbell, 45 Tex., 628; Ellis v. Singletary, 45 Tex., 27.
+Dean and Hudson are entitled to share pro rata in the proceeds of the sale of it on foreclosure.
+As this suit has been pending for so great a length of time, and it is fit there should be an end of litigation, and as the cause was submitted to the judge below upon the law and facts, and as all the necessary proofs and the proper parties are made in the case, there is no propriety in sending the case back for another trial, but such judgment should be rendered here as ought to have been rendered in the court below.
+We conclude, therefore, that the judgment be reversed, and rendered in accordance with this opinion.
+That the note upon which this suit is brought is a valid lien upon the land described in the petition, and that the plaintiff is entitled to have satisfaction of the same out of the said land.
+The amount due upon said note is the sum of $391.36, with interest at the rate of eight per cent, per annum from March 20,1872. 0
+There is also due upon the second note for the purchase money of the same land held by the defendant Hudson, and upon which he recovered judgment, and an order of sale, under which he purchased the land, and holds the legal title to the same, the sum of $388.01, with interest at the rate of ten per cent, per annum from the date of the rendition of the judgment, December 8,1873, and this also is' a valid lien upon the land, and Hudson entitled to have satisfaction of the same out of said land. ,
+Hudson having purchased the land, and the legal title to the same being in him, is entitled to redeem the same, and time will be given him until the 1st day of Uovembernext to pay to plaintiff the full amount of his note and interest as aforesaid, and the costs of this suit.
+If Hudson fails so to do, then that the lien upon the said land be foreclosed, and that he be forever barred of any equity of redemption therein; and an order of sale will issue to the sheriff of-county to sell the land as under execution, and out of the proceeds of the sale to satisfy and pay off the debt to plaintiff, if the same shall be enough to satisfy the debt of plaintiff and Hudson both, and if not, to divide the proceeds pro rata between them. If the proceeds should be more than sufficient to satisfy the claims of plaintiff and Hudson, the excess, after the payment of plaintiff’s claim, to be paid to Hudson. The costs to be paid by Hudson.
+[Opinion delivered May 31, 1880.]
+And we so award.
+.Reversed and rendered.
