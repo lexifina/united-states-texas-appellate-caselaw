@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1876"
+citations: ["1 Tex. Ct. App. 146"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Johnson v. The State."]
+source_url: "https://static.case.law/tex-ct-app/1/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 123787
+---
+
+# Johnson v. State
+
+## Majority (Winkler, J.)
+
+Winkler, J.
+This is an appeal from the district court of Bexar county, where the appellant ivas tried on a charge of burglary, and his punishment fixed at confinement in the state penitentiary for a period of three years.
+On the trial in the district court the defendant excepted to the sufficiency of the indictment on several grounds, set out in the record. These exceptions were overruled, and the defendant took a bill of exceptions to the ruling, and also made it a ground in his motion for a new trial, and assigns it as error, and, therefore, we are called on to pass upon the sufficiency of the indictment.
+In order that we may be clearly understood, we copy here the charging part of the indictment, which is as follows r “ That William Johnson, on the twelfth day of the month of July, in the year of our Lord one thousand eight hundred and seventy-five, in said county of Bexar and state of Texas, unlawfully, fraudulently, forcibly, feloniously, and burglariously did break and enter, with actual force, in the daytime, the dwelling-house and residence of Samuel Mayer, and conceal himself, without the consent of the said Samuel Mayer, and with the fraudulent and felonious intent to steal,, take, and carry away from the possession of said Samuel Mayer one suit of black broadcloth clothes of the value of fifty dollars, and one black alpaca dress of the value of twenty-five dollars, in all of the value of seventy-five dollars,, the property of the said Samuel Mayer, without the consent of the said Samuel Mayer, and with the fraudulent and felonious intent to deprive him, the said Samuel Mayer, of the value of said property, and with the fraudulent and felonious intent to appropriate the same to the use of him,, the said William Johnson, contrary,” etc.
+We have examined the able written, argument and brief of authorities presented by counsel for appellant, and have failed of arriving at the same conclusions. By a comparison of the indictment with the requirements of our Penal Code, as to what it takes to constitute a good bill of indictment, we conclude the grounds of objection are not tenable.
+The requirements of the statute are that “the offense must be set forth in plain and intelligible words.” Code Cr. Pro., Art. 395; Pasc. Dig., Art. 2863.
+It is not necessary to state in an indictment anything which it is not necessary to prove. Pasc. Dig., Art. 2864.
+The certainty required in an indictment is such as will enable the accused to plead the judgment that may be given upon it in bar of any prosecution for the same offense. Pasc. Dig., Art. 2865.
+When a particular intent is a material fact in the description of the offense, it must be stated in the indictment. But in any case where an intent to defraud is required to constitute an offense, it shall be sufficient to allege an intent to defraud, without naming therein the particular person intended to be defrauded. Pasc. Dig., Art. 2866. Now, whilst it is provided by Article 724 of the Penal Code (Pasc. Dig., Art. 2359) that to enter a house during the day, and remain concealed therein until night, with intent to commit a felony, would be burglary, the succeeding Article is as follows : “ He is also guilty of a burglary who, with intent to commit a felony, by breaking, enters a house in the day-time.” Art. 2360.
+By comparing and testing the indictment in this case by several provisions of the penal laws of the state, it must be apparent that the indictment sets forth plainly the act alleged, as well as the intent with which it is alleged to have been committed, with all the particularity the law requires, and on this account the verdict will not be disturbed.
+It will be seen by an examination of this case, as shown by the record, that the question was raised on the trial as to whether the defendant’s mind, at the time he entered the house of Samuel Mayer, was not so much beclouded by the excessive use of intoxicating liquor as to render him incapable of forming the felonious intent charged in the indictment. Evidence was admitted and a charge given on the subject, and apparently in this connection, as shown by bill of exceptions, defendant “ offered to prove the general character of the defendant for many weeks previous to the alleged commission of the offense charged.” It must be supposed that the offer to prove the general character of the accused was made with reference to the matter undergoing investigation, and that he either sought to establish a character for honesty, or that it was his intention to confine the inquiry to his general condition “ for several weeks previous to the alleged commission of the offense charged,” as bearing on his mental capacity at the time it is alleged the offense was committed. On a charge of theft from a house, if the testimony was not of a convincing character, the accused, we think, was entitled to prove, if he could, a good character for honesty, and should have been allowed the opportunity—the court, of course, directing the inquiry to the particular matter in issue.
+The language in the bill of exceptions is not very explicit, yet, when the subject is viewed in the light of the evidence admitted, as shown by the statement of facts, we are of opinion the accused was entitled to have the benefit of the testimony offered, the examination being restricted by the judge as above indicated.
+We have not passed on other exceptions taken or errors assigned, but must be permitted to say, in connection with the foregoing, that the evidence of a felonious intent in entering the house is not altogether satisfactory; and, believing that the court erred in rejecting the offered evidence as above stated, and in refusing a new trial, the judgment will be reversed and the cause remanded.
+Reversed and remanded.
