@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1900-03-28"
+citations: ["23 Tex. Civ. App. 276"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["O. L. Stowe et al. v. H. Kempner."]
+source_url: "https://static.case.law/tex-civ-app/23/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 283434
+---
+
+# Stowe v. Kempner
+
+## Majority (COLLARD, Associate Justice.)
+
+COLLARD, Associate Justice.
+H. Kempner, appellee, brought this suit against E. B. Trammelle, O. L. Stowe, and C. Madeley, on a promissory note alleged to have been signed and delivered to plaintiff by said Trammelle, Stowe, and Madeley, in the sum of $500 and interest and attorney’s fees. No answer or defense was made by Trammelle; he was a witness for plaintiff. Stowe and Madeley filed separate answers, plead general demurrer and general denial, and specially under oath denying that they executed the note sued upon, or that it was executed by their authority, and that their names thereto, purporting to be their signatures, were forgeries; and upon the issue of forgery vel non, the case went to trial before the county judge without a jury, resulting in a judgment on the 29th of April, 1899, against Trammelle, as well as against Stowe and Madeley, for $466.44 and interest at the rate of 8 per cent per annum from the date of judgment, and for costs of suit. The trial court, filed conclusions of fact and law as follows, and we find the same facts as proved on the trial below:
+“1. That the defendants E. B. Trammelle, O. L. Stowe, and C. Madeley executed and delivered to the plaintiff the note for five hundred dollars, sued on in this cause, and fully described in the plaintiff’s original petition. That said note matured on the 1st day of November, 1896; that the same bears interest from maturity at the rate of 8 per cent per annum; and provides for the payment of 10 per cent attorney’s fees if placed in the hands of an attorney for collection, which was done, and that the balance due on said note, including interest to April 29, 1899, and attorney’s fees, amounts to the sum of $466.41, and that the plaintiff is the owner and holder of said note and the indebtedness thereby evidenced.
+“2. That the name of O. L. Stowe signed to said note was signed by the defendant E. B. Trammelle, and that the said defendant O. L. Stowe authorized and directed the said Trammelle to execute and deliver the said note for him (Stowe) and to sign his (0. L. Stowe’s) name to said note.
+“3. That the said defendant C. Madeley executed the said note and signed his own name to the same, and that the name of C. Madeley signed thereto is the genuine signature of the said defendant 0. Madeley.”
+Conclusions of Law.—"As a matter of law, I conclude that the plaintiff Eliza Kempner, in her capacity as survivor in community of her deceased husband Harris Kempner, and who trades and does business under the style and firm name of ‘H. Kempner,’ is entitled to recover of and from the said defendants E. B. Trammelle, 0. L. Stowe, and C. Madeley, the sum of four hundred and sixty-six and 41/100 dollars ■ ($466.41) with interest thereon from the 29th day of April, 1899, until paid, at the rate of eight (8) per cent per annum, together with her costs of suit.”
+Opinion.—The first and fourth assignments of error will be considered together. The first complains of the judgment of the court upon the ground that the evidence was insufficient to show that defendant Stowe authorized Trammelle to sign his, Stowe’s, name to the note sued on; and the fourth assignment contends that the judgment is contrary to the evidence, in that the evidence clearly showed that neither Stowe nor Madeley signed or executed the note, and neither of them authorized anyone else to sign or execute the same for either of them.
+We can not say that the court erred, as contended by appellants. There was testimony authorizing the finding complained of. E. B. Trammelle testified that Stowe authorized him to sign the note for him, and that he signed Stowe’s name to the note at his request, Stowe being present at the time; and that Stowe writes very poorly; that it occurred in the office, and that his, T'rammelle’s, wife was close by engaged in the office. She also testified that Trammelle signed the note with Stowe’s authority. She says: “I know that because I was present at the time and heard Mr. Stowe give Mr. Trammelle authority to sign his name.” She was helping her husband in the store at the time, and stayed in the store nearly all the time and helped him to clerk. Stowe’s testimony denies that he authorized Trammelle to sign his name to the note or that he signed it himself.
+The testimony was sufficient to authorize the court to find as was done. At least we can not say it was insufficient to support the finding.
+Madeley testified that he did not sign the note, nor authorize Trammell e to_ sign it for him. Trammelle testified that Madeley did sign, the note. Several witnesses testified shoving that they were experts, and that Madeley’s signature to the note is genuine. Another witness, Griffith, testified that the signature looks like-Madeley’s, but that he did not think it was, but that he was not an expert. He also testified that Trammelle’s reputation for truth was bad, but that he would believe him on oath. Stowe also testified that. Trammelle’s reputation for truth was bad.
+We can not say that the testimony did not authorize the court’s finding that Madeley signed the note.
+As insisted by appellants under the plea of non est factum, the burden of proof was on the plaintiff to show that the parties, Stowe and Madeley, executed the note; but still we believe the testimony was. sufficient to warrant the finding of the court that they, Stowe and Madeley, did execute the note sued on.
+The averment of the petition that the defendants made, signed, and delivered the note sued on was sufficient to authorize proof that it was signed by Stowe’s authority, the plea of non est factum denying that it was executed by the two defendants or by their authority. If it were signed by their authority, the plea would be met and disproved; and we believe that what one does by bis authorized agent he does himself, and the thing done is his act. The averment in the petition and the issue made by the plea, rendered the proof competent.
+We have examined the specimens of original signatures sent up> with the record, and do not find that they would justify a reversal of the judgment of the court.
+We find no error in the judgment, and it is affirmed.
+Affirmed.
