@@ -1,0 +1,51 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1897-11-24"
+citations: ["17 Tex. Civ. App. 285"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Houghton & Robinson v. J. C. Rogan."]
+source_url: "https://static.case.law/tex-civ-app/17/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 258439
+cites_cases: ["18 S. W. Rep., 706", "23 S. W. Rep., 243", "24 S. W. Rep., 331", "39 S. W. Rep., 142"]
+---
+
+# Houghton & Robinson v. Rogan
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+Appellee sued Ed House on a promissory note and to foreclose a vendor’s lien on the east half of block 13 in the Harwood & Ventress addition to the town of San Saba. He also made Houghton & Robinson parties defendant upon the ground that they were asserting title to the said half block of land. The note was made payable to J. S. Clark or bearer and was by Clark indorsed to appellee.
+Houghton & Robinson claimed to have purchased the land from Clark, and alleged that the note sued on was not given for any part of the purchase money of the land, and therefore no vendor’s lien could exist to secure its payment.
+Appellee in a supplemental petition pleaded, among other things, that the acquired the note for a valuable consideration, without any notice that it was not, as recited on its face, given for part of the purchase money of the land.
+There was a nonjury trial and judgment rendered for the plaintiff. Houghton & Robinson have appealed. The judge filed the following findings of fact:
+“1. That on the 25th day of May, 1894, Joe S. Clark owned the east half of block Ho. 13 in the Harwood and Fentress addition to the town of San Saba, on which was a dwelling house and other improvements, which he valued at $1500; that there was no incumbrance on it.
+“2. That Ed House, on said date, owned block Ho. 4 in the town of San Saba, on which was also situated a dwelling house and other improvements valued at $3350, and that there was then an incumbrance thereon, then estimated by House at $450, held by Ward, Murray & Co. for L. & H. Blum.
+“8. That Ed House proposed to Joe S. Clark on said date, to sell or exchange his said property for Clark’s said property, but demanded as much as $750 in cash (in order that he might invest it in another homestead) as the difference in value in said two pieces of property.
+“That to have made such a trade would have left the $450 incumbrance upon the House property in the hands of said Clark, which proposition said Clark refused to accept.
+“4. That said House then proposed to said Clark ¡to selliand trade him his said property for $2250, to be paid substantially as follows, to wit: $750 in cash, $1050 to be represented by that much Valuation in J. S. Clark’s said property in exchange ¡therefor, and the assumption by said Clark of said incumbrance of $450 held by Ward, Murray & Co., and that he, the said House, would then give to J. S. Clark $1050 represented by that much value in his said block No. 4, -and 'his promissory note in writing for $450, due twelve months after the date -thereof, bearing .10 per cent interest per annum from and after the date -of -said note, and providing for 10 per cent as attorney fees, if collected by'an attorney, as the balance due to said Clark for his said property and for assuming and paying this debt held thereon by Ward, Murray & Co. for Blum; and that said note from House to Clark should be secured by a vendor’s lien on said east one-half of block 12, to be conveyed by Clark to House.
+“5. That said Clark accepted said proposition, upon condition that he or said House for him could find some -one who would buy said vendor’s lien note from him and carry the same until maturity thereof, explaining at the time that he didn’t have the money on hand to spare to enable him to pay to said House the $750 in cash and the $450 to Ward, Murray & Co., and retain said note himself.
+“6. That in pursuance of an agreement between House aind Clark, said House then went to John T. Walters, an attorney at San Saba, 'and secured his services, whereby said Walters w-as to find a purchaser for said note who would carry the same until maturity thereof, provided said House would keep said property insured against fire for enough to cover said indebtedness until the same was paid, which said House then and there agreed to do.
+“7. Thait said Walters then went to plaintiff and inquired of him to know if he would purchase a good vendor’s lien note given by Ed House to J. S. Clark for part of the purchase money due upon the house and lot where J. S. Clark was then residing and which he was selling to House, stating that said property was to be kept fully insured against fire for enough to cover the amount due on said note, and that it would also be secured by a vendor’s lien, retained and expressed in said deed from Clark to House.
+“8. That plaintiff thereupon agreed to purchase said note under said conditions, at a reasonable discount, and defendant House and J. S. Clark were so notified by Walters.
+“9. That therefore said trade was made between House and Clark and all the papers pertaining thereto, including the note sued on herein, were duly executed and delivered by and to the proper parties; that after-wards and on the same day said Walters brought said note (being the same one sued upon herein) to plaintiff, properly indorsed by Joe S. Clark, and proposed to sell the same to plaintiff for the sum of $432 in cash, which plaintiff then and there paid to said Walters for Joe S. Clark as -a consideration for said note, without recourse, and said note reciting that an express lien was retained on said property to secure its payment.
+“10. That J. S. Clark instructed said Walters to pay the money received for said note over to Ed House, which he did, and said House then and there accepted the same in satisfaction of $450 of the $750 in cash that he was to receive from said Clark.
+“11. That J. S. Clark also paid to said House the sum of $312 in cash, and assumed and paid said incumbrance to Ward, Murray & Co., amounting to $438.
+“12. That John T. Walters was not acting as the agent of plaintiff in the premises.
+“13. That plaintiff had nothing to do with shaping or making the trade between said House and Clark, and knew nothing of the terms or conditions of said trade, other than what was told him by said Walters, as above found.
+“14. That there was no fraud intended to be perpetrated upon defendants Houghton & Robinson in said trade between House and Clark.
+“15. That there was no usurious interest added into or charged upon the note in controversy.
+“16. That by the terms of said deed from said J. S. Clark and wife to Ed House, a vendor’s lien was expressly retained therein on the property thereby conveyed, to secure the payment of the note sued on herein, and that said deed was duly filed and recorded in the deed record of San Saba County, Texas, on the 25th day of May, 1894, and that said note also recited such lien.
+“17. That defendants Houghton & Robinson’s deed of trust on the said east half of block Ho. 12 was by them taken subsequent to and with constructive notice of plaintiff’s said incumbrance.
+“18. That the two notes claimed by defendants Houghton & Rob-, inson as assignees of T. H. Murray and John McKenna, respectively, together with the deed of trust taken on said east half of block 12, to secure the same, were all made subsequent and said deed of trust taken subject to plaintiff’s said incumbrance.
+"19. The plaintiff is now the owner of said note, and entitled to collect the same.
+“20. That after the maturity of said note plaintiff placed it in the hands of an attorney for collection, and brought this suit on the same to enforce collection.
+“21. That it was specially agreed to by and between defendant Ed House and Joe S. Clark, in their said trade, that the note sued on herein should be and was by said House executed and delivered to said Clark as part of the purchase price to be paid by House to said Clark for said east half of block 12, and that said Clark and wife should retain and express a vendor’s lien in their said deed on said property, to secure the payment of the same.
+“22. That under the contract in writing, made between said House and said Clark on May 25, 1894, evidenced by the note sued upon and by the deed executed on said day by Clark to House, it was agreed by said House that the said payment of said note sued upon in this case should be secured by an express lien on the east one-half of said block 12, and that said note does constitute an express lien on said property.”
+Opinion.—Appellants ask a reversal of the judgment upon three assignments of error. The first two assail the findings that there was a sale of the property and that the note sued on was given in part payment therefor, and the third asserts that there are no pleadings that authorized the trial court’s second conclusion of law, to the effect that the note was secured by an express lien on the land.
+While we are not prepared to say that the findings of fact complained of are not sustained by evidence, still, if it be conceded that as between Clark and House there was no vendor’s lien on the land, such conclusion, in view of other findings that are not complained of, would not preclude the plaintiff’s right to recover. The note recited upon its face that it was given for part of the purchase money of the land, and that it was secured by a vendor’s lien; and it appearing that appellee bought it before maturity for a valuable consideration, believing that it was for part of the purchase money of the land, and without notice to the contrary, he was an innocent holder thereof, and entitled to have it enforced, according to its terms.
+Furthermore, considering the plaintiff’s first amended original and supplemental petition, including his prayer for general relief, we think the issue pf an express or contract lien was presented, and the court having found that such lien existed, and the finding not being challenged as unsupported by testimony, appellee was entitled to recover.
+Ho reversible error has been pointed out, and the judgment will be affirmed.
+Affirmed.
