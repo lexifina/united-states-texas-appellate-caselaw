@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "573"
+decided: "1894-05-17"
+citations: ["7 Tex. Civ. App. 522"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Riverside Lumber Company v. J. B. Lee."]
+source_url: "https://static.case.law/tex-civ-app/7/cases/0522-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 237270
+---
+
+# Riverside Lumber Co. v. Lee
+
+## Majority (GARRETT, Chief Justice. PLEASANTS, Associate Justice.)
+
+ON MOTION TO DISMISS.
+GARRETT, Chief Justice.
+The motion to dismiss the appeal in this case, for the want of a sufficient bond, is well taken; but the appellants will be allowed fifteen days in which to file a sufficient bond. The bond tendered by them in reply to the motion is insufficient, because B. W. Bowland, one of the sureties thereon, is a surety on defendant’s replevy bond, and judgment was rendered against him as such; and for the further reason, that evidence of the solvency of the sureties at the time of the presentation of the bond should be furnished to this court. The court will not look to the approval of the clerk of the court helow of the same sureties made months ago.
+Delivered May 17, 1894.
+The reply of appellants to the motion to dismiss, that the judgment of the court will be final, and that the condition of the bond to perform the judgment of this court alone is sufficient, is not correct; because the plea in reconvention is sufficient in amount to give jurisdiction to the Supreme Court. However, we do not mean to indicate that such condition would be sufficient.
+ON THE MERITS.
+PLEASANTS, Associate Justice.
+Appellee sued appellants for the recovery of an alleged indebtedness of $640. He also sued out, and levied upon property of appellants, an attachment. The suit was upon an itemized account, verified by affidavit of plaintiff’s agent. The defendants were partners in trade, doing business under the name of the Riverside Lumber Company, and were engaged in cutting, sawing, and selling lumber. They excepted to plaintiff’s petition by general demurrer, and excepted also to the affidavit for the attachment, and further answered by general denial, and special denial as to several items of plaintiff’s account; and they pleaded in reconvention damages in the sum of $700, for the alleged wrongful levy of the attachment upon their property.
+The cause was tried by the judge of the court without a jury, and judgment was rendered for the plaintiff for his debt, less a credit allowed by him of something under $100, and for the foreclosure of his attachment lien. The petition averred, that the defendants were indebted for the goods, wares, merchandise, money, and checks specified in the account attached to and made part of the petition, “and sold by plaintiff to defendants at their special instance and request.” The checks were given by defendants to their employes, and by the latter were traded to plaintiff for goods or money. And several of the items in the account charged as goods, “sold and delivered to the defendant company,” were goods sold to one of the defendants for his individual use; while other of such items were for goods which had been sold and delivered to third parties on credit, and the debts were subsequently assumed by one member of the defendant company for his firm. In support of the averments of his petition, over objections of defendants, the plaintiff was permitted to prove an agreement between the plaintiff and defendants, that the former would fill the orders of the latter for goods and money; that checks given by defendants to their employes should be received by plaintiff as money, and that at the first of each month defendants would come to plaintiff’s store and have an accounting with plaintiff, and take up the checks; and that in pursuance of this agreement, plaintiff did receive from their employes the checks of defendants in the amounts specified in the account sued on, and that defendants’ managing member of their firm did afterwards come to plaintiff’s store, when said checks were counted by him and plaintiff’s agent, and that said account was at the same time exhibited to said defendant, and he then admitted that the same was correct, and promised to pay it. The checks after being counted were not taken from the store by defendants, but were left lying upon the counter. The defendants objected to this evidence, on the ground of variance. The averment in the petition was, that the checks and money charged in the account were “sold and delivered to the defendants.” The objection was overruled and the evidence was admitted, the court holding that it proved an account stated between the parties. The objection should have been sustained, and the evidence rejected, so far at least as it related to the items of checks. It is an elementary rule of law, that the allegata and probata must correspond.
+. The plaintiff must recover upon proof of his case as he states it. He can not be allowed to aver one state of facts and prove another. Ho amount of evidence will suffice as a basis for a judgment, unless the pleadings authorize the introduction of the evidence.
+The plaintiff was permitted also, under the averments of “goods sold and delivered to defendants,” to prove that certain of the items charged as goods sold to parties named in the account, were sold to said parties on their own account; and that afterwards, the managing partner of the defendant company promised for the company that said company would pay for said goods. The defendant making this promise for his firm did not state in his testimony that he was authorized to bind his firm for these debts due by himself and others to the plaintiff; while the other member of the firm did testify, that he had never given his partner authority to assume, on behalf of the company, the payment of any one of these debts.
+Without proper averments and proof thereof, that the defendant company did promise and undertake to pay these debts due to plaintiff by other parties, the company can not be held liable therefor. And to authorize a judgment against the defendant company, the evidence must not only show a binding promise by one of the partners, but it must show, in addition, either that such an undertaking was within the scope of the partnership, or that the partner so promising was authorized to do so by the other partner.
+For the errors pointed out in this opinion, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Delivered June 7, 1894.
