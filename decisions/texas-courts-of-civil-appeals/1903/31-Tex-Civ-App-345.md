@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-01-29"
+citations: ["31 Tex. Civ. App. 345"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Southwestern Telegraph and Telephone Company v. John Priest et al."]
+source_url: "https://static.case.law/tex-civ-app/31/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4372024
+cites_cases: ["56 S. W. Rep., 137"]
+---
+
+# Southwestern Telegraph & Telephone Co. v. Priest
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+John Priest brought this action against the appellant to recover a reward of $1000, offered by the company for the arrest and conviction of any person guilty of cutting, pulling or tearing down or misplacing its telephone wires, posts or machinery, or unlawfully obstructing or interfering with the transmission of messages along its telephone wires in violation of article 784 (677), Texas Penal Code. Thomas Hennessy intervened and made himself a party to the suit, and claimed the reward for himself. Thomas Williams, who was made a party to the suit on motion of the defendant, also claimed the reward, and, dying pending the suit, his heirs were made parties. The pleadings of the parties claiming the reward showed that it was offered for the arrest and conviction of any person violating article 784 of the Penal Code, which is willfully obstructing or interfering with the transmission of messages along a telegraph or telephone line; and that one Taylor had been arrested and convicted in the Criminal District Court of Harris County upon a charge of cutting, pulling and tearing down the wires of the appellant. The appellant answered as to Priest, that at the time of the arrest of Taylor, Priest was a watchman in the service of the' telephone company, and that when he was employed he was informed that the wires which "were being cut, and which he was expected to watch, were what is known as dead wires, and not in use, and that they did not come under the reward offered by the company. As to Hennessy, it alleged that he neither participated in the arrest nor conviction of Taylor; and as to Williams, that he was a constable of Harris County, and in making the arrest was acting in the simple performance of his duties as a peace officer, and not entitled "to the reward. Exceptions of Hennessy and the heirs of Williams to the answer were sustained, and this action of the court has been assigned as error. »
+The reward was offered for the arrest and conviction of any person violating the provisions of article 784 of the Penal Code. This was shown on its face. To constitute an offense under this article there must have been a breaking, cutting, etc., of some wire, post, machinery or other necessary appurtenance in such manner as to. interfere with the transmission of messages along the line. The fact that the wire cut was a dead wire, and did not come within the meaning of the offer, and the fact of personal notice to Priest that the reward did not apply, were properly pleaded as a special defense. The language of the offer itself showed that it applied only to a conviction under article 784, Penal Code, but the appellant was entitled to allege and prove as a defense that the wire cut and torn down and taken was a dead wire, and that Priest was personally notified as to the application of the offer. If the constable, Williams, made the arrest as alleged in the discharge of his duties as an officer, he was not entitled to recover any part of the reward. Kasling v. Morris, 71 Texas, 588. The case cited shows the distinction between the facts under which an officer would be entitled to recover the reward and those under which a recovery would not be allowed. The facts alleged as to the participation of Williams in the arrest presented a complete defense as to him, and it was clearly error to sustain the exception to the answer setting them up. The court erred to the prejudice of the appellant in sustaining the exceptions of Priest and Williams’ heirs to the answer.
+No other error has been assigned for which we would have reversed the judgment. Priest seeks by cross-assignment of. error against his coappellees to have the judgment of the court below which divides the amount of the reward between the three claimants reversed and judgment rendered by this court in his favor for the entire amount. He has not appealed from the judgment now complained of, and is in no position to have it reversed, even if it should not be reversed for the errors assigned by the appellant. Halsell v. Neal, 23 Texas Civ. App., 26, 56 S. W. Rep., 137.
+For the error of the court in sustaining the exceptions to the answer as above pointed out, the judgment of the court below will be reversed and the cause remanded.
+Reversed and remanded.
