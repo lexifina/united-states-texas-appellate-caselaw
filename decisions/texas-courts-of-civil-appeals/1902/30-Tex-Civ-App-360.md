@@ -1,0 +1,35 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1902-11-12"
+citations: ["30 Tex. Civ. App. 360"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wilbur Dupree v. C. D. Duke."]
+source_url: "https://static.case.law/tex-civ-app/30/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2903043
+---
+
+# Dupree v. Duke
+
+## Majority (STREETMAN, Associate Justice.)
+
+STREETMAN, Associate Justice.
+This is an action of trespass to try title, brought by C. D. Duke to recover of Wilbur Dupree section No. 1, orphan asylum land, in Tom Green County, Texas.
+The evidence shows that the section in controversy was on January 30, 1900, leased to L. C. Dupree, father of defendant, and on that date said L. C. Dupree transferred his leasehold estate by an instrument in writing to Wilbur Dupree, and the original lease would not have expired at the time of the trial of this suit.
+On August 13, 1887, A. J. Taylor had purchased from the State the west half of section No. 2, block 4, Houston & Texas Central Railway Company lands in said county, while residing upon the northeast one-fourth of the same section, being an actual settler thereon; and after-wards, on November 14, 1898, made proof of his three years occupancy of his home tract. On January 26, 1900, Taylor, by regular quitclaim deed, sold all interest in said west one-half of section 2, block 4, Houston & Texas Central Railway Company, to Wilbur Dupree, and on February 1, 1900, said Wilbur Dupree filed his application, oath, and obligation to purchase said west one-half of section 2, block 4, Houston & Texas Central Railway Company, as assignee of A. J. Taylor, and the same was awarded to him.
+On February 2, 1900, Wilbur Dupree filed his application, oath, and obligation in the Land Office to purchase said section No. 1, orphan asylum (the land sued for), as additional land to the west one-half of section No. 2, block 4, Houston & Texas Central Railway Company, stating that his home was upon said west one-half of section 2, and said section No. 1, orphan asylum land was awarded to said Wilbur Dupree on his application. All interest payments due, both on said west one-half of section 2, block 4, and on section No. 1, orphan asylum, were shown to have been paid.
+Said section No. 1, orphan asylum, was situated within a radius of five miles of the said west one-half of section 2, block 4, Houston & Texas Central Railway Company.
+In addition to the facts tending to show his actual settlement on his home tract, the foregoing facts were relied upon by defendant as evidence of his title.
+On June 1, 1900, plaintiff Duke made his application, oath, and obligation as prescribed by law, to purchase section No. 1, orphan asylum land, as an actual settler thereon; which application, oath, and obligation were filed in the General Land Office on June 18, 1900, and on said date he deposited with the State Treasurer $16, the first payment due thereon.
+He testified that he had been living on the section of land in controversy for about one year prior to June 18, 1900. That on June 11, 1900, he was an actual settler in good faith on said section; that he was then over 21 years of age and was then a bona fide settler thereon, and desired to purchase said land for a home. That he was not acting in collusion with others for the purpose of buying said land for any other person or corporation, and that no other person or corporation was then or is now interested in the purchase thereof. That he had continuously resided on said land as his home since June 11, 1900, with his wife and family. That he had a farm in cultivation on same of about fifty acres fenced with a wire fence. That he had erected a frame house on said land in which he and his family resided. That he had two work teams, besides all tools and farm implements necessary for cultivating and earing for his crops of hay and grain.
+It was shown that at the time of his application to purchase the land in controversy, defendant Wilbur Dupree was over 18 but less than 21 years of age.
+There is also an agreement in the record that “on June 11, 1900, and June 18, 1900, said section of land (the tract in controversy) was on the market for sale, in accordance with the law regulating the sale of school and asylum lands of this State.”
+The court instructed the jury that if they found that plaintiff was an actual settler in good faith on the land sued for on June 11, 1900, and had continued to reside on the same as his home since said time, they should find for plaintiff.
+The verdict was for plaintiff, and from the judgment entered thereon, defendant sued out a writ of error.
+Plaintiff in error insists that the court erred in disregarding the evidence of title offered by him and instructing the jury to find for defendant in error, if they found him to have been an actual settler in good faith.
+We are of opinion that there was no error in the charge of the court. The evidence showed that plaintiff in error was a minor at the time the land was awarded to him on his application. In the case of Walker v. Rogan, 93 Texas, 248, 54 Southwestern Reporter, 1018, the Supreme Court held that where the question arose between the minor and the State, a sale to a minor was invalid. In the case of Adams v. King, 28 Texas Civil Appeals, 484, the Court of Civil Appeals of the Second District passed upon the same state of facts involved in this case. Land had been awarded to a minor upon his application to purchase, and afterwards another purchaser brought suit to recover the land from an assignee'of the minor. The lower court upheld the sale to the minor, but on appeal the case was reversed and rendered for the appellant on the ground that the sale to the minor was not merely voidable, but was absolutely void. We find that an application for writ of error was made in that case, insisting that there was a distinction between it and the case of Walker v. Rogan, and that the State alone could take advantage of any defect in the title by reason of the sale being made to a minor. This was the principal question urged in the application in that case, and as it was refused, we take it to be definitely settled that a sale to a minor under this and similar statutes is void, and can form no basis for title, either as against the State or any other claimant.
+It was further urged in this case that plaintiff in error, if he did not have title, was entitled to retain the land as the owner of the unexpired lease assigned him by his father. There is, however, in the record, an agreement "that on June 11, 1900, and June 18, 1900, said section of land was on the market for sale in accordance with the law regulating the sale of school and asylum lands of this State.” This agreement precludes plaintiff in error from asserting that at that time he was entitled to hold the land under his unexpired lease.
+There being no error in the judgment, it is therefore affirmed.
+Affirmed.
