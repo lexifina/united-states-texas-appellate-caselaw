@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "2854"
+decided: "1888-12-08"
+citations: ["3 Willson 485"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G., C. & S. F. R’y Co. v. Abney & Stout."]
+source_url: "https://static.case.law/willson/3/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1367739
+cites_cases: ["18 Minn. 185", "32 Ohio St. 215", "5 S. W. Rep. 792", "64 Ill. 338", "65 Me. 230", "67 Tex. 93"]
+---
+
+# G., C. & S. F. R'y Co. v. Abney
+
+## Majority (White, P. J.)
+
+Opinion by
+White, P. J.
+§ 413. Condemnation of land; estimating damages; evidence of damages; case stated. This is a proceeding by appellant to condemn land belonging to appellees for a right of w.ay for a railroad. The commissioners awarded appellees $7,000 damages. Appellant filed objections to the award, and upon a trial of, the cause in county court appellees’ damages were assessed at $7,200, of which amount appellant remitted $200. On the trial the court admitted evidence, over appellant’s objection, tending to show that since the construction of the railroad through appellees’ land nineteen head of their stock had been killed by the engines and trains operated upon said road, and as to damages done by fire communicated by said engines to their grass, etc. And upon the subject of damages the court instructed the jury as follows:
+‘ ‘ In estimating the damages to which defendants [are entitled, the jury will consider all the facts, results and circumstances shown by the witnesses attendant upon or resulting from the condemnation of said land by plaintiff for right-of-way purposes and the construction of its railway and the operation of its cars thereon, which inconvenienced the owners in the free use or enjoyment of the residue of said land, or rendered it less liable or desirable for the purposes for which it was owned or applied by the owners. I mention the following as some of the items of damage which, if they have been established by the evidence, will be considered by the jury, to wit: Cutting the property into an inconvenient or ill-shape; leaving the land in separate pieces; separating part of the land for water and stock purposes; the use to which the land taken is to be applied by plaintiff; the inconvenience of new fences, ditches, embankments, cuts or grades; the danger of fire to grass, crops, fences or other property from passing trains; the liability of injury to persons and stock from passing trains, as well as to the land actually taken for right of way. These are some of the elements of damage in this case, if you find that they have been established by the evidence. But it is not intended to limit the jury to the items" of damage above enumerated, if you find that others have been proved.”
+“The damage awarded by the jury should be such an amount as would be a reasonable and adequate compensation for all the injuries sustained by defendants by reason of the construction of plaintiff’s railroad on and across their land, and the operation of its trains thereon, bearing in mind ihe uses to which the defendants applied the land before such condemnation, as well as the uses to which the portion so taken and appropriated by plaintiff is tobe applied by the plaintiff.”
+These instructions are assigned as error by appellant. Held: It -was not error to admit the evidence objected to, and the foregoing instructions are correct. In a proceeding to condemn land for the use of a railroad, the jury are entitled to know the amount of the land taken; how it affects the remainder; how it divides the farm, in case of farm lands, as to water, pasturage, improvements, etc.; and also the danger and inconvenience in the perpetual use of the trac£ for moving trains over, and what injury, if any, to stock kept on the farm, and many other things connected therewith, better understood and better to be explained by persons of large experience in such matters; and, as a general rule, any evidence that tends to establish these various subjects is admissible. And the opinions of competent witnesses as to value are admissible. In estimating damages everything which gives the land intrinsic value, or which depreciates its value, is to be taken into consideration. [Ante, § 411; 3 Sutherland on Dam. 436 et seq.; Pierce on Railroads, 210, 211, 215; Mills on Em. Domain, § 166; 2 Wood’s R’y Law, p. 911; R’y Co. v. Woodruff, 5 S. W. Rep. 792; R. R. Co. v. McKinley, 64 Ill. 338; McReynolds v. R. R. Co. 14 A. & E. R’y Cases, 176, 177.] As to admissibility of the opinions of witnesses to prove value, see 1 App. C. C. § 365; 3 Sutherland on Dam. 463; Simmons v. R’y Co. 18 Minn. 185; Snow v. R’y Co. 65 Me. 230. And it is proper for the court to instruct the jury as to the elements of damage. [R’y Co. v. Wheelen, 5 A & E. R’y Cases, 364.]
+December 8, 1888.
+§ 414. Value at which land was assessed for taxes is not evidence. The amount at which-the land-owner rendered' his land for taxation affords no criterion of its value in this proceeding, and evidence of such rendition is not admissible.
+. §415. Argument; right to open and conclude. Upon the trial of this case the court refused to permit appellant to open and close the argument, but accorded this right to appellees. Held error. Appellant had the right to open and close the argument. [Ante, § 410; 1 Wharton on Ev. §357; Neff v. Cincinnati, 32 Ohio St. 215; McReynolds v. R’y Co. 14 A. & E. R’y Cas. 172.] The right to open and close the argument in this cause was strongly contested in the trial court, and the parties seem to have regarded such right as an important one, and it cannot be regarded as immaterial error that appellant was deprived of such right. [Sanders v. Bridges, 67 Tex. 93.] Eor this error the judgment is reversed.
+Reversed and remanded.
