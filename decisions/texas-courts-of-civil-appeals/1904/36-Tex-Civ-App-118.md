@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-05-18"
+citations: ["36 Tex. Civ. App. 118"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. E. McClelland et al. v. Geo. Barnard et al."]
+source_url: "https://static.case.law/tex-civ-app/36/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4378846
+---
+
+# McClelland v. Barnard
+
+## Majority (EIDSON, Associate Justice.)
+
+EIDSON, Associate Justice.
+This is an action'for the trial of the right of property to two certain horses, levied upon by virtue of executions in favor of appellees. The appellant Theressa E. McClelland, who is the wife of Peter McClelland, claimed said horses as her separate property.
+Upon the trial appellees presented their tender of issues, setting up that the claim of Mrs. Theressa E. McClelland to said horses was- fraudulent, and made for the purpose of hindering, delaying and defrauding" the creditors of the said Peter McClelland; that the said Peter McClelland and wife have a large amount of personal property out of which to claim their exemptions, including other horses than those levied upon, and that if said horses were ever transferred to Mrs. Theressa McClelland, it was done for the purpose of hindering, delaying and defrauding the plaintiffs and other creditors of Peter McClelland.
+Appellant Mrs. Theressa McClelland, joined by her husband Peter McClelland, presented their tender of issues, setting up that they were husband and wife; that on May 31, 1901, Peter McClelland by bill of sale conveyed for love and affection, to Mrs. Theressa E. McClelland, said itwo horses; that at the time of such conveyance said Peter McClelland was a married man and the head of a family, and that these horses were the sole and only horses owned by him at said time, and since then he has owned no horses whatever; that said horses at the time of such conveyance were being used as family carriage horses by Peter McClelland and his family, and that same were and are exempt, and that said conveyance was a valid conveyance, and praying for the restitution of said horses.
+The case was tried before a jury and resulted in a verdict for appellees, and judgment was entered thereon.
+Appellants’ first assignment of error complains of the following clause of the court’s charge: “The jury are instructed that the gift of exempt property from the husband to his wife on the ground of love and affectian is good, if made in good faith, and with no intent to defraud his creditors.”
+Their second assignment of error complains of the following clause of the court’s charge: “If the jury believe from the testimony that there are now two pairs of horses held by the defendant, and that this gift of two horses made to defendant by her husband was made to defeat existing debts, then they should find for plaintiffs, the record showing the amount claimed.”
+The testimony tends to show that the two horses in controversy were transferred by appellant Peter McClelland to his wife, appellant Theressa E. McClelland, prior to the levy of the executions of appellees upon same, and that at the date of such transfer, they were the only horses owned by the said Peter McClelland, and were then being used by the family as carriage horses, and were thus exempt from execution. The evidence shows that at the date of such transfer Peter McClelland was insolvent. If these horses at the date of the alleged transfer were exempt, and there was an actual transfer or sale made of them by the said Peter McClelland to his wife Theressa E. McClelland, such sale or transfer could not be avoided on the ground that it was fraudulent as to creditors, because the property being exempt, creditors would have no interest in same.
+If the property was exempt it would make no difference whether the sale or transfer was made in good or bad faith, nor whether there was any consideration for such transfer; nor would it make any difference if the sale or transfer was made with intent to defraud creditors or to defeat existing debts. Cox v. Shropshire, 25 Texas, 113; Martel v. Somers, 26 Texas, 551; Wood v. Chambers, 20 Texas, 254. Hence, in our opinion, the court erred in giving to the jury the instructions above quoted and complained of by appellants.
+We do not think the court erred in refusing to give to the jury appellants’ special charge number 1. The exemptions provided for in article 2395 of the Revised Statutes are to every family and not to the head of a family. The two horses exempted to the family by subdivision 9 of said article may be the separate property of either spouse or their community property. Where there are more than two horses owned in either right above stated in the possession of the husband, he has the right to select, and by appropriate use impress upon them the exempt character, such two horses as he may desire. And if the husband should have in his possession four horses, two the separate property of his wife and the other two their community property, or his separate property, he would be authorized to select, for the purpose of exemption, the two not the separate property of the wife, and his creditors would have no right to complain. If the two horses in controversy had been selected by the husband for exemption, and were being used by the family at the date of the alleged transfer, they would not have been subject to execution at that date, and the creditors of Peter McClelland would have no right or interest in them, and such property would not be subject to execution. Fuller v. Sparks, 39 Texas, 137; Yancy v. Felker, 3 W. & W. C. C., 249; 12 Am. and Eng. Enc. of Law, 2 ed., 222.
+We have examined the other errors assigned by appellants, but are of opinion they are not well taken, and therefore overrule them.
+For the errors above indicated, the judgment of the court below is reversed and the cause remanded.
+Reversed and remanded.
