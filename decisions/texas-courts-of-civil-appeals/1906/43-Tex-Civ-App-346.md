@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-06-02"
+citations: ["43 Tex. Civ. App. 346"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas & Pacific Railway Company v. J. F. Whiteley."]
+source_url: "https://static.case.law/tex-civ-app/43/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4387322
+cites_cases: ["26 S. W. Rep., 437", "26 S. W. Rep., 468", "59 S. W. Rep., 1123"]
+---
+
+# Texas & Pacific Railway Co. v. Whiteley
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+This is a personal injury suit in which appellee recovered judgment against appellant for the sum of one thousand dollars.
+The following paragraph of the court’s charge is complained of as being on the weight of the evidence: “If the jury believe from the evidence that the plaintiff J. P. Whiteley attempted to get off the train at Elmdale station while the train was moving, with or without a suggestion from defendant’s employes for passengers to then alight at Elmdale station, the jury will determine from all the evidence as t'o the circumstances and conditions existing at the time, whether so alighting was an act which an ordinarily cautious and prudent person would or would not usually attempt under such or similar circumstances; the suggestion of defendant’s employes, if any, for him to alight not alone justified him in alighting, but being a circumstance to be considered with all the other evidence to determine whether he was in the exercise of such care as above stated in attempting to alight from the train when he did. If upon the whole evidence you find that plaintiff J. F. Whitelev in attempting to alight from the train when and in the manner that he attempted to alight did not observe that degree of care which an ordinarily prudent and cautious person usually exercises under the same or similar circumstances to those then existing, and that such want of care either in the particulars alleged by the defendant or in any other particulars, as plaintiff pleads that the injuries occurred without negligence on his part, and that such want of care was the proximate cause or contributed directly to the injury, if any, that he received, you will return a verdict for the defendant.” The particular part of the charge objected to is that which instructed the jury that the suggestion from appellant’s employes for appellee to alight, if any was made, was a circumstance to be considered with all other evidence in determining whether or not he was in the exercise of proper care in alighting. On the whole the charge was probably on the weight of evidence in saying that the fact of such suggestion alone would not justify appellee in his course, when as a matter of fact the jury might have concluded that it would. The rule was properly stated in the latter half of the charge quoted that “upon the whole evidence” the jury would determine the question of appellee’s contributory negligence. We find nothing in the charge of which appellant can justly complain.
+We also rule against appellant upon its contention that the act of appellee in alighting from the train under the circumstance shown, if he did so without a suggestion from its employes, constituted contributory negligence per se under the circumstances of this case, and that the charge above quoted was erroneous for this further reason.
+The court further instructed the jury to. decide all issues submitted to them by a preponderance of the evidence, and this is objected to because “indefinite and uncertain and the charge should have required the plaintiff to establish the material allegations in his- petition by a preponderance of the evidence.” But this criticism we think is entirely wanting in merit, since the issues submitted embraced the material allegations in appellee’s petition, and if they further included the issue of contributory negligence made by appellant’s answer, such inclusion was not only justifiable, but proper.
+We can not hold that the verdict and judgment in appellee’s favor are not supported in the law under the evidence. It is true, he stepped off a moving train in the night time while the ground was covered with snow and ice and was injured in consequence. But it has never been held, so far as we are aware, that the act of stepping on or off a slowly moving car is contributory negligence as matter of law. The act must be viewed in the light of all the surrounding circumstances and tested by the conduct of a reasonably prudent person under such circumstances. The speed of the car, the character of the ground upon which the passenger is to alight, his opportunity or lack of opportunity for seeing where he is to alight, the instructions of the carrier’s employes to the passenger, are elements which properly enter into the consideration in passing upon the issue of one’s contributory negligence in alighting from a moving train.
+It is suggested that the train porter who directed appellee to get off the train at the time he did, had no authority to assist passengers in getting on or off trains, and was therefore not acting within the scope of his duty at the time he gave such directions. But appellant’s conductor testified that at a place like Elmdale, where there is no agent, the train porter does get out and help passengers off. This evidence, we think, is sufficient to support the verdict and judgment upon this issue.
+We find no error in the judgment, and it is affirmed.
+Affirmed.
+Writ of error refused.
