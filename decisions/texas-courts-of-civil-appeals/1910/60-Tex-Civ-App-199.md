@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-04-02"
+citations: ["60 Tex. Civ. App. 199"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas Central Railroad Company v. R. B. Mallard."]
+source_url: "https://static.case.law/tex-civ-app/60/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 608616
+cites_cases: ["126 S. W., 607"]
+---
+
+# Texas Central Railroad v. Mallard
+
+## Majority (CONNEB, Chief Justice.)
+
+CONNEB, Chief Justice.
+On appeal from the Justice Court to the County Court appellee recovered a judgment against appellant in the sum of one hundred and seventy-five dollars as the value of one mare and colt killed by a passing train in the town of Hamlin on about the 6th of November, 1908. The evidence shows that the animals were injured at a distance of from two hundred and fifty to three hundred and fifty yards from the east end of appellant’s depot, .within'the appellant’s switch limits. The only public crossing in the vicinity shown by the evidence is that of Central Avenue, a public street, which crosses the railroad tracks just west of the depot, and the court gave the following special charge at appellee’s request, which is assigned as error herein:
+“Gentlemen of the jury: You are charged that it is the duty of the engineer of a railroad company operating any locomotive engine to blow the whistle and ring the bell at the distance of at least eighty rods from the place where the railroad shall cross any public road or street, and such bell shall be kept ringing until it shall have crossed such public.road, or stopped; and, should said engineer having charge of such engine neglect to comply with the above provisions, then the corporation operating such railway shall be liable for all damages which shall be sustained by any person by reason of any such neglect.
+“You are therefore charged that if you believe from the evidence that the engineer having charge of the locomotive herein at the time said animals were struck, if you believe they were struck, neglected to blow the whistle and ring the bell as above charged at a distance of at least eighty rods from said street or public road, if you believe there was a street or public road, and that said neglect as aforesaid was the cause of said damage, if any, then you will find for the plaintiff in any sum not to exceed the sum of $175.”
+Appellant insists that it is error for a trial court to give in a charge to a jury the law as laid down in the Bevised Statutes of the State of Texas, article 4507, requiring the operatives of engines on a railroad to blow the whistle and ring the bell for at least eighty rods before reaching a public street or crossing, unless it is shown from the pleading and evidence that the cause of action sued upon is based upon an injury occurring at such street or crossing, and we think, as applied to the facts of this case, the contention is well taken.
+In the case of Missouri, K. & T. Ry. Co. of Texas v. Saunders, 101 Texas, 255, it was distinctly held by our Supreme Court in an opinion by Mr. Justice Williams that the statute requiring the whistle on a locomotive to be sounded within eighty rods from a public crossing and the continued ringing of the bell was intended only for the protection of those who use or are about to use such crossing, and that an instruction, as here, that a failure to blow the whistle and ring the bell constitutes negligence, was erroneous as applied to a person injured who was neither on a crossing nor about to use such crossing. This opinion has been frequently followed, the most recent case by this court being the case of the Gulf, Colorado & Santa Fe Railway Co. v. J. A. Bennett, decided February 19, 1910. 59 Texas Civ. App., 321 (126 S. W., 607.) In that case a recovery was had for the value of a mare owned by Bennett which had been killed by a northbound train of the appellant a short disance south of a public road crossing. We there had occasion to say that: “The fact that the operatives of the train failed to sound the bell or blow the whistle for the road crossing at a short distance beyond the point where the mare was killed is immaterial. It has been often held that the duty of giving these warnings is imposed for the benefit of those who are using or are about to use the crossing, and the question in this case with reference to the warnings was not whether they were given for the crossing, but whether in the exercise of ordinary care the operatives of the train should have given the warnings to avoid the injury to the mare.”
+So here we think it was clearly erroneous for the court to instruct the jury, as was in effect done in the special charge objected to, that a failure to blow the whistle and ring the bell as provided by the statute was negligence as matter of law. The fact that there was such failure prior to the time the engineer says that he struck appellee’s mare and colt may be, and we think was, relevant on the issue of appellant’s alleged negligence, but it was for the jury, and not the court, to determine whether such failure under the circumstances of the case constituted negligence, and, if so, whether such negligence was a proximate cause of the injury to the animals.
+The further objection to the charge, that a failure to blow the whistle and ring the bell was not pleaded as negligence by appellee, need not be noticed further than to say that the record gives force to the suggestion, but the objection may be easily avoided on another trial by amendment.
+For the error discussed it is ordered that the judgment be reversed and the cause remanded.
+Reversed and remanded.
