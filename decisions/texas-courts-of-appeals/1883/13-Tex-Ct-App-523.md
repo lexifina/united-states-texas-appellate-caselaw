@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1485"
+decided: "1883-02-28"
+citations: ["13 Tex. Ct. App. 523"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. A. McWhorter v. The State."]
+source_url: "https://static.case.law/tex-ct-app/13/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133450
+---
+
+# McWhorter v. State
+
+## Majority (Willson, J.)
+
+Willson, J.
+We find in the record in this case the following bill of exception:
+“Be it remembered, that on the trial of the above cause the defendant took various bills of exception to the rulings of the court on the introduction of testimony, and incorporated them all in the statement of facts. On inspection of the bills of exception so incorporated in the statement of facts, the court found some of them correct, which are numbers one, two, three, four and five, and the remainder incorrect.
+“The court struck from the record all the bills of exception, including the above-numbered ones found by the court to be correct, for the reason that they were incorporated in the statement of facts and not presented separately, and because the county attorney refused to sign or agree to the statement of facts until they were stricken out. To which ruling defendant excepts, etc.
+“L. M. Bradley, Judge, etc.”
+This action of the court as presented in the above bill is assigned as error. Rule 56 for the government of district courts, provides that “ exceptions to evidence admitted over objections made to it on the trial may be embraced in the statement of facts, in connection with the evidence objected to.” (2 Texas Ct. App., 666, Rule 56.) This rule has been held to be applicable to criminal as well as civil cases. (Cooper v. The State, 7 Texas Ct. App., 194; Castanedo v. The State, Id., 582.) It applies, however, to evidence admitted, and not to that which is excluded. (Green v. The State, 12 Texas Ct. App., 51.) In this case it appears that the exceptions taken and incorporated in the statement of facts, related to the rulings of the court on the introduction of evidence, which, we infer, was on the admission of evidence. It also appears that the court found some of those exceptions, five in number, to be correct, but that others were incorrect, and yet he struck out all the exceptions because the county attorney refused to agree to the statement of facts until the exceptions were stricken out. We are not apprised by the record as to what particular evidence admitted the five correct exceptions related to, nor do we think it is necessary in this case that we should be, though it would have been more satisfactory, and better practice, if this information had been contained in the bill of exceptions.
+It is enough for us to know, however, that a substantial legal right has been denied the defendant by this action of the court. He is guaranteed the right of appeal, and in the prosecution of this right the law entitles him to have presented to this court for review the proceedings and rulings of the trial court. He endeavored to avail himself of this privilege, in a manner sanctioned and provided by law, but by the action of the judge has been prevented from bringing before this court the important question as to whether or not he has been convicted upon competent and legal evidence. He relied upon bills of exceptions incorporated in the statement of facts, which he had a right to do. Five of these bills were admitted by the judge to be correct, and yet they were stricken out, and he has been denied the benefit of them. At the time they were stricken out of the statement of facts it was too late for him to present other bills, or to prove his exceptions by bystanders (Green v. The State, 12 Texas Ct. App., 51), and he was therefore left without a remedy. We cannot sanction such a practice as this in any case. If any of the exceptions were correct (and it is admitted that five of them were), the defendant was entitled to the benefit of them, whether it accorded with the peculiar views and wishes of the county attorney or not. If the county attorney did not see proper to agree to a statement of facts, it was the duty of the judge to make out a statement and file it as a part of the record.
+Numerous other errors are assigned, but we have not given them close attention, because we do not consider that the case is properly before us, the defendant having been precluded, without any fault of his own, from presenting his whole case for review by this court.
+There is one other matter, however, which we will call attention to, for the information of the clerk who made out the transcript in this case, and for the information of other clerks who may have like views with him. An amended or supplemental motion for a new trial was made by defendant, which, upon motion of the county attorney, was stricken out. In making up the transcript the clerk refused to incorporate in it this amended or supplemental motion, the motion to strike out, and the judgment of the court thereon, and the defendant has been forced to a certiorari to perfect the record, in order to bring before this court that portion of his case. Transcripts should contain all the proceedings had in the case5 and should conform to the rules governing transcripts in civil cases. (Code Crim. Proc., Art. 860.) These rules are prescribed by Article 1411 et seq., Revised Statutes, and Rule 82 et seq., for District Courts. (2 Texas Ct. App., 671.) Because a pleading or paper is upon motion stricken out, is no reason why it should not be incorporated in the transcript. It may have been erroneously stricken out, and of vital importance in the case, and the party aggrieved by the error has the right to present it on appeal.
+Because the court erred in striking out from the statement of facts the defendant’s exceptions to the admission of evidence, the judgment is reversed and the cause is remanded.
+Reversed and remanded.
+Opinion delivered February 28, 1883.
