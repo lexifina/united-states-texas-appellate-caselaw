@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1879"
-citations: ["5 Tex. Ct. App. 493", "7 Tex. Ct. App. 495", "7 Tex. Ct. App. 1"]
+decided_precision: "year"
+citations: ["5 Tex. Ct. App. 493"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Dick Cox v. The State."]
 source_url: "https://static.case.law/tex-ct-app/5/cases/0493-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4417674
-cites_cases: ["3 Ala. 378", "9 Johns. 286"]
 ---
 
 # Cox v. State
