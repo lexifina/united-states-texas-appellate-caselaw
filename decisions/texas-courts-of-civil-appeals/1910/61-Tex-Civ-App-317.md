@@ -1,0 +1,23 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-05-26"
+citations: ["61 Tex. Civ. App. 317"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Delia Goodrich v. F. M. Wallis et al."]
+source_url: "https://static.case.law/tex-civ-app/61/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4402287
+cites_cases: ["40 S. W., 427", "46 S. W., 72"]
+---
+
+# Goodrich v. Wallis
+
+## Majority (WILLSOM, Chief Justice.)
+
+WILLSOM, Chief Justice.
+— The suit was brought by appellant against Wallis and the surety on his bond as a retail liquor dealer, to recover for an alleged breach by Wallis of his undertaking in said bond, not to sell or permit to be sold, in his house or place of business, to an habitual drunkard, any intoxicating liquor. Appellant alleged that her husband, S. J. Goodrich was an habitual drunkard, and that “between the dates of August 1st to the 30th of that month, 1907, and on divers dates at and about that time,” Wallis sold and delivered to her said husband in his (Wallis’) place of business, intoxicating liquor. In their answer, appellees set up as a bar to appellant’s right to recover for the breach alleged of the bond, a judgment rendered in cause Mo. 9702, being a suit by appellant against appellees to recover for alleged breaches of the bond by Wallis, “about August 3rd to 10th, 1907,” and on “divers days and dates” about that time, by selling to her said husband, then an habitual drunkard, and by selling to him after he (Wallis) had been notified by her not to do so, intoxicating liquor. It appeared from the judgment rendered in said cause Mo. 9702, that the court sustained a demurrer to the part of the petition setting up as a ground for the recovery sought, that Wallis had sold intoxicating liquor to the plaintiff’s husband, after he had been notified by her not to do so. Thereupon the “plaintiff announced,” the judgment recites, “that she would not insist upon the allegations that her husband was an habitual drunkard, and that no liability of the defendant is claimed in the suit except that based upon the written notice given, that she would not urge the single question of his being an habitual drunkard.” “Wherefore,” the judgment concludes, “the court having sustained the demurrer and plaintiff having declined to amend, it is hereby ordered that plaintiff take nothing by this suit, and the case is hereby dismissed at the plaintiff’s cost.”
+It appears from recitals in the judgment from which this appeal is prosecuted that the court, after hearing “the matters of fact as well as of law” relating to said plea, found that the “matters and facts set out” in it were true, and thereupon, sustained same and dismissed appellant’s suit. In so doing, we think the court erred. It afihnatively appeared from -the recitals in the judgment in said cause Mo. 9702, that appellant’s right to recover for a breach by Wallis of his bond in selling liquor to appellant’s husband, then an habitual drunkard, had not been litigated. The court had neither sustained a demurrer to that part of the petition which set up as ground for a recovery the breach by Wallis of his bond in selling liquor to an habitual drunkard, nor had he otherwise -determined that question on its merits. Philipowski v. Spencer, 63 Texas, 605; Teal v. Terrell, 48 Texas, 491; 9 Enc. Plead. & Prac., 621. He had merely dismissed appellant’s suit based on that ground, because she had declined to further prosecute it. A judgment dismissing a cause for want of -prosecution is not res adjudicata as to another -suit based on -the same cause, of 'action. Worst v. Sgitcovich, 46 S. W., 72. And “a judgment,” quoting from the syllabus to Jackson v. Finley, 40 S. W., 427, “against a. plaintiff on his refusal to amend his petition after exceptions -thereto have been sustained, is not an adjudication on the merits -of a cause of 'action stated therein, as to which exceptions were overruled, and will not bar another action thereon.” Moreover, appellant sought in said suit Mo. 9702, to recover on account of sales made to her husband “about August 3rd to 10th, 1907,” while in this suit resulting in the judgment from which this appeal is prosecuted, she sought to recover on account of sales made to him “between the dates of August 1st to the 30th of that month, 1907.” Certainly the judgment rendered in said cause Mo. 9702, was not a bar to appellant’s right to recover for sales made to her husband after August 10, 1907.
+The judgment will be reversed, and the cause will be remanded for a new trial.
+Reversed and remanded.
