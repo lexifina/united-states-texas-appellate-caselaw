@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3919"
+decided: "1891-12-05"
+citations: ["30 Tex. Ct. App. 450"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. Otero v. The State."]
+source_url: "https://static.case.law/tex-ct-app/30/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 152524
+---
+
+# Otero v. State
+
+## Majority (DAVIDSON, Judge.)
+
+DAVIDSON, Judge.
+Omitting such portions as are unnecessary to be considered in determining the questions involved in this appeal, the indictment charges, “that one R. Otero * * * clicl unlawfully and fraudulently take $20 in money, the same being corporeal personal property of Joe Otero, from said owner’s possession without his consent, with the intent to deprive said owner of the value thereof, and to appropriate the same to the use and benefit of him, the said R. Otero.” * * *
+The money taken was in fact the property of the alleged owner, and was sent him by his father in a letter through the mail from Monterey, Mexico. Upon its arrival in Fort Worth the letter fell into the hands, through proper sources, of a mail carrier, who, not knowing the party to wliorn the letter was addressed, delivered it to a party, known and called “Mexican Pete,” who agreed to deliver it to the owner. While Mexican Pete was in possession of the letter defendant called upon him, and claimed and obtained the letter. The money contained in the letter and taken by defendant is described as a $20 t>ill American money.
+The court overruled defendant’s application for a continuance, but no bill of exceptions was reserved to said ruling. Without a bill of exceptions in the record such refusal will not be reviewed. Willson’s Crim. Stats., sec. 2187.
+The court charged the jury, if they believed defendant “obtained the money described in the indictment from a person who was holding same for its owner, and further believe from the evidence that the person mentioned in the indictment as Joe Otero was at the time the owner of said money, and further believe from the evidence that defendant obtained said money from the possession of the person so holding the same for said Joe Otero, if it was so held, with the fraudulent intent to deprive the owner of the value thereof, and to appropriate same to the use and benefit of himself; and further believe from the evidence that the defendant did appropriate said money to his own use and benefit,” etc., they would convict him. This is the only portion of the charge bearing upon this phase of the case. This charge is criticised as erroneous, in that it failed to instruct the jury as to the want of consent to the taking of the money upon the part of Joe Otero, the alleged owner thereof, from whose possession the money is alleged to have been taken without his consent; and in that it confined the finding of the jury to the want of consent of and taking from the possession of a person who was holding the same for the owner, but who was not alleged in the indictment to be the owner, nor in possession of the property, and whose consent was not negatived by the averments.
+In respect to these contentions the position of defendant is correct. The charge must conform to and be limited by the allegations and proof. This charge ignored the allegation of want of consent, as well as of possession of the alleged owner, and authorized a conviction without proof of such averments; and further required of the jury defendant’s conviction on proof of the want of consent of a party not named in the indictment in connection with the property, either as owner or in possession thereof, provided they believed he took the money fraudulently. Willson’s Crim. Stats., secs. 1309, 2336, 2337. It was necessary for the court to instruct the jury with reference to the want of consent of the alleged owner, and it was unnecessary to charge them in regard to the want of consent of a party who was not so named.
+The property alleged to have been stolen was described as “twenty dollars in money.” This would be a sufficient description on demurrer, but the proof must correspond with this allegation. “Money,” as used in the statutes pertaining to theft, means legal tender coin or legal tender currency of the United States. Lewis v. The State, 28 Texas Ct. App., 140, and cited authorities. If the evidence had so shown, the proof would have been sufficient on this aspect of the case. The evidence on this point is that the money was a $20 bill, and in one place it is stated that the letter mentioned it as a $20 “bill American money. ” We do not think this evidence shows the “ bill ’ ’ was ‘‘ money, ’ ’ as ¡that term is understood under our statutes pertaining to the crime of theft. If the property was not money as above defined, then the indictment should have described it; and if that could not be done, then that fact also should be stated in the indictment. Code Crim. Proc., art. 427.
+We would call attention to another question made to appear in the trial of this cause. The evidence is without contradiction that the witness Mexican Pete was in possession of and holding the money for the owner Joe Otero, who had never seen the money, nor heard of it, nor knew of it, much less been in possession of it. The indictment should have alleged the ownership and possession in this party, and negatived his consent to the taking; or it should have alleged ownership in Joe Otero, and possession in the party holding the money for him. Bailey v. The State, 18 Texas Ct. App., 426; Littleton v. The State, 20 Texas Ct. App., 168; Clark v. The State, 23 Texas Ct. App., 612; Tinney v. The State, 24 Texas Ct. App., 112.
+For the errors indicated, the judgment is reversed and the cause remanded.
+jReversed and remanded.
+Hurt, J., absent.
