@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1902-06-26"
+citations: ["29 Tex. Civ. App. 539"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["First National Bank of Navasota v. J. M. McGinty, Administrator, et al."]
+source_url: "https://static.case.law/tex-civ-app/29/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5385459
+cites_cases: ["44 Iowa, 229", "6 Ga., 292", "9 Wall., 626"]
+---
+
+# First National Bank v. McGinty
+
+## Majority (PLEASANTS, Associate Justice.)
+
+PLEASANTS, Associate Justice.
+This is a suit brought by the First National Bank of Navasota to recover upon a note for $4000 executed by Robert McGinty, deceased, on the 5th day of October, 1897, and to foreclose a mortgage lien given by said McGinty on land described in the petition to secure the payment of the note. Appellee J. M. McGinty, who is sued individually and in his representative capacity, is the administrator of the estate of Robert McGinty, and also an heir at law. The other appellees are S. M. Cook, the trustee in the deed of trust sought to be foreclosed, and the remaining heirs of Robert Mc-Ginty. The administrator and the heirs of Robert McGinty pleaded in defense of plaintiff’s cause of action want of consideration for the execution of the note and trust deed, and that at the time of the execution of said instrument the said Robert McGinty was insane. The trial in the court below resulted in a verdict and judgment in appellee’s favor.
+We shall not discuss the various assignments of error in detail, but will point out the errors committed upon the trial in the court below which in our opinion require a reversal of the judgment. The defendant’s witness Stoneham should not have been permitted to testify, over the objection of plaintiff, that the general reputation of Robert McGinty in the community in which he lived was that of a person of unsound mind. Insanity can not be proven in this way. Foster v. Brooks, 6 Ga., 292; Ashcroft v. De Armond, 44 Iowa, 229; 16 Am. and Eng. Enc., of Law, 612.
+The reason of the rule which excludes the opinion of a nonexpert .witness as to the sanity or insanity of a person whose mental condition becomes the subject of judicial inquiry, unless such witness states the facts upon which his opinion is based, would necessarily exclude testimony of the general reputation as to sanity or insanity of such person. If one sworn to testify truly is not permitted to give his opinion except upon facts sworn to by him, for a stronger reason the hearsay opinion of those not under oath should be excluded, it being impossible to know upon what facts such opinion is based.
+The court also erred in permitting the witness Dr. J. N. Baylor to express his opinion as to the insanity of McGinty based upon what he had been told by others. He could only give his opinion based upon facts within'his knowledge, or if testifying as an expert upon the facts as detailed by other witnesses in the case, and he should not have been permitted to testify that from information he had received from others he believed McGinty was of unsound mind.
+The question of notice to appellant of MeGinty’s mental condition at the time the note sued on was executed being immaterial to any issue in the case, it was error to admit testimony as to the statements made by the cashier of appellant’s bank to the effect that he thought at the time the note was executed that McGinty was of unsound mind. Williams v. Sapieha, 94 Texas, 430.
+The defendants offered no evidence upder their plea of failure of consideration, and plaintiff requested the court to instruct the jury not to consider such plea. This charge should have been given. The defendants set up two defenses, viz., want of consideration and insanity. Upon the latter issue the evidence was conflicting, and as before stated there was no evidence in the case tending to show a want of consideration. The plea of want of consideration was sworn to and was before the jury, and the plaintiff upon the failure of the defendants to introduce any evidence under said plea was entitled to have same withdrawn from the consideration of the jury. Talbert v. McBride, 75 Texas, 95; Newton v. Newton, 77 Texas, 508.
+It is well settled that the contract of a lunatic is only voidable and not void, and this irrespective of whether the person dealing with the lunatic knows of his mental condition. It was therefore error for the trial court to instruct the jury that plaintiff was not entitled to recover such portion of the consideration for said note as the evidence might show had been expended by Bobert McGinty for necessaries or for the protection and benefit of his estate, if plaintiff knew at the time it took said note that McGinty was of unsound mind. Plaintiff was entitled to recover in any event such portion of the consideration for the note sued on as the jury might find from the evidence was expended by Bobert McGinty for necessaries or for the protection and benefit of his estate, and the jury should have been so instructed. Elston v. Jasper, 45 Texas, 409; Askey v. Williams, 74 Texas, 294; Ferguson v. Railway, 73 Texas, 344; Williams v. Sapieha, 94 Texas, 430; Irvine v. Irvine, 9 Wall., 626.
+It is not believed that any other errors are shown in the record which would require a reversal of the judgment or which are likely to occur upon another trial of the case. For the errors above indicated, the judgment of the court below is reversed and the cause remanded for a new trial.
+Reversed and remanded.
