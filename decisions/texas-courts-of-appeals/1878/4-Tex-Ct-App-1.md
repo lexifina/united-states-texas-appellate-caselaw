@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["4 Tex. Ct. App. 1"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. T. Neaves et al. v. The State."]
+source_url: "https://static.case.law/tex-ct-app/4/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4418725
+---
+
+# Neaves v. State
+
+## Majority (Ector, P. J.)
+
+Ector, P. J.
+This is a proceeding by scire facias on a forfeited bail-bond. Walter T. Neaves was charged, by information filed in the County Court of Montague County, on January 26, 1877, with the offense of resisting an officer in making a lawful arrest in Montague County. He gave a bail-bond, with J. P. Cross, John McAllister, and B. T. Hewett as his sureties, to answer the charge.
+At the April term, 1877, of the court, when the case was regularly reached on the docket and called for trial, Neaves was absent, as appears from the scire facias; he was called out on his bond, and a judgment nisi entered herein against him and his said sureties, and a scire facias ordered to show cause why the judgment should not be made final.
+At the September term of the court, Cross and McAllister, two of his sureties, answered by a general denial to the scire facias; and at the January term, 1878, they amended their answer, and said that no legal forfeiture was taken upon said bail-bond; that the defendant Walter T. Neaves, who was prosecuted in the County Court of Montague County, by information, for resisting an officer, never did make default in said cause; that said Neaves was charged in said information only of a misdemeanor, the punishment of which, upon conviction, could only be a pecuniary fine; that Grigsby & Willis, attorneys at law, residing at Montague, Texas — who were the attorneys at law of said Neaves — when said cause was called for trial, and when the defendant Walter T. Neaves’ name was called at the court-house door, in the town of Montague, Montague County, did then and there appear in open court for and in behalf of Walter T. Neaves, as his counsel in said cause, and did then and there, as his counsel and in his behalf, offer to answer for him and represent him on the trial of the cause in which the judgment nisi was taken; that said counsel were authorized to appear in behalf of the defendant Neaves, and, as his counsel, to answer for him ; but that the court before whom the cause was pending would not permit his said counsel and attorneys at law to appear for him, but ordered the defendant Neaves to be called out on his bail-bond, and a judgment nisi rendered against him and his sureties; and that, by reason of the premises aforesaid, the sureties Cross and McAllister say that Walter T. Neaves never did make default on said charge preferred against him by information, for resisting an officer in making a lawful arrest; wherefore, the defendants Cross and McAllister asked that the said judgment nisi against them be not made final, but be set aside, and that they be discharged without cost, etc. This answer was duly sworn to.
+The State, by her county attorney, excepted to this amended answer, because it sets up no legal defense, and because it nowhere shows that the said Grigsby & Willis, attorneys for Walter T. Neaves, offered to bring into court the money to pay the fine and costs that might be adjudged against the said Walter T. Neaves.
+The court sustained the demurrer to the amended answer of Cross and McAllister, and adjudged it insufficient in law; to which they excepted, and elected to abide by their answers. The court then, at the instance of the county attorney, entered a nolle prosequi as to B. T. Hewett, after which a judgment final was rendered against appellants. For the purposes of the demurrer, the allegations in the amended .answer will be taken as true.
+We think the court committed an error in sustaining the demurrer to the amended answer of Cross and McAllister, for which the judgment must be reversed.
+Article 3008, Paschal’s Digest, provides that, “in all prosecutions for felonies, the defendant must be personally present on the trial, and he must likewise be present in all cases of indictment or information for misdemeanors where the punishment is imprisonment in jail.”
+Article 3009 also provides 'that “ in all other cases of misdemeanor the defendant may appear by counsel, if he has given bail, and the trial proceed without his personal presence; and he may, by consent of the district attorney, appear by counsel in such cases where he has not given bail.”
+The prosecution, in the cause in which the forfeiture was taken, was based upon article 1957, Paschal’s Digest, which article reads as follows : “If any person shall willfully oppose and resist an officer in executing, or in attempting to execute, any lawful warrant for the arrest of another person in a case of misdemeanor, he shall be punished by fine not exceeding five hundred dollars, and if arms are used, the punishment shall be double.”
+We believe that the defendant Heaves had a perfect legal right to appear by counsel in the cause in which the forfeiture was taken, without being personally present himself at the trial, and that his counsel were not required to bring the money into court “to pay the fine and costs,” to entitle him to a trial in his absence.
+And we also believe that the sureties on his bail-bond in this proceeding by scire facias may show that the defendant appeared by counsel in open court when the case against him was called for trial, and that his counsel offered to answer for him, and try the cause in defendant’s absence (as in law they had the right to do) ; and that the court would not recognize such appearance by counsel, but improperly ordered the defendant to be called out on his bond, and the judgment nisi to be rendered herein. And we believe that, upon proof of such facts being made, the judgment nisi should be set aside and the appellants be discharged from all cost in this proceeding.
+Reversed and remanded.
