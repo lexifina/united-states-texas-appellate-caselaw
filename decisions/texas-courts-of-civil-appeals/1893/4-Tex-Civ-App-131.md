@@ -1,0 +1,54 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "288"
+decided: "1893-09-13"
+citations: ["4 Tex. Civ. App. 131"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Albert Branshaw v. Thomas Tinsley."]
+source_url: "https://static.case.law/tex-civ-app/4/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 223756
+cites_cases: ["11 Met., 266", "11 Pick., 482", "19 Pick., 117", "35 Cal., 199", "60 N. H., 203"]
+---
+
+# Branshaw v. Tinsley
+
+## Majority (COLLAED, Associate Justice.)
+
+COLLAED, Associate Justice.
+This is a suit, brought July 13, 1889, by Thomas Tinsley, in the District Court of McLennan County, Texas, against Albert Branshaw, of Dallas County, and Nelson Swain, of Taylor County, Texas, on the following promissory note:
+“$7110. Waco, Texas, January 1, 1885.
+“ On or before the 1st day of January, 1890, we, or either of us, promise to pay to the order of Thomas Tinsley, at Waco, Texas, the sum of seven thousand one hundred and ten dollars, together with interest at 10 per cent per annum after maturity until paid, in payment of sheep this day sold to us by Thomas Tinsley, and to secure the payment of this note (the purchase money), a deed of trust is to be executed of sheep by both of us.
+“ A. Branshaw,
+‘ ‘ Mrs. Sadie Branshaw,
+“ By A. Branshaw,
+“ Sadie Branshaw.”
+The petition alleges that Sadie Branshaw is the wife of A. Branshaw.
+It is also alleged, that a lien on the sheep was retained by Tinsley to secure the payment of the note; that the sheep had greatly depreciated in value, and were at the time of suit worth $2500, and not exceeding that amount; that Branshaw had removed the sheep out of Shackelford County, where they were at the time of sale, and placed them in the possession of defendant Swain, “ who is now claiming some interest in them.” Allegations are made as a basis for writ of sequestration.
+It is also alleged in the petition, that the sheep are wholly inadequate to secure the payment of the note, and from the sale thereof not exceeding $2500 can be-realized; that “ defendant A. Branshaw is about to dispose of his property, with intent to defraud his creditors;” and that “the attachment now prayed for against defendant A. Branshaw is not sued out for the purpose of injuring or harassing the defendant A. Branshaw, and that petitioner will probably lose his debt unless such attachment is issued.” Prayer for citation, writ of sequestration against both defendants, and for writ of attachment against A. Branshaw; for judgment against Branshaw for said sum of $7110, costs, decree of foreclosure of petitioner’s lien, and order of sale.
+At the same time plaintiff filed affidavit that A. Branshaw was justly indebted to him in the sum of $7110 on the note, describing it; that A. Branshaw, defendant, is about to dispose of his property, with intent to defraud his creditors; that the writ of attachment applied for is not sued out for the purpose of injuring or harassing the defendant; and that “I, Thomas Tinsley, the plaintiff, will probably lose my said debt unless such attachment is issued.”
+By supplemental petition, plaintiff alleged, that since suit was brought the sheep had been removed from the county where they were alleged to be, and delivered by Swain to defendant A. Branshaw, and are now in his possession in Shackelford County, to which he prays for writ of sequestration.
+March 10, 1890, plaintiff amended his original petition, alleging his residence to be in England, declaring on the note as before, showing that Sadie was the wife of A. Branshaw and was not sued, that the note was past due, and unpaid, etc. Prayer for his debt, interest and costs, “and such other relief, both special and general, to which he may show himself entitled,” etc.
+The court on trial overruled motions of defendant Albert Branshaw to quash attachment, and, at the instance of plaintiff, dismissed the suit as to defendant Nelson Swain; and a jury being waived, gave judgment for plaintiff against A. Branshaw for his debt, interest, etc., for §5740.74. The judgment then proceeds: “And it appearing to the court that the writ of attachment issued in this cause on the 13th of July, 1889, was on July 1, 1889, by the sheriff of Shackelford County, Texas, levied upon the following described property of the defendant Albert Branshaw, situated in said Shackelford County, to-wit: South half of section 25, block 14, 320 acres, surveyed in the name of Texas & Pacific Railroad Company, deeded to Branshaw by Christian IClock by deed of date December 30, 1885; north half section 28, block 13, 320 acres school land, surveyed by the Texas & Pacific Railroad Company; south half section 28, block 14, 320 acres school land, surveyed by Texas & Pacific Railroad Company; section 28, block 14, 320 acres school land, surveyed by Texas & Pacific Railroad Company.” The attachment lien is foreclosed and sale ordered. The judgment proceeds: “And it appearing to the court that a writ of attachment, issued in this cause on 16th of September, 1889, was on the 21st day of September, 1889, by the sheriff of Taylor County, levied upon the following described property of the defendant Albert Branshaw, to-wit, 1699 pounds of wool in sacks; and by virtue of the same writ was, on 24th of September, 1889, further executed by levying on three bags of wool, containing 617 pounds of wool in bags, all of said sacks and bags being marked T. W. Scallord, and valued by said sheriff at §347.40, and that the same was delivered to Thomas W. Scallord, who, on 4th of October, 1889, filed with said officer his affidavit and bond, with T. C. Henry and O. W. Henry as sureties, for the trial of the right of property; and that should claimant fail to establish his right thereto the clerk of this court shall issue an order of sale, directed to the proper officer, commanding him to sell the above described property, or so much thereof as may be sufficient for the satisfaction of the judgment rendered in this cause.”
+No sequestration was issued, and the only information furnished by the record as to the writs of attachments is that contained in the judgment. The only evidence adduced on the trial was the note sued on as described in the petitions.
+Defendant A. Branshaw has appealed from the judgment upon a cost bond for the sum of $200. Appellant’s assignments of error state truly the grounds relied on in the motion to quash the attachments.
+Opinion.—The assignments of error are as follows:
+“The court erred in overruling this defendant’s motion to quash and hold for naught the several writs of attachments in this cause, for the following reasons, as set forth in said motion, viz.:
+“1. Because there are two defendants in this cause, to-wit, defendant Albert Branshaw and Nelson Swain, and the bond is only made payable to Albert Branshaw, one of the defendants.
+‘12. Because it is shown in plaintiff’s petition that plaintiff has a mortgage with power of sale on 1529 head of sheep belonging to the defendant Albert Branshaw, and which mortgage was given by said Branshaw to plaintiff to secure the indebtedness sued on in this cause, all of which is shown by the allegations in plaintiff’s petition, and which petition admits the value of the sheep and the security aforesaid to be of, to-wit, the value and sum of $2500, and notwithstanding such security and lien upon said sheep, the writ of attachment was issued for the whole sum sued on in this case, to-wit, the sum of $7110.
+“ 3. Because the attachment could not be legally issued, unless it was ■shown by the plaintiff in his affidavit and petition that he, plaintiff, would probably lose his debt unless such attachment was issued, which fact could not exist where he had a mortgage and security for $2500.
+“ 4. Because a writ of attachment can not issue for the purpose of enforcing a part of a payment where the other portion of the same debt is secured by a lien on property, as is in this case, of the alleged value of $2500.
+“ 5. Because the writ of attachment was issued in this case on the 13th •day of July, 1889, and another on the 16th day of September, 1889, which attachments were issued too remotely from the date of the filing of the petition and making oath therefor, and so remotely that the statement of facts sworn to, to entitle the plaintiff to a writ of attachment, may not have existed when the writs of the 13th of July and 16th of September, 1889, issued.”
+Plaintiff had no debt against defendant Swain; sought no attachment against him on his property, and none could have been issued against him. The bond should not have been made payable to him.
+Delivered September 13, 1893.
+Plaintiff’s right to attachment was not impaired by the fact that he had collateral security for his debt, or a part of it. It was proper for plaintiff, under the law, to provide for the collection of his entire debt by attachment, and in so doing, to comply with the terms of the statute. The petition did not admit the value of the sheep as a credit on his note; it was not paid, and was collectible by attachment. A creditor may abandon his security by mortgage and attach other property of the debtor if he sees proper, as it seems was done in this case. The record does not show that the attachments were issued for the whole amount alleged to be due, but they should have been for such amount. Beckwith v. Sibley, 11 Pick., 482; Whitewell v. Brigham, 19 Pick., 117; Porter v. Brooks, 35 Cal., 199; Homer v. Falconer, 60 N. H., 203; Buck v. Ingersol, 11 Met., 266.
+The question of excessive levy is not raised by the facts, and could not be raised on a motion to quash.
+The attachment proceedings were in form, and whether false or injurious to defendant, could only be inquired of under plea.
+Appellant’s assignment, that the writs of attachment, one of the 13th of July, 1889, and the other of the 16th of September, 1889, were issued too remotely from the date of filing of the petition and affidavit, and so remotely that the facts sworn to may not have existed when the writs issued, can not be sustained.
+The attachment of the 13th of July, 1889, was issued on the day the petition and affidavit were filed. The other was issued some two months later.
+The statute provides, that “ several writs of attachment may at the option of the plaintiff be issued at the same time or in succession, and sent to different counties, until sufficient property shall be attached to satisfy the writ.” Sayles’ Civ. Stats., art. 161.
+There is no intimation in the statute that the attachment pleadings must be renewed, and in truth they should not be.
+There is no error in the judgment of the court below as assigned, and it is therefore affirmed.
+Affirmed.
