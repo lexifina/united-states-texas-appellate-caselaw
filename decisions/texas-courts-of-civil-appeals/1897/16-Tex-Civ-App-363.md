@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1897-05-19"
+citations: ["16 Tex. Civ. App. 363"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Milmo National Bank v. R. A. Rich et al."]
+source_url: "https://static.case.law/tex-civ-app/16/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 260872
+cites_cases: ["20 S. W. Rep., 821"]
+---
+
+# Milmo National Bank v. Rich
+
+## Majority (JAMES,)
+
+JAMES,
+Chief Justice.—The facts material to this appeal may be stated as follows:
+W. S. Delaney had executed two mortgages on a 1280 acres tract (other lands being included, which fact is immaterial, as the case is presented), both recorded. The senior mortgage was foreclosed in Colorado County in a suit against Delaney to which the junior mortgagee was not made a party, and an order of sale issued thereon to the sheriff, who advertised and sold the land to Shaw and another for $8000, of which sum, after paying off the judgment, there was left $1671.80 surplus in his hands. The sale took place on May 7,1895.
+On May 4, 1895, Delaney gave the Simpson Bank an order on the sheriff for this fund or surplus, which the sheriff refused to pay, assigning as his reason a previous levy on the land to satisfy an execution he held against Delaney in favor of the Milmo Rational Bank for over $1700, which execution it appear.s had been received by the sheriff on April 14, 1895, and levied on May 1, 1895, subject to the order of sale. The Milmo Bank is claiming the surplus by reason of this execution levy.
+It appears that Armstrong (the junior mortgagee) recovered a judgment upon his debt and mortgage in Bexar County on March 5, 1895, for $11,000. On May 16, 1895, the sheriff received an order of sale under this decree, after the sale but before distribution of the surplus, Armstrong having on May 13th notified him that he claimed the fund. Armstrong sued out a writ of garnishment on May 17th, and the same was served on the sheriff on the 18th, and it was agreed that this garnishment proceeding in Bexar County should abide the issue in this case, and that this suit should adjudicate Armstrong’s right to the fund.'
+There are some other facts, but, as we view the matters of law involved, it is not necessary to set them forth. During the pendency of the suit the sheriff paid the surplus into court.
+The suit was brought by the Simpson Bank against the sheriff to recover the fund. The sheriff answered fully, and caused the Milmo Rational Bank and Armstrong to be made parties, in order to settle the title to the money in question. The court awarded the money to Armstrong, the junior mortgagee, from which the Milmo Rational Bank appeals.
+Opinion.—We are of opinion that there is error in the judgment of the District Court. The authorities relied on by appellee Armstrong are generally, if not entirely, cases in which the rights of junior lienholders had been cut off by the sale. Wynne v. Bank, 62 Texas, 378, refers to sales under powers in a deed of trust, whereby all junior claims in and to the land are destroyed. In -such cases the junior lienholder has no remedy, except.by resort to the surplus fund in the hands of the trustee, and .equity treats it as the land itself. It is believed that all the cases which allow resort to the surplus fund by lienholders, in the order of their priority, are those in which the sale had been made under a power of sale, or where the matter has been regulated by statute, or where the junior claimants were parties to the foreclosure.
+In the present case, the first mortgage was foreclosed by a judicial decree, without the joinder of the second mortgagee, and hence without any reference to or effect upon his rights. His position is unchanged by such sale, and his remedy after such sale is precisely what it was before, and that is,to foreclose his lien on the land,subject to the rights held under the first mortgage. As he is not deprived of any right by the sale, there is no reason why he should be invested with any additional remedy. His real contention is that, where a surplus is derived at such sale, he has the right to elect whether he will follow the regular remedy or transfer his lien to the surplus.
+If we hear in mind that the sale as made in this case is irrespective of his rights, and that the purchaser paid the amount of his hid for the property subject to his rights, it seems perfectly clear that what the purchaser obtained and paid his money for was the title of the mortgagor in the land and a subrogation to the rights of the first mortgagee. For these rights he was willing to pay and did pay the sum of $8000, and assumed toward the second mortgagee in respect to the land the attitude previously sustained by the first lienholder and the mortgagor. Therefore the surplus, after paying the amount of the first mortgage, should go to the mortgagor.
+The position taken by appellee would, in effect, he that the purchaser is entitled to the benefit of the surplus, in having it applied to the outstanding lien. Appellee says that any other course would deprive the purchaser of nearly $2000, for the recovery of which they would he without remedy. It is impossible to see why they should recover this, or have it applied to the second mortgage debt, which is the same thing. No equitable rule can possibly he violated by denying a return of this money to the purchasers in any form. They had knowledge of the existence of the second mortgage, and that the foreclosure under which they bought conferred on them certain rights, and having paid the amount of their hid and obtained these rights, they are not entitled to insist that the surplus should he expended in their interest.
+The rule which controls this case is stated in Jones on Mortgages, section 1431, and McKernan v. Neff, 43 Maryland, 503, the opinion in which case discusses the proposition clearly. We have found no ease in which it has been held that the junior lien holder, under the circumstances of this ease, would he entitled to the surplus.
+The assignment of the surplus to the Simpson Bank was ineffectual as against the prior execution levy in favor of the Milmo National. Bank. The latter, by its process, became entitled to the surplus of the proceeds of sale, its demand being for a larger amount.
+Our conclusion is that the fund, less the allowance by the court to the defendant sheriff, should have been awarded to the appellant, and the judgment will he reversed and here rendered.
+Reversed and, rendered.
