@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1881"
+citations: ["10 Tex. Ct. App. 215"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Forrest Hudson v. The State."]
+source_url: "https://static.case.law/tex-ct-app/10/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4431732
+cites_cases: ["15 Ark. 15"]
+---
+
+# Hudson v. State
+
+## Majority (White, P. J.)
+
+White, P. J.
+The offense of which appellant was indicted was the theft of two geldings, the property of Philip Welsh, and it was alleged to have been committed on the 20th day of September, 1879, in Johnson county, Texas. Upon trial and conviction his punishment was assessed at five years’ imprisonment in the penitentiary.
+Objection to the indictment is made in the motion in arrest that it does not conclude “against the peace and dignity of the State.” The objection refers alone to the spelling of the word “against,” in which the letters “i” and “n” are transposed, so as to make the word spell as written “aganist.” The case of Cox v. State, 8 Texas Ct. App. 254, is not analogous. In that case the word was not mis-spelled; the trouble was that it was not only spelled correctly, but so correctly spelled that there could be no mistake about it or about the fact that it was a complete and perfect substitution of another and entirely different word for the one which both the Constitution and the law declared was essential to the sufficiency and validity of the indictment. The word “aganist ” is evidently a mis-spelling of the proper word.
+“Bad spelling does not vitiate an indictment if the meaning is unmistakable. State v. Earp, 41 Texas, 487; Thomas v. State, 2 Texas Ct. App. 293; Stinson v. State, 5 Texas Ct. App. 31. Nor bad handwriting. State v. Morris, 43 Texas, 372; Irvin v. State, 7 Texas Ct. App. 109. Nor bad grammar. Gay v. State, 2 Texas Ct. App. 127. Nor tautology and repetition. State v. Richardson, 2 Texas Ct. App. 322. Nor when the month is written c Teburary ’ instead of February. Witten v. State, 4 Texas Ct. App. 70. Nor c Janury ’ instead of January. Hutto v. State, 7 Texas Ct. App. 44. Nor ‘ eiget ’ for eight. Somerville v. State, 6 Texas Ct. App. 433. Nor ‘passion’ for possession. State v. Williamson, 43 Texas, 500.” Clark’s Crim. Laws of Texas, pp. 421-2 (notes).
+The court did not err in overruling the motion in arrest of judgment.
+We do not propose to discuss in detail all the errors complained of with regard to the admission of evidence claimed to be irrelevant and illegal, or the objections so strenuously urged to certain portions of the charge of the court, as to their sufficiency and correctness as propositions of law applicable to the facts in the case. In the view we take of the case it would be a useless consumption of time. Besides, most of the questions raised have been settled by previous adjudications of the courts of our State. We propose to address ourselves mainly to what in our opinion constitute the real questions in the case, and no others. We may remark, however, generally with regard to the evidence claimed to be inadmissible, as set forth in defendant’s eight bills of exceptions, that the explanations given by the judge as reasons for his action are entirely satisfactory finder the law and facts of the case.
+Many objections are urged to the charge of the court, and detached portions and paragraphs are separated and made the subject of comment and criticism in the brief of counsel for appellant. It is a rule well settled that a charge should be taken and construed as a whole, and if as a whole it is correct, no detached portion, unless in and of itself sufficient or calculated seriously to mislead or be liable to grave misconstruction, will render necessary a reversal of the case. Taken as a whole, the charge before us is a fair and able exposition of the law with relation to the facts.
+But. it is urgently insisted that the facts develop a case of swindling and not of theft, and that the court erred in not submitting the question of swindling, inasmuch as the punishment for the latter offense is less than that of theft; and that appellant was entitled to have the jury say whether or not they would give him not less than two nor more than ten years in the penitentiary, instead of being limited to not less than five nor more than fifteen, which is the punishment for horse-stealing.
+In preparing their argument in support of the proposition that the offense as proven was swindling and none other, counsel seem to have overlooked a most important statutory provision which appears to us to cover the very facts adduced on the trial. -The statute provides, with regard to theft, that “the" taking must be wrongful, so that if the property came into the possession of the person accused of theft, by lawful means, the subsequent appropriation of it is not theft; but if the taking, though originally lawful, was obtained by any false pretext, or with any intent to deprive the owner of the value thereof and appropriate the property to the use and benefit of the person taking, and the same is so appropriated, the offense of theft is complete.” Penal Code, art. 748. This is what the court expressly charged the jury in the 14th subdivision of the charge. The charge is in strict conformity with law and precedent. See Dignowitty v. State, 17 Texas, 521; Maddox v. State, 41 Texas, 205; 3 Greenl. Ev. § 160; Quitzow v. State, 1 Texas Ct. App. 65; 1 Bish. Cr. L. sec. 1017; 43 Texas, 494; 5 Texas Ct. App. 123. The evidence is ample to establish both the crime and its venue as laid in the indictment.
+A careful examination of the record satisfies us that no error has been committed on the trial which requires of us a reversal of the judgment of conviction; and it is consequently affirmed.
+Affirmed.
