@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["3 Tex. Ct. App. 590"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Johnson v. The State."]
+source_url: "https://static.case.law/tex-ct-app/3/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4407043
+---
+
+# Johnson v. State
+
+## Majority (Ector, P. J.)
+
+Ector, P. J.
+The appellant and N. S. Hand were jointly indicted for a conspiracy to commit burglary. The defendant, Johnson, was alone tried. The jury found him guilty as charged in the indictment, and a judgment was rendered adjudging the defendant guilty of a conspiracy to commit robbery. Because of this error in the judgment it must be reversed.
+The judge charged the law, in substance, as embraced in articles 6576 and 6577, Paschal’s Digest, as follows: “A conspiracy is an agreement entered into between two or more persons to commit ’ ’ any offense, such as burglary. “ The offense of conspiracy is complete, although the parties conspiring do not proceed to effect the object for which they have so unlawfully combined.”
+It is insisted by defendant that the charge of the court in this case is defective in this, that it fails to give the law as embraced in articles 6578 and 6579, Paschal’s Digest. A critical examination of the entire charge will show that it is not liable to objection on this account.
+The second error assigned is that the court erred in refusiug to give the charges asked by the defendant.
+The court, in its general charge, had already, among other instructions, told the jury that, “If you believe from the evidence that defendant did, as charged in the indictment, conapire with N. S. Hand to commit burglary, you will convict. If you believe from the evidence that Higgins & Garwood did employ a detective merely to discover and secure the parties they suspected of robbing their store, and that the original intent, if any, to commit the offense was not influenced or suggested by the detective, then the agreement of said detective to enter a conspiracy would not excuse the defendant. But if said detective suggested the offense, and in any way created the original intent and agreement to commit the same, you will acquit. If either Johnson or Hand did not enter into the agreement, then you will acquit.”
+The case at bar is different from that of Pigg v. The State, 43 Texas, 108, and of Speiden v. The State, ante, p. 156, decided by this court at its last Tyler term, which are cited by defendant’s counsel. In the former the defendant and Thomas Smith were indicted for the theft of a horse, and the state was required to show that the horse was taken without the consent of the owner. Bigg and Smith were suspected of being engaged in horse-stealing; Christian, the alleged owner of the horse, requested one Snyder to get into the confidence of the defendants and learn whether they were horse-thieves or not; which Snyder did. Bigg and Smith told him that they had Christian’s horse picked out, and Snyder agreed with them to engage in stealing the horse. Witness Snyder so conducted the affair that he was present when defendants, Bigg and Smith, took the horse and led him out of the stable, when they were arrested. Christian testified that he had given no consent that his horse should be taken, but corroborated Snyder in the arrangement by which the defendants were detected. The court held that it is not consent to the taking for the owner to obtain the aid of a detective who, for the purpose of detection, joins the defendant in a criminal act designed by the defendant and carried into execution by actual theft; but that, if Christian or the detective suggested or induced defendant to steal the horse, and, having induced such original intent, he, or the person acting for him, acted as one of the party throughout, then the want of consent would not be established, and the defendant should be acquitted:
+And in the other case, that of Speiden v. The State, the defendant was indicted for burglary by breaking into a bank, with the intent to commit theft. The facts in that case show that defendant had entered the bank at the solicitation of a detective rightfully in possession with the consent of the owner; and this court held that he could not rightfully be convicted of burglary, no matter what his guilty intent.
+In the case now before the court, it will be borne in mind that the offense is complete under the indictment when it is shown that defendant had actually entered into an agreement with N. S. Hand to burglariously enter the house described in the indictment, in the manner" as therein alleged, with intent to commit a theft, and that the offense of conspiracy is complete although the parties conspiring do not proceed to effect the object for which they have so unlawfully combined. The fact of such conspiracy once being established, the subsequent consent of the owner (or those acting for him) for the conspirators .to enter the building will not affect their guilt in the least, unless the evidence shows that Higgins and Garwood, or the detective employed by them, suggested the offense, or in some way created the original intent or agreement to commit the offense as charged.
+The exception to the charges given, and to the refusal of the court to give the instructions asked by defendant, are not sustained by an examination of those charges. Those given were substantially correct, and those asked by the defendant, and not embraced in the general charge, were framed in language more favorable to the accused than the statement of facts and the law would justify.
+We believe that we have noticed all the errors assigned which may aid in any manner in another trial of the cause, when the defendant will have an opportunity to procure the newly-discovered evidence set out in his motion for a new trial.
+The judgment is reversed and the case remanded.
+Reversed and remanded.
