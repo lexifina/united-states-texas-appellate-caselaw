@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3091"
+decided: "1891-03-11"
+citations: ["4 Willson 375"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hurt, J., is not prepared to agree to nor dissent from the above proposition, because there was no motion to dismiss the appeal made in the county court."]
+parties: ["E. W. White v. Abe Smith et al."]
+source_url: "https://static.case.law/willson/4/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368850
+cites_cases: ["10 Tex. 216", "30 Tex. 30"]
+---
+
+# White v. Smith
+
+## Majority (Davidson, J.)
+
+Opinion by
+Davidson, J.
+§ 225. Final judgment; must dispose of the property in controversy, etc.; case stated. On January 10, 1889, Abe Smith and Mason Briscoe brought suit against E. W. White and S. J. Avis in the justice court for precinct No. 6 of Fort Bend county, having for its object the setting aside and vacating a sale made by the constable of that precinct of some cotton in the seed, and a mare, and also for damages against White and Avis for the value of the same, and for exemplary damages for instigating and procuring sale, etc., their claim aggregating $100. White and Avis answered in writing, setting up a general demurrer, general denial, and by special plea setting up that Smith and Briscoe, though they well knew that they had no cause of action against them, nevertheless brought the suit for the purpose of vexing,’ harassing, and annoying them, etc., and pleaded in reconvention for $200 damages. A trial -was had in said court on April 20, 1889, before a jury, which returned the following verdict: “We, the jury, find the sale not lawful, and set it aside; ” upon which the following judgment was entered: “Wherefore it is adjudged that the sale made by Jeff Sims, constable,” etc., “be, and the same is hereby, set aside and held 'for naught, and that the plaintiffs herein recover of the defendant E. W. White all costs of this suit, for which execution issue.” On April 27,1889, Smith and Briscoe filed in said justice court an appeal bond, and procured a transcript, etc., and filed them in county court on May 13, 1889. No action of any kind was had in the cause after it reached the county court until November 27, 1889, when the same was called for trial, and a formal judgment by default was entered, among the recitals of which the following appear: “And defendants, though duly cited and called, came not, but wholly made default; and, it appearing to the court that plaintiffs’ cause of action is full}7 set forth in the written pleadings of the plaintiffs, the allegations of which the defendants by their non-appearance admit;” and then goes on with formal recitals, sets aside the constable’s sale, and gives judgment in favor of Briscoe against White for alleged value of seed cotton, $25, and costs, and awards him his execution, gives Smith judgment against White and Avis for $25 actual and $50 punitory damages, with eight per cent, interest, etc. On-, 1889, Briscoe and Smith each, respectively, sued out their executions, and placed them in the hands of the sheriff, who called on White and Avis to pay same; and they, being then for the first time apprised of any action having been taken in the case, subsequent to the rendition of the judgment in the justice court, sued out their writ of error, and now bring the case to this court to have the judgment entered here that should have been entered in the county court, viz., judgment of dismissal for the want of jurisdiction in the county court, there being no final judgment in the justice court. The judgment rendered in the justice court was not final. It does not dispose of nor mention the property in controversy. It does not state the determination of the rights of the parties in and to the subject-matter of the controversy and does not mention one of the defendants in any manner, nor does it inform us what became of him, and the judgment is generally chaotic. Appellees were not satisfied with their judgment, and appealed therefrom to the county court. Their appeal was taken during vacation, and no notice thereof was given to appellants either in the justice’s court or in the county court. Upon reaching the county court with their case, appellees obtained a judgment by default for $25 as value of same seed cotton, and $25 actual and $50 punitory damages. The county court had obtained no jurisdiction of the appeal, and could not until a final judgment was rendered in the justice’s court. [R. S., arts. 1613, 1638; Freem. Judgm., §§ 33, 31.] There must be a judgment to appeal from before an appeal can be prosecuted. The county court, having acquired no jurisdiction, could enter no judgment in the case, and could not entertain the appeal. The cause is therefore reversed, and the appeal is ordered dismissed from the docket of said court. [Rhone v. Ellis, 30 Tex. 30; Hearn v. Cutberth, 10 Tex. 216; 1 Civil Cas. Ct. App., § 391; Moore v. Foy, 1 Civil Cas Ct. App. 21, 310.]
+March 11, 1891.
+Hurt, J., is not prepared to agree to nor dissent from the above proposition, because there was no motion to dismiss the appeal made in the county court.
+Reversed and ordered dismissed.
