@@ -1,0 +1,23 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-11-26"
+citations: ["63 Tex. Civ. App. 117"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roy Beal v. First National Bank of Portales et al."]
+source_url: "https://static.case.law/tex-civ-app/63/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 619023
+cites_cases: ["116 S. W., 840", "132 S. W., 873"]
+---
+
+# Beal v. First National Bank of Portales
+
+## Majority (DUNKLIN, Associate Justice.)
+
+DUNKLIN, Associate Justice.
+First National Bank of Portales, New Mexico, sued Boy Beal and others upon a promissory note secured by chattel mortgage on certain personal property. Upon application of the plaintiff, writs of sequestration were issued and levied upon the property embraced in the mortgage. Boy Beal, the maker of the note and mortgage, then filed a plea in reconvention against the plaintiff, alleging that the writs of sequestration were wrongfully sued out, and praying for judgment for damages sustained by him as a result thereof. Judgment was rendered in plaintiff’s favor for the principal of the note with interest* also for a foreclosure of the mortgage lien on a portion of the property, and against the sureties on the replevy bond under which a portion of the property had been replevied, but there was no judgment disposing of Boy Beal’s plea in reconvention.
+Boy Beal has appealed from the judgment, construing the same as a denial of his right to recover on his plea in reconvention, and basing nearly all of his assignments of error upon the court’s refusal to grant him that relief.
+The counterclaim for damages was an action separate and distinct from that asserted by plaintiff, and equally as much a part of the suit tried as was the cause of action asserted by plaintiff. Harris v. Schlinke, 95 Texas, 91. It is well settled that no appeal will lie except from a final judgment, and that a judgment is not final when it fails to dispose of the entire • controversy as between all the parties. Williams v. Bell (on rehearing), 53 Texas Civ. App., 474 (116 S. W., 840), and decisions there cited; Benge v. Sledge, 62 Texas Civ. App., 301. (132 S. W., 873). Accordingly, the appeal now before us is dismissed.
+Dismissed.
