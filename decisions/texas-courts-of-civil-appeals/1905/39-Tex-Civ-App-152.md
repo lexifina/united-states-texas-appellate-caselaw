@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-04-22"
+citations: ["39 Tex. Civ. App. 152"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam D. Smith v. Lucy A. McClain."]
+source_url: "https://static.case.law/tex-civ-app/39/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2343443
+cites_cases: ["69 S. W. Rep., 130", "79 S. W. Rep., 609", "82 S. W. Rep., 500"]
+---
+
+# Smith v. McClain
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+This suit was brought by appellee against appellant to recover four sections of school land in Kent County, and resulted in a judgment in her favor, from which this appeal is taken.
+Appellant had previously sued appellee for the same lands, but was denied a recovery on the ground that the lands were under lease and therefore not on the market at the date of his application, the Supreme Court holding, on question certified from this court, that he could not avail himself of the waiver of the lease in favor of appellee. (Smith v. McClain, 96 Texas, 568, 7 Texas Ct. Rep., 562.) There ivas, however, a finding by the trial court in that case that appellee, to Avhom the lands had been awarded, was not an actual settler at the date of her application, which was prior to that of appellant. This finding was made in response to an issue tendered by her answer, pleading specially her title and asking for affirmative relief, but notAvithstanding this adverse finding judgment was rendered in her favor because the lands Avere not on the market when appellant, who was found to have been an actual settler, applied to purchase them. The opinion of the Supreme Court on certified question was adopted as the judgment of this court and the judgment of the trial court, including his findings of larv and fact, was accordingly affirmed. Pending this appeal appellee made proof of three years’ occupancy and obtained the certificate of the Commissioner of the General Land Office showing that fact. But after the judgment was affirmed, and on account of the opinion of the Supreme Court, which led to its affirmance, the Land Commissioner can-celled the award to appellee and awarded three of the sections to appellant on a new classification and appraisement and on a new application, made after the termination of the lease.
+On the last trial, which was before a different judge, the court, on substantially the same evidence as that offered on the first trial, found that appellee was an actual settler at the date of her original application, September 4, 1899, and therefore, as well as because of her proof of occupancy, that the Land Commissioner Avas not warranted in cancelling the award to her.
+Conclusions.—Without determining whether the evidence, apart from the proof of occupancy, warranted the finding that appellee was an actual settler at the date of her application and purchase, we hold, on the authority of Logan v. Curry, 95 Texas, 664, 69 S. W. Rep., 130, that appellant, who made his application after the Commissioner had accepted the proof of occupancy and issued his certificate, Avas precluded from controverting that fact.
+We also hold, as did the trial court, that the Land Commissioner Avas not warranted in cancelling the aAvard after he had accepted appellee’s proof of occupancy and issued his certificate.
+It was insisted in oral argument that the Commissioner of the General Land Office of his own motion could set aside an award and certificate of proof of occupanc)r procured by fraud, on discovering that he had been deceived by false affidavits as to the facts of settlement and occupancy. It is a sufficient answer to this contention, that the Commissioner interpreted his action in cancelling the sale to appellee as follows: “I did so for the reason that the Supreme Court had awarded the lands to S. D. Smith in a suit between S. D. Smith and Lucy A. McClain.” But no issue of fraud or false swearing was involved in the ruling of the Supreme Court referred to. The only question decided was that the lands were not subject to appellant’s application to purchase the same, which disposed of the appeal without reference to the finding that appellee was not an actual settler. Possibly the Commissioner felt bound by that finding, immaterial though it was to the decision of the case, and for that reason canceled the sale to appellee, but that would not warrant the presumption that he considered himself the victim of false and fraudulent affidavits and therefore set aside a sale so procured. Merely because of an error on his part as to the sufficiency of the proof of settlement and occupancy, which is the most that can be claimed in this instance, he could not revise and reverse his decision to the prejudice of appellee.
+It was further insisted in oral argument that the issue of actual settlement on the part of appellee was conclusively determined against her in the former suit; but a sufficient answer to this is that no such defense is found in his answer, although he pleaded his title specially. True, the. findings in the former suit were set out in his answer, but this was for another purpose, and so far from pleading them in bar of this action, he specially denied that the judgment in the former suit affected the rights of the parties in this suit. This construction of the pleadings is amply supported by the opinion of the Supreme Court in Norris v. W. C. Belcher L. M. Co., 98 Texas, 176, 82 S. W. Rep., 500.
+Therefore, without passing on the alleged insufficiency of the evidence to sustain the finding that appellee was an actual settler, we adopt the other findings of the trial court and affirm the judgment.
+Affirmed.
+Writ of error refused.
