@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1900-06-30"
+citations: ["24 Tex. Civ. App. 266"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. L. Blumenthal v. W. T. Youngblood."]
+source_url: "https://static.case.law/tex-civ-app/24/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 286711
+---
+
+# Blumenthal v. Youngblood
+
+## Majority (BOOKHOUT, Associate Justice.)
+
+BOOKHOUT, Associate Justice.
+The Stoddard Manufacturing Company, an Ohio corporation, on the 20th day of August, 1888, instituted suit in the Justice Court, precinct No. 3, of Ellis County, on a note in the sum of $86, executed by Youngblood & Co., a firm composed of W. T. Youngblood and Willis Ballard. The cause was continued at the first term of the Justice Court to perfect service on Youngblood, who had been regularly served, and was continued from term to term for service on Ballard till the 25th day of August, 1890, when judgment was rendered in favor of the Stoddard 'Manufacturing Company against said Youngblood & Co., said judgment showing that W. T. Youngblood and Willis Ballard constituted the firm of Young-blood & Co., and the amount of said judgment was $126.91. Execution was issued on said judgment on the 3d of September, 1890, and alias execution September 25, 1899.
+The 52 acres of land in controversy was levied upon under said alias execution on the said 25th day of September, 1899, and sold, after being properly advertised, on the 7th day of November, 1899, to appellant for the sum of $50'. Said land was the property of W. T. Youngblood at the date of said levy and sale.
+Appellant, on the 20th day of November, 1899, filed his petition in trespass to try title against appellee, W. T. Youngblood, to recover the 52 acres purchased at said execution sale. Appellee answered by plea of not guilty, and on that issue the parties went to trial before the court] a jury having been waived, and on the 16th day of December, 1899, judgment was rendered in favor of defendant, to which judgment the plaintiff excepted and prosecuted an appeal to this court.
+The following facts are shown by the record: “On the — day of-> 1888, the Stoddard Manufacturing Company instituted suit in the Justice Court, precinct No. 3, Ellis County, against Youngblood & Co., a firm composed of W. T. Youngblood and Willis Ballard, on a note for the sum of .$86. Citation issued and was duly served on W. T. Young-blood. On August 25, 1890, judgment was rendered in favor of plaintiff against Youngblood & Co. for $126i,91. This judgment was a general judgment against the firm, and did not on its face purport to be a judgment against either member of the firm individually. On the 26th of September, 1899, an execution was issued on this judgment against Youngblood & Co., stating that it was a firm composed of W. T. Young-blood and Willis Ballard, and was levied upon 52 acres of land as the property of W. T. Youngblood, and the same was regularly sold thereunder and bid in by plaintiff, Blumenthal, for the sum of $50.
+Conclusions of Law.—The trial court was of the opinion, as stated in his conclusions of law, that the judgment against Youngblood & Co. was not such a judgment as would support an execution against W. T. Youngblood, and therefore the levy of an execution issued on said judgment upon the individual property of W. T. Youngblood was unauthorized and the sale conveyed no title. This conclusion is challenged as not correct. The sole question then for our decision is, did the judgment against the partnership firm of Youngblood & Co. authorize an execution against the partnership and the individual partner who had been duly cited ?
+The statute provides that “Where the suit is against several partners jointly indebted upon contract, and the citation has been served upon some of such partners, but not upon all, judgment may be rendered therein against such partnership and against the partners actually-served, but no personal judgment or execution shall be awarded against those not served.” Rev. Stats., art. 1347. Because of the wording of this statute -it is contended that, in order to make the judgment effective against the partners served, it should, upon its face, expressly state that it was rendered against such individual partner as well as the partnership.
+The above statute should be considered in connection with article 1224, Revised Statutes, which provides: “Service upon one member of the firm is sufficient to authorize a judgment against the firm and against the partner cited.” By this article authority to render an individual judgment against the partner served is given. It has been held that the judgment of a justice court against a firm composed of two members, in the firm name, includes an individual judgment against the partner cited. Fernandez v. Casey, 77 Texas, 454, 455.
+In the case of Hedges v. Armistead, 60 Texas, 277, the Supreme Court, in discussing the effect of a judgment against a firm, lays it down that, “under the terms of the statute such a judgment is binding and effectual on the firm and on the partner cited.” See also Patton v. Cunningham, 63 Texas, 666; Smith v. Chenault, 48 Texas, 455.
+We conclude, upon these authorities, that the judgment in favor of the Stoddard Manufacturing Company against the firm of Youngblood & Co. included an individual judgment against W. T. Youngblood, the partner shown by the record to have been cited therein, and that an execution issued on said judgment was lawfully levied upon his property.
+This holding necessarily requires a reversal of the judgment, and as all the facts appear in the record, under the statute it becomes our duty to render such judgment as the court below, should have rendered. Rev. Stats., art. 1027.
+It is therefore ordered that the judgment of the lower court be reversed and here rendered for the appellant.
+Reversed and rendered.
