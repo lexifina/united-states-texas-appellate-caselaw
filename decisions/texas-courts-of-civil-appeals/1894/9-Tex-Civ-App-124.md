@@ -1,0 +1,34 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1416"
+decided: "1894-12-05"
+citations: ["9 Tex. Civ. App. 124"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam Evans v. Gulf, Colorado & Santa Fe Railway Company."]
+source_url: "https://static.case.law/tex-civ-app/9/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 242291
+---
+
+# Evans v. Gulf, Colorado & Santa Fe Railway Co.
+
+## Majority (TARLTON, Chief Justice.)
+
+TARLTON, Chief Justice.
+— About August, 1886, the appellee company was projecting an extension of its railway from the city of Fort Worth northward. In this extension certain citizens, including the appellant, who owned considerable real estate in the vicinity of the city, were interested, on account of the enhanced value of the property which would probably result.
+Moved by a consideration of this kind, and for the purpose of aiding the citizens in securing the right of way for the company, the appellant agreed that the company might, without charge, construct its right of way over his land. This agreement was had with one Mr. A. J. Chambers, appointed by a committee of citizens to secure the right of way for the company, and also representing the company in and about that matter.
+At the time of making the agreement, the appellant promised that he would execute a deed conveying the right of way. From the verdict of the jury establishing the truth of Mr. Chambers’ testimony, we are not permitted to entertain a doubt but that it was the intention of the appellant to dedicate absolutely and permanently the right of way to the use of the company.
+Mr. Chambers reported to the engineer of the company that he had obtained the right of way from the appellant, and directed him to proceed with the construction of the road; and relying upon this promise, the company, as the appellant knew, and without protest of any kind from him, constructed its road over his land at considerable cost and expense.
+Subsequently, when approached by Chambers for the deed which he had promised, he declined to execute it, and on August 2, 1888, instituted this suit to recover the sum of $5000 for the appropriation of the land occupied and used as a right of way, and the further sum of $5000 on account of the alleged depreciation of the remainder of the tract, due to the construction of the road. From a verdict for the defendant the plaintiff appeals to this court.
+We dispose of the several assignments of error as follows:
+1. We regard the acts of the appellant as in the nature of a dedication of the land to a public use, which estopped him, after his agreement had been acted upon by the company and the railway had been built at cost and expense to it, from claiming compensation for the appropriation of the land to which he had consented. To permit him to revoke the dedication which he had made, or recover damages for the act of the company which he had invited, would be to approve a result unrighteous, if not fraudulent.
+To subject the land to the use so by him created, it was not necessary that he should execute a written conveyance. The court, therefore, correctly refused a requested instruction, asserting that it was thus necessary. Railway v. Sutor, 56 Texas, 499; Id., 59 Texas, 29; Railway v. Jarrell, 60 Texas, 267; Oswald v. Grenet, 22 Texas, 94; Harrison v. Boring, 44 Texas, 255; Risien v. Brown, 73 Texas, 135; Shepard v. Railway, 2 Texas Civ. App., 535; Ramthun v. Halfman, 58 Texas, 551; Wolf v. Brass, 72 Texas, 133.
+■ 2. Our conclusions of fact indicate that we dissent from the statement on which the second asignment is predicated, viz., that the evidence failed to show any such relation sustained by Chambers to the company as would connect the appellant with the company, on account of the promise made to Chambers. The latter acted both for the citizens and for the company, and made a report of the agreement with the appellant to the engineer of the company.
+This testimony was sufficient to show beyond dispute such a contractual relation between the appellant and the appellee as to render inapposite the second instruction requested by appellant, submitting the issue as to whether the appellant should be regarded as a stranger to the appellee with reference to the agreement referred to. Railway v. Sutor, 56 Texas, 499.
+3. The fourth assignment of error complains of the court’s refusal to charge as follows: “The jury are instructed, that before a specific performance can be decreed in this ease it is necessary for defendant to show that there was a contract between plaintiff and defendant, or its authorized agent, for a valuable consideration, to convey the land by specific description, and that in pursuance of such agreement defendanfc entered upon the land and made valuable improvements — the term 'valuable improvements’ as here used is such as are permanently beneficial to the estate, and not merely beneficial to the defendant company — and you are instructed, that a contract between plaintiff and other parties would not be sufficient under above instructions.” This refusal could not operate prejudicially to the plaintiff, because no specific performance was decreed.
+The issue of estoppel was exclusively submitted to the jury in a charge upon which their verdict rests. This charge, under the facts of this case, and on the authorities already cited, we approve; thus overruling appellant’s concluding assignments of error. It reads as follows: “On the other hand, if you believe from the evidence that before said defendant entered upon and appropriated said right of way, as aforesaid, the plaintiff made and entered into a verbal agreement with the defendant (or with some party or parties authorized to act for the defendant, or if not authorized, who assumed to act for defendant, and whose actions in that regard were ratified by defendant before plaintiff, if ever, repudiated such agreement), whereby plaintiff, for a valuable consideration, agreed to and did give or grant to the defendant a right of way on the particular land as shown in the agreement of counsel referred to herein above, and further, that under and by virtue of said verbal agreement of plaintiff, said defendant, with the knowledge of and without objection from plaintiff, entered upon said land and appropriated said right of way referred to in the first paragraph of this charge, and constructed therein at cost and expense to itself its railroad track, and that said improvements were and are valuable, and that said defendant ever since has been and still is holding and using said right of way, for the purpose of carrying on its said business, you will find for the defendant.”
+We therefore order an affirmance of the judgment.
+Affirmed.
+Delivered December 5, 1894.
