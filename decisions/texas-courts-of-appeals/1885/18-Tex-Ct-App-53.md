@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3453"
+decided: "1885-04-22"
+citations: ["18 Tex. Ct. App. 53"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. C. Bell v. The State."]
+source_url: "https://static.case.law/tex-ct-app/18/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 142375
+---
+
+# Bell v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+It is claimed as fundamental error that the affidavit or complaint upon which the information is based charges or states that Bell, the accused, makes the affidavit, and not the party assaulted. The recitals are awkward, and doubtless a word or so which can be easily supplied are omitted, but, taking the affidavit as a whole, and the fact that it is signed by John Moore, whom the county attorney certifies was the party who subscribed and swore to the same, and who in the body of the affidavit is stated to be the party who did personally appear, was sworn and deposed, and it is sufficiently clear that he is the party making the complaint againt Bell, and not Bell making an affidavit against himself. As a complaint it is in substantial compliance with the requisites of the statute (Code Crim. Proc., art. 236), and sufficiently charges the commission of the offense by the accused, Bell. (Brown v. The State, 11 Texas Ct. App., 451.) A complaint is not required to set forth the offense with the same particularity that is required in an indictment or information. (Arrington v. The State, 13 Texas Ct. App., 551.) That portion of the information to which this same objection applies might and can be stricken out as surplusage, and the remaining portions of said information sufficiently charge the offense.
+As charged in both the complaint and information, the offense was an aggravated assault and battery committed by an adult male upon the person of a child. The language of the statute is followed in the charge. Article 496, subdivision 5, declares an assault aggravated “ when committed by an adult male upon the person of a female or child/’ What is the meaning of the words 61 adult male ” as used in the statute has frequently been defined (10 Texas Ct. App., 410; 11 Texas Ct. App., 95; 12 Texas Ct. App., 174; 13 Texas Ct. App., 192; 16 Texas Ct. App., 6), but the proper meaning of the word “ child ” has not, if our recollection serves us, ever been defined. There is no difficulty in its definition, however, when our statutory rules of construction are applied. One of these rules is that “ words which have their meaning specially defined shall be understood in that sense though it be contrary to their usual meaning, and all words used in this Code, except where a word, term or phrase is specially defined, are to-be taken and construed in the sense in which they are understood in common language, taking into consideration the context and subject-matter relative to which they are employed.” (Penal Code, art. 10.)
+Again: “ All words and phrases used in this Code are to be taken and understood in their usual acceptation in common language, except where their meaning is particularly defined by law.” (Code Crim. Proc., art. 59.)
+Resort, then, must be had to the common meaning and acceptation of the word “child.” Mr. Webster defines it to mean “a young person of either sex; hence one who exhibits the character of a very young person;” and this is its common acceptation. It means a young person as contradistinguished from one of age sufficient to be supposed to have settled habits and fixed discretion. Mr. Webster defines the word “ boy” to mean “a male child from birth to the age of puberty; ” and “puberty ” in civil law is “ the age in boys of fourteen and in girls of twelve years.” (Bouvier, Law Dic.) As the law now stands, we believe that the age of fourteen in boys and twelve years in girls limits the age of childhood.
+The members of this court recommended to the nineteenth Legislature (see Report of Attorney-General, 1885, p. 18) that subdivision 5 of article 496 be amended so as to settle this question and several others that have been unnecessary sources of trouble and annoyance to the courts, and they declined to adopt the recommendation or amend the la"w in any respect. We therefore announce the above as the ages at which a boy and girl cease to be children, and after which neither can be legally denominated a “ child ” in contemplation of this statute.
+In the case we are considering there was no evidence as to the age of the injured party. Defendant was a school teacher, and the injured party his pupil. The case was tried by the .judge without the intervention of a jury, upon agreement of parties. The injured party as well as defendant was before the court, and the injured party testified at the trial. All the other witnesses who testified, in speaking of the injured party, spoke of him as “ a boy.” If he was “a boy,” then he was “a child” under Mr. Webster’s definition, supra. As to the sufficiency of the other evidence to make out an aggravated assault committed by a teacher against or upon a scholar, whilst the evidence was in some particulars conflicting, we are not prepared to say that it was not sufficient under the rules laid down in Stanfield v. The State, 43 Texas, 167, and Dowlen v. The State, 14 Texas Ct. App., 61.
+Where a case is tried by the judge without a jury, the same rule obtains with regard to his judgment, if there is a conflict of evidence, as governs in considering the verdict of a jury; the judgment will not be interfered with, because he was in a better attitude and situation to pass upon the credibility of witnesses than this court.
+Finding no reversible error in the record, the judgment is affirmed.
+Affirmed.
+[Opinion delivered April 22, 1885.]
