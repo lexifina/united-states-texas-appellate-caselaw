@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1899-06-21"
+citations: ["21 Tex. Civ. App. 471"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adam Hulse v. J. W. Powell et al."]
+source_url: "https://static.case.law/tex-civ-app/21/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277074
+---
+
+# Hulse v. Powell
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+J. W. Powell brought this suit against Adam Hulse and others, to enjoin them from cutting down and destroying the trees on a tract of land alleged to have been dedicated to the public as a park, said tract of land being adjacent to the town of Ballinger.
+The plaintiff’s petition, after alleging that the Gulf, Colorado & Santa Fe Railway Company laid out, mapped, and plotted the town of Ballinger, and dedicated the tract of land referred to as a public park for the use and benefit of the public, alleges “that the plaintiff purchased certain lots and blocks in the town of Ballinger, as did divers other inhabitants of said town; that he purchased the same because of and with reference to the fact that the tract of land referred to had been dedicated as a public park, and thereby acquired a vested right in said park.” The petition alleges further, “that the groves of shade and ornamental trees growing on said open space as aforesaid are of the value, for said public purposes, and especially to plaintiff, of the sum of $600; that the plaintiff as well as many other inhabitants of said town, having likewise a vested right in said shade and ornamental trees, have besought said defendants to desist from their said unlawful acts in the destruction of said shade trees; but they have refused to do so, and are now still unlawfully cutting and destroying said shade trees, and have threatened to continue said unlawful acts in the destruction of said shade trees, to the great and irreparable injury and damage of said inhabitants of said town, and especially to plaintiff, in the sum of $600.”
+The petition does not allege that the plaintiff’s property is situated contiguous to or in the vicinity of the alleged park, and does not aver that the destruction of the trees growing in the park will depreciate the value of or otherwise injuriously affect the plaintiff’s blocks or lots.
+The defendants’ answer, among other things, contains a general demurrer, and what they denominate special exceptions, the latter reading as follows:
+“1. Plaintiff failed to allege such facts as would authorize him to prosecute this suit in his own behalf. 2. Plaintiff failed to allege such facts as to his interest in the property alleged to be trespassed upon, as will entitle him to recover for any damages thereto. 3. Ho such authority or right is alleged in plaintiff as will entitle him to any equitable relief or to any restraining order of this court on account of the ground alleged by him.”
+The trial court overruled all of these exceptions, and upon the trial of the case rendered judgment restraining the defendants from cutting down or removing the timber and trees from the park referred to.
+We sustain the assignment of error which complains of the action of the court in overruling the exceptions to the plaintiff’s petition. The petition fails to allege any injury to the plaintiff other than such as would result to the public by interference with the park referred to. For aught that appears in the petition, the plaintiff’s blocks and lots may be situated on the opposite side of the town, and their value may in nowise be affected by the destruction of the park. And, while it appears from the petition that if the defendants are not restrained, the plaintiff and the other inhabitants of the town of Ballinger were deprived of a suitable place for picnics, May fests, etc., still this would not be such special injury to the plaintiff as would authorize him to maintain the action.
+Obstructing a street or other public highway in such manner as to prevent its use by the public may result in inconvenience to any person who desires to travel such highway; but such person can not maintain an action on account of or to prevent such obstruction, unless he shows that such obstruction will injuriously affect him, other than depriving him, as well as the public, of the use of the highway. City of San Antonio v. Stromberg, 70 Texas, 366. The same principle applies as to public parks.
+In the case cited, the plaintiffs sought to restrain the erection of a public building upon the open space in the city of San Antonio, known as the Military Plaza; and in deciding the case, the Supreme Court used this language:
+“We think it- is a principle established by the overwhelming weight of authority in the courts of all countries subject to the common law, that no action lies to restrain the interference with a mere public right at the suit of an individual who has not suffered or is not threatened with some damage peculiar to himself. As applied to public measures, the doctrine is elementary. 2 Cooley’s Blackstone, 219. For a special damage, resulting from the invasion of a right enjoyed by a party in common with the public, the law affords him a remedy by private action; bht if the damages be only such as are common to all, the action must be brought by the lawfully constituted guardian of the public interest.”
+Oswald v. Grenet, 22 Texas, 94, and Sheppard v. Barnett, 52 Texas, 638, cited in support of the petition in this case, are not analogous. In the first case, the plaintiff alleged that he bought lots contiguous to the open space alleged to have been dedicated to the public; and it does not appear that he did not allege and does appear that he proved that the construction of a building on the open space referred to would obstruct the view from the plaintiff’s lots, and materially depreciate their value.
+In the other case, the petition shows that the plaintiff’s property was bounded on the south by a street which, it was alleged, the defendant had erected a fence across; and it was charged that the obstruction referred to not only interfered with the plaintiff’s use of the street, but had depreciated the value of his lot to the extent of $1000.
+The petition in this case is obnoxious to a general demurrer, and the court erred in overruling the exceptions referred to.
+On the other questions presented, we sustain the rulings of the trial court; but for the error pointed out, the judgment will be reversed and the cause remanded.
+Reversed and remanded.
