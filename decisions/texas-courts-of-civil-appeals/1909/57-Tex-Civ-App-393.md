@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-11-06"
+citations: ["57 Tex. Civ. App. 393"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Palo Duro Club v. J. R. McAlister."]
+source_url: "https://static.case.law/tex-civ-app/57/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2349718
+---
+
+# Palo Duro Club v. McAlister
+
+## Majority (DUNKLIN, Associate Justice.)
+
+DUNKLIN, Associate Justice.
+J. R McAlister recovered a judgment for one hundred and fifty-one dollars and twenty-five cents against the Palo Duro Club in the County Court of Potter County for work done on a road leading from Amarillo to defendant’s property some eighteen miles distant, and from this judgment the defendant has appealed.
+The club appointed a committee consisting of C. O. Wolfiin, H. B. Jones and W. Boyce to secure bids to do the work. J. R. McAlister submitted a bid, which being reported to the club was by the club accepted, and the committee were empowered to notify McAlister of the acceptance of the bid and to supervise the work. The bid was in paroi, and upon the trial- there was a sharp .conflict in the testimony as to the terms of the contract, the defendant contending that the road was to be of uniform grade, while the plaintiff contended that his contract was merely to build a straight road. Prior to the suit the defendant had paid McAlister one hundred and ninety-eight dollars and seventy-five cents. It seems to have been shown by undisputed testimony that the contract price for the work to be done by McAlister was three hundred and fifty dollars. Over appellant’s objection plaintiff was permitted to testify that Banks Jones, _ one of the committee, agreed with him to set the stakes on the road for the plaintiff to guide the plaintiff in grading the same. The evidence shows beyond controversy that Jones was directed by the other members of the committee to notify McAlister that the club had accepted his bid, and that this agreement by Jones to set the stakes for the grade was made by Jones at the time he notified McAlister of the acceptance of his bid, and that the stakes were never set. In connection with the testimony admitted over defendant’s objection, plaintiff and other witnesses testified that McAlister had performed the work as well as he could do so without stakes. There was no evidence in the record tending to show that McAlister’s bid for the work contemplated that Jones or any one else acting for the club should set the stakes for the grade.
+The acceptance of McAlister’s bid and notice to him of such acceptance closed the .contract between him and the club, and there was no evidence in the record to prove that even the committee as a whole had authority from the club to change the contract by any subsequent agreement tending to excuse McAlister from a compliance with the terms of his contract, and we think the court erred in admitting the testimony complained of in the assignment above referred to, and that for such error the judgment should be reversed.
+In the third subdivision of the court’s charge the jury were instructed in effect that plaintiff would be entitled to recover on a quantum meruit the value of the work done by him less the amount already paid, if the minds of the parties never met as to the character of work to be done by the plaintiff; in other words, if there was a failure to make a legal contract by reason of an absence of a meeting of the minds of the parties, then plaintiff could recover for the value of the work done. By its third assignment of error appellant challenges the correctness of this instruction upon the ground thqt there was no pleading to warrant it, and some of the members of the court are inclined to hold that this criticism of the charge is justified. However, as the judgment is to he reversed, and as the pleadings will likely be amended upon another trial so as to avoid such a question, it is unnecessary for us to decide it now. What we have said above relative to the third assignment has reference only to the objection that the pleadings did not warrant the charge.
+By its second special instruction defendant requested the court to charge the jury that plaintiff could not recover if he had not shown by a preponderance of the evidence that a majority of the committee had accepted the work as a compliance with the contract, unless the jury should further find that plaintiff had completed the road in accordance with the contract. By its fifth assignment of error appellant complains of the refusal of the court to give this charge. The instruction requested entirely ignored any right in plaintiff to recover on a quantum meruit, which was an issue in the case, and for that reason we think there was no error in the refusal of the instruction.
+Appellant’s requested special instruction Ho. 3 upon the measure of damages if plaintiff should show himself entitled to recover upon a quantum meruit, was substantially covered by the court’s main charge.
+For the error above indicated, the judgment of the trial court is reversed and the cause remanded for another trial.
+Reversed and remanded.
