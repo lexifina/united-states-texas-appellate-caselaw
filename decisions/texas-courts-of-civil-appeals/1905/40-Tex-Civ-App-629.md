@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-11-22"
+citations: ["40 Tex. Civ. App. 629"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Traveler's Protective Association of America v. M. Weil."]
+source_url: "https://static.case.law/tex-civ-app/40/cases/0629-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4382332
+cites_cases: ["112 N. Y., 472", "127 U. S., 661", "23 Am. St. Rep., 455", "24 So. Rep., 998", "43 S. W. Rep., 898", "45 Atl. Rep., 518", "45 Atl., 518", "65 Am. St. Rep., 61", "65 Mich., 545", "71 S. W. Rep., 391", "74 Am. St. Rep., 368", "8 Am. St. Rep., 758", "8 Am. St. Rep., 913", "89 Cal., 170", "93 Me., 469", "96 Wis., 539"]
+---
+
+# Traveler's Protective Ass'n of America v. Weil
+
+## Majority (GILL, Chiee Justice.)
+
+GILL, Chiee Justice.
+This suit was brought by M. Weil to recover of the appellant company $1,000, the sum stipulated in an accident policy for the loss of an eye. Plaintiff also sought to recover 12 percent of such sum in addition as statutory damages for the refusal of the defendant to pay the claim when due.
+The defendant pleaded in bar of plaintiff’s demand the clause of the policy providing “that . . . the association shall not be liable for any injuries incurred by a member in fighting, altercation or quarrel, not for intentional injuries inflicted by the member or any other person,” and averred that the injuries for which recovery was sought were the consequence of an assault by another, and came within the exemption clause of the policy. The defendant also claimed the injuries were received in an “altercation, fight and quarrel” for which there would be no liability.
+A trial by jury resulted in a verdict and judgment for plaintiff for $1,000, from which defendant has appealed. The facts which appear without dispute are as follows:
+Weil and wife were residents of El Paso, Texas. They had separated, and Weil had been absent about five months. Mrs. Weil remained in their home in El Paso and, at the time of the trouble out of which this litigation grew, had Mr. and Mrs. J. P. Innes rooming in the house. Innes’ apartments were upstairs. On the first day of September, 1901, Weil came to the house to see his wife, and was admitted. His purpose was to talk to his wife with a view to inducing her to resume their former relations. He began to talk with her, and she declined his proposals. They were standing in the hall near the foot of the stairs. The telephone was on the wall near them. Mrs. Innes was with Mrs. Weil, and W. P. Innes was upstairs in his room. When Mrs. Weil declined Weil’s proposal he became very angry, and upon Mrs. Weil’s threat to telephone for the police he tore the telephone from the wall. This frightened the two women, and Mrs. Weil called for Innes. She called him by his given name, her voice being much like the voice of Mrs. Innes. Innes, thinking his wife had been threatened or abused, rushed down the stair and struck Weil in the face with his fist, knocking him down. He intended at the moment to strike. Weil and to injure him, but did not intend to put out his eye. It is very clear that he had no particular intention with respect to the consequences of the blow. He simply struck Weil in anger in the mistaken belief above explained. Innes immediately discovered his mistake and that he was not justified in striking him, and he at once apologized and his apology was accepted. As a result of the blow of the fist Weil lost the sight of his right eye. There was no quarrel or altercation between Weil and Innes, nor any justification for the assault by Innes. Weil was carrying at the time a policy in defendant company insuring him against accidents, but containing the exemption clause pleaded by defendant. The dues and premiums had been paid and the policy was in force.
+Thereafter plaintiff made due and timely proof of his injuries and their cause, but the company, for the reasons set up in defense, refused to pay the claim.
+The appellant complains of the action of the trial court in charging in effect that if Innes did not intend the particular injury plaintiff was entitled t.o recover, and insists that a verdict should have been directed for defendant. We are of opinion the proposition is sound.
+We do not undertake to say that consequences might not follow such a blow, of a character so unusual and so apparently unrelated to the act, as to exclude the idea that they were included within the general intention to inflict injury. The distinction is recognized in Richards v. Travelers’ Insurance Company, 23 Am. St. Rep., 455, a California case, and is justified by approved definitions of the word "accident.” See note at page 763, 8 Am. St. Rep.
+But under the facts of this case we are of opinion there is no room for controversy. We have a blow of the fist, struck by an adult man actuated by the anger and passion naturally resulting from his supposed provocation. A blow struck in the eye, according to ■ plaintiff’s own statement. The force was sufficient to knock him down, and the injury to the eye was due to the blow and not to the fall. We think the injury to the eye falls clearly within the general purpose to injure, and that it did not devolve on the defendant to show that Innes had a specific intention to inflict the particular character of injury which might flow from the assault. The case of Fidelity and Casualty Co. v. Smith, 71 S. W. Rep., 391, is in point. In that case the assured was struck with a chair, and, while no serious consequences were intended, the assured was so injured that he was confined to his bed for months. It was held by the Court of Civil Appeals of the Third District that the injuries fell within the exemption. We think that decision sound, and that the same reasons should control in this case.
+We are of opinion the judgment should be reversed, and judgment here rendered for appellant, and it is so ordered.
+Reversed and rendered.
+Writ of error refused.
