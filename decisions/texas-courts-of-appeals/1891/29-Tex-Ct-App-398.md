@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3121"
+decided: "1891-03-11"
+citations: ["29 Tex. Ct. App. 398"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte W. C. Wyatt."]
+source_url: "https://static.case.law/tex-ct-app/29/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148857
+---
+
+# Ex parte Wyatt
+
+## Majority (WHITE, Presiding Judge.)
+
+WHITE, Presiding Judge.
+A prosecution was instituted against appellant, in the County Court, by information charging him with exhibiting a monte bank for the purposes of gaming. When the case came on for trial he waived a jury and submitted the matter to the court upon his plea of guilty, and the judgment of the court imposed upon him as his punishment a fine of $25 and costs, and also, in addition, imprisonment for a full period of ten days in the county jail; and he was remanded to the custody of the sheriff, to be by him safely kept until he paid said fine and costs, and had served out his imprisonment of ten days. He paid the fine and costs to the sheriff, but the sheriff did not imprison him in jail, because at the time appellant was afflicted with rheumatism, but allowed him to go at large upon an agreement that when appellant was able, he (appellant) would serve out the time of his assessed imprisonment in jail. The judgment aforesaid was rendered, and the agreement mentioned was made, in the early part of January, 1891. On the 4th of March, 1891, appellant was arrested by the sheriff and placed in jail to serve out his ten days’ imprisonment. He sued out a writ of habeas corpus before the county judge, claiming that his arrest and restraint by the sheriff was illegal. At the hearing the county judge held that he was held in legal restraint and custody by the sheriff, and remanded him to custody. From that judgment he prosecutes this appeal.
+It is claimed in behalf of appellant that from the time the judgment placed him in the hands of the sheriff he was in his legal custody, and that being in his legal custody, whether imprisoned in jail or not, whenever the ten days had expired he was entitled to his discharge, as much so as though he had actually served out his time in jail; and in effect he claims that his agreement with the sheriff is of no validity and void, because the sheriff had no authority to make any such agreement and permit him to go at large after he had been legally committed to jail.
+Our statute, Code of Criminal Procedure, article 51, provides that “when a prisoner is committed to jail by lawful warrant from a magistrate or court, he shall be placed in jail by the sheriff; and it is a violation of duty on the part of any sheriff to permit a defendant so committed to remain out of jail,” etc.
+Again, it is provided that “when by the judgment of the court a defendant is to be imprisoned in jail the sheriff shall execute the same by imprisoning the defendant for the length of time required by the judgment; and for this purpose a certified copy of such judgment shall be sufficient authority for the sheriff.” Code Crim. Proc., art. 817.
+And “when a défendant has remained in jail the length of time required by the judgment he shall be discharged, and the sheriff shall then return the copy of the judgment or the copias under which the defendant was imprisoned to the proper court, stating how the same had been executed.” Code Crim. Proc., art. 819.
+It is manifest from these provisions of our law that whenever a party is committed to jail by order of the court it means imprisonment in jail; and no other kind of custody, whether agreed to by the sheriff or not, will answer or discharge such punishment. The sheriff has no right, no matter what his motives, whether of humanity or not, to commute or alter this punishment, and any act of his doing so is a violation of his duty and absolutely void. Clark v. The State, 3 Texas Ct. App., 338. He must put the prisoner in jail. If he be too sick to stand such confinement, and his life is likely to be endangered thereby, it is not for the sheriff to relieve him, but his remedy is by habeas corpus, as provided by art. 155, Code of Criminal Procedure. Hntil he has served the allotted time in jail he has not complied with the judgment, nor has he discharged it. The fact that he was allowed to go at large by the sheriff illegally for more than ten days, and that if during that time he had been in prison the judgment would have been discharged, does not give him the right to claim a discharge simply on account of the fact that the ten days for which he should have been imprisoned havé already elapsed. The agreement of the sheriff to penhit him to go at large being absolutely void, the law, for such time, will treat him as a prisoner at large without authority; in other words, as an escaped prisoner.
+In McCoy v. Sheriff of New Castle County, 6 Central Rep., 872, citing Haggerty v. People, 53 New York, 476, it was held that when a prisoner escapes and remains at large until after the time fixed in his sentence for the ending of his term of imprisonment has expired, he may be retaken under the authority of the original sentence, until the term o of imprisonment fixed has been accomplished. 10 Am. and Eng. Enc. of Law, pp. 199-200.
+We are of the opinion that the judgment of the court below, finding that appellant was not illegally restrained of his liberty, and remanding him to the custody of the sheriff of Bee County, to be confined by him in jail until he had served out his ten days for which he was. ordered by the judgment of the court to be imprisoned, was in all things correct; wherefore said judgment is in all things affirmed.
+Affirmed.
+Judges all present and concurring.
