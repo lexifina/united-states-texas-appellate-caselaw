@@ -1,0 +1,23 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-05-05"
+citations: ["43 Tex. Civ. App. 120"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. V. Zollars et al. v. Snyder and Lacey."]
+source_url: "https://static.case.law/tex-civ-app/43/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4387203
+---
+
+# Zollars v. Snyder & Lacey
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+Snyder and Lacey instituted this suit against Add-Ran College and other defendants as trustees to recover a balance alleged to be due upon a building contract and to foreclose a mechanic’s lien on a certain college building in the town of Hereford, Deaf Smith County. From a judgment in favor of the plaintiffs in the sum of $1,057.43, with a foreclosure of lien, the defendants have appealed.
+It appears that when this ease was reached for trial on Tuesday, August 29, 1905, the parties announced ready for trial on the law, and the defendants presented their demurrers, a part of which were sustained, and the plaintiffs were permitted to amend their petition by inserting the necessary allegations to meet these demurrers. It was then noticed that the defendants’ answer to the merits had not been actually attached to the exceptions and general denial, as it had been previously, on August 24, agreed by counsel for both parties that it should be, and by consent of plaintiffs’ the same was then attached to the formal answer which had been filed on appearance day, August 15, whereupon plaintiffs announced ready for trial on the merits and at the same time handed to defendants’ counsel a first supplemental petition, which had just been filed and which defendants’ counsel had never seen, and the defendants’ counsel then requested the court to grant them time to read the supplemental petition, and after reading the same they announced to the court that it contained new matter which operated as a surprise to defendants and asked that the cause be continued or that the said pleading be stricken out. The defendants’ motion for a continuance was overruled and they prepared and filed a first supplemental answer in response to the pleadings of plaintiffs last filed. The court then denounced the practice of filing new pleadings on the eve of trial and stated that he felt like it was his duty to strike out all pleadings in the case filed since appearance day, which he proceeded to do. On the next morning, August 30, the court called the case for trial, the plaintiffs announced ready and the defendants announced not ready because of the rulings of the court on the previous day, but the court forced them into trial over their objections. It also appears that counsel for plaintiffs had been furnished with a copy of the defendants’ pleadings filed August 29, on August 24, and agreed that same should be attached to the original answer filed on appearance day, and never at any time made any objections to the filing of same. TJnder these circumstances we think the court erred when he struck from the files appellants’ answer setting forth a meritorious defense to appellees’ causé of action. It may be and often is a source of annoyance to trial courts for parties to defer until the case is called for trial the filing of their amendments, resulting as it often does in a continuance for the term, yet in a case like the present, where the amendment has been filed in such manner as not to operate a surprise to the opposite party, and there is no objection to its filing, it is improper for the court of its own motion to strike the same from the files merely because the replication of the opposite party operates as a surprise and continuance of the case. See Hobbs v. First Nat. Bank, 15 Texas Civ. App., 398, and authorities there cited. For this error the judgment is reversed and the cause remanded for another trial.
+Appellants insist that the instrument purporting to be a mechanic’s lien in favor of appellees was improperly admitted in evidence, because the same shows a balance due on account, and also shows payment of a sum in excess of the price mentioned in the original contract. But this objection is clearly without merit, since the lien exists as a security for “extras” supplied under the terms of the contract, even after full payment of the original contract price independent of such “extras.”
+Ho other question is presented that could arise upon another trial, and the other assignments are therefore overruled without discussion.
+Reversed and remanded.
