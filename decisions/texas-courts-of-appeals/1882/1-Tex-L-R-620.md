@@ -1,0 +1,39 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1882-12"
+citations: ["1 Tex. L. R. 620"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. H. SHANDLEY v. COURSALES & LOGEMAN."]
+source_url: "https://static.case.law/tex-l-r/1/cases/0620-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1207732
+cites_cases: ["10 Tex., 336", "11 Tex., 288", "31 Tex., 622", "33 Tex., 629", "4 Tex., 180", "6 Tex., 279"]
+---
+
+# Shandley v. Coursales & Logeman
+
+## Majority (Willson, J.)
+
+Opinion by
+Willson, J.
+Appellees sued appellant in the County Court of Hill county upon an account for $359.26.
+The petition alleges the residence of plaintiffs to be the city of St. Louis, in the State of Missouri, and that the residence of the defendant is unknown. The account sued upon is sap-ported by the affidavit of one Kutsher, who swears that he is the agent of the plaintiffs. The affidavit is in substantial compliance with article 2266 of the Revised Statutes, except that it omits to State that “ the account is within the knowledge ojf the affiant. ”
+At the time of instituting suit the plaintiffs sued out a writ of attachment against the property of defendant, which writ was levied upon certain lands owned by the defendant, situated in Hill county. The affidavit for the attachment was made by the attorney for the plaintiffs, and the ground for the writ stated in the affidavit was that the defendant was about to dispose of his property for the purpose of defrauding his creditors.
+The pleadings of the defendant are :
+1. A demurrer to plaintiffs’ petition, upon the ground that it fails to allege any facts which show jurisdiction of the court over the case.
+2. A plea to jurisdiction of the. court as to the person of the defendant, alleging that at the time of the institution of the suit the defendant was an inhabitant of this State, and had his domicile in Erath comity. This plea was properly sworn to.
+3. General denial. Plaintiffs replied, by their attorney, to defendant’s plea to the. jurisdiction of the court, stating that he, the attorney, at the time he tiled the suit, believed that the defendant had left the State; that some ten days before he filed the suit, the defendant, in a conversation with him, stated that he was preparing to go back to his home in Hew York, and desired said attorney to sell his land in Hill county for him; that just before filing the suit, said attorney enquired of a number of persons who were acquainted with defendant, and in the habit of associating with him, as to his whereabouts, and from the information he received, he concluded that the defendant had left the State.
+The defendant’s demurrer to the plaintiff’s petition was overruled, and the case west to trial upon the issues made by defendant’s plea to the jurisdiction and his general denial, and the result was a judgment in favor of plaintiffs against the defendant for the full amount claimed, and for costs, and also for foreclosing the attachment lien upon the land levied upon, and ordering the sale of the same.
+Upon the trial, the plaintiff read in evidence, his account, sworn to as herein before stated, and introduced no other evidence to prove his account than the affidavit attached thereto. The record does not show that the defendant objected to the reading m evidence of the affidavit attached to the account, and we are not called upon to pass upon the question of the admissibility of it as evidence. But as this same question may arise hereafter, we deem it proper to say that the affidavit is not in substantial compliance with the law, because it fails to state that “ the account is within the knowledge of the affiant/’ and if it had been objected to as evidence, it should have been excluded.
+The first question in the case which we are called upon to determine, is the correctness of the ruling of the court below, overruling defendant’s demurrer. The demurrer was based upon the ground that the petition did iiot show any fact which conferred jurisdiction of the cause upon the court.
+II alleges the non-residence in this State of the plaintiffs, and that the defendant’s residence was unknown. It did not allege that the defendant owned any property in the State. It is provided by our statute that when the residence of a defendant is unknown, the suit may be instituted in the comity in which the plaintiff resides. (B. Sv Art. 1198, Sub-division 3.) But in the case at bar, the plaintiff did not reside in the State, consequently the above cited provision does not apply.
+The petition fails to show that either the plaintiff's or the defendant were within the jurisdiction of the court, and does not allege that the defendant owned any property within the jurisdiction of the court. We are of the opinion that the petition was fatally defective in failure to show any jurisdictional fact, and that the court erred in overruling the defendant’s demurrer thereto. (Ward v. Lathrop, 4 Tex., 180; McMullen v. Guest, 6 Tex., 279; Campbell v. Wilson, Id., 391; Ward v. Lathrop, 11 Tex., 288; Tulane v. McKee, 10 Tex., 336.)
+Another error committed by the coiirt, was, we think, in finding against the defendant’s plea to the jurisdiction. The evidence showed clearly that at the time of the institution of the suit the defendant’s residence was in Brath county. The facts alleged by plaintiff’s attorney,, in reply to this plea, we do not regard as a sufficient answer to the same. (Brown v Read, 33 Tex., 629; Blucher v. Wilstead, 31 Tex., 622.)
+The most important question however in this case is, whetheror not the County Court has jurisdiction to foreclose an attachment lien upon land and order the same to be sold, as was done in this ease. Our statute, governing attachments provides that the execution of the writ shall create a lien from the date of such levy upon the real estate levied on, etc., and that should the plaintiffs recover in the suit, such lien shall be foreclosed as iu the case of other Mens, etc. (3. S., 179, 186.) Having reference alone to the above cited provisions, we might conclude thatas the County Court has the power to issue the writ of attachment it would also have the power to foreclose any lien that might be created by ike levy of such writ, when issued iu a suit within the jurisdiction of such court. But we miiet cons tine these provisions in connection with the. constitution and statutes which prescribe the jurisdiction of the courts. Art. 5, Sec. 8, of the constitution, confers upon the District Court jurisdiction of all suits for the iS trial of title to land and for the enforcement of liens thereon. ”
+Section 16 of the same article expressly denies to the County Court jurisdiction of salts for the recovery of land, but says nothing about the enforcement of liens thereon.
+The jurisdiction to enforce Mens upon land is therefore not conferred upon the County Court by the organic law, but Is expressly conferred upon another tribunal.
+When we look, to the statute which prescribes the jurisdiction of the county court we find that it expressly excludes from its jurisdiction suits tor the enforcement of Ileus upon land. (R. S., 1164)
+Is a proceeding by attachment where land is levied upon by virtue of the writ, a suit to foreclose upon the land ? We think it is, and if we are correct in this conclusion, then it follows that the County Court has no jurisdiction to enforce an attachment upon land. (Texas Pacific Ry. Co. v. McMullen, decided by this court, Austin term, 1881, 1 Texas Law Reporter, p; 15.) “
+We think the court below erred in foreclosing the attachment lien upon defendant’s land and ordering the same to be sold, and because of this, and the other errors we have specified, the judgment of the court below is reversed, and the same is remanded.
