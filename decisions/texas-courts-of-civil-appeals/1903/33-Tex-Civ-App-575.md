@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-11-25"
+citations: ["33 Tex. Civ. App. 575"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Galveston, Harrisburg & San Antonio Railway Company v. W. J. Appel."]
+source_url: "https://static.case.law/tex-civ-app/33/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4375982
+---
+
+# Galveston, Harrisburg & San Antonio Railway v. Appel
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+This is an action for damages for personal injuries. Plaintiff Appel alleged that he was brakeman on one of defendant’s freight trains, and while he was on top of a stock car in discharge of his duties, and while the train was in motion, he stepped upon a trapdoor which constituted a part of the roof of the car, which defendant had negligently left insecure, and which tipped and caused plaintiff to be thrown to the ground with great force, a distance of some fifteen feet, whereby he was seriously and permanently injured. The verdict was for plaintiff for $16,000.
+We do not sustain the first and second assignments of error, which complain of the presence in the petition of an allegation that defendant owed plaintiff the duty to see to it that said trapdoor was securely and properly fastened, and its negligent failure to have same securely and properly fastened was the direct and proximate cause of plaintiff’s injuries. Also of an allegation that the defendant’s negligent failure to properly secure and fasten said trapdoor made it perilous and dangerous for plaintiff, while in the discharge of his duty, and that such negligence was calculated to produce just such a calamity as befell plaintiff. Defendant complained of these allegations, by special demurrers, which the trial judge overruled.
+The petition would probably have been sufficient without these allegations. The objection is that they were irrelevant—were unnecessary, denunciatory and inflammatory allegations, not intended by the pleader to state a cause of action, and in their tendency calculated to prejudice the jury against the defendant.
+While they may have been unnecessary in stating a case of negligence in view of the remainder of the petition, they were not in any sense _ denunciatory or inflammatory, nor calculated to have the effect charged to them.
+The third and fourth assignments are criticisms of the general charge in that it did not present a single phase of the case whereby the jury might find for the defendant; and because the third paragraph of the charge requires the jury to find for plaintiff regardless of defendant’s plea to the effect that plaintiff’s condition was not caused by this accident, but was the result of his constitutional syphilitic condition.
+The general charge of the court presented the ease correctly, but without reference to said plea, except indirectly, in that it authorized the jury to find for plaintiff only in the event his injuries were the result of falling from the car. But by a charge requested by defendant the issue indicated in the plea was’directly submitted and the jury directed to find for defendant if they found according to the plea.
+The fifth assignment is that the court erred “in overruling defendant’s motion for new trial for the reasons therein set out, and particularly for the reason that the verdict was excessive and contrary to and against the great preponderance of the evidence.”
+Appellee objects to this assignment as multifarious and too general. This court has never failed to consider the verdict as to amount in the light of the evidence, when an assignment charges that it is excessive. We find as a fact in this case that the testimony was sufficient to authorize finding that plaintiff fell from the car and that his injuries were thereby caused. As to the verdict being excessive in amount, we find nothing to warrant our interference with the conclusion of the jury on the subject. Plaintiff when hurt was about .37 years of age, and there was ample testimony to the effect that notwithstanding he had syphilis, he was a strong, active man, able to work and did work. He testified he had been working for defendant about four years;.that it takes a pretty good man to be a brakeman—that is a man physically able to do any kind of work that came to hand; that when this accident occurred he was in perfect health, but was suffering a little bit from the disease. There was testimony that his disease was curable, that in his case it was confined to the skin and did not involve any of the inner structures, and that persons with syphilis live as long as other people, do the same kind of work as other people, and that plaintiff had practically gotten well of it. The results of the fall have been paralysis of the right side and leg, spinal affection, and other afflictions which may be summed up in the expression used by the company’s physician: “Whatever may be the cause he is now badly crippled, paralyzed, and in a pitiable condition; there can be no doubt about it.” As to the earning capacity of a young mail of active habits and ability to work, the amount he was earning at the precise time of his injury is not the exclusive criterion of what it was or would have been thereafter. This was peculiarly a matter for the jury. Considering the condition of the man before he was hurt, his occupation, his prospects for preferment, his terrible injuries and suffering, rendering him a total wreck for life, we do not believe the amount found by the jury is unsupported. .
+Affirmed.
+Writ of error refused.
