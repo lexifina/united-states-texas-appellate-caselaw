@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "141"
+decided: "1893-04-12"
+citations: ["3 Tex. Civ. App. 146"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alexander Woodson v. W. E. Massenberg."]
+source_url: "https://static.case.law/tex-civ-app/3/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 221209
+---
+
+# Woodson v. Massenberg
+
+## Majority (HEAD, Associate Justice.)
+
+HEAD, Associate Justice.
+Sometime in 1880, appellant purchased from B. Peterson the land in controversy, paying a cash consideration of $150, and executing his note for.the remainder, and received from Peterson a bond for title. He immediately took possession and established his homestead thereon, in connection with his wife, Martha. On the 7th of January, 1882, there was still due Peterson $100 of the purchase price, and appellant borrowed this money from Aaron Woods, and to secure him in its payment, had Peterson make the deed to him, upon the express verbal contract that such deed was to have the effect of a mortgage, and that Woods would convey to appellant upon the payment of the $100 with interest thereon as aforesaid. Sometime in the spring or summer of 1883, appellant, without having paid Woods, left his wife and children and went to the State of Kentucky, and the verdict of the jury, which is supported by sufficient evidence, establishes that this was with the intention of permanently abandoning them. He remained in Kentucky something; over two years, during which time Woods set up claim to the land, and brought suit against appellant’s wife to recover possession of it; and in this suit she pleaded the trust above set forth, and the judgment rendered therein established the same, but required the payment to Woods of the-amount due him. To obtain this money appellant’s wife sold the land in controversy to appellee, and applied the proceeds to the payment of Woods and her attorneys, retaining the balance, amounting to something-near $78. The land in controversy was the community property of appellant and his said wife. A short time after the termination of that suit- and the sale to appellee, appellant returned to this State, obtained a divorce from his wife, and instituted this suit to recover the land described in his petition, claiming it as his homestead. The court below, upon the: verdict of the jury, rendered judgment in favor of appellee, sustaining the sale made by the wife; to reverse which this appeal is prosecuted.
+Opinion.—The court below in submitting the case to the jury instructed them, ‘ ‘ If you believe from the evidence that at the time Martha Woodson executed the deed to Massenberg, the plaintiff, Alexander Woodson, had deserted her and left this State, with the intention of permanently abandoning her; or if you believe from the evidence that he had deserted her and left the State, without an intention to permanently abandon her, and that while he was absent it became necessary to dispose of the premises in controversy in order to preserve the interests of plaintiff and his wife. therein from loss, then Martha Woodson had the right, by herself, to make the deed of conveyance; and if you so find, you will return a verdict for the defendant for the land in controversy;” and appellant, in several of his assignments of error, complains of the giving of this charge, because (as he alleges) there was no proof of a necessity for the sale for any purpose, and said charge assumed a fact not in evidence, but calculated to mislead the jury.
+The evidence was undisputed, that appellant left his family, consisting of his wife and several children, and remained away from them for over two years, without making any provision for their maintenance beyond the first five or six months after he left; and the evidence was also undisputed, that the judgment rendered in the case brought by Aaron Woods against appellant’s wife required her to pay to Woods the amount due him, and that she had no means from which to make such payment other than the land itself. We are therefore of opinion that these assignments by appellant are not well taken, and that the evidence was amply sufficient, not only to authorize the submission of this issue to the jury, but to sustain their findings thereon, and that this case is fairly brought within that line of decisions which recognize the right of the wife, when thrown upon her own resources by her husband’s abandonment, to dispose of the community property. Davis v. Saladee, 57 Texas, 326; Cullers & Henry v. James, 66 Texas, 494; Zimpelman v. Robb, 53 Texas, 274; Fullerton v. Doyle, 18 Texas, 13; Wright v. Hayes, 10 Texas, 130; Carothers v. McNese, 43 Texas, 221.
+What we have said disposes of the other assignments of error against appellant, and we are therefore of opinion that the judgment of the court below should be in all things affirmed, and it is so ordered.
+Affirmed.
+Delivered April 12, 1893.
