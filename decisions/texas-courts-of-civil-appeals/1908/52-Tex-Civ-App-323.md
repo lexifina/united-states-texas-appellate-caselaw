@@ -1,7 +1,7 @@
 ---
 court: "Texas Courts of Civil Appeals"
 decided: "1908-11-14"
-citations: ["52 Tex. Civ. App. 323", "52 Tex. Civ. App. 327"]
+citations: ["52 Tex. Civ. App. 323"]
 reporter: "tex-civ-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
