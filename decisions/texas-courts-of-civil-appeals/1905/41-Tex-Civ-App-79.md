@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-12-02"
+citations: ["41 Tex. Civ. App. 79"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Haynie Mercantile Company v. C. G. Miller."]
+source_url: "https://static.case.law/tex-civ-app/41/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4383583
+cites_cases: ["122 Cal., 509", "22 S. W. Rep., 781", "36 S. W. Rep., 808", "43 S. W. Rep., 594", "64 S. W. Rep., 109", "80 S. W. Rep., 137", "85 S. W. Rep., 835", "9 N. Y., 49"]
+---
+
+# Haynie Mercantile Co. v. Miller
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+—Four sections of school land in Moore County were awarded to S. B. Harwell as an actual settler on one of them on applications dated March 9, 1901. He resided on the home section, and met all his obligations as purchaser, until the 25th day of November, 1903, when he executed a deed conveying said land to the appellee, C. G. Miller, who had become an actual settler thereon, which deed, together with the applications and obligations of Miller, as substitute for Harwell, was filed in the General Land Office December 2, 1903. This conveyance was made in pursuance of a written contract between S. B. Harwell and J. M. Miller, the father of C. G. Miller, dated September 5, 1903, and recorded in Moore County September 11, 1903, by the terms of which Harwell, in consideration of thirty-five hundred dollars, deposited in the Amarillo National Bank subject to the conditions of the contract, obligated himself to sell the lands to J. M. Miller, or to such person as he might designate, “after the three years’ proof of occupancy had been made.” However, in making the transfer to C. G. Miller, Harwell “agreed to remit and release the sum of $500 of the original purchase money • mentioned in said contract,” if C. G. Miller, who was the purchaser designated by J. M. Miller, would complete the three years’ occupancy, and release Harwell from further residing on the land and making proof of three years of occupancy. This C. G. Miller did, and, adding his proof of occupancy to that of Harwell, which extended “up to the 25th day of November, 1903,” on March 21, 1904, obtained certificate from Commissioner of General Land Office showing final proof of occupancy.
+November 11, 1903, W. R. Haney brought suit against S. B. Harwell in District Court of Hartley County, Texas, for the sum of $1,979.-25, which Harwell owed him, and on November 25, 1903, caused the lands in controversy to be attached and the return of the levy to be duly recorded. In the following year, after the proof of three years’ occupancy had been made and accepted, Haney obtained a judgment foreclosing his attachment lien, and appellant, a private corporation and assignee in the judgment, became the purchaser at foreclosure sale, and brought this suit to recover the lands, which "resulted in a judgment, on an agreed statement of facts, against it.
+Prior to the levy of the attachment C. G. Miller, who had already become an actual settler, made his applications to the Land Commissioner to purchase the lands, and Harwell executed a deed conveying same to him, hut owing to a defect in said deed, the nature of which is not disclosed by the record, the purchase money in the bank was not paid to Harwell till November 30, 1903.
+Conclusions of law.—On the question, so much discussed in the briefs and arguments, whether school lands sold to an actual settler- are subject to execution against him before he has completed the three years’ occupancy, we are inclined to agree with appellant in the contention that every purchaser of school lands has a vendable interest therein from the date of his purchase, and that such lands are subject to execution for his debts at any time thereafter, but do not find it necessary to decide that question in this casé, since we have concluded that appellant failed to show, by the agreed statement of facts, that the right of the attaching creditor, under whom it claimed, was superior to the right of C. G. Miller, as vendee under the contract with J. M. Miller. No attack was made on this contract, which was prior to the levy, and which gave J. M. Miller the right to have the land conveyed to C. G. Miller. The obligation- of Harwell was, in effect, a bond for title, which is itself treated as a species of conveyance in Texas, and, while the money had not been paid over by the bank when the levy was made, it had passed out of the control of Miller, and Harwell had made a deed to C. G. Miller and admitted him into the possession of the land. It matters not that this deed may have been defective, and that for a valuable consideration Harwell was relieved of part of his obligation. The obligation to convey the land still rested on him if the deed already made did hot have that effect. (See Willis v. Sommerville, 22 S. W. Rep., 781; Downs v. Porter, 54 Texas, 61; Taber v. State, 85 S. W. Rep., 835. The judgment is therefore affirmed.
+Affirmed.
+Writ of error refused.
