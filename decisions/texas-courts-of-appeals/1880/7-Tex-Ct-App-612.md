@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1880"
+citations: ["7 Tex. Ct. App. 612"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Baker v. The State."]
+source_url: "https://static.case.law/tex-ct-app/7/cases/0612-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4415569
+cites_cases: ["17 Kan. 298", "47 Cal. 388", "49 Cal. 166", "49 Cal. 643"]
+---
+
+# Baker v. State
+
+## Majority (White, P. J.)
+
+White, P. J.
+A motion was made to exclude that portion of the testimony of the principal State’s witness which related to the acts and declarations of the co-defendant Braziel in the absence of and before this appellant appeared upon the scene of difficulty; which motion was overruled by the court, -and the ruling duly reserved by defendant’s first bill of exceptions.
+In The People v. Brotherton, 47 Cal. 388, the court hold that where two are jointly indicted the prosecution may on the trial prove the declarations and acts of one done in the absence of the other, before proving the conspiracy between the defendants, provided proof of such conspiracy is afterwards made.
+In the case of The State v. Winner, 17 Kan. 298, the rule declared is, that in any case where such acts and declarations are introduced in evidence, and the whole evidence on the trial, taken together, shows that a conspiracy actually existed, it will be considered immaterial whether the conspiracy was established before or after the introduction of such acts and declarations.
+The rule enunciated in The People v. Geiger, 49 Cal. 643, is that, “the conspiracy to commit a crime being proved on the separate trial of one of the conspirators, the jury are to give the same weight to the declarations of the conspirator not on trial as they would give them if made by the one on trial.” See also The People v. Cotta, 49 Cal. 166.
+Mr. Greenleaf says : “ It makes no difference at what time any one entered into the conspiracy. Every one who does enter into a common purpose or design is generally deemed, in law, a party to every act which had before been done by •the others, and a party to every act which may afterwards be done by any of the others, in furtherance of such common design.” 1 Greenl. on Ev., sect. 111.
+In this case the evidence shows that some of the indicted parties had had a previous difficulty with Walraven, and that defendant and the others determined to go up and have a settlement of it with him at the time of the transaction which gave rise to this prosecution. Braziel reached the scene of action first, and had renewed the difficulty when defendant and the other party charged jointly with the offence arrived upon the ground and immediately took part in it. The evidence clearly shows that all were acting in concert, and this appellant and Watson, the other co-defendant, by immediately taking part with Braziel, adopted the acts and declarations which he had previously made and committed in pursuance of their plan to settle the difficulty, and rendered themselves directly liable and responsible for the same as though they had been personally present at the time they were made and committed. The court, therefore, did not err in refusing to exclude these acts and declarations.
+In the particular portion pointed out and subjected to criticism by counsel in their brief filed in the case, the' charge of the court does not appear to us liable to the objections urged. When subjected to a critical analysis, the' supposed objectionable portions are not in conflict, but fully accord with the well-established statutory provision that “though a homicide may take place under circumstances showing no deliberation, yet if the person guilty thereof provoked a contest with the apparent intention of killing or doing serious bodily injury to the deceased, the offence does not come within the definition of manslaughter.” Pasc. Dig., art. 2260.
+Another objection urged is that the court did not'give defendant the benefit of a charge upon aggravated assault. In our opinion, such a charge was not called for by the evidence, so far as the defendants were concerned. They went to the house of the injured party and renewed the difficulty. This defendant found the parties engaged in a war of words when he came up, and, immediately dismounting from his horse, dared the assaulted party to come out of the yard. As the latter started out of the yard, his pistol fired off in his pocket, when one of the assailants fired tipon him and shot him through the wrist. Two of them seized him and 'threw him down upon the ground, and took his pistol from him, this defendant telling them, “D—n him, shoot him, now you have got his pistol.” Defendant was perfectly willing and anxious to see the other two, who had an unarmed and wounded antagonist down and disabled, shoot him with his own pistol, and thus end the affray by taking his life; and when other parties interfered and released the wounded man, and were bearing him away from the conflict to the house, this defendant, who had throughout been encouraging the others by acts and words, manfully fires his pistol at or towards the retreating enemy, for the purpose of bluffing him, as the witness supposed.
+A bill of exceptions was saved to the action of the court in altering a portion of the charge after it had been read to the jury. The portion altered was in regard to the limitation in offences of this character. It seems that the court had written “ five ” instead of “ three ” years as the time within which the offence must have been prosecuted (Pasc. Dig., art. 2652), and altered the words so as to conform to the law. We do not see how the defendant could have possibly been prejudiced, and moreover the bill of exceptions does not show that the alteration was made after the jury had retired from the court-room to consider of their verdict.
+There is no such error in the record as would warrant us in reversing the judgment, and it is therefore affirmed.
+Affirmed.
