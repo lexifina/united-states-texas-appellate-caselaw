@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-04-19"
+citations: ["55 Tex. Civ. App. 339"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. Kramer v. V. L. Lilley."]
+source_url: "https://static.case.law/tex-civ-app/55/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4406786
+cites_cases: ["40 S. W., 488"]
+---
+
+# Kramer v. Lilley
+
+## Majority (REESE, Associate Justice.)
+
+REESE, Associate Justice.
+This suit, was instituted in the Jus_ tice Court of precinct 6 of Liberty County by Y. L. Lilley, a resident of San Jacinto County, against H. Kramer, a nonresident of the State of Texas, to recover the sum of $104.10 alleged to be owing by defendant to plaintiff. The suit was brought upon a written contract executed by defendant and plaintiff whereby plaintiff agreed to haul for defendant and deliver at Cleveland in Liberty County, Texas, certain staves at an agreed price for such services, which defendant agreed to pay. Cleveland is in the precinct in which the suit was instituted. ¡No place of payment is specified in the contract? Defendant interposed a plea of privilege, alleging that he was a nonresident of the State of Texas, that plaintiff was not a resident of the county in which the suit was brought but was a resident of San Jacinto County, and that the suit should have been brought in the precinct of plaintiff’s residence. With the institution of the suit plaintiff sued out a writ of attachment which was levied upon a lot of staves, the property of defendant.
+The plea of privilege was overruled by the justice of the peace and judgment rendered for plaintiff. The .case was taken by appeal to the County Court, where the plea of privilege supported by proof was again presented and overruled and judgment rendered for plaintiff, from which defendant appeals. ¡No briefs are on file for appellee.
+By the first assignment of error appellant complains of the action of the court in overruling the plea of privilege. The facts on which it is based seem to be undisputed, and are as stated above. There is nothing in the contract providing for payment to be made by appellant in precinct 6, Liberty County. ¡Nothing is said as to the place of payment of the money. That the service was to be performed by appellee in Liberty County and in that justice precinct, does not affect the question, there 'being no contraet by appellant to pay there. Subdivision 4 art. 1585, Rev. Stats., has no application. (Lindheim v. Muschamp, 72 Texas, 33; Mann, Mauck & Stephens v. Clapp & Brown, 1 W. & W. See. 503; Barber v. Foster, 3 W. & W. Sec. 305; Little v. Woodbridge, 1 W. & W., Sec. 152.)
+We think the case comes directly within subdivision 8 of article 1585, Rev. Stats., which requires suits against nonresidents of the State to be brought in the county and precinct of plaintiff’s residence. The plea of privilege should have been sustained and, under the provisions of articles 1194b and 1194c, Acts of 30th Legislature (Acts 1907, page 249) the cause should have been transferred for trial to the Justice Court of the justice precinct of San Jacinto County in which appellee resides. Although this Act does not in terms apply to justice’s courts, we think it does apply by virtue of article 1677, Revised Statutes.
+The attachment sued out by appellee was executed by one T. J. Lilley, who signed his return “Deputy Constable, precinct ¡No. 6, Liberty County, Texas.” It was shown that he was a deputy sheriff of Liberty County at the time, and that there was no constable of precinct ¡No. 6. It was further shown that there was no city of 8,000 inhabitants in said precinct, hence no authority for the appointment of a deputy constable. Appellant made a motion to quash the levy. of the attachment for want of authority in the officer to levy it. It seems clear from the evidence that the officer was acting as deputy sheriff, and that his signature to the writ as deputy constable was a mistake. We think there was no error in allowing the sheriff, whose deputy Lilley was, to correct the return so as to show that the writ was executed by him as deputy sheriff. This, we think, the sheriff could do, and it was not essential that it be done by the deputy himself. This having been done, there was no error in overruling the motion to quash the attachment. There was some indefiniteness in the evidence as to whether Lilley was, at the time of this service, deputy sheriff, but there was sufficient to authorize the court to find that he was.
+However, appellant having pleaded in limine his personal privilege to be sued elsewhere, which plea should have been sustained without proceeding further, on that account this action of the trial court will have to be set aside and the case be tried de novo in the Justice Court to which it will be transferred.
+For the error presented in the first assignment of error, the judgment is reversed and the cause remanded to the .County Court with instructions to sustain the plea of privilege of appellant and to transfer the cause for trial to the Justice Court of the precinct of appellee’s residence as provided by articles 1194b and 1194c, Acts 30th Legislature, as found in chapter 133, page 249, Acts of 1907. The writ of attachment and other process are not affected by this reversal, but the same will stand as though issued out of the Justice Court of the proper precinct.
+Reversed and remanded with instructions.
