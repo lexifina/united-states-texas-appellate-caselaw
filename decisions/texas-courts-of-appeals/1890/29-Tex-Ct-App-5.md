@@ -1,0 +1,37 @@
+---
+court: "Texas Courts of Appeals"
+docket: "7029"
+decided: "1890-06-04"
+citations: ["29 Tex. Ct. App. 5"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ned Carter v. The State."]
+source_url: "https://static.case.law/tex-ct-app/29/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148955
+---
+
+# Carter v. State
+
+## Majority (WHITE, Presiding Judge.)
+
+WHITE, Presiding Judge.
+Article 218 of the Penal Code provides that “any person who has been convicted of a misdemeanor or petty offense, and afterwards hired under authority of law, who shall escape from his employer or person hiring him during the term of which he may have been hired, shall be punished by imprisonment in the county jail not exceeding two years.”
+Appellant was prosecuted by information under this article, and was convicted and his punishment assessed at imprisonment in the county jail for six months. After his conviction the appellant made a motion in arrest of judgment, attacking the sufficiency of the information:
+1. Because it charges no offense against the State.
+2. Because it does not allege that the pretended escape was made without the consent of the employer.
+3. Because it does not negative the payment by the defendant of the fine and costs for which he was hired, nor that said fine and costs were unpaid.
+4. Because it does not allege that the defendant was hired to be kept and to remain in the county of Falls.
+The information was strictly in compliance with No. 142 of Willson’s Criminal Forms. Since this form was prepared the act with regard to hiring county convicts has been amended. Act of March 1, 1887. It is contended that under the amendment to article 3602 of Sayles’ Civil Statutes certain new features have been introduced into the provisions of the law, which render the old form of indictment and information for the ofíense denounced in article 218, supra, insufficient. As for instance, the amendment provides that the convict may be discharged from hire at any time during the term of his hire upon payment of the balance due upon his fine and costs, or upon the expiration of his term of service. It is insisted that in view of this provision the indictment or information is insufficient unless it negatives by allegation the fact that the balance due has been paid, or avers that the term of hire has not expired, and that the obligations of hire are still subsisting against the defendant.
+Our opinion is that the information and the form which it follows sufficiently charge the offense, and that the matters in the amended law are not necessary to be pleaded by the State, but are defensive matters which, whenever established by defendants, will defeat the prosecution. It is not necessary to aver in terms that the escape was made against and without the consent of the employer. Such want of consent is fully and unmistakably comprised in the averment that he did “unlawfully and wilfully escape from the said (A B), his employer, during the term of his employment,” etc.
+Nor is it necessary that the information should allege that defendant was hired to be kept and remain in the county where hired out. A convict hirer’s bond even is not invalidated for want of such a stipulation (3 Texas Ct. App. Civ. Cas., sec. 239), though the law (Rev. Stats., art. 3602), expressly provides that the convict can only be hired to remain in the county.
+We are of opinion that none of the grounds stated in the motion in arrest of judgment are maintainable, and that the court did not err in overruling the motion. But we are of opinion that the verdict and judgment are wholly unwarranted and unsupported by the facts as shown by the record.
+Appellant was charged with an escape from his hirer. In common acceptation “escape” means to flee from, to avoid, and become secure from danger. Webster’s Die. In law there are several different kinds of escape, but the kind contemplated by the statute under which this prosecution was had means an actual escape; that is, such as takes place when the prisoner gets out of prison or any place in which he may be confined, or from and out of the authority in whose custody he is, and unlawfully regains his liberty, freed from the authority and control of the power entitled to restrain him. Bouv. Law Die. The facts, stated from the record, show that appellant had been hired by the county judge of Falls County to H. Rickelman to satisfy the fine and costs adjudged against him in a misdemeanor case in the County Court of said county; that Rickelman gave bond and took charge of the defendant, only one surety being given on said bond, and sent him to work under one George Welle, his overseer, on his, Rickelman’s, Brazos bottom farm, some three miles from Marlin, where Rickelman lived. Appellant moved his family, consisting of his wife and children, with Rickelman’s consent, to the same farm where he, appellant, was working, and worked regularly as a farm hand up to the date charged in the information. After this, as the facts show, he did not work regularly, but would ride about the farm and occasionally go to Marlin; that when said RickelmaU remonstrated with him about his failure to work he would “just laugh” at him; that he continued, together with his family, to remain on Rickelman’s place till long after the information was filed, the overseer stating that he was glad to have them there to pick cotton, which he paid them for; that he and his family remained continuously from the time they went there on said Rickelman’s place till the second of January, 1890, and that he, appellant, never left the place except to go to town occasionally, which Rickelman did not object to. It was shown that he refused to work, and that he did not have the consent of Rickelman to ride about the place; that at the time of the alleged escape only about two months hire had been paid on the bond; that Rickelman knew that appellant was on his place when he filed the charge against him, and knew that he had not escaped, and told the sheriff who served the papers where he could be found. Appellant was arrested in Marl'in, and was never at any time out of the county; was refractory, refused to work, but never escaped, remaining with his family all the while on his employer’s place.
+We think these facts fail to show such an escape as the statute contemplates. [They do, perhaps, show refractory conduct on the part of the convict, for which he could and doubtless should have been punished in the manner provided in article 3593 of the Revised Statutes for county convicts, as follows, viz.: “When a convict refuses to labor or is other-
+wise refractory or insubordinate, he may be punished by solitary confinement on bread and water, or in such other manner as the Commissioners Court may direct.” We are aware of no other mode of punishment which has been provided by law for such cases.]
+Because the evidence fails to support the verdict and judgment, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Judges all present and concurring.
+ON MOTION FOR REHEARING.
+That portion of the opinion in brackets, which relates to the punishment of a refractory convict, is dicta, and, not being necessary to a decision of the cáse, is stricken out, and the motion for a rehearing is overruled.
