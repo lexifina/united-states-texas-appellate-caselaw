@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-02-02"
+citations: ["25 Tex. Civ. App. 293"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Lawrence v. Texas Central Railway Company."]
+source_url: "https://static.case.law/tex-civ-app/25/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2870553
+cites_cases: ["34 S. W. Rep., 510", "35 S. W. Rep., 1042", "38 S. W. Rep., 520", "43 S. W. Rep., 508"]
+---
+
+# Lawrence v. Texas Central Railway Co.
+
+## Majority (HUNTER, Associate Justice.)
+
+HUNTER, Associate Justice.
+Appellant was a section hand in the employ of appellee, when he, with his section gang, was ordered by the foreman to unload a car of cross ties which had been set out on a side track, it appearing to be a part of his duty as a section hand to perform this kind of service when so ordered. Flippen and another section hand were inside the car throwing out the cross ties, while appellant and another section hand were picking them up and bearing them a few feet away from the track and stacking them. Flippen had been working with appellant and the section gang for about three months, but, it seems, was considered a new man. Several times while unloading the car Flippen was cautioned to be careful, that he was liable to hurt some one; and while appellant and his companion were taking hold of a tie, Flippen threw off one on top of the one appellant had hold of, and it mashed or cut off his thumb. There was evidence tending to prove that Flippen was a reckless, careless, incompetent man, and by reason thereof a dangerous man to work with, and that the foreman of the section gang knew it, and this suit for damages was based upon that theory. The defense was that plaintiff, with full knowledge of the incompetency of Flippen, and the danger of working with him, remained in the service of the company and thereby assumed the risk of injury. Also, that the injury was caused by the act of a fellow-servant, and that defendant is not, by reason thereof, liable. There is some evidence also in the record tending to prove that appellant, before the injury, knew of Flippen’s- incompetency, though he denies it.
+On the trial of the cause the court, among other things, charged the jury as follows: “(8) A fellow-servant assumes all the risks ordinarily incident to the business in which he is engaged, and when he has equal facilities with the master or vice-principal, for ascertaining the danger incident to the labor in which he is engaged, he is held by the la-w to have assumed a risk incident to his employment. (9) Again, if the alleged fellow-servant, Jim Flippen, was in fact reckless, negligent, dangerous, and incompetent, and if plaintiff was injured by the negligence of said Flippen, yet if you find from the evidence that the plaintiff knew, or by the use of ordinary care could have known, the reckless, negligent, and incompetent character of said Flippen, then the plaintiff would not be entitled to recover, and you will find for the defendant.”
+The assignments to these charges must be sustained, and so also must be the fourth assignment. If a 'servant know of the reckless character of a fellow-servant, or of his incompetency whereby it becomes dangerous to work with him, he assumes the risk of longer working with him. He need not inquire or investigate as to the competency of any fellow-servant. He may rely upon the diligence of the master, and assume that he will not put him to work with an incompetent man, nor put an incompetent man to work with him. Hence it was error, as held in the cases below, to charge the jury that if “by the use of ordinary care the plaintiff could have known of Flippen’s incompetency, he could not recover.” Railway v. Crenshaw, 71 Texas, 340; Railway v. Johnson, 89 Texas, 519, 35 S. W. Rep., 1042; same case, 90 Texas, 304, 38 S. W. Rep., 520; Railway v. Hannig, 91 Texas, 351, 43 S. W. Rep., 508; Railway v. Eberhart, 91 Texas, 331, 34 S. W. Rep., 510.
+What we have said here will also indicate the error in the charge, to the effect that, “If the servant had equal facilities with the master for ascertaining the danger incident to the labor in which he is engaged, he is held by the law to have assumed the risk of such danger.” This rule, it seems, does not apply in cases like this, where the injury is alleged to have been caused by the incompetency or recklessness of a fellow-servant, but only to cases where the physical surroundings make the danger as obvious to the servant as to the master. Railway v. Lempe, 59 Texas, 19.
+Appellant’s counsel insist that the company is liable for the injury, although the section hands engaged in unloading the car were fellow-servants with him, because, it is insisted, they were, while unloading the car, engaged in the business of operating it within the meaning of article 4560f of the Revised Statutes. We think not. The unloading of a car by section hands is not operating it.
+For the errors in the charge as above indicated, the judgment is reversed and the cause remanded for a new trial.
+Reversed, and remanded.
