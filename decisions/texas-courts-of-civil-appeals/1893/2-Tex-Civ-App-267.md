@@ -1,0 +1,35 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "211"
+decided: "1893-02-02"
+citations: ["2 Tex. Civ. App. 267"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. S. Smith and Wife v. Joseph Tripis."]
+source_url: "https://static.case.law/tex-civ-app/2/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 219130
+---
+
+# Smith v. Tripis
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+Tripis brought this suit to recover for a balance alleged to be due by the defendants to him as commissions for the sale effected by him of land which was the separate property of the wife.
+Defendants demurred to the petition, because it did not show,that there was any such contract to pay commissions as would bind Mrs. Smith. They also defended, and denied their liability, because in effecting the sale plaintiff had fraudulently acted also as the agent of J. B. Rosborough and J. M. Rosborough, the purchasers of the land, and was himself interested in the purchase.
+Mrs. Smith pleaded in reconvention for the sum of $1000 already paid to plaintiff by her husband out of the proceeds of said land, which was her separate estate. She alleged fully the want of authority on the part of her husband to make the contract with plaintiff to pay him such commissions; and averred that if any trade or contract was ever made between the plaintiff and her said husband, it was without her knowledge or consent, and was made in fraud of her rights. She denied that she had ever consummated the trade as alleged by plaintiff, or that she had ever recognized the plaintiff as her agent in the sale of the land, or that she had ever paid or agreed to pay plaintiff any sum of money for his pretended services. She alleged, that said sum of $1000 was paid out of her separate funds by her husband, without her knowledge or consent, and in utter disregard of and in fraud of her rights; and that the payment was made through the false and fraudulent representations of the plaintiff, and through the ignorance and mistake of her said husband, and that the money was wrongfully and illcgalty received by the plaintiff; wherefore she prayed judgment for the recovery of the money, with interest.
+As shown by a bill of exceptions, the plaintiff made a verbal motion Ur strike out the plea in reconvention, which was sustained, and an exception was taken.
+On presentation of the demurrer to the petition, that it did not show a cause of action against Mrs. Smith, the demurrer was sustained, and Mrs. Smith was dismissed from the suit and judgment was rendered in her favor on the cause of action set up by the plaintiff.
+On trial by the court, the plaintiff recovered judgment against the defendant S. H. Smith for the amount sued for. Both defendants have appealed.
+The court should not have entertained an oral demurrer to Mrs. Smith’s plea in reconvention. The plea also showed a good cause of action in Mrs. Smith for the recovery of the $1000 already paid by the defendant S. II. Smith to the plaintiff, and the court erred in dismissing the same.
+The petition itself failed to allege sufficient facts to show the liability of Mrs. Smith for the commissions claimed by the plaintiff. Her plea in reconvention alleged that she was not liable; that she never ratified the sale, nor in any manner bound herself to pay the money that was paid; and that the same was paid in fraud of her rights and without her consent or knowledge. The facts set out in the plea are fully sufficient, if true, to authorize a recovery by Mrs. Smith from Tripis of the money already paid to him.
+It appeared from the evidence, that sometime in December, 1890, Smith requested Tripis to sell the land, and fixed the minimum price at $4 per acre. The land was an undivided one-fourth interest in 36,000 acres in Aransas County, and belonged to Mrs. Smith in her separate right. Smith agreed with Tripis to pay him a commission of 5 per cent. Sometime after this, Tripis was in San Antonio, where he met J. M. Rosborough, who inquired of him if he knew of any good investments in lands down in his country, stating that his uncle, J. B. Rosborough, of Salt Lake, had some surplus money that he wanted to invest. Tripis told him of the land, and that it could be had at $4 an acre; and after he returned to Rockport he entered into a correspondence with J. M. Rosborough on the subject. 1-Ie told Smith he thought he had found a purchaser.
+The Rosboroughs went to Rockport and wanted to see Smith, but Tripis kept them apart, representing that it would result in breaking up the trade if they met, and that if anything could be effected in reducing the price of the land he could do it better than any one else, and pretended to go and see Smith The Rosboroughs supposed that he was their agent in effecting the trade for the land, and although they paid him no commission for making the purchase, they agreed to let him into the purchase as an equal partner, and J. B. Rosborough advanced him the money to pay his proportion of the first payment of $5000.
+Smith and wife signed a contract by which they agreed to convey the land to the Rosboroughs and Tripis, the latter representing to Smith that the Rosboroughs would not take the land unless Tripis was admitted as an equal partner in the purchase. J. B. Rosborough gave a draft for the $5000 cash payment, and when the draft was collected two or three weeks afterwards, Smith paid Tripis out of the proceeds $1000, and Tripis asked him to say nothing to the Rosboroughs about having paid him a commission. In making the sale and purchase Tripis was acting for himself and in his own interest.
+Without further statement of the facts, we think that the admitted facts in the case show that Tripis placed himself in hostility to the interests of his principal. The price $4 was given by Smith to Tripis as a minimum price, and it was the duty of Tripis to get as much for the land as possible. When he became interested in the purchase he put himself in hostility to the interests of his principal.
+J. D. Rosborough testified, that Tripis was interested with them from the start; that they wanted him to take a less interest, but he insisted that-the land was cheap, and he wanted to buy, and would be valuable to them in colonizing the land. The facts show that Tripis was not entitled to recover, because he became interested adversely to his principal Smith. Although Smith knew that Tripis was interested as a purchaser with the Rosboroughs when he and his wife signed the contract of sale, he was not in possession of all the facts showing the adverse interest of Tripis. The finding of the court that Tripis acted in good faith with Smith is not sustained by the evidence. The objection to evidence on account of variance may be avoided on another trial.
+The judgment of the court below will be reversed and the cause remanded for another trial.
+Reversed and remanded. ■
+Delivered February 2, 1893.
