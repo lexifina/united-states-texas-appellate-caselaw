@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1479"
+decided: "1883-02-24"
+citations: ["13 Tex. Ct. App. 514"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Williamson v. The State."]
+source_url: "https://static.case.law/tex-ct-app/13/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133411
+---
+
+# Williamson v. State
+
+## Majority (Willson, J.)
+
+Willson, J.
+Upon the trial of defendant for the theft of a steer, which the indictment alleged to be an estray, and that the owner thereof was to the grand jurors unknown” the State, over the objections of the defendant, was permitted to prove by one Anderson that, about four years after the alleged theft, the defendant sold him an animal having upon it the same brand that was upon the alleged stolen steer, and that said animal was afterwards claimed and proved away from witness by one Allen as being the property of one Bryant, and that witness informed defendant that the animal had been so claimed and proved away, and defendant paid him back the money he, witness, had paid for the animal. This evidence was objected to by defendant when offered, but' his objections were overruled; to which action of the court the defendant excepted.
+We are of the opinion that this evidence was irrelevant and inadmissible. As a general rule, the evidence must be confined to the issue, or tend to prove the issue, or constitute a link in the chain of proof. Evidence of a distinct, substantive offense can not be admitted in support of another offense. There are, however, well established exceptions to this general rule, but they will be found to be in cases which relate to knoioledge or intent of the party as to some material fact which, though apparently collateral, had some bearing on the main fact. (1 Whart. Cr. Law, 647; Whart. Cr. Ev., sec. 30 et seq.; Bish. Cr. Proc., sec. 1064; Wilburn v. The State, 41 Texas, 257; Fore v. The State, 5 Texas Ct. App., 257; Gilbraith v. The State, 41 Texas, 567, Green v. The State, 12 Texas Ct. App., 51.)
+We can not perceive that the testimony of Anderson tended in the most remote degree to prove or disprove any issue in the case on trial. The transaction with Anderson occurred long after the alleged theft, and bore no relation to it. Whether or not it had any influence upon the minds of the jury, we can not know. We think it was well calculated to prejudice the defendant, and to injuriously affect his rights upon the trial, and that the court erred in admitting it. We might reverse the judgment for this error alone, but there are other errors shown by the record which we think it advisable to call attention to, in view of another trial of the cause.
+It is alleged in the indictment that the steer was an estray, the owner of which was to the jurors unknown. Upon the trial it was shown that the steer was not an estray, but was claimed as the property of one Bryant, and was in charge and under the control of the two Beemans. It was also shown that McFall, who was a witness in behalf of the State, and who was also a witness before the grand jury that found the bill, knew, at the time he testified before the grand jury that the steer was claimed by the Beemans as the property of Bryant. If the grand jury had interrogated him in regard to the ownership of the steer, it is reasonable to suppose that he would have stated the fact, which was then within his knowledge, that the Beemans claimed the same, and the Beemans resided within four miles of the court house, and could have been summoned before the grand jury to testify as to the ownership of the 'animal. As presented to us, the evidence shows that the grand jury did not use reasonable diligence to ascertain the important fact of ownership, if in truth the steer belonged to Bryant. (Jorasco v. The State, 6 Texas Ct. App., 238.)
+It seems that the prosecution, instead of endeavoring by its evidence to prove the allegations in the indictment, that the steer belonged to some one unknown, and was an estray, sought to prove the contrary. Having taken this course, w]ien it had proved ownership in Bryant, or raised a reasonable doubt of the truth of the allegations in the indictment as to ownership, it must go farther and prove also that the grand jury which found the bill did not know the owner or claimant of the property, and could not have known the same from the witnesses, by the use of reasonable diligence. Failing in this, there was a fatal variance between the allegations in the indictment and the evidence as to ownership.
+Again, proceeding upon the case attempted tó be made out by the State, that Bryant was the owner of the steer, there is no proof of a want of consent on the part of Bryant to the taking. It has been held by this court that where the proof shows that one person owned the property and another person had the possession, management or control of it, the want of consent to the taking of both such parties must be shown; first, by the parties themselves; second, if the parties are not attainable, and this fact is shown, circumstantial evidence may be resorted to. (Wilson v. The State, 12 Texas Ct. App., 481, and authorities there cited.) In this case Bryant, the supposed owner of the steer, resided in an adjoining county. He was not produced by the State to prove his ownership of the alleged stolen animal, nor his want of consent to the taking thereof, nor was any reason given why he was not produced.
+There is also a want of proof as to the venue of the offense. It is not shown by the statement of facts before us, either directly or circumstantially, in what county the alleged theft was committed.
+There are other errors assigned in the case, but they are such as will not in all probability occur on another trial, and we do not think it would be profitable to discuss them.
+Because of the errors we have noticed, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Opinion delivered February 24, 1883.
