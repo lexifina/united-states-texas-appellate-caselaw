@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1908-10-31"
+citations: ["52 Tex. Civ. App. 175"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["N. D. Dycus v. Traders’ Bank & Trust Company."]
+source_url: "https://static.case.law/tex-civ-app/52/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4411519
+cites_cases: ["138 U. S., 271", "47 Am. St. Rep., 194", "5 Wall., 74", "82 S. W., 662"]
+---
+
+# Dycus v. Traders' Bank & Trust Co.
+
+## Majority (RAINEY, Chief Justice.)
+
+RAINEY, Chief Justice.
+— This is an appeal from an order granting a temporary injunction restraining the appellant from installing a moving picture show in a building that had been leased from appellee by appellant.
+Plaintiffs petition alleged in substance that the property in controversy had been on July 11, 1908, leased to defendant for use as a billiard and pool hall, and not otherwise; that a moving picture show would be a use not permitted by the lease, and it would be a nuisance generally; that it would increase the fire hazard, contrary to the terms of the lease, and that alterations were being made in the building, contrary to the terms of the lease.
+Defendant answered by general and spebial exceptions, general denial and specially, an express agreement and permission for the use of the building as a moving picture show, etc.
+Upon the hearing of the application for the temporary writ, after notice to defendant, the court granted the writ and the cause is here for review.
+The written lease under which Dycus held the building provided that the premises were to be “occupied as a pool and billiard room, and not otherwise;” that “no improvements or alterations shall be made in or to the hereby demised premises without the consent of the lessor in writing.” “That the lessee shall not assign this agreement or underlet the premises, or any part thereof, except as may be mentioned above, or make any alterations in the building or premises, except as may be mentioned above, without the consent of the lessor in writing, or occupy, or permit, or suffer the same to be occupied for any business or purpose deemed extra hazardous on account of fire.” The lease was signed: “Traders Bank & Trust Company, by J. Dabney Day, Cashier, and N. D. Dycus, Lessee.”
+It was shown that Dycus was preparing to use the building to run a moving picture show, and the use of said building for such a purpose would make it extra hazardous on account of fire.
+The appellant claims that about noon, September 30, 1908, he’ had a verbal agreement and understanding with Day, cashier, by which Day consented to his using said building for' operating a moving picture show therein. Day practically admits this, but that about 6:30 o’clock of the same day he informed Dycus that such use of the building would not be permitted. In the meantime Dycus had been to some trouble and expense in preparing the building for use in operating the moving picture show.
+Is the bank bound by this action of Day, its cashier? We think not. The appellant is a banking corporation under the laws of this State, and its charter provides that “the property or business of the corporation shall be controlled and managed by the directors,” etc. This is also in effect the provision of the statutes, article 661 Revised Statutes. The by-laws of the appellee, in defining the powers and authority of the cashier, read: “The duties of the cashier shall be to loan and invest the funds of said corporation under the supervision of the board of directors, to keep a record of all stock subscribed and transferred, and minutes of all meetings of the stockholders and directors, supervise the keeping of all records and all business transacted by the corporation, to present at the annual and other meetings of the stockholders or directors all reports required by law or the board of directors, to perform the duties usually required of secretaries and cashiers of corporations and the duties required by the laws of the State of Texas, and to perform such other duties as the board of directors may impose.” From this it seems the cashier had no power or authority to change or alter the provision of the lease contract without the consent or permission of the board of directors of the appellee. There is no proof that the board of directors ever authorized such action on the part of Day or in any way sanctioned it. We therefore conclude that the verbal agreement changing the provisions of the written lease contract was unauthorized, and leaves the original contract in full force. Kolp v. Specht, 11 Texas Civ. App., 685; Temple v. Dodge, 88 Texas, 69; Fitzhugh v. Franco-Texas Land Co., 81 Texas, 311.
+Then the question for consideration is, whether or not the appellee is entitled to the writ of injunction to restrain Dycus from using the building for any purpose other than a “billiard and pool hall,” or for a business deemed “extra hazardous on account of fire.”
+It is contended that appellee had an adequate remedy by suit for damages, and therefore was not entitled to an injunction. Our statutes provide that an injunction may issue “where it.shall appear that the party applying for such a writ is entitled to the relief demanded, and such relief, or any part thereof, requires the restraint of some act prejudicial to the applicant.”
+In Sumner v. Crawford, 91 Texas, 129, Justice Denman, speaking for the court, quotes this language: “It is not enough-that there is a remedy at law; it must be plain and adequate, or, in other words, as practical and efficient to the end of justice and its prompt administration as the remedy in equity,” citing Watson v. Sutherland, 5 Wall., 74; North v. Peters, 138 U. S., 271. He also said: “In courts administering both law and equity, like ours, the rule denying injunctions when there is a remedy at law should not be applied as rigidly as at common law, where the issuance of the writ in equity was to a certain extent an invasion of the jurisdiction of another tribunal.”
+The contract of lease in this case restricts the use of the building to a “billiard and pool hall,” and an injunction will lie restraining the use to any other purpose, although it may appear that no particular damage would result from such other use. 22 Cyc., p. 859-862; Gulf, C. & S. F. Ry. Co. v. Puckett, 82 S. W., 662.
+Affirmed.
