@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-03-30"
+citations: ["35 Tex. Civ. App. 341"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. B. Rice, Administrator, v. J. D. Conwill."]
+source_url: "https://static.case.law/tex-civ-app/35/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1977525
+---
+
+# Rice v. Conwill
+
+## Majority (FLY, Associate Justice.)
+
+FLY, Associate Justice.
+Appellant instituted this suit against appellee on a promissory note for $675 alleged to be due for the rent of a farm in Fannin County, belonging to the estate of W. M. Rice, deceased, of which appellant was administrator, for the year 1902. It was admitted that $475 had been paid on the note. Appellee answered admitting that he had rented the farm and had given the note, but alleged that W. G-. Rucker, an agent for appellant, authorized appellee to make all necessary improvements on the farm and promised to pay appellee for them; that said Rucker paid for the improvements made in 1901, but had refused to pay for improvements made in 1902, although he had agreed to pay $200 for the same. Appellee in addition to a claim for improvements alleged that the agent had agreed to pay him $50 for assisting him in selling land belonging to the estate, which sums were pleaded in offset to appellant’s claim. The cause was tried by jury and resulted in a verdict and judgment in favor of appellee for $200.
+The rental contract was for three years and was made by and between W. G. Rucker, acting for the administrator, and appellee. It is not pretended that the agreement in regard to improvements was a part of the written contract, but the claim for improvements is based on a letter written after the execution of the contract, by Rucker to appellee, which was not produced. It was not alleged or proved that the administrator had authorized the building of the improvements, or that he had any authority from any court to make such improvements.
+Administrators are creatures of the statutes and have no powers except those conferred therein. The only direct and specific power conferred upon administrators in connection with the repairs or improvements of an estate is, that he is authorized to keep the buildings in tenantable repair, extraordinary casualties excepted, unless not directed to do so by an order of the court. Rev. Stats., art. 1983. It is not pretended that the improvements for which pay is demanded by appellee could be justified by that statute.
+In article 1984 it is provided that the executor or administrator shall carry on a plantation, manufactory or business belonging to the estate, or cause the same to be done, or rent the same as shall appear to him to be most for the interest of the estate. Appellant rented the farm, and when he had done so he had exhausted all the authority given him by the last named statute in connection with the farm. The two statutes cited give all the authority that appellant had without resorting to a court for orders. In this case the administrator is charged with ditches to the amount of $365.81, pools $322.06, and lumber, paint, papering, selling land, hauling and building barns and sheds in the sum of $311.49. The administrator, in the absence of an order of court, had no authority to contract in person, much less through the medium of an agent, for such improvements. If such power was vested in an administrator it would often result, as in this case, not only in consuming the entire income from the property, but in becoming a charge thereon, and in some instances in consuming the entire property to pay for improvements.
+If the administrator had been given such authority by the laws of the State it did not authorize him to delegate matters of such momentous discretion to an agent. Acts which are merely mechanical or ministerial may be committed by the administrator to an agent, but in matters of discretion where the very existence of the property of the estate may be at stake, the power must be exercised by the administrator. Terrell v. McCown, 91 Texas, 231.
+The contract for the improvements being clearly beyond the power of the administrator, there could, of course, be no ratification of it by the administrator. However, there is nothing to indicate any attempt at ratification. The agent denied that he ever made such a contract and knew nothing about the improvements being made.
+It may appear to be a hardship on appellee that he can not recover for the improvements, but the laws of the State put him on notice that an administrator could not make such contracts, and it is much better that he should be the loser than that a precedent should be laid for the collection of claims against an estate that have not arisen in a statutory manner.
+Appellee has admitted the justice of the claim of appellant, and it is therefore the order of this court that the judgment of the County Court be reversed, and the judgment be here rendered that appellant recover of appellee the sum of $200 with interest at the rate of 10 per cent per annum from December 1, 1902, and 10 per cent attorney’s fees, and that-the landlord’s lien be foreclosed on the property described in the petition, which was seized under a writ of sequestration, and that appellant recover all costs of this and the lower court.
+Reversed and rendered.
