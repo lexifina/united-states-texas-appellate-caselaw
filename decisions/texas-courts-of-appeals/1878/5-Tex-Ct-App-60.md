@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["5 Tex. Ct. App. 60"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Kirbie et al. v. The State."]
+source_url: "https://static.case.law/tex-ct-app/5/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4417259
+---
+
+# Kirbie v. State
+
+## Majority (Winkler, J.)
+
+Winkler, J.
+This is an appeal from a judgment of conviction upon a charge of false imprisonment of one J. M. Parker. On the trial below, the defendants attempted to justify by proving that, at the time of the offence charged against them, the constable of the precinct held a warrant for the arrest of Parker, and that the defendants were of the constable’s posse, aiding him in searching for and arresting Parker, and, as such, were protected by law in doing the acts upon which the false imprisonment is assigned.
+It appears from the statement of facts and bills of exception to the rulings of the court on the evidence, as well as from the charges given to the jury, and those asked by the defendants and refused by the court, that the trial was made to turn upon the evidence as to whether the defendants were of the constable’s posse or not. No serious question is made as to the facts, that a regular warrant for the arrest of Parker had been issued by a justice of the peace, founded upon an affidavit charging Parker with an assault with intent to murder; that the warrant had been placed in the hands of the constable; and that, at the time of the offence charged against these defendants, it was in the hands of the constable, or of some one called upon by him to' aid in making the arrest.
+Upon the vital question the jury were instructed as follows: “ If the jury believe that these defendants were called upon by the officer having the warrant of arrest to assist such officer in hunting up the defendant (Parker) in the warrant, or in making the arrest, and if they were employed and recognized by the officer having the warrant, it makes no difference whether the defendants had the warrant at the time of the arrest of Parker or not; in such instance the defendants are not guilty of the crime- charged in the indictment, and the jury will acquit.”
+Additional instructions were asked by the defendants and refused by the court, which, on comparing them with the charge given, embrace no further views than those expressed in the general charge, except the idea, apparently, that if the defendants believed they were protected by the warrant they could not be convicted. We are of opinion that when one is a mere volunteer, he is held to knowledge of his right to interfere ; and if the protection is to be afforded by a warrant iii the hands of another, and if he interfered, he did so at his peril. There are cases where any person may arrest without warrant, but it is not claimed that the present case belongs to that class.
+We are of opinion that the charge of the court, as above set out, gave to the defendants the benefit of all the protection the law afforded those who claimed the shield of the warrant of arrest. Whether the charge did not go too far is not the question. If there was error in it, it enured to the benefit of the defendants, and they cannot be heard to complain. There was no bill of exceptions saved to the charge as given.
+It is shown by a bill of exceptions that, on the trial below, the defendants called for the production of the transcript of the proceedings, in the hands of the district clerk, of the case of The State v. Parker, which was objected to by the prosecution because irrelevant. The judge, in signing the bill of exceptions, states, in effect, that the matter was waived; that one of the counsel stated he believed he could make the desired proof by witnesses present, which, he says, was “ the last time the warrant was called for, and which was not refused by the court.” Another bill of exceptions recites that after Justice Jewell had stated, on his examination in chief, that he had issued a writ for J. M. Parker, on a charge of assault with intent to murder William Phillips, he desired to prove by the witness, on cross-examination, that Parker had been tried and bound over to await the grand jury; which was excluded because irrelevant.
+In this there was no error. The status of the defendant was fixed at the time of the arrest, and did not depend on the final result of the charge upon which the arrest was made.
+In the present case it is conceded by the charge — based, we may say, upon the evidence — that at the time of the interference by these defendants a warrant had issued for the arrest of Parker, the validity of which is not questioned, and that the warrant, agreeably to the charge, was sufficient to protect the posse of the constable ; but the case, as we have seen, turned on the question whether the defendants had been called on to aid in the search and arrest of Parker. The jury, by their verdict, must necessarily have determined in their own minds that the defendants did not stand in such relation to the officer, else they could not have convicted under the charge of the court.
+Agreeably to Mr. Archbold, “ all the prosecution has to prove is the imprisonment, for that is presumed to be unlawful until the contrary is shown. It is for the defendants to justify it, by proving that it was lawful.” 2 Arch. Cr. Pr. & Pl. 293.
+There was some conflict in the evidence as to the instructions given by the officer to those engaged in the search, but with this it was the business of the jury to deal. There was sufficient testimony to support the verdict; and, the record not disclosing any material error, the judgment is affirmed.
+Affirmed.
