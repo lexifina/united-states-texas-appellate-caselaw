@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1881"
+citations: ["10 Tex. Ct. App. 469"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mike Gallagher v. The State."]
+source_url: "https://static.case.law/tex-ct-app/10/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4432397
+cites_cases: ["1 Sneed, 637", "15 Iowa, 123", "3 Sneed, 64", "45 N. H. 281", "7 Humph. 9", "7 Iowa, 41", "7 Met. 52", "8 N. Y. 69"]
+---
+
+# Gallagher v. State
+
+## Majority (White, P. J.)
+
+White, P. J.
+The indictment in this case was brought under a statute which reads, “ If any person knowing himself not to be a qualified voter shall at any election vote or offer to vote for any officer then to be chosen, he shall be punished by confinement in the penitentiary not less than two nor more than five years.” Penal Code, art. 165. After the formal parts the charge is thus set forth, viz.: “ That Hike Gallagher, late of said county, on the -5th. day of April, A. D. one thousand eight hundred and eighty-one, and in said county and State of Texas, did then and there unlawfully, and feloniously, at an election then and there held and authorized by law, within and for the corporation of the city of Weatherford, vote for city attorney and other officers then and there to be chosen at said election; he the said Hike Gallagher not then and there being a qualified voter at said election, for that he had been by the District Court of Dallas county, State of Texas, convicted in said court of the crime of burglary, and' by said court sentenced to the State penitentiary for the term of two years,— all of which the said Hike Gallagher did well know, and he the said Hike Gallagher did then and there know himself not to be a qualified voter under the laws of the State of Texas at said election; contrary,” etc.
+Defendant filed a motion to quash upon the following-grounds:
+“ 1st. Said indictment fails to allege or charge what the alleged election was held for.
+“ 2d. Said indictment fails to allege an offense in plain intelligible language, so as to enable defendant to determine for what he is being held and tried.
+“ 3d. The indictment fails to show and allege defendant’s disqualification in this, that it fails to allege any final judgment of a court of competent jurisdiction, and fails to allege that any final trial or judgment was had or entered against defendant. ”
+An inspection of the indictment shows the futility of the first two grounds. The authority of the election was not necessary to be averred (State v. Hayworth, 3 Sneed, 64; State v. Marshall, 45 N. H. 281), nor the authority of the officers (State v. Rundels, 7 Humph. 9; People v. Cook, 8 N. Y. 69), nor the names of the candidates (State v. Minnick, 15 Iowa, 123). It is alleged that the election was “held and authorized by law within and for the corporation of the city of Weatherford,” which sufficiently stated the place of voting; and that the vote was “for city attorney and other officers then and there to be chosen at said election” clearly shows for what purpose said election was held. Hoskey v. State, 9 Texas Ct. App. 202. In a word, “the indictment charges where the election was held, what officers were then to be elected and that such election was authorized by law. w Any other or further averment in this respect was unnecessary. To say that defendant voted at an election authorized by law then and there holden includes the further idea that it was held by the proper officers.” State v. Douglass, 7 Iowa, 41. This court judicially knows that corporations are authorized by law to hold elections for city attorney as well as other municipal officers. Rev. Stats. arts. 344, 345.
+With regard to the 3d objection, that the indictment • fails to set out with certainty and sufficiency the disability under which defendant was laboring, it is to be noted that in several of the States, under statutes similar to ours above quoted, it has been held unnecessary to aver the particular disability. The Comm. v. Shaw, 7 Met. 52; State v. Marshall, 45 N. H. 281; U. S. v. Quinn, 12 Int. Rev. Dec. 151.
+In Douglass’ case, 7 Iowa, 41, it was said, “the essence of the offense in this case is that the defendant voted knowing he was disqualified. Under it any disability might be shown; or the State might prove from the admissions of the defendant, or otherwise, that he knew he was disqualified and was in fact disqualified, without proving in what the disqualification consisted.” In 27ew Jersey and Tennessee, however, it has been held that “ the particular disability must be specified.” State v. Moore, 3 Dutch. 105; State v. Tweed, 3 Dutch. 111; Pearce v. State, 1 Sneed, 637; 2 Whart. Precedents and Pleas (3d ed.), § 1019, and note.
+We are of opinion the better and safer practice is to set out the particular disability. The disability alleged was conviction for the crime of burglary. The word “convicted ” used by the pleader has a definite signification in law. It means that a judgment of final condemnation has been pronounced against the accused. Penal Code, art. 27; 1 Bouv. L. Dic. word “ Conviction.”
+To say that a party had been ‘ ‘ convicted ” and then add that he stood his final trial and that “judgment final” was rendered against him would be tautology. Moreover, the word “convicted” is the proper statutory word to convey the idea that a party is disqualified from voting because he has been tried and condemned for a felony. In the chapter on suffrage it is declared that “the following classes of persons shall not be allowed to vote, to wit, * * * 3. All persons convicted of any felony.” Rev. Stats. art. 1687. And precisely the- same language is used in the Constitution on the same subject. Const. art. VI, subdivision fourth, sec. 1.
+We are of opinion that the third ground of the motion to quash was likewise untenable, and that the court did not err in overruling the motion to quash the indictment nor the motion in arrest of judgment, -this last motion being substantially based upon the same grounds as the motion to quash. We fail to see any such error in the proceedings of the trial exhibited in the record as requires a reversal of the judgment, and the judgment is therefore affirmed.
+Affirmed.
