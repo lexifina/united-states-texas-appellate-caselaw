@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1881"
+citations: ["11 Tex. Ct. App. 265"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Gardner v. The State."]
+source_url: "https://static.case.law/tex-ct-app/11/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4430047
+---
+
+# Gardner v. State
+
+## Majority (Hurt, J.)
+
+Hurt, J.
+The appellant was convicted of manslaughter, and his punishment assessed at two years’ imprisonment in the penitentiary.
+The evidence, we think, required a charge on the law of self-defense. This was given by the court, negatively. This was error. The court below should apply the law appropriately to "the defense or defenses of the prisoner whenever there is evidence tending to support them. The court charged the law applicable to a case in which there was evidence tending to show that defendant provoked the difficulty or produced the occasion, etc. There was no evidence tending to make such a cause; hence this charge was not called for, and it was wrong to give it.
+But neither of these charges was excepted to at the time, nor did defendant ask a proper charge on the subject of self-defense; nor were they, or either of them, made a ground for a new trial. It is the duty of the trial judge in a written charge to set forth the law applicable to the case; and this must be done, whether asked for or not. But, to authorize this court to reverse a judgment because the charge fails to set forth the law applicable to the case, or because an abstract proposition is contained-in the charge, the proper charge must have been requested and refused, or the defendant must have objected "at the time. Code Crim. Proc. art. 685.
+The right to reverse a judgment upon these grounds is derived from another source, although no objection was made, nor the proper charge requsted and refused. By art. 777, Code Crim. Proc., it is provided that, “Hewtrials in cases of felony shallbe granted for the following causes, and for no other.” ... 2. “ When the court has misdirected the jury as to the law, or has committed any other material error calculated to injure the rights of the defendant.” It is held in Bishop v. State, 43 Texas, 390, and in a number of cases subsequent to that case, “that if it appears that the court has misdirected the jury as to the law, or has committed any other material error calculated to injure the rights of the defendant, and that these errors were called to the attention of the court by being made a ground for new trial, the action of the court in overruling the motion for new trial is such an error as will justify the Supreme Court in reversing the judgment.” It will be seen that this ground for reversal constitutes an exception to the rule stated in art. 685, Code Crim. Procedure. We are not disposed to engraft upon the article other exceptions, unless it is evident that an injury has been done defendant; not merely an injury, but one of a radical or serious character.
+If defendant had brought himself within either of the rules above stated, we would reverse the judgment upon these defects in the charge; but, not having done so, we are of the opinion that he is too late, urging as he does, for the first time, these errors in this court.
+The State proved, over the objections of defendant, that he had made improper advances to the wife of the deceased, on the night of but prior to the killing. These proposals were not communicated to deceased, nor did he ever know of them, so far as the record shows, at any time. They were made in the absence of deceased, nor does the evidence show, or tend to show, that deceased suspected anything was wrong in regard to this matter. This being the state of the case touching this matter, we are unable to see the relevancy of this evidence. It could not possibly tend to explain the conduct of deceased; nor could it act as a provocation to induce deceased to make the attack upon defendant, if any was made. It certainly could not have been a motive for the killing, nor was it calculated to explain the conduct of defendant, he being fully aware that deceased was not informed of his conduct. There could have been but one effect produced by this evidence, and that was to seriously prejudice defendant with the jury. He stood before them in a bad light; indeed in the light of a wretch who had not only-attempted to destroy the conjugal happiness of deceased, but had finally, in the presence of his wife, taken his life. This evidence, we think, was not only irrelevant, but was calculated to arouse the jury to such a degree of contempt for, and indignation towards defendant, as would render them incapable of considering in an impartial light his defense, although it may have been a legal one. We are not expressing an opinion as to whether defendant’s plea of self-defense was or was not sustained by the evidence. He had the right to an impartial trial; to require the State to convict him upon legal evidence. This, we think, was not done.
+The other assignments are not well taken. For the above error the judgment is reversed and cause remanded.
+Reversed and remanded.
