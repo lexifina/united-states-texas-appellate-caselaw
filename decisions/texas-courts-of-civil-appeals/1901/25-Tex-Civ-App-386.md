@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-02-20"
+citations: ["25 Tex. Civ. App. 386"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas Midland Railroad Company v. Samuel Frey."]
+source_url: "https://static.case.law/tex-civ-app/25/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2870096
+cites_cases: ["106 N. Y., 136", "112 N. Y., 443", "60 S. W. Rep., 270"]
+---
+
+# Texas Midland Railroad v. Frey
+
+## Majority (FLY, Associate Justice.)
+
+FLY, Associate Justice.
+This is a suit to recover damages arising from personal injuries alleged to have been inflicted upon the wife of appellee through the negligence of appellant. Hpon the verdict of a jury, judgment was rendered in favor of appellee for $2000.
+It was alleged in the petition that Sarah Frey, the wife of appellee, got on a passing train, belonging to appellant, at Terrell, Texas, to go to Ennis, Texas; that when the train reached Ennis no platform had been provided upon which Mrs. Frey could alight, and she was compelled to alight upon the ground; that there was no box or stool to aid her in reaching the ground, and although she exercised proper care in alighting she was severely and permanently injured. These were the only grounds of negligence alleged.
+The uncontroverted evidence established that there was a gravel cement platform for the accommodation of passengers at Ennis, built on a level with the tracks, and that the platform was not more than eighteen inches from the lower step of the passenger coach. A man was employed at the depot to assist passengers on and off all trains, and he was assisted 'by the conductor. Mrs. Frey, the only witness who swore to the circumstances connected with her injury, testified as follows: “I arrived at Ennis at about noon time. It was raining and thundering and lightning when I reached Ennis. It was an awful pour, lots of rain; began raining in Terrell before I bought my ticket. When train reached Ennis I got off. A man assisted me to get off the car. He was the conductor, and was standing near the steps. I did not see anyone else. He assisted me by taking hold of my left hand. I stepped from the car to the ground; it was an awfully long step to me. I did not notice the long distance from the steps to the ground, before I made the step. It was raining and the conductor took hold of my left arm and assisted me off the train steps. I stepped right on to the ground, and did not see any box or stool there to step on. I then went into the depot.” It is evident from all the circumstances that what Mrs. Frey called the “ground” was the gravel and cement platform. Ho effort was made to show that the step was more than eighteen inches from the “ground” or platform, where Mrs. Frey alighted, but all the evidence of negligence introduced by appellee is quoted above.
+It was the duty of the railway company to provide and maintain a safe way of reaching and departing from its cars -at passenger stations, and it has been held in this State that such appliances must be “the safest that had been known and tested.” Railway v. Wortham, 73 Texas, 25. If there was any testimony in this case that tended to establish a failure upon the part of appellant to furnish such appliances, and Mrs. Frey was damaged thereby, the jury was justified in the verdict upon which the judgment was based.
+Under the facts in this case there could have been but one possible ground upon which the jury could have based the verdict, and that was the failure to have a box or stool upon which Mrs. Frey could step in getting off the ears. That there was. a platform was uncontroverted, and there was no attempt to prove that it was defective, or that it was not at the usual and ordinary distance from the steps of the cars. A man was employed to assist passengers on and off the cars, and he or the conductor, or both, assisted Mrs. Frey in a careful manner to alight from the cars. There is not one single fact that tends to establish negligence upon the part of the railway company, unless it should be presumed from the fact that Mrs. Frey was injured in stepping off the car. Can negligence be thus presumed from the mere happening of the event, none of the attending circumstances tending to establish negligence? We think not. Railway v. Robinson, 73 Texas, 277; San Antonio Gas Co. v. Broadway, 60 S. W. Rep., 270.
+There is no testimony that would show that it was safer to step on a box or stool without assistance than to alight on a solid platform with assistance and neither can it be said, in the absence of proof, that it is negligent to have the platfrom eighteen inches from the lowest step of the car..
+In the case of Railway v Wortham, above cited, a box had been provided upon which passengers could alight, and it turned, throwing a lady to the ground and injuring her. The platform was shown to have been defective, and the box too narrow for the purposes for which it was used. It was said by the court: “It may be conceded that if appellants had a proper platfrom at the station upon which the passengers could have alighted, their duty as to this matter would have been discharged, and,that they were not called upon to render personal assistance.” In this case not only does the testimony fail to show an improper platform, but it tends to show a proper one, and in addition that proper personal assistance was given to persons alighting from the cars. Taflin v. Railway, 106 N. Y., 136; Kelly v. Railway, 112 N. Y., 443.
+Because there is no evidence to sustain the verdict, the judgment is reversed and the cause remanded.
+Reversed and •.remanded.
