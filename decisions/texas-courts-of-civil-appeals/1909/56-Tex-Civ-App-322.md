@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-06-07"
+citations: ["56 Tex. Civ. App. 322"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. D. LaBrie v. A. J. McKim et al."]
+source_url: "https://static.case.law/tex-civ-app/56/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 604837
+---
+
+# LaBrie v. McKim
+
+## Majority (PLEASANTS, Chief Justice.)
+
+PLEASANTS, Chief Justice.
+This is a suit for partition of a ' tract of 500 acres of land a part of the James McKim league in Sabine County. The plaintiff in the suit claimed an undivided 105/151 of the land and alleged that the remaining 46/151 was owned by the defendants E. P. Padgett, H. L. Lucas, Callie West, Minnie Sanders and husband C. F. Sanders, A. J. McKim, Mike McKim, Lina Youngblood and husband Thomas Youngblood, Nancy McMillan and husband J. A. McMillan, Mary Ann Saxon, W. F. Brewer, Sam Small and J. M. Barney.
+George C. Greer was made a party under allegations charging that he had conveyed to plaintiff the interest in the land claimed by him by general warranty deed, and was liable to plaintiff on his warranty for the purchase price of such portion of the land so conveyed as it might be found plaintiff was not entitled to recover.
+All parties claimed under an agreed judgment rendered in the District Court of Sabine County on August 18, 1897, and the quantity of interest of the several parties depends upon the construction of this judgment.
+The suit in which this judgment was rendered was brought by A. J. McKim, Mike McKim, Lina Youngblood and husband, N. C. McMillan and husband, Mary Ann Saxon, W. F. Brewer, Sam Small and J. M. Barney and husband, as heirs of James McKim, against' John McElroy and others, to recover the James McKim league. Either as defendants or interveners W. L. Douglass, Hugh Belknap, Alice Belknap and Clara B. Wolcott were also parties to said suit', Douglass claiming to own the interest of three of the children of James McKim, and the Belknaps and Clara Wolcott claiming the entire league under conveyance from James McKim.
+After the suit had been pending for some time it was settled by agreement, and the 500 acres of land in controversy was awarded to Douglass and the plaintiffs in said suit. This award is made in the following language: “To W. L. Douglass and A. J. McKim, Mike McKim, Lina Youngblood, J. A. McMillan, Mary Ann Saxon, W. F. Brewer, Sam Small, J. M. Barney, block No. 1, containing 500 acres as hereinafter described,, to be held and owned by W. L. Douglass as one party, and said A. J. McKim, Mike McKim, Lina Youngblood, J. A. McMillan, Mary Ann Saxon, W. F. Brewer, Sam Small and J. M. Barney, collectively, as second party, as they or those under whom they claim would be entitled to the same as the heirs of James McKim, deceased.” The determination of this appeal depends upon the meaning of the clause, “As they or those under whom they claim would be entitled to the same as the heirs of-James McKim, deceased.”
+The original grantee of the league, James McKim, left eight children, who inherited whatever title he may have had in this league at the time of his death. W. L. Douglass, at the time this suit was brought and at the time this judgment by agreement was rendered, owned the interest of three children. The plaintiffs.in this suit, to whom an interest in the 500 acres was awarded by the judgment, were grandchildren of James McKim, but all of the grandchildren of said McKim were not parties to the suit. The trial court held that these plaintiffs represented by inheritance the interest of four of the children of J ames McKim, and that by the terms of the judgment before set out W. L. Douglass, who, as before stated, held the interest of three of said children, was awarded a three-sevenths interest in said 500 acres of land, and the remaining four-sevenths thereof was awarded to the plaintiffs in said suit.
+The appellant owns the interest in said land awarded to Douglass by said judgment and the appellees own the remainder of the tract.
+Appellant' claims (1) that said judgment is unambiguous and awarded to Douglass such proportion of the 500 acres of land as the interest of the three children of McKim, under whom he held, bore to the interest of the plaintiffs in said suit as heirs of said James McKim; and (2) that if the language of the judgment is ambiguous the evidence offered by plaintiff and improperly excluded by the court shows that this was the intention of the parties to said judgment.
+We do not think the judgment can be held to be clear and unambiguous, and it seems to us that it is just as susceptible of the construction contended for by appellant as that placed upon it by the court. Such being the case, extrinsic evidence was admissible to make clear the meaning of the language used and the true agreement of the parties, and the trial court erred in excluding such evidence. (Hueske v. Broussard, 55 Texas, 201; Ullman, Lewis & Co. v. Babcock, 63 Texas, 70; Gardner v. Watson, 76 Texas, 25; Faulk v. Dashiell, 62 Texas, 646.)
+The trial court also erred in finding as a fact that seven of the children of James McKim were represented by heirs in said suit in which the agreed judgment before set out was rendered. The only evidence upon which this finding was based as to two of said children is that William McKim, one of the children of James McKim, had a son named James McKim and one of the parties to said suit was A. J. or Jack McKim, and that Jane Westover, another of the ehildren of James McKim, left as one of her surviving heirs a daughter or granddaughter named Rose Small, and that one of the parties to said suit was named Sam Small. There is no evidence tending" to identify A. J. or Jack McKim with James McKim, Jr., the son of William McKim, or to show that the Sam Small who was a party to said suit was connected in any way with the Rose Small who was an heir of Jane Westover. We think the evidence was clearly insufficient to sustain the findings above mentioned.
+No other errors, which would require a reversal are pointed out in appellant’s brief.
+For the errors indicated the judgment is reversed and the cause remanded.
+Reversed and remanded.
