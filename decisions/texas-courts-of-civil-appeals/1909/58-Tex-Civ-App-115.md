@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-12-02"
+citations: ["58 Tex. Civ. App. 115"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shivel & Stewart v. Greer Bros. et al."]
+source_url: "https://static.case.law/tex-civ-app/58/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4404896
+cites_cases: ["14 S. W., 157", "22 S. W., 822", "28 S. W., 461", "63 S. W., 863", "97 S. W., 116"]
+---
+
+# Shivel v. Greer Bros.
+
+## Majority (LEVY, Associate Justice.)
+
+LEVY, Associate Justice.
+— The suit was instituted by the firm of Shivel & Stewart against the appellees to recover damages for an alleged breach of contract of sale of a carload of sweet potatoes. After-wards the death of R. H. Shivel was suggested to the court, and by order of the court Stewart was permitted as surviving partner- to prosecute the suit for the use and benefit of the firm. From a judgment in favor of Greer Bros, against the appellants the appeal is prosecuted.
+By proper assignment the appeal is rested for error on the question of the admissibility, as being inhibited by statute as testimony of statements. made by and transactions with a deceased person, of certain evidence offered by appellees. The deceased partner, acting for his fir nr, made for his firm an oral contract of sale with the appellees, for breach of which the suit for damages is brought. The evidence objected to related to the terms of the contract of sale between the parties.
+The statute of the State expressly denies the right to a party to the suit to testify against the opposite party unless called thereto by such opposite party in “all actions by or against the heirs or legal representatives of a decedent arising out of any transaction with such decedent” as to “any transaction with or statement by” the decedent. If this evidence should be held as being inhibited by the statute, it would have to he upon the ground that this suit was an action by “a legal representative of a decedent” within the terms and meaning of the statute. We do not think that it conld properly be so held in this case. The suit in the instant case was by the surviving partner as such for the use and benefit of the co-partnership on a co-partnership debt. He. was not, we think, in the suit legally representing, in a distinctive personal capacity, the deceased. For the purpose of closing up the firm business, and no further, the surviving partner has the , right of possession of the firm property as against the heirs or representatives of the deceased partner, and can sue as sucli surviving partner. Fulton v. Thompson, 18 Texas, 278. It is because he lias the right of possession for such purpose that he can sue for the use and benefit of the firm after the death of his partner. In this case no judgment is sought or can be obtained against the estate of the deceased, only against the partnership assets' and the surviving partner, and it is not necessary in such case to -make the deceased’s heirs parties. Davis & Bro. v. Shaffner, 3 Texas Civ. App., 121, 22 S. W., 822. The authority, therefore, of the surviving partner to sue for the firm debt or claim in the case is predicated upon and solely arises out of the partnership as an incident of his right and obligation to properly wind up the partnership business, in which he has a property interest. By the suit the surviving partner neither acquires or succeeds to any right of the decedent in the debt sued for, nor does he acquire any right in the debt under the deceased, nor does the estate of the deceased under him acquire any right in the debt. The debt is due to the partnership as such. It might be true that it is the duty of the surviving partner to properly account to the estate of the deceased for partnership assets, but that duty would not alone, we think, constitute a suit by him a suit as the legal representative of the deceased in the meaning of the statute. It has been decided that devisees and legatees are not within the terms of the statute. Newton v. Newton, 77 Texas, 508, 14 S. W., 157. See discussion of the term “legal representative,” Allen v. Stovall, 63 S. W., 863, 94 Texas, 619.
+If the suit in this case by the surviving partner as such is not a suit by a “legal representative of a decedent” within the meaning of the statute, as we think it is not, then the case of Roberts v. Yarboro, 41 Texas, 450, is settled authority for the question made.
+Even if it should be held that the surviving partner appearing as such was bringing the suit in the dual capacity of representing himself and as the representative of the deceased, the evidence was admissible and not objectionable as against the living partner; and appellant, not having asked that it be restricted to the living partner, is in no position to complain. Evans v. Scott, 97 S. W., 116.
+The case of Stuart Bros. v. Altman, 8 Texas Civ. App., 657, 28 S. W., 461, is not, we think, decisive of the question in the instant case. There the "surviving partner was appearing in his own behalf and “as executor.” It was because he was the qualified executor of the deceased that the court held the evidence in the case incompetent. The case was ordered affirmed.
+Affirmed.
