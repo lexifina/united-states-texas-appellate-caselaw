@@ -1,0 +1,36 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "127"
+decided: "1893-12-06"
+citations: ["5 Tex. Civ. App. 580"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louisa Brient et al. v. Elizabeth Bruce et al."]
+source_url: "https://static.case.law/tex-civ-app/5/cases/0580-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 227376
+---
+
+# Brient v. Bruce
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+Appellees sued for land, claiming title, as they allege, to a part of original city lot number 11, range 1, district 3, of the plan of city lands of San Antonio, it being subdivision 3 thereof, as shown by a plat of the subdivision of said lot, 1 ‘ attached to and made a part of a deed dated July 25, 1889, from Joseph Layer and Elizabeth Layer to Katie and Otto I-Iilgers, of record in Bexar County, to which reference is made for further and other particulars. Said subdivision number 3 has a front of 303 feet on a street to be known as Layer Street, and extends back between parallel lines a depth of 280 feet, less 10 varas to be taken off the south line of the original lot for a street to be opened along said south line for the benefit of the subdivision, to be known as Layer Street, and running from the Rock Quarry Road to McCulloch Street.’ ’
+Plaintiff alleged further, that Alfred Brient, Albert H. Brient, and Louisa Brient entered upon a part of said subdivision 3, it being a part taken out of the northwest corner thereof in the form of a parallelogram 38 feet east and west and 30 feet north and south, described by metes and bounds thus: Beginning at the northwest corner of said subdivision 3; thence south 30 feet and thence east 38 feet; thence north 30 feet and thence west 38 feet to beginning. And for this said persons were sued in the ordinary form of trespass to try title.
+The defendant Albert H. Brient and a warrantor, Sarah F. Ostrom, who became a defendant, filed pleas of not guilty and the statutes of three, five, and ten years limitations; and Mrs. Ostrom added a plea of improvements in good faith on behalf of her warrantee, Albert H. Brient.
+This constituted in substance the pleadings.
+It appears that the difficulty grew out of a dispute concerning the position of the dividing line between the original lot number 12 and original lot number 11, adjoining it on the south. Where defendants claimed the line to be on the trial, the 38 by 30 varas sued for would not be in number 11; and where plaintiff claimed it to be, it would. During the trial the defendant Mrs. Ostrom offered to introduce deeds and oral testimony to establish the defenses of limitation; to which plaintiffs objected, “on the ground that the cause at issue was exclusively a question of boundary,” which objection was sustained and bills of exception taken, and this is assigned as error. In appellants’ brief it is stated simply, in reply to the assignment of error, that the question of title was not in issue under the pleadings.
+From an inspection of the pleadings we fail to see that anything else was in issue. It is true the question of title depended primarily upon the determination of the position of the line, but in the event this should have been adverse to defendants, their defenses of limitation became important to them.
+The defendants’ bills of exceptions on this subject are three in number, one in respect to each of the periods of limitation.
+We do not see that the court erred in refusing to allow any proof concerning the three and five years limitations. In order for these statutes to have applied, it was essential that defendants’ deeds should be shown to embrace the land in question. This would be settled against defendants on an adverse judgment as to the line; and if the line were settled in their favor, they would have no use for the statutes of limitations. The above would certainly apply to the three years statute; and as to the five years statute, we find that none of the deeds introduced by defendants can be construed to embrace land outside of the original lot number 12. The deed to Brient in 1888 might be different in this regard from the preceding deeds, but that was too recent in date to admit of its use to support the five years statute.
+But we see no obstacle to defendants proving, if they could, title to the land in question by means of the ten years statute. There is evidence in the record that outbuildings were constructed upon the Brient lot in 1879. As this suit was filed in 1889, it may have been possible for defendants to show a state of facts requiring a submisssion of the ten years limitations to the jury, and it was error to exclude testimony offered in support of that issue.
+There is an error in this record that is fundamental. The pleadings being as above stated, and the verdict being a general one for the plaintiffs, there was nothing to admit of the particular judgment that was entered.
+By the judgment the plaintiffs recover of defendants a portion of subdivision 3 of original lot number 11, being a part taken out of the northwest corner thereof in the form of a parallelogram 38 feet east and west and 30 feet north and south, described by metes and bounds as follows: Beginning at the northwest corner of said subdivision number 3, thence running south 30 feet, thence east 38 feet, thence north 30 feet, thence west 38 feet to the place of beginning; being all that part and portion of land within the enclosure of defendant Albert H. Brient lying south of the division line between lots numbers 11 and 12, as established by Paul Pretzer, city engineer of the city of San Antonio, and designated by the red lines on a plat,” which is inserted in the decree.
+Delivered December 6, 1893.
+The jury were instructed that their verdict should be controlled by their determination of the position of the division line between the original lots. They found a verdict for the plaintiffs, and presumably found the line to be where plaintiffs contended it was, and the court proceeded to enter judgment for the plaintiffs for land which lies south of a line fixed by the court and not by the jury. We have examined carefully the pleadings and the charge of the court, and there is nothing in any of these defining the line as claimed by the plaintiffs, and there is nothing in the verdict that does this. The court therefore consulted the evidence in ascertaining this line, and it is well settled that the verdict can not be aided in this manner. The pleadings may be referred to for such purpose, but not the evidence. Burnett v. Harrington, 58 Texas, 363; Mays v. Lewis, 4 Texas, 38; Smith v. Tucker, 25 Texas, 594.
+We observe that the petition refers for description of tbe property sued for, and as claimed by plaintiff, to a plat attached to a certain deed on record in Bexar County; but we do not find the deed to have been introduced as evidence; and if it had been, the decree does not indicate that it was based-upon this plat.
+As the case will have to be tried again, we will not give any expression in regard to the evidence. And it is not likely that the other matters assigned as error will occur on another trial.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
