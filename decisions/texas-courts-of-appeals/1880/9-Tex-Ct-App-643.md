@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1880"
-citations: ["9 Tex. Ct. App. 643", "8 Tex. Ct. App. 620"]
+decided_precision: "year"
+citations: ["9 Tex. Ct. App. 643"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Litt Hollis v. The State."]
 source_url: "https://static.case.law/tex-ct-app/9/cases/0643-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4434964
-cites_cases: ["25 Texas Supp. 126", "69 Mo. 197"]
+cites_cases: ["25 Texas Supp. 126"]
 ---
 
 # Hollis v. State
