@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1272"
+decided: "1895-06-05"
+citations: ["11 Tex. Civ. App. 18"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isaac Smith v. D. P. Jones."]
+source_url: "https://static.case.law/tex-civ-app/11/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 246817
+---
+
+# Smith v. Jones
+
+## Majority (COLLARD, Associate Justice.)
+
+COLLARD, Associate Justice.
+Appellant, Isaac Smith, brought suit in the justice court for $105.63, for rents and advances for the year 1893, against appellee, D. P. Jones, his tenant, and sued out a distress warrant and had the same levied on the crops then on the premises.
+Appellee pleaded in set-off and reconvention for the following items: Failure of plaintiff to furnish defendant with a cistern and failing to have the cistern plastered and made to hold water............$30
+For failing to put repairs on dwelling, to-wit: ceiling, and adding another room and repairing fireplace and floor, as plaintiff promised to do...............................................$30
+Defendant also set up “that the distress warrant was sued out for the purpose of annoying, injuring, vexing and harassing this defendant, and that the same has greatly injured him and vexed and harassed and annoyed him, and caused him to spend divers large sums of money, to-wit, $30, to his damage in the sum of $100; wherefore defendant pleads the above amounts, aggregating $180, in reconvention, and asks judgment for that amount.”
+Appellee recovered judgment in the Justice Court for $35, from which appellant appealed to the County Court, where appellee recovered judgment for $64, from which appellant has appealed to this court.
+Upon the issues joined, the court instructed the jury that, “The defendant alleges that he owes plaintiff nothing, either for rent or advances, and pleads in reconvention actual damages in the sum of $80 and $100 exemplary damages for illegally and unjustly suing out the distress warrant.” The court then proceeded to tell the jury that if they should find that plaintiff sued out the writ for the purpose of vexing and harassing defendant, and that it was illegally and unjustly sued out, then they should consider whether under the evidence defendant had sustained any actual damages, and if so, to assess the same "in any sum not to exceed $80.” But in case they should find no actual damages, they need not consider the matter of damages any further, but in ease they should find actual damages in any sum, they could consider exemplary damages, and in case they should believe defendant was entitled to exemplary damages, to so find in any sum not to exceed $100.
+Opinion. — Appellant insists that the court erred in submitting to the jury defendant’s claim for damages for unjustly and illegally suing out the writ, because, he says, there was no allegation in said plea of any actual damages, and no actual damages being alleged, none could be proved or recovered. We think the averment of defendant that he did not owe plaintiff any rent or advances, and the additional plea that plaintiff was indebted to Mm for certain alleged failures to comply with . the rental contract, should be taken as applying to actual damages for “illegally and unjustly suing out the writ,” to meet and indemnify which the bond was given. Rev. Stats., art. 3113. The writ would be unjust and illegal to the extent that it distrained property over and above the amount due on the rental contract. It would be wrongful to distrain for rent when by the terms of the contract nothing was due thereon, and it would also be wrongful to distrain for more than the amount due on the contract. For this wrong actual damages would lie, upon which might be predicated exemplary damages, if the proof should warrant it. There was no error in submitting the issue of actual damages to the jury.
+Delivered June 5, 1895.
+We think the court did commit error in permitting defendant to prove as actual damages loss of time in making a replevy bond in order to retain possession of the distrained crop. There was no such item of damages set up in the answer, and if there had been, it would not have been actual damages. The annoyance and vexation and expending of money incurred by defendant in consequence of the distress warrant would not be a basis of actual damages, but for exemplary damages. Kaufman & Runge v. Armstrong, 74 Texas, 65; Railway v. Ware, 74 Texas, 49-50; Kirbs & Spies v. Provine, 78 Texas, 357; Traiwick v. The Martin-Brown Co., 79 Texas, 464. See also 29 Texas, 255; 62 Texas, 237; 63 Texas, 141, and 75 Texas, 76. We can not say that, as the proof was admissible under the plea of exemplary damages, it was not injurious to admit it as actual damages, because the verdict and judgment of the lower court in effect acquitted defendant of all indebtedness to plaintiff as claimed by him, and allowed defendant four dollars actual damages and sixty dollars exemplary damages. The twenty dollars expenses, or money expended by defendant in the suit, were not provable as actual damages, for the same reasons given above. The defendant seemed to construe the item set up as actual damages, and it was so treated by the court in the charge, as constituting a part of the eighty dollars stated by the court’s charge to be the claim for actual damages. We are not authorized to infer that the jury did not include the amount in their finding for defendant as actual damages, from the fact that the verdict, was for only four dollars actual damages, as the twenty dollars may have been considered in reducing the plaintiff’s claim or in extinguishing it. The amount so expended would not constitute a claim for actual damages.
+A witness can not be impeached by proving that he made statements outside of court different from Ms testimony, without first laying a predicate for the impeaching testimony in the usual way. The method of such predicate is well understood. Bigham v. Carr, 21 Texas, 142; 1 Greenl. Ev., 462.
+Because of the errors above pointed out, committed on the trial, the judgment of the court below is reversed and the cause remanded.
+Reversed and remanded.
