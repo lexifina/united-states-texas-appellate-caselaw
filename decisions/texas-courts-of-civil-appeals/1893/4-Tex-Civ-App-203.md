@@ -1,0 +1,42 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "2"
+decided: "1893-09-27"
+citations: ["4 Tex. Civ. App. 203"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. E. Kneeland v. W. B. McLachlen."]
+source_url: "https://static.case.law/tex-civ-app/4/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 223728
+cites_cases: ["24 N. J. Eq., 310", "46 Ga., 649", "51 Ga., 313", "74 Me., 370", "9 Mont., 349", "9 S. W. Rep., 414"]
+---
+
+# Kneeland v. McLachlen
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+Appellant and appellee were partners in the-insurance and real estate business at El Paso, Texas, under the firm name of Kneeland & Co. On or about January 11,1887, Kneeland bought outMcLachlen’s interest in the firm, assuming its indebtedness, for the sum of 82000, paying §1400 in cash and giving the §600 note upon which this suit is brought.
+Defendant pleaded, that at that time McLachlen was so much indebted to the Arm that a fair adjustment between the partners would have left-his interest of no value whatever; on the contrary, he was largely indebted . to the Arm and to defendant. That all during the partnershipMcLachlen had kept its books and accounts, and knew that his attitude to the Arm was as above stated. That defendant had full conAdence in McLachlen’s integrity and accuracy, and in making the settlement, relied on his representations with respect to the condition of the business. That at the time of the settlement McLachlen. at defendant’s request, made a statement of the Anancial condition of the Arm, and in such statement, made it appear that he (McLachlen) was indebted to the Arm in the sum of §1941.16, that defendant was indebted to the Arm in the sum of §704,. and that the Arm owed other persons §1236.04. Then defendant proceeds to allege that the statement was false, and so known to be by Mc-Lachlen at the time. That the true condition of said accounts should have been, that McLachlen’s debit to the Arm on January 11, 1887, was §6531.26, and the total debit against appellant on same date $3214.81, so that appellee (McLachlen) was indebted to the Arm in excess of the-amount owed by appellant §3316.45, and not the sum of §1237.18, as-shown by the statement; and that this was not shown by the books, because of incorrect entries made therein by McLachlen in regard to the-sum of §5647.32 received by Kneeland & Co., of which sum the Arm of Kneeland & Harrison owned §3764.88, and the firm of Kneeland & Co. §1882.44; he (McLachlen) having credited same on the books one-half, §2823.66, to himself, and one-half, §2823.66, to Kneeland; and that he(Kneeland) drew out of the firm the sum of §4000, with which to pay §3764.88 to Kneeland & Harrison, and McLachlen charged appellant with all of this §4000, when the §3764.88 which went to Kneeland & Harrison should not have been charged to Kneeland.
+Defendant also alleged, that McLachlen, by his said statement, misrepresented the indebtedness of the firm to be §1236.04, and that defendant relied upon this statement also in making the settlement and assuming the debts of the firm; that this indebtedness was much larger than §1236.04, but defendant does not state how much larger, and alleges his belief that it was in excess of §2000; and for general relief.
+There is nothing presented to us for reversal of this judgment based on that portion of the answer alleging misrepresentation by McLachlen concerning the firm’s indebtedness to other persons. The findings of the judge do not seem to relate to it, nor do the assignments oí error or the briefs; hence we need not notice it in our disposition of the case.
+This leaves the answer with no claim of incorrectness or misrepresentation touching the accounts between these parties, except that alleged to result from the erroneous entries concerning the $5647.32.
+The case was tried without a jury, and the findings of fact and conclusions of law by the judge are in the record.
+The findings pertinent to the judgment are as follows:
+“ 2. That Kneeiand was improperly charged with $3764.88 included in an entry of $4000 on March 1, 1884, but was informed of that fact some year or more before the dissolution, and did not use sufficient diligence in ascertaining whether same had been corrected.
+“ 3. That Kneeiand, on January 11, purchased the interest of McLachlen for $2000, and gave the note sued on in part payment of same,
+1 ‘ 4. That during the continuation of the copartnership McLachlen kept the books of the firm, and made all entries, and that Kneeiand was "not in fact familiar with the entries or state of the accounts.”
+The conclusion of law is as follows:
+“ I therefore find as a matter of law, that as defendant, Kneeiand, had knowledge of the erroneous charge of $3764.88, as stated in the second finding above, that said defendant, Kneeiand, is precluded from going behind the'settlement of the partnership between plaintiff and defendant by defendant purchasing plaintiff’s interest therein, and therefore give judgment for said note and interest.”
+In his first finding of fact the judge ascertained, “ that on a correct adjustment of the accounts between the partners, the plaintiff would be indebted to the firm on January 11, 1887, in the sum of $1089.09 in excess of the amount acknowledged to be against him at said time, and therefore would be indebted to Kneeiand in one-half that amount, to-wit, $544.53. In ascertaining this amount, the plaintiff is credited with $1000 not shown on the books of the firm as money advanced by him.”
+It is questionable whether the pleadings in this cause were sufficient to require the court to open and adjust the partnership business generally; but what was done by the court in this respect seems to have been done without exception on the trial.
+The first and second findings of fact by the court would lead to different conclusions, and it becomes necessary for us to consider the evidence in order to determine whether or not the judge erred in founding the judgment upon the second finding.
+The judge finds, in connection with his second finding, that appellant was informed of the fact that the erroneous entries had been made, and this long before the settlement or dissolution, and that “ he did not use sufficient diligence in ascertaining whether the same had been corrected.” The testimony shows with reasonable certainty the following facts: That Kneeland knew of these entries a few months after they were made,, and long before the purchase of McLachlen’s interest; that when he became informed of them, he and appellee disputed as to the correctness of the entries, one contending that they were not in accordance with the truth, and the other that they were. Appellant says, that after the quarrel, he was under the impression that McLachlen had subsequently corrected the entry, but does not state how he obtained this impression. He also stated that McLachlen had made no direct statement to him that said entry had been corrected, and that he had never looked at the books, or had any one else examine them, to see if they had been corrected to conform tO' his contention. It appears also that the books had been open to appellant at all times.
+Delivered September 27, 1893.
+Whilst it is true that a partner having nothing to do with the books of a firm, and who relies upon statements rendered him by the one who is peculiarly cognizant of them, may set aside transactions had with his partner based upon such statements, upon less proof than would be required where their relations are different, he is not wholly excused from diligence. Merriwether v. Hardeman, 51 Texas, 442.
+We believe the appellant was guilty of such loches and indifference as-should preclude him from availing himself of the incorrectness of the items complained of as a defense to the note he had given in the settlement. He had positive knowledge of the condition of these items on the books. We see no evidence of any statement or act of McLachlen whereon Kneeland could reasonably have founded the impression that the books had been corrected in this particular.
+The second finding of fact was sustained by the evidence, and the court properly gave judgment for the plaintiff. The judgment is affirmed.
+Affirmed.
+Justice Neill did not sit in this case.
