@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1879"
+citations: ["7 Tex. Ct. App. 283"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. B. Sigler v. The State."]
+source_url: "https://static.case.law/tex-ct-app/7/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4414008
+---
+
+# Sigler v. State
+
+## Majority (Clark, J.)
+
+Clark, J.
+The appellant was indicted and convicted in the District Court of Wise County for the theft of a mare belonging to one James Burton. From the testimony on the trial, it appears that appellant, in the early part of the year 1878, was engaged in gathering-horses belonging to his wife, who claimed to own certain brands, among them the “ 22 ” brand, having purchased said brands in the year 1869 from one N. W. Morris, who had married her stepdaughter. This brand seems to have been recorded by Morris in the county of Wise, in the year 1861. Burton, the alleged owner of the animal stolen, aud which bore this brand, testifies that he recorded this brand in Wise County in 1872. There was evidence tending to show that appellant was not familiar with the stock business, and that he gathered horses in this brand openly, and traded the mare alleged to have been stolen; and afterwards, on being informed that Burton claimed the mare as his property, replied that “ he would see Mr. Burton and make the matter all right; that he did not want any of Burton’s horses, and did not want Burton to have any of his.”
+The mare was traded by appellant to one Triplett for a saddle; and on the trial Triplett testified that Burton had claimed the mare and taken it from him, and that he had never received any thing for the saddle which he had let appellant have in exchange for 'the mare. He further testified that he had sued out a warrant for appellant’s arrest, and had caused it to be placed in the hands of one Cates, his son-in-law, who went to Cooke County, where appellant resided, and arrested him ; and that Cates got from appellant a black pony mare, and brought her back and gave her to witness in lieu of $25 appellant owed witness on another and different horse-trade.
+Defendant offered to prove by the testimony of his wife, Mrs. M. M. Sigler, that, when Cates came to their residence in Cooke County to make the arrest, the defendant gave to Cates, who represented himself as the agent of Triplett, a black pony mare in place of the one claimed by Burton, and a brown horse in place of the one traded to Triplett and in place of the money due Triplett, as a final settlement of all, differences between them ; which testimony, upon objection by-the State, was excluded by the court.
+This action o.f the court we regard as error. The testimony adduced by the State, as above indicated, was calculated, in the absence of explanation or contradiction, to aid materially in fixing upon the defendant a fraudulent intent in the transaction, and he was entitled to have his version of the affair placed before the jury in order that they might determine, under proper instructions, the very truth, and thereby deduce from this and other facts in evidence his guilt or innocence of the crime charged. The State having been permitted, to introduce its version of the. transaction, it was incumbent upon the court to permit the defendant also to be heard by his witnesses. In no other manner could the jury intelligently consider and weigh the testimony with the other facts in evidence, and its exclusion was calculated to injure the rights of the defendant.
+We are of opinion also that the court erred in not permitting the witness M. M. Sigler to state whether or not Thomas King had ever had charge of the stock purchased by her of Morris, and the character of instructions given him about keeping up the brands, if any were given. Notwithstanding this witness may have already testified that she had not kept up the brand, nor branded any stock in said brand since she bought it, yet it should not be forgotten that witnesses, especially female witnesses, do not usually speak with legal accuracy in making their statements upon the witness-stand, and that it is often necessary, in the course of an examination, to call the attention of the witness specially to some fact which may refresh his recollection and cause him to modify a previous statement made with the utmost honesty and sincerity, but susceptible, from its looseness, of a construction never intended by the witness. It may be that the question would have served to remind the witness of a fact she had forgotten altogether, or overlooked in the confusion sometimes incident to female witnesses upon the stand. An affirmative answer from her might have had no unimportant bearing upon the result of the trial. For the errors indicated, the judgment is reversed and the cause remanded.
+Reversed and remanded.
