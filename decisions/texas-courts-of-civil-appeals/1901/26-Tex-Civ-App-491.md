@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-06-19"
+citations: ["26 Tex. Civ. App. 491"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Heierman & Bro. v. G. R. Robinson."]
+source_url: "https://static.case.law/tex-civ-app/26/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2878599
+cites_cases: ["172 U. S., 401", "55 S. W. Rep., 791"]
+---
+
+# Frank Heierman & Bro. v. Robinson
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+Appellee sued appellant in the County Court for $297, consisting of three items, viz.: (1) Difference between the contract price and market price on resale of 2000 bundles of ties, $192; (2) 2y2 per cent commission on the resale, $45; (3) storage of ties, $60.
+Appellants in their answer, among other things,.alleged that the items for commissions and storage were fictitious, and were placed in the plaintiff’s petition for the fraudulent purpose of bringing the case within the jurisdiction of the County Court. There was a jury trial, resulting in verdict and judgment for the plaintiff for $252, and the defendants have appealed.
+The case grows out of an alleged breach of contract of sale of 2000 bundles of cotton ties. In the early part of the month of August, 1899, the plaintiff Robinson, who was a commission merchant in St. Louis, Mo., made a contract with the defendants for the sale of 2000 bundles of Arrow cotton ties at $1.14 per bundle, less freight- charges. The contract was made in Austin, Texas, but no time for delivery appears to have been specified. The ties were to be delivered at such points in Texas as the purchasers might thereafter designate. The plaintiff did not have the ties in stock, and when he procured them and called upon the defendants for shipping instructions, they notified him that they would not be ready for the ties before October. This was the latter part of August. August 26th the defendants- wrote the plaintiff the following letter:
+“Dear Sir: We have your postal 24th. In reply, can not use the ties before October. If you have to receive them at St. Louis and store them, which would be an additional expense, would advise selling them at $1.20, and we will allow you 3 cents, or $1.17. We did not expect to use the ties at this point, but expect to place them in other territory.”
+On August 31st the defendants sent the plaintiff the following telegram : “George R. Robinson, St. Louis: Can’t use ties before October. If you can sell to our mutual advantage, do so.”
+The plaintiff testified that he resold the ties in St. Louis for 90 cents per bundle, the highest price then obtainable, and drew on the defendants for $192, the difference between the contract price and the net amount realized from the sale.
+The trial court instructed the jury that the telegram above set out conferred upon the plaintiff the right to sell the ties for the account of -the defendants, and that the testimony showed that they were sold for.the best price then obtainable in St. Louis; and for this reason the court directed the jury to find for the plaintiff for the difference between the proceeds of the sale and the contract price of the ties.
+This charge is assigned as error, and we think the assignment is well taken and requires a reversal of the case. The power of sale conferred by the telegram was not absolute, but was contingent upon a sale being made that would result in mutual advantage to the plaintiff and defendants. The property was sold for $192 less than the defendants had agreed to pay for it, and this sum, with the other two items above referred to, constitute the basis of the plaintiff’s suit. It may be true, if the plaintiff’s uncontradicted testimony is to be accepted as true and correct in every particular, that the sale referred to was mutually advantageous to the parties^ because he testified that ties continued to-depreciate in value after the sale was made until they sold as low as 75 cents per bundle; but he was an interested witness and, though uncontradicted, the jury were'not compelled to give credence to everything that he stated. Sonnentheil v. Brewing Co., 172 U. S., 401; Railway v. Johnson, 55 S. W. Rep., 791.
+In the charge to the jury the court eliminated the item for commissions and the question of jurisdiction, and refused a special instruction requested by appellants on the latter subject. We think the court should have submitted the question of fraud to the jury, though the error in refusing to do so would not of itself require a reversal of the case. The item for commissions was withdrawn from the jury, and the validity of the item for storage was submitted to the jury, and they found that it was a just claim; and, of course, if it be a just claim against the defendants, it can not be charged that it was placed in the plaintiffs petition for the fraudulent purpose of acquiring jurisdiction. However, as-before stated, upon another trial we think the question of jurisdiction raised by the plea, of fraud should be passed upon by the jury like any other fact.
+As to whether any storage was paid upon the ties, and whether the amount paid was fair and reasonable, there is no evidence except that given by the plaintiff, and the same may be said with reference to the item for commissions. It was shown that although the plaintiff had reported to the defendants the resale of the ties in St. Louis, and presented his account, and drawn for the amount claimed to be due him, neither of these items were included therein. It is true that he undertook to explain why he pretermitted these items, and was willing to close the transaction for $192; still it was for the jury to say whether or not his explanation was satisfactory, and it was their province to decide whether or not the two items referred to were sued on in good faith by the plaintiff, he believing that the defendants were liable therefor, or-whether or not they were afterthoughts, fraudulently incorporated in the petition for the purpose of raising the amount of the demand above $200, and within the jurisdiction of the County Court.
+We rule against appellants on the other points presented in their brief. Judgment reversed and cause remanded.
+Reversed and remanded.
