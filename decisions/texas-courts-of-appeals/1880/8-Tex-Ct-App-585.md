@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1880"
-citations: ["8 Tex. Ct. App. 585", "9 Tex. Ct. App. 419"]
+decided_precision: "year"
+citations: ["8 Tex. Ct. App. 585"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["P. S. Nolen v. The State."]
 source_url: "https://static.case.law/tex-ct-app/8/cases/0585-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128236
-cites_cases: ["10 Gratt. 767", "23 Mich. 36", "52 Miss. 216"]
 ---
 
 # Nolen v. State
