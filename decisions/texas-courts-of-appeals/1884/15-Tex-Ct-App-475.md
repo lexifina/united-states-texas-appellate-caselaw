@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1631"
+decided: "1884-03-01"
+citations: ["15 Tex. Ct. App. 475"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Davis v. The State."]
+source_url: "https://static.case.law/tex-ct-app/15/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136429
+cites_cases: ["29 Mich., 173"]
+---
+
+# Davis v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+That particular paragraph of the charge to the jury which was excepted to is in these words, viz: “If the jury find from the evidence that the defendant Henry Davis did, as charged in the indictment, commit an assault upon the said Albert Maulding, and that, had death resulted to said Albert from said assault, the offense would have been murder— whether of the first or second degree is immaterial—then the defendant is presumed to have made the assault with that intent, and the jury should find him guilty and assess his punishment at confinement in the penitentiary for a term of not less than two nor more than seven years.”
+The indictment charged that defendant did “in and upon the person of Albert Maulding, a reasonable creature in the peace of God and the State then and there being, make an assault with a certain pistol, which said pistol was then and there a deadly weapon, and that he the said Henry Davis did then and there make said assault upon him the said Albert Maulding, with the unlawful and felonious intent on his part, and of his express malice aforethought, him the said Albert Maulding to kill and murder,” etc.
+It will be seen that the charge of the court authorized the jury to find the defendant guilty of assault with intent to murder if they found the assault alone, independent of the intent, was committed as charged in the indictment, provided death had resulted from the assault, and that defendant in such event would be presumed to have made the assault with intent to murder. The assault charged in the indictment was an assault with a pistol, a deadly weapon. Would an assault with a pistol, a deadly weapon, necessarily be an assault with intent to murder, where, if death had ensued, the offense would have been murder? Clearly not; because, whilst the law makes it murder to kill, or to do serious bodily harm likely to produce death, where death follows in consequence of the injury inflicted, it does not make an assault which is likely to produce serious bodily harm, even though it might have been murder, an assault with intent to murder, unless the intent to murder was the object and purpose of such assault.
+It is true the law says that “ whenever it appears upon a trial for assault with intent to murder that the offense would have been murder had death resulted therefrom, the person committing such assault is deemed to have done the same with that intent.” (Penal Code, Art. 502.) Still, this rule must be construed and considered with reference to and in connection with a subsequent article defining the ingredients of this offense. Article 506 provides that “an assault with intent to commit any other offense is constituted by the existence of the facts which bring the offense within the definition of an assault, coupled with an intention to commit such other offense, as of maiming, murder, rape or robbery.” The assault must be coupled with" the intention to commit such other offense, and this intention is the very gist of the offense. One of the criterions for determining the offense, and an indispensable one, is, had death resulted would the offense have been murder? (Yancy v. The State, 20 Texas, 656; Lockwood v. The State, 1 Texas Ct. App., 749.) A literal construction of Article 502 would seem to make that the only criterion. Such, however, is not and cannot be the case where, as we have seen, both the law and the reason of the law make it otherwise.
+It is against reason that the law should decree or presume a citizen guilty of an offense or crime dependent upon intention, when he never intended its commission, and when the law itself has made that intention the essential condition precedent to his guilt. The controlling, the fundamental maxim, of the law in its humanity and its mercy is, that “ every man is presumed innocent until his guilt is established.” The law will never presume that which is in itself an inconsistency with the law.
+How, the intent is the essential ingredient of assault with intent to murder (Johnson v. The State, 1 Texas Ct. App. 609), and this intent is a material inquiry for the jury, and is determinable by the jury from the evidence. (Anderson v. The State, 1 Texas Ct. App., 730.) It is a fact which the law cannot presume, “ because there are no presumptions of fact which are not entirely within the disposal of a jury in a criminal case ” (Hamilton v. The People, 29 Mich., 173; S. C. 1 Hawley Amer. Crim. Repts., 618), unless they are presumptions which are declared such because they spring naturally and follow irresistibly from acts committed or words spoken. But even in the latter cases, “ when a special intent beyond thé natural consequences of the thing done is essential to the crime charged, such special intent must be pleaded, proved and found.” (Gillespie v. The State, 13 Texas Ct. App.. 413.)
+Opinion delivered March 1, 1884.
+For. a full discussion of the law with regard to the necessity of proving, and the necessity that the jury should find, the specific intent in cases of assault with intent to murder, see White v. The State, 13 Texas Court of Appeals, 259; Harrell v. The State, Ib., 415; Courtney v. The State, Ib., 502, and Gillespie v. The State, Ib., 413. We hold that the charge of the court above quoted was erroneous and was calculated to mislead the jury; wherefore the judgment is reversed and the cause remanded.
+Reversed arid remanded.
