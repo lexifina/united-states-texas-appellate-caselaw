@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-10-27"
+citations: ["57 Tex. Civ. App. 304"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Avant v. Charlie Watson."]
+source_url: "https://static.case.law/tex-civ-app/57/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2349484
+cites_cases: ["14 N. W., 735", "23 S. W., 1052", "30 N. E., 538", "44 Pac., 445", "50 Ill., 311", "52 N. W., 682", "60 N. W., 893", "87 Pac., 143"]
+---
+
+# Avant v. Watson
+
+## Majority (RICE, Associate Justice.)
+
+RICE, Associate Justice.
+Appellee brought this suit against appellant for the recovery of $1,000 and interest, alleging that theretofore, on the 15th of August, 1906, he and appellant had entered into a written contract, whereby appellant agreed to- sell to him, for delivery on the first of October, 1906, one hundred head of cows and one hundred head of calves, out of certain specified brands, for the sum of $20.25 for each cow and calf so delivered, said cattle to be good, smooth, merchantable cattle; that appellee paid to appellant, in part payment thereof, the sum of $1,000; the balance of the purchase money was to be paid on the delivery of said cattle; that though often requested, appellant failed to deliver said cattle in accordance with contract, and that in consequence thereof plaintiff prayed for the recovery of the $1,000 he had paid on said contract.
+Appellant answered by general and special demurrers, general denial, and specially pleaded that he had tendered for delivery to appellee the cattle called for in said contract at the place where the same were to be delivered, but that appellee refused to receive said cattle or any part thereof, or to make payment to him of the balance of the purchase money, as required by said contract; that on account of said refusal he had been damaged in the sum of $5 per head, the cost of gathering the same, and the further sum of $3 per head injuries suffered to said cattle in gathering the same, and $345" for the loss of twenty head thereof with their calves, which sums, aggregating $1,145, he prayed might be set off as against appellee’s demand, and that he have judgment over and against him for the difference.
+There was a jury trial in which the court, after the conclusion of the evidence, instructed a verdict in behalf of appellee, from which judgment appellant has appealed; so that the only question for consideration is whether or not the court erred in peremptorily instructing a verdict in behalf of appellee. It is insisted by appellant that the court so erred, urging that where there is any evidence supporting or tending to support an issue, properly pleaded, it is the duty of the court to submit the issue for the consideration of the jury. This proposition is elementary, and no authorities need be cited in support thereof. But appellee questions its application to the case at bar. There was ample evidence supporting the contention of appellee to the effect that appellant breached the contract, in that he failed to deliver or offer to deliver the cattle in accordance with the contract, but instead thereof had proffered to deliver certain cattle that did not in any respect come up to the class of cattle required thereby; whereas there was considerable evidence to the effect that the cattle so tendered on the part of appellant met the requirements of the contract, and .that appllee had refused to accept the same. Notwithstanding this, however, we have closely examined the record and failed to find any evidence showing or tending to show any damage to appellant by reason of said refusal to accept the cattle so tendered by him to appellee. This being the case, no matter what the proof may have been with reference to appellee’s failure to receive the cattle, yet if it fails to show any damage arising therefrom, appellant can not recover.
+We think the law is well settled that “when a vendee refuses" to receive personal property contracted for, the seller has either of three remedies: He can hold the property as the property of the vendee, and sue for the price; or he can foreclose his vendor’s lien upon the property by a fair sale of it, and sue the vendee for what of the price' he fails in this way to realize; or he can treat the property as his own, after the vendee’s refusal to receive, and sue for damages. If the vendor elects the latter remedy, the measure of his recovery is the difference between the contract price of the thing refused and its market value at the "date when it ought to have been received.” (Parsons on Cont., 209; Welden v. Continental Meat Co., 65 Texas, 487; Woldert v. Arledge, 4 Texas Civ. App., 692, 23 S. W., 1052.)
+Appellant in his pleading seems to have elected the last of these remedies, but failed, in our judgment, to plead facts as a basis for the recovery of such damages. It is true that he undertook to plead special damages, but as we have already said, the record fails to show that he suffered damages of any kind, special or otherwise. This being true, it was clearly the duty of the court to have instructed a verdict in behalf of appellee, as was done.
+Finding no error in the judgment of the court below, the same is affirmed.
+Affirmed.
