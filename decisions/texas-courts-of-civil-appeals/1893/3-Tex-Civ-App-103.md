@@ -1,0 +1,36 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "225"
+decided: "1893-04-13"
+citations: ["3 Tex. Civ. App. 103"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ed. C. Imlay v. C. H. Brewster."]
+source_url: "https://static.case.law/tex-civ-app/3/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 220990
+---
+
+# Imlay v. Brewster
+
+## Majority (PLEASANTS, Associate Justice.)
+
+PLEASANTS, Associate Justice.
+There is no appearance in this court for the defendant in error, and we have to consider the case as presented by the brief of the plaintiff in error, with such reference to the transcript as we have found to be necessary.
+The case briefly stated is, that defendant in error brought suit on September 22, 1889, in the County Court of Aransas County, against one Norfleet and plaintiff in error, on an alleged verified account for §200. Norfleet accepted service of citation. Citation issued for plaintiff in error, and was duly served, but the citation was impressed with the seal of the District Court and not with the seal of the County Court.
+On October 6, 1891, j’udgment final by default was rendered by the court against both defendants, without previous amendment of the citation for defendant Imlay.
+On the 30th of March, 1892, defendant Imlay, the plaintiff in error, filed his petition in the County Court of Aransas County, praying for a writ of error to the Court of Appeals, and' that citation issue for the plaintiff Brewster; and on same day the plaintiff in error gave bond, which was approved by the clerk of the court, and the citation in error was issued and directed to the proper party, and was duly executed and returned on the 4th of April, 1892.
+On the 31st of March, 1892, Brewster, the plaintiff in the court below, filed his motion in the office of the clerk of said court, praying that the judgment rendered on the 6th of October, 1891, by default, be set aside, and citation was issued and duly served upon Imlay, commanding him to appear at the April Term, 1892, of the County Court and answer said motion. No citation was issued for the defendant Norfleet, nor was any prayed for as to him.
+On April 20, 1892, the court granted the motion to set aside the judgment, and citation was ordered for Imlay to appear at the next term of the court and answer the plaintiff’s suit. Imlay did not appear and answer the motion to set aside the judgment.
+On the 6th of July the court again rendered judgment against Imlay and Norfleet, the judgment reciting that there was no appearance by or for defendant Imlay.
+The plaintiff in error had assigned errors in the County Court before the second judgment was rendered against him by that court, and subsequent to that judgment, and before the transcript was delivered to him, he assigned additional errors as to said second judgment.
+There are five assignments of error, each one of which is adopted as a proposition of law. We need not, however, consider all of them.
+The first assignment is: “ The judgment by default rendered against this defendant on October 6, 1891, is error, because there was no appearance by this defendant, and the citation served upon this defendant in this cause on September 22, 1891, did not contain an impress of the seal of this court.”
+This assignment, we think, is well taken. The writ by which the defendant Imlay was cited, having upon it the impress of the seal of another court than that from which the writ issued, must be treated as not authenticated in the manner required by law, and its service upon defendant placed him under no obligation to obey the summons to appear in court and make defense to plaintiff’s suit; and the judgment by default rendered in the suit on the 6th of October, 1891, against defendant, was erroneous, and it was his privilege to have the same reversed upon appeal. Frosh v. Schlumph, 2 Texas, 423. The defendant had his option to appear in the court and have the writ quashed, and thus postpone the trial of the cause to the next term, or to await the action of the court, and in case judgment should be rendered against him to bring the case by writ of error to the Court of Appeals and have the judgment reversed and the cause remanded for further proceedings in the court a quo. Of this privilege the defendant could not be deprived by any of the proceedings had in the County Court subsequent to the judgment of October 6, 1891.
+When a final judgment has been rendered in a cause, and the term of the court has expired, the jurisdiction of the court over the subject matter of litigation is gone, and the court has no power to set aside the judgmen and to hear the case anew for the purpose of correcting errors committed upon the former trial. The District and County Courts have no power to revise and correct their judgments; that power can be exercised only by the appellate tribunals.
+It is very true that the power of a court over its records does not cease, as does its jurisdiction over the subject of litigation, upon the expiration of the term at which the final judgment is rendered; but such power continues and may be exercised, under a proper state of facts, at any time subsequent, and either in vacation or when the court is in session. In the exercise of its powers over the records, a court may, after it has lost jurisdiction of the case, do whatever is necessary for the correction or completion of its records, and this power is not lost or suspended even when the case has been appealed to a revisory tribunal. Freem. on Judg., sec. 65. This general and continuing power of a court over its minutes and records is recognized and its exercise provided for in articles 1355, 1356, and 1357 of the Revised Statutes.
+But it was not the exercise of this power which was invoked by the appellee in his motion filed, on the 31st of March, 1892. Nor did the County Court of Aransas County use its power in the correction dr completion of its records so as to make them truly show what had been done by the court in hearing and adjudicating the cause at a previous term. But the court in April, 1892, set aside its judgment rendered at the October Term, 1891, and reinstated the cause upon its docket, and ordered process to issue for appellant, commanding him to appear and answer the plaintiff's suit at the term to be holden in June, 1892, and at that term another and a different judgment was rendered against him than that rendered in October, 1891. Thus we have two final judgments rendered by the same court in the same cause, and between the same parties, the second judgment intended as a substitute for the first, which is unsatisfied, not reversed, or annulled.
+From what has been said it follows, that all of the proceedings had in this cause under the motion of defendant in error in the County Court, subsequent to the rendition of the judgment for the defendant in error against the plaintiff in error and his codefendant on the 6th of October, 1891, must be treated and held to be void, and they are so declared by this court; and it is ordered, that the judgment last aforesaid be reversed, and that this cause be remanded for further proceedings in said County Court.
+jReversed and remanded.
+Delivered April 13, 1893.
