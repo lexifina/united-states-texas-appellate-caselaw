@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "2005"
+decided: "1885-11-11"
+citations: ["3 Willson 54"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. H. Morrow v. U. F. Short."]
+source_url: "https://static.case.law/willson/3/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1367744
+cites_cases: ["60 Tex. 583"]
+---
+
+# Morrow v. Short
+
+## Majority (White, P. J.)
+
+Opinion by
+White, P. J.
+'■ § 31. Sequestration suit; jurisdiction of county court of, where the value of the property exceeds $500; case stated. This is a sequestration suit brought by Morrow against Short, in the county court, to recover personal property, valued at $875. Short pleaded that the county court did not have jurisdiction of the subject-matter of the suit, because the value of the- property in controversy exceeds"$500. ' This plea was sustained and the suit dismissed, and Morrow has appealed to this • court. Held: It'seems to be'conceded by both parties that the trial judge based his ruling upon sec. 8, art. 5, of the constitution, defining the jurisdiction of the district court, and conferring upon that court, amongst other matters, original jurisdiction “of all suits for trial of right to property levied on by virtue of any writ of execution, sequestration or attachment, when the property levied On shall be equal to or exceed in value $500.” And upon that portion of article 1164, Eevised Statutes, prohibiting jurisdiction of the county court as to certain causes of action, and, amongst others, “ of suits for the trial of the fight to property levied on by virtue of any writ of execution, sequestration or attachment, when the property levied on shall be equal to or exceed in value $500.” It ia claimed by appellee that the case of Erwin v. Blanks, 60 Tex. 583, is a case in point and sustains the ruling. That was a case where a suit was pending between two parties,— attachment was issued and levied, and a third party came in and claimed the property levied on, and filed a claimant’s oath and bond to tiy the right of property under authority of the' statute providing a specific action known as “trial of right of property.” [R. S. arts. 4822, 4847.] In similar cases- the same rule has been held in this court. [W. & W. Con. Rep. §§ 172, 173.] Our “ trial of right of property ” is an action unknown to the common law, and so far as we are advised is sui generis. It is a special right of action provided for a particular class of cases. It is an action by a third party, not a party to the original suit, who finds his personal property levied upon by virtue of some process issuing in the suit. Without the necessity of resorting to injunction, or an independent action, the statute allows him to make claim to the property in the original suit, by filing his claimant’s oath and bond. This gives him a standing in the case, with reference to the property levied upon, somewhat similar to that of an intervenor in other cases. He is entitled to assert, be heard upon, and have the court determine the right to the property seized, as between himself and the party attempting to subject it to his debt or claim. Trial of the right of property, technically speaking, means a trial wherein a third person, not an original party, comes into a suit to assert his title and right to property wrongfully brought into the suit by one of the writs mentioned. It is this technical action of “trial of right of property,” which is evidently intended by sec. 8, art. 5, of the constitution, and art. 1164 of the Revised Statutes. These provisions were not intended to embrace and furnish a rule of action for cases like the one at bar. Here the suit is an action of sequestration for specific property which the plaintiff claims belongs to him, and which he alleges is wrongfully claimed and held by the defendant. There is no third party claiming a- right to the property. Plaintiff claims that he was owner and in possession; that defendant wrongfully took the property from his possession, and unlawfully detains it; and fearing that defendant would ill-treat, injure and waste the same during the pendency of the suit, he prayed a writ of sequestration, and for judgment for the recovery of said oroperty, or its value in case it could not be found. The action is one to recover specific property, and not one for the trial of right to property which had been levied upon. The sequestration had not been levied upon the property at the instance of another, but was sued out by plaintiff himself, as ancillary to his cause of action, for the security and preservation of the property he'was seeking to recover. Both the cause of action and the amount in controversy are within the jurisdiction of the county court, and the court erred in sustaining the plea to the jurisdiction.
+November 11, 1885.
+Reversed and remanded.
