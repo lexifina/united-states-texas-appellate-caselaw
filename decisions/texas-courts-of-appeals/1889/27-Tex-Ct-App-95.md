@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2545"
+decided: "1889-01-23"
+citations: ["27 Tex. Ct. App. 95"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jerry Dugger v. The State."]
+source_url: "https://static.case.law/tex-ct-app/27/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4467105
+---
+
+# Dugger v. State
+
+## Majority (Willson, Judge.)
+
+Willson, Judge.
+There are two counts in the indictment; the first charges that the defendant and a certain other person, or persons, to the grand jurors, unknown, acting together, with malice aforethought, did kill and murder Ellick Brown, etc.; the second charges that certain persons, to the grand jurors unknown, and whom the grand jurors are unable to describe, did kill and murder said Ellick Brown, and that the defendant, prior to the commission of said murder by said unknown persons, did unlawfully, wilfully and of his malice aforethought advise, command and encourage said unknown_persons to commit said murder, the said defendant not being present at the commission of said murder by said unknown persons.
+On the trial of the case, after the evidence had been introduced, the district attorney abandoned the first count and dismissed the same, relying upon the second count only for a conviction, and a conviction was had upon said second count, the punishment assessed being confinement for life in the penitentiary.
+Defendant excepted to the indictment because it does not allege the names of the unknown person or persons who committed the murder, or give any description of them. We are of the opinion that the court did not err in overruling the exception. Those provisions of our, code which require the name of the accused to be alleged in the indictment, if known, or, if unknown, that a reasonably accurate description of him be given (Code Crim. Proc., arts. 420-425), are not applicable in this case, because said unknown person or persons are not the “accused.” The defendant, Jerry Dugger, is the “accused” in this indictment, and is named as such in the indictment. The other person or persons, being unknown, could neither be named nor described, nor was it essential to this prosecution that they should be; nor was it essential to a conviction of the defendant that the evidence should disclose who they were.
+In support of the second count in the indictment (the count upon which this conviction is based), there is no testimony except that of the witness Bright. He testified, in substance, that, a month or perhaps two months prior to the murder, the defendant said to him that Brown would some day be killed, and that his money would be the inducement. He then asked witness if he thought that Brown had any money around him. Witness replied he did not know, but that sometimes he did have. He then said if Brown had any money around him a person Avould have to hang him, bruise him up and maybe so burn him before he would give it up or tell where it was. He then asked witness if he, witness, would go in with some men to rob or kill BroAvn. Witness answered: “Ho,” and after the lapse of about an hour asked the defendant if he would tell him the names of the men, and defendant answered: “I have told you too much already.” Witness then asked him what part he would perform. He said all he would have to do would he to find him and see that it was done complete. Said witness testified further that about one week after the murder defendant called his attention to the conversation above related, and told him not to tell anything about it, and stated that if he did tell about it he would be killed.
+Opinion delivered January 23, 1889.
+Is this testimony sufficient to sustain this conviction? We are clearly of the opinion that it is not. It does not show that the unknown murderer or murderers were advised, commanded or encouraged by the defendant in the commission of the crime. It does not show that the “men’’ to whom he alluded in the conversation with the witness Bright were the murderers of Brown. Brown may have been murdered by other men than those—by men whom the defendant did not know, or had never seen—and if so, he certainly was not an accomplice in the murder. It is not pretended that the witness Bright was a principal in the murder, and Bright is the only known person who was advised, commanded or encouraged by the defendant to commit the murder. It may be that the defendant was an accomplice in the atrocious crime shown by the evidence to have been perpetrated by some person or persons, but we can not pronounce his guilt legally from the evidence before us. If the witness Bright is to be credited, there is strong grounds for suspecting that the defendant was in some way criminally connected with the murder, but suspicion is not proof, and the law demands proof, and such proof as leaves no room for reasonable doubt of guilt.
+With respect to the charge of the court, we do not think it subject to the objections made to it. It is, in our opinion, a clear and correct exposition of the law of the case, except, perhaps, that it should have more distinctly instructed the jury that, to find the defendant guilty, they must believe from the evidence that the defendant was not present at the commission of the murder, and that the murder was committed by a person or persons who had been advised, commanded or encouraged by the defendant to commit it.
+Because the evidence does not sustain the conviction, the judgment is reversed and the cause is remanded.
+Reversed and remanded„
