@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1908-12-23"
+citations: ["53 Tex. Civ. App. 68"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cooperative Insurance Association et al. v. J. T. Hubbs."]
+source_url: "https://static.case.law/tex-civ-app/53/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4409710
+cites_cases: ["14 Am. Rep., 494", "33 S. W., 602", "38 S. W., 60", "39 S. W., 374", "49 S. W., 271"]
+---
+
+# Cooperative Insurance v. Hubbs
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+This is a suit by appellee on a fire insurance policy to recover the amount of insurance on a building insured by the appellant in favor of appellee. The court treated the policy as a liquidated demand under art. 3089 of the Revised Statutes, and rendered judgment for the amount of $800, the value of the building agreed upon in the policy.
+There is no contest over the question that the building was totally destroyed, and that the premiums were paid and notice of loss given. The first page of the policy contains this recital, after stating that it insures in favor of J. T. Hubbs against all loss by fire, etc., in amount not exceeding $800: “On the two story, shingle roof, frame building, with adjoining and communicating additions, including water and gas pipings and fixtures, plate glass and wall decorations, while occupied as a private residence.” On page 5 of the policy, as appears in the agreed statement of facts appears this description: “Building: Of what material? Frame. When built? 1899, and 1900. How many stories? Two. How many rooms, exclusive of hall and closet? Hine. How many verandas or porches? Three. What is material of roof? Shingle. What kind of foundation? Stone and cedar. What was the original cost of the building ? $1000. What was the cost of the addition since ? $200.”
+It is contended that in a suit on a policy such as this, in order to treat the building as a part of the realty and bring it within the purview of art. 3089 so as to consider the policy in the event of a total destruction as a liquidated demand, it is necessary for the plaintiff to allege and prove that the building so insured and destrayed was in fact not personal property. We might rest the decision of this question upon what is said by the court in Orient Insurance Co. -v. Parlin & Orendorff, 38 S. W., 60, where in effect it is held that as between the Insurance Company and the assured, a building destroyed and covered by the policy will be treated as realty, and that in a contest concerning the liability of the Insurance Company, the question whether the building shall be regarded as a removable fixture will not be gone into and considered. However, it is not necessary, in order to support the judgment in this case, that we should go that far, for, in' our opinion, the recitals contained in the policy with reference to the description of the property prima facie show that it was considered, regarded and treated as realty. When it is provided in the policy that the subject of insurance is a building attached to the soil occupied as a dwelling, it prima facie appears that it is not personal property. It appears from the recitals quoted that the building in question rested upon rock and cedar pillars, showing that it was attached to the land, and when such state of facts is shown it should be regarded as a permanent fixture, unless the contrary is shown.
+It is provided by art. 3089 that a fire insurance policy, in the event of a total loss of the property insured, shall be held and considered a liquidated demand for the full amount of the policy, provided, so the statute states, it shall not apply to personal property. Independent of the question upon whom would rest the burden of proof in a case under this statute, it is clear that the statute would only demand from the plaintiff in order to recover, that the pleading and evidence should be sufficient to create in his behalf a prima facie right to recover. And when he describes in his petition, and the evidence establishes the fact that a dwelling house, which was attached to the soil and so described in the policy, was totally destroyed, he at least makes a prima facie case justifying the court to treat the property as not personal, therefore bringing his case within the terms of the article of the statute quoted.
+There was no error in the ruling of the trial court complained of in appellant’s fourth assignment. The assignment is not presented in accordance with the rules. There is what purports to be a proposition under it, but it is not a proposition, it is merely a statement as to what appears to be the testimony of the witnesses and extracts from the policy. But, if we were inclined' to consider it, no error is shown, because it appears from the statement made that the appellant contends that the agreement contained in the policy which it expected to prove was not complied with, was a warranty. We have examined the policy carefully and we fail to find where the truth of the statement which it expects to disprove was warranted to be true.
+We find no error in the record and the judgment is affirmed.
+Affirmed.
