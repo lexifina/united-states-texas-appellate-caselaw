@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1195"
+decided: "1895-04-10"
+citations: ["10 Tex. Civ. App. 346"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State, for Use of San Saba County, v. Wiley Williams et al."]
+source_url: "https://static.case.law/tex-civ-app/10/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 245181
+cites_cases: ["110 Mo., 138", "18 S. E. Rep., 288", "23 S. W. Rep., 193", "24 S. W. Rep., 790", "25 S. W. Rep., 688", "26 S. W. Rep., 637", "27 S. W. Rep., 293", "59 N. W. Rep., 438"]
+---
+
+# State v. Williams
+
+## Majority (COLLARD, Associate Justice.)
+
+COLLARD, Associate Justice.
+This suit was brought May 20, 1893, by the plaintiff in error against Wiley Williams and the sureties on his bond as a retail liquor dealer in quantities less than a quart, said bond being for $500, alleging a breach of the condition relating to the permitting of minors to enter and remain in the place where the business is carried on. The court sustained exceptions to the petition and dismissed the suit, upon the ground that the Act of 1887, under which the bond was executed (Sayles’ Civil Statutes, article 3226a, section 4), was repealed by the Act of 1893 (General Laws 1893, section 9, page 179), which last act was presented to the Governor for his approval on the 6th day of May, 1893, but was not signed by him, or returned to the house from which it originated with objections thereto, in the time prescribed by the Constitution, and became a law without his signature. The bond sued on was dated October 20, 1891. The breach alleged was of date May 13, 1893. The suit was dismissed by the court below ¡November 22, 1893, and plaintiff has brought the case to this court by writ of error, the transcript of which was filed April 5, 1894.
+There is an agreement on file in this court, signed by the attorney for defendants and the county attorney of San Saba County (who represented the plaintiff in the lower court), to the effect, that since the writ of error was sued out, by a vote of the people in justice precincts 1 and 4 of San Saba County, the law known as the “local option” law, passed by the Legislature, approved March 29, 1893, has been put in force and effect in the named precincts and is now in operation, and that the house or saloon in which defendant Williams did business was, at the time of the alleged breach of the bond, and now is, in precinct 1 of San Saba County. There is a certificate of the same purport by the county, judge of the county filed in this court with a motion of defendants to dismiss the cause.
+We are asked to dismiss the writ of error, upon the ground that the adoption of the local option law has had the effect to repeal the laws regulating the sale of intoxicating liquors in the precinct named, and to render inoperative the bond executed under such laws. Conceding that the question can be raised at this time and in the manner in which it is presented to us, we do not think the motion to dismiss has any merit. The suit is based upon a written obligation—a contract to pay a stipulated sum, ascertained and liquidated by the law and the agreement of the parties. The right to recover the amount sued for by the terms of the bond became vested upon the breach alleged, and would not be affected by the subsequent suspension of the law providing for the bond. The law may be revived and put in operation again, but, if it never could be put in force again, the liability incurred by the breach of the bond would not be extinguished. Prosecutions for offenses committed under the law regulating the sale of liquors—to recover a fine or to punish the offender—would be affected by the abrogation of the law in the locality where it had been violated. But this is not a prosecution under a criminal statute, or to recover a penalty, in its proper sense, fixed by statute. It is a suit upon a contract for an amount due under the contract authorized and legalized by the law—an amount incurred while the law and the contract were in force. “When a right in the nature of a contract has vested under an original statute, its repeal will not disturb the right.” Sedg. on Const, and Stat. Law, 132-134, and authorities cited in note on page 132; Collins v. Warren, 63 Texas, 314; The People v. Wade (Mich.), 59 N. W. Rep., 438; Bell v. The State (Ga.), 18 S. E. Rep., 288; The State v. Drake, 86 Texas, 330. The amount sued for, being the subject of contract made so by law—the extent of the wrong to be prevented being uncertain and not measurable by known and established rules—was estimated and fixed by the contract as permitted and prescribed by statute. In such case, the liability under the same became one of contract, which could not be impaired by a subsequent statute. Const. U. S., art. 1, sec. 10; Durst v. Swift, 11 Texas, 282; Yetter v. Hudson, 57 Texas, 613; Eakin v. Scott, 70 Texas, 444. The motion to dismiss the writ of error is overruled.
+We think the court below erred in sustaining exceptions to the petition. The Act of 1893 did not repeal that part of the Act of 1887 under which the bond sued on was made. This was decided in the case of The State v. Drake, 86 Texas, 330, to which we refer for a full discussion of the question
+The judgment of the lower court is reversed, and the cause remanded.
+Beversed and remanded.
+Delivered April 10, 1895.
+1192, The State v. Ed. House et al.; 1194, The State v. W. F. Fielder et al. These cases involved the same issues as in The State v. Williams, and for same reasons they were reversed and remanded.
