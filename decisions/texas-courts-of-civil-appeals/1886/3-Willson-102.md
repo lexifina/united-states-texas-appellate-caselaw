@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1867"
+decided: "1886-01-13"
+citations: ["3 Willson 102"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fannie Perkins, Adm’x, v. W. B. Traynham."]
+source_url: "https://static.case.law/willson/3/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1367580
+cites_cases: ["16 Tex. 472", "35 Tex. 21", "61 Tex. 213", "62 Tex. 375"]
+---
+
+# Perkins v. Traynham
+
+## Majority (Will-son, J.)
+
+Opinion by
+Will-son, J.
+. § 78. Distress warrant; remedy by, ceases upon death of tenant; landlord must resort to probate court to collect his claim; case stated. R. P. Perlcins rented land of appellee for the year 1884, and owed the rent, amounting to $401.32. In October of that year said Perkins died, leaving appellant, his wife, surviving him. She'was appointed and qualified as temporary administratrix of deceased’s estate, and in that capacity took possession of the estate, which consisted in part of crops grown upon the rented premises during said year. Appellee presented to her his claim, for said rent, and she declined to either accept or reject it. In fact, under the order of the court appointing her temporary administratrix, she had no power to,pass upon claims against the estate. Appellee .thereupon, sued out a distress warrant before a justice of the peace upon said rent claim, and caused the same to be levied upon said crops. The amount of the rent claimed being, within the jurisdiction of the county court, the writ was returned to that court, and- appellee filed his petition in said court in accordance with the statute. Pending the spit in the county court appellant was appointed and qualified as administratrix, with full powers as such, of the estate of the decedent, and as such, said claim for rent, upon being again presented to her, was accepted. In the county court she moved to quash the .distress warrant upon the ground that the justice had no jurisdiction to issue the same, the tenant being dead. The affidavit and bond for distress warrant both recited the fact of the death of said tenant. She also demurred to the petition upon the ground that it showed upon its face that R. P. Perkins was dead; that his estate was being legally administered; that therefore the county court, as a probate court, alone had jurisdiction to adjudicate the rent claim and enforce the landlord’s lien. Her motion to quash and demurrer were overruled, and judgment was rendered that the landlord’s lien upon the property levied upon be foreclosed, subject, however, to the action of the county judge upon the rent claim, said claim not then having been passed upon by said judge. Held: This entire proceeding is void for the want of jurisdiction. Upon the death of R. P. Perkins his estate was within the exclusive' jurisdiction of the county court as a probate court. That court, except as a probate court, and in accordance with the provisions of the statute regulating estates of decedents, had no jurisdiction whatever over the property of said estate, or, except in one special instance [R. S. art. 2028] to adjudicate claims against the estate. • Nor did the justice of the peace have jurisdiction to issue the distress warrant, because the property upon winch it was to operate had passed within the exclusive jurisdiction of another court, and was then being administered in said other court in accordance with law. The fact that appellee had a landlord’s lien upon certain property of the estate does not affect the question. The probate court possessed ample power to enforce such lien, and was the only- court possessing such power. [R. S. arts. 2037, 2067.] Appellee had no greater •rights in this respect than any other lien holder. If his lien had been by express contract, as by mortgage or deed of trust containing power of sale, he could have enforced it only in the probate court. [Robertson v. Paul, 16 Tex. 472; Buchanan v. Wagnon, 62 Tex. 375.] The precise question presented in this case arose and was determined in Thompson v. Branch, 35 Tex. 21, the only difference in the cases being that that case was a suit in the district court. It was held that the proceeding could not be maintained, but that the probate court had the exclusive jurisdiction over the subject-matter. The doctrine of that case we believe to be correct, and it is decisive of this case. The county court, sitting as a court to try civil cases, has no power to even classify a claim against an estate. Its jurisdiction over estates is as á probate court alone, and can only be exercised in the mode prescribed by statute. [Porter v. Sweeney, 61 Tex. 213.] Its civil and probate jurisdictions are as separate and independent of each other as are its civil and criminal jurisdictions.
+January 13, 1886.
+Reversed and dismissed.
