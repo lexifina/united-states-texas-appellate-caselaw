@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1879-06-27"
+citations: ["24 Tex. Ct. App. 723"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence A. Lott v. The State."]
+source_url: "https://static.case.law/tex-ct-app/24/cases/0723-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4461996
+---
+
+# Lott v. State
+
+## Majority (Ector, Presiding Judge.)
+
+Ector, Presiding Judge.
+The indictment charges the defendant with the theft of a horse, the property of Columbus C. Littlefield. The jury found the defendant guilty as charged in the indictment, and assessed his punishment at five years confinement in the penitentiary, and after the return of the verdict the court adjudged the defendant guilty of theft of a horse, as found by the jury.
+The first assignment of error is: “The court erred in admitting any proof of property in Christopher C. Littlefield, when the indictment charged the property to belong to Columbus C. Little-field, as shown by defendant’s bill of exceptions.”
+On the trial of the cause, Christopher Columbus Littlefield was the first witness introduced by the State; who testified that he was usually called Columbus, and that he was frequently addressed as Columbus C. Littlefield. The defendant then objected to proof of theft of an animal bélonging to Christopher C. Littlefield, or Christopher Columbus Littlefield, as the indictment charges the horse stolen to have been the property of Columbus C. Littlefield. The objection was overruled by the court, and the witness proceeded to testify: “In July, 1877, I made a contract with the defendant, Lawrence Lott, by which he was to take charge of my stock of horses, to attend to them and brand them; and he was to receive, in payment for his services, one-fourth of all young colts branded by him. He told me in August that he had branded certain colts, among which he named a dun colt, the one in question, which he said he had put in my brand. I afterwards saw this dun colt, but could discover no brand upon it. I afterwards saw defendant, and told him I could see no brand upon the colt. He said that, owing to the season, he was afraid of the worms, and therefore would not brand it deep. In November or December, after this, I discharged Lott, and the next spring, missing the dun colt, I found it in possession of J. D. Ellis, and went before a justice of the peace at Leesville, proved my property, and recovered it from the possession of Mr. Ellis. At the time of making the contract, I turned over to him the whole of my horse stock then running upon the range. I turned over this particular dun colt at the same time with my other stock. This colt was then about eighteen months old, being a colt of the spring of 1876. It was unbranded. I did not give defendant my consent to sell the dun colt in question. Defendant was simply to look after my horse stock and brand all unbranded stock, and receive in payment one-fourth of the young colts of 1877. The horse was taken in October, 1877.”
+The State also proved, by J. D. Ellis, that in October, 1877, he purchased from the defendant the horse that was subsequently claimed by O. 0. Littlefield.
+The court, in the fouth subdivision of its charge to the jury, instructed them as follows: “If the jury find from the evidence that the alleged owner of the animal described in the indictment, Columbus C. Littlefield, is the person who is known as Columbus Littlefield, though his true name may be Christopher Columbus Littlefield, then the allegation. of his ownership will support a conviction, provided the evidence be sufficient in other material respects.”
+We believe, when the question arose concerning the name of the person whom the indictment alleged to be the owner of the stolen animal it was competent for the State to show, in support of the .allegation in the indictment, that the person was as well known by the name used in the indictment as by any other. As was said by the learned judge who delivered the opinion of the the court in the case of Bell v. The State, 35 Texas, 574: “By this is not meant that the indictment could not be sustained without showing that the person was as exclusively or as familiarly known by the name used in the indictment as by any other; for this would not be necessary. It would be enough to show that the person was as certainly known to friends and acquaintances of the vicinity by the name used as by any other.”
+After property has gone into defendant’s possession by lawful means, a fraudulent appropriation or conversion of the same to his own use or benefit, without the consent of the owner, would not constitute theft. Littlefield says that all his horse stock, including this colt, was placed in defendant’s possession, and “turned over” to him. ,,
+The following instruction, among others asked by the defendant, the court refused to give, to wit: “In this case defendant asks the court to instruct the jury if they believe from the evidence that defendant got possession of the colt or horse from the owner by any lawful means, that any subsequent appropriation of the colt or horse in question by defendant would not be theft, and you will acquit the defendant.” . (
+We believe, under the facts in this case, that the court should have given the above instruction asked by defendant. Instead of doing this, the lawful possession by the defendant was entirely ignored by the court, and for this the judgment must be reversed. In felony cases the court should give the whole law applicable to the case to the jury, whether requested or not. On an indictment for theft the defendant could not be convicted of embezzlement. (Griffin v. The State, 4 Texas Ct. App., 39.) It is not pretended that the possession of the animal in question was fraudulently obtained, or that it was obtained with a view of misappropriating the property.
+Opinion delivered June 27, 1879.
+The judgment of the district court is reversed and the cause remanded.
+Reversed and remanded.
