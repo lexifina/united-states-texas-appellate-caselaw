@@ -1,0 +1,38 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1900-01-13"
+citations: ["22 Tex. Civ. App. 424"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Missouri, Kansas & Texas Railway Company of Texas v. Mrs. S. M. White."]
+source_url: "https://static.case.law/tex-civ-app/22/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 280606
+---
+
+# Missouri, Kansas & Texas Railway Co. v. White
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+—Appellee was a passenger on one of appellant’s trains, and was attempting to get off at the station to which she had been carried, when she fell and received the injuries of which she complains.
+The issues made by her pleadings were thus submitted to the jury in the charge :
+“If you believe from the evidence that the box upon which plaintiff stepped or attempted to step in alighting from defendant’s train was an unsafe device to be used for so alighting, by reason of its size or position or the character of the ground upon which it rested, and if you further believe that by reason of said box being unsafe for use as such device, the plaintiff in descending from the steps of defendant’s ear fell and was injured, and if you further believe from the evidence that the defendant’s servants were guilty of negligence in failing to furnish plaintiff a safe means for alighting from said train, or if you believe that defendant’s servants upon said train were guilty of negligence in failing to furnish plaintiff personal assistance necessary to prevent her from falling, and if you further believe from the evidence that such negligence, if any, of defendant’s servants was the proximate cause of plaintiff’s injuries, if any, then you will find for the plaintiff against the defendant such sum' of money as damages as you believe from the evidence will reasonably and fairly compensate plaintiff for the bodily and mental pain, if any, reasonably necessary medical expenses, if any, loss of time from her business, if any, and diminished capacity to pursue her occupation in the future, if any, which you believe from the evidence the plaintiff has sustained or incurred by reason of said injuries, if any.
+“You are further instructed that while the plaintiff was a passenger on defendant’s train the defendant owed to her the duty to exercise that high degree of care for her personal safety that a very prudent - person would exercise under the same circumstances, and a failure, if any, to use such care would be negligence in the sense that the word ‘negligence’ is used in the foregoing portions of this charge.
+“The burden is upon the plaintiff to make out her case by a preponderance of the evidence, and if she has not done so, you will find for the defendant. * * *
+“If you believe from the evidence that defendant’s employes in charge of said train exercised that high degree of care for the personal safety of plaintiff in alighting from-said train which very cautious and prudent persons would have exercised under the same circumstances, then you will find that they were not guilty of negligence, and if you so find, you will return a verdict in favor of defendant.”
+The issue of contributory negligence was also submitted, the charge placing the burden of proof as to it upon appellant.
+The following conclusions will dispose of all the objections to the charge:
+Appellee’s own testimony, as well as that of other witnesses introduced by her, tended to show that her fall from the steps of the car was due to the fact that the box provided for passengers to step on in alighting from the car had been placed too far under the car step, together with the failure of the trainmen who undertook to help her down to take sufficient hold of her to keep her from falling. This testimony ivas a sufficient basis for the verdict ascribing negligence to the company in these respects.
+The evidence introduced by appellant, however, tended to show that the box was in proper position, of the usual size and on level -ground, and consequently that the accident must have been due to some other cause. But there was also evidence tending to show that the step-box was too small, and that the ground upon which it had been placed was slanting, and also-uneven on account of rocks and gravel. There was therefore some room for the inference that the size of the box and the condition of the ground, one or both, may have caused appellee to fall, and that she may possibly have been mistaken as to the position of the box. We are therefore unable to entirely agree with appellant that in submitting these issues the charge submitted issues not at all raised by the evidence.
+Whether the evidence was sufficient to support a finding' for appellee upon each of them we need not determine. If the box was in the right place, and appellee was not to blame for falling, the fact that the box turned over and threw her to the ground tended to prove either that it was not broad enough or that the ground was uneven, or both.
+The contention that the charge made appellant an insurer of the safety of its passengers, in that it imposed upon it the duty of furnishing to its-passengers absolutely safe means of alighting from the cars, is founded upon a construction of the charge which we think the jury could not reasonably have given it in this case. What was said by Chief Justice-Gaines in Railway v. McCoy, 90 Texas, 266, and quoted in- appellant’s brief, as to '“undiscoverable defects” in a railroad track, seems scarcely applicable to a structure so simple as a plain step-box. If this box was not in the right position, or was too small, or ivas not on level ground, such defects could hardly have escaped notice, if the high degree of care-which the law imposes upon carriers of passengers had been taken by appellant’s servants in this instance.
+Equally erroneous is the construction of the charge that it imposed upon-appellant the absolute duty of furnishing its passengers personal assistance in alighting from its trains. In this instance appellant, by the undisputed evidence, did undertake to furnish appellee personal assistance, but the evidence tended to show that it was not such as to prevent her from falling.. The charge complained of only submitted the issue of negligence-involved in the character of the personal assistance furnished, that is, whether or not the company in undertaking to furnish personal assistance was guilty of negligence in not furnishing such as ivas necessary to-prevent appellee from falling.
+The further contention must be overruled that the charge allowed a double recovery in allowing damages for loss of time from business and “diminished capacity to pursue her occupation in the future.”
+The last error assigned to the charge is that it placed the burden of proof on appellant as to the issue of contributory negligence. Appellant does not controvert the general rule on that subject as laid down in Railway v. Shieder, 88 Texas, 158, but insists that the charge given was misleading in this case because appellee’s own testimony tended to show contributory negligence. We think, however, that, standing alone, her testimony did not even raise the issue. Clearly, according to her version, she acted as a person of ordinary prudence would have done under the same circumstances.
+The only remaining 'assignment complains of the admission of certain testimony which we deem of little or no importance.
+The judgment is therefore affirmed.
+Affirmed.
+Hunter, Associate Justice, did not sit in this case.
+Writ of error refused.
