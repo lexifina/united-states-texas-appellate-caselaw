@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1882"
+citations: ["12 Tex. Ct. App. 297"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. Donahoe v. The State."]
+source_url: "https://static.case.law/tex-ct-app/12/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 131396
+---
+
+# Donahoe v. State
+
+## Majority (Hurt, J.)
+
+Hurt, J.
+John Donahoe was convicted of the theft of cattle, the property of Joseph Walker.
+From a bill of exceptions number one, we learn “ that on the trial of this cause the case was called for tria-l at the morning session of the court, when both the State and defendant announced ready for trial, and the trial proceeded until the hour to adjourn for dinner, when the State closed and the defendant’s counsel announced they had no evidence to offer for the defense; that when the court met in the afternoon defendant’s counsel offered to introduce J. M. Campbell, who was present in court, the owner of the ranche upon which defendant lived, and proposed to prove by said witness that the hides taken from his place by the witness Lampkin, and sold by said witness in San Antonio, were, at the time they were taken away by Lampkin, in the possession and control of the witness J. M. Campbell, and that he, Campbell, received the money for said hides after they had been sold by the witness Lampkin in San Antonio; to the introduction of which testimony the counsel for the State objected upon the ground that the evidence in the case had been closed before dinner; which objection of the district attorney was sustained by the court and the proposed witness J. M. Campbell was not permitted to testify.”
+The judge appends the following explanation: “I sign the above with the qualification that defendant’s counsel did not except to the refusal of the court to permit the witness Campbell to testify, but I presume they intended to have done so. When the court took the recess for dinner, he told defendant’s counsel if they had any testimony to introduce it then; they stated they had none; the court then stated that only argument would be heard after dinner. At this time the proposed witness Campbell was in court, as he had been nearly all the morning during the trial, prompting defendant and his counsel. The defendant had been under arrest for several terms past, and lives with this witness, and one of his counsel, Hr. Hill, has been in the case for several terms. When this witness was offered, counsel stated that he could prove by the witness that witness and not defendant had possession of the hides when received by Lampkin, and that the witness received the pay or part of it from the sale of the hides. In view of all these facts, the court did not allow the witness to testify after dinner.”
+This evidence was objected to by the district attorney because “the evidence in the case had been closed before dinner,” — not because it was immaterial and did not tend to elucidate the issue in the case. There was no other ground urged by the district attorney to the admission of the evidence. The judge, however, in his explanation based his action upon the facts “that defendant had before dinner announced that he had no evidence to introduce; that he had been under arrest for several terms, and lives with the witness, and one of his counsel, Mr. Hill, has been in the case for several terms.”
+Under article 661, Code Crim. Procedure, if it appears that it is necessary to the due administration of justice, the court “ shall ” allow testimony to be introduced at any time before the argument of a cause is concluded. The proposed evidence is clearly material, and very important to the defense. Due administration of justice would require its admission, unless upon some other ground than-its materiality it should have been rejected.
+The only objection urged by the district attorney was that the evidence had closed. This was no objection whatever,— the article providing for this very contingency. That the counsel for the defendant believed and announced that the defendant had no evidence certainly was not a good objection. How often do the most learned and vigilant attorneys discover, after the cause is tried, the importance of certain evidence, though the facts may have been known to them all the while. Facts become important and figure materially in a case because of other facts in the record, and the conclusions which may be drawn from them. The whole bearing of all of the evidence in a case cannot always be comprehended at first view. That the defendant lived with the witness, and the witness was present aiding defendant in his defense, only tends to show that defendant knew of the facts proposed to be put in evidence. Certainly because defendant knew of this evidence, it would be a violent presumption to conclude that he knew of its materiality and importance.
+We are of the opinion that the evidence should have been admitted, especially in a case like the one in hand, in which the inculpatory facts are- so meager and uncertain in their tendency. For the error above indicated the judgment is reversed and the case remanded.
+Reversed and remanded.
