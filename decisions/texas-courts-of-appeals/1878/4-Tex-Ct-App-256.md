@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1878"
-citations: ["4 Tex. Ct. App. 256", "4 Tex. Ct. App. 54"]
+decided_precision: "year"
+citations: ["4 Tex. Ct. App. 256"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Wilson King v. The State."]
 source_url: "https://static.case.law/tex-ct-app/4/cases/0256-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4418332
-cites_cases: ["24 Cal. 27"]
 ---
 
 # King v. State
