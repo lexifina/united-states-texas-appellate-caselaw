@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-02-12"
+citations: ["59 Tex. Civ. App. 241"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Houston & Texas Central Railroad Company v. Wells-Fargo & Company."]
+source_url: "https://static.case.law/tex-civ-app/59/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4402593
+cites_cases: ["101 S. W. 534", "91 S. W., 841"]
+---
+
+# Houston & Texas Central Railroad v. Wells-Fargo & Co.
+
+## Majority (BOOKHOUT, Associate Justice.)
+
+BOOKHOUT, Associate Justice.
+This suit was instituted- by Mrs. Belle Kiber for herself and as the next friend of her minor children, in the District Court of Navarro County, to recover damages of appellant, the Houston & Texas Central Railroad Company. Mrs. Kiber is the widow of Dan Kiber, and is the mother and next friend of the minor children of the said Dan Kiber, all of whom are named in the judgment herein.
+Dan Kiber received injuries by reason of being run over by a passenger train of the Houston & Texas Central Railroad Company in the city of Dallas on the 1st of October, 1907, from whicli he died about forty-eight hours thereafter. The Houston & Texas Central Railroad Company, appellant, by cross-bill, sought to recover over against the Wells-Fargo & Company, alleging that the negligence of said Wells-Fargo & Company approximately caused the death of the said Kiber, in that it negligently left one of its express trucks standing so near the track of the Houston & Texas Central Railroad Company that, while the said Kiber was attempting to board the train as a passenger, he came in contact with said truck, was thrown from the cars under the train and received the injuries which resulted in his death.
+On the trial of the case a jury was waived, and the court, after hearing the evidence, gave judgment against the Houston & Texas Central Railroad Company in favor of the plaintiff, Mrs. Kiber and her children, for $7,500, and rendered judgment in favor of Wells-Fargo & Company and against the Houston & Texas Central Railroad Company upon its cross-bill, holding that Wells-Fargo & Company could not be held liable for the death of Kiber.
+Did the trial court err in refusing to render judgment in favor of appellant over against the express company for the same amount that plaintiffs recovered from the railroad? The ground upon which the railroad company was liable to plaintiffs was that their deceased ancestor, when injured, was a passenger, and the railway company owed him the duty of exercising toward him that high degree of care due from a carrier to a passenger, and that it had failed in the performance of this duty, in that its platform was not in a safe condition for the use of persons and passengers entering its cars, and because of the company’s negligence in that respect it was liable. The injuries to Kiber resulted from an express truck upon the railroad platform, which was within eighteen inches of the train, and which came in contact with Kiber, dragging him from the train and causing him to be run over, which injuries resulted in his death. The appellant introduced in evidence a written contract between the railway company and the express company, authorizing the express company to use the depot grounds of the railway company.
+It is argued by appellant that the express truck was left at the place where it was by the express company, and that if there was negligence in leaving the truck at this particular place it was the negligence of the express company, and for this reason the court should have rendered judgment in favor of appellant and against the express company for the amount that plaintiffs recovered against the railroad company. We do not agree to this contention. The express company could only act through its servants and agents in the use of the trucks, and the act of a servant in leaving the truck within eighteen inches of the car would not, in law, be the act of the express company itself. There was no contractual relation between Kiber and the express company, and that company owed no duty to Kiber to furnish him a safe platform from which to enter the cars. The railway company did owe Kiber a duty which it failed to perform, and the injuries to Kiber resulted from such failure. Even if, as argued by appellant, the servants of the express company were negligent in leaving the truck where it was left, still the court did not err in refusing to enter judgment in favor of the appellant company and against the express company. It was shown that the use made of the platform by the express company on the night of the accident was the usual and adopted method or way in which the platform was used by the express company in the transaction of its business. Under the facts as proven, the express company was not liable under the statute to plaintiffs. Sayles’ Civ. Stats., art. 3017; Lipscomb v. Houston & T. C. Ry. Co., 95 Texas, 15; Galveston, H. & S. A. Ry. Co. v. Nass, 94 Texas, 255.
+There is no clause in the contract between the railroad company and the express company by which the last-named company expressly agrees to indemnify the railroad company for losses resulting from a state of facts as here shown.
+We think it clear that there was no error in refusing to render judgment in favor of the railway company over against the express company for the $7,500 recovered by plaintiffs. Lipscomb v. Railway Co., supra; Railway Co. v. Nass, supra.
+Finding no error in the judgment the same is affirmed.
+Affirmed.
