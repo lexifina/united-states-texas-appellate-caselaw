@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1907-05-11"
+citations: ["46 Tex. Civ. App. 389"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. E. Dean et al. v. J. W. Jagoe"]
+source_url: "https://static.case.law/tex-civ-app/46/cases/0389-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4392112
+cites_cases: ["36 S. W. Rep., 807", "40 S. W. Rep., 847", "44 S. W. Rep., 874", "98 N. Y., 98"]
+---
+
+# Dean v. Jagoe
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+This is an action of trespass to try title brought by J. W. Jagoe to recover from E. E. Dean and others one hundred and sixty acres of land in Denton County patented to the heirs of Benjamin I. Burton. There was also a prayer for rents. The trial resulted in a verdict and judgment in favor of the plaintiff for the land and the sum of one thousand dollars rents, which sum, however, was subsequently reduced by remittitur to five hundred dollars. The defendants in the action have appealed.
+Appellee’s right to a recovery in this case depends upon the validity of a will executed by Benjamin I. Burton by which he devised the lands in controversy to two of his nephews, through whom appellee by mesne conveyances claims. By an Act approved January 4, 1839, the Congress of the Republic of Texas granted to “all single, free, white, male persons of the age of seventeen and up, who have emigrated to this republic since the first day of October, 1837, or who may emigrate to this republic by the first day of January, 1840,” three hundred and twenty acres of land with the following condition and provision: “The conditions of the said grant shall be that both grantee and Ms or her family shall remain and reside permanently within this Republic and do and perform any and all duties required of other citizens for the term of three years; after which time he or Ms legal representatives shall receive from .the government an unconditional deed for said grant of land; providing that no sale of said claim to land by the individual entitled to the same of this government shall be valid in law, and binding upon the person selling the same until an unconditional deed shall be obtained by the grantee of said land; and in no case whatever shall a grant of that description be made unless it be satisfactorily proven that all the conditions and provisions of the law have been complied with.” On December 19, 1839, a conditional certificate for three hundred and twenty acres of land was issued under said Act to Benjamin I. Burton by the Board of Land Commissioners of Nacogdoches County. In 1844 Benjamin I. Burton by last will and testament devised all his property to his two nephews, each of whom was named Benjamin Lacy. Whether or not the inhibition of the statute against a sale of such claim to land fotbade its disposition by will is the question with which we are first confronted. We hold that it does not. The restriction being against sales should, we think, be strictly construed and not extended by construction to include other well known methods of conveyance. The principle contended for by appellants that grants should be strictly construed in favor of the government, can have no application since the State is in no manner a party to the present controversy or interested in its determination. At most the restriction against a sale of such claim to land was forbidden only "until an unconditional deed shall be obtained by the grantee for said land,” which under the Act was to be given at the end of three years. It will be observed that Benjamin I. Burton had complied with the terms of the grant for the prescribed time prior to his death, which occurred January 4, 1844, two days after the execution of his will, and his right to the unconditional evidence of title having accrued in full, such right was the proper subject of devise. Especially are we strengthened in this view by the fact that Congress had but recently enacted the statute concerning wills, which very broadly gave to every person aged twenty-one years or upwards power at his pleasure by last will and testament "to devise all the estate, right, title and interest in possession, reversion or remainder which he or she hath or at the time of his or her death shall have of, in or to lands, tenements, hereditaments or annuities or rents charged upon or issuing out of them, or shall have of, in or to any personal property whatever.” Acts of the Congress of the Republic of Texas, approved January 28, 1840, 2 Gam. Laws, 341.
+That the unconditional certificate and subsequently the patent were issued to the heirs of Benjamin I. Burton can not affect appellee’s right to recover if the title of Benjamin I. Burton passed by his will. The title of the heirs in such case is a naked legal title, and their holding is in trust for the real owner of the land. Wilson v. Simpson, 80 Texas, 286.
+There is no merit in the contention that appellee, to whom the legal title to the land was conveyed for the purpose of bringing suit, had no such interest in the land as to authorize him to sue for its recovery. We understand the rule to be that one in whom is lodged the naked legal title may sue for and recover land, especially as against a trespasser.
+We find nothing in the evidence to authorize the submission of appellant’s requested charges upon the issue of barratry. The evidence was sufficient to authorize the charge of the court upon the issue of rents and to support the judgment finally rendered.
+We find no error in the judgment and it is therefore affirmed.
+Affirmed.
+Conner, Chief Justice, not sitting.
+Writ of error refused.
