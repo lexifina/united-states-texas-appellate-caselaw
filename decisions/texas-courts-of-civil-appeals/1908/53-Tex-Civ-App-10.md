@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1908-12-17"
+citations: ["53 Tex. Civ. App. 10"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Texas Company v. W. H. Beddingfield et al."]
+source_url: "https://static.case.law/tex-civ-app/53/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4409168
+---
+
+# Texas Co. v. Beddingfield
+
+## Majority (McMEANS, Associate Justice.)
+
+McMEANS, Associate Justice.
+This is an appeal from an order of the county judge of Leon County, made in vacation, dissolving a temporary injunction previously granted by the county judge in a suit in the County Court of Leon County, brought by appellant against appellees. " The facts stated in the petition, so far as are necessary to an understanding of the grounds upon which this decision is based, are briefly as follows:
+W. H. Beddingfield, Lilia Ivey, joined by her husband, Alford Ivey, Lottie Eagan, joined by her husband, Theo Eagan, Katie Lobinsón, feme sole, and Annie Beddingfield and James Beddingfield, minors, represented by W. H. Beddingfield as next friend, instituted a suit in the County Court of Leon County at its January, 1908, term against The Texas Company for damages alleged to have been caused by the construction of the pipe line of The Texas Company through certain land in Leon County owned by them. On the trial of the case judgment was rendered against defendant for $100 in favor of all the plaintiffs except Alford Ivey and Theo Eagan, who were in no way disposed of by the judgment.
+On February 11, 1908, The Texas Company filed in the County Court of Leon County a suit for a new trial of said case, in its petition alleging, among other things not necessary to be here stated, that the judgment having failed to dispose of two of the parties to the proceedings, it was not a final judgment and would not therefore support an execution, but that notwithstanding this fact the plaintiffs in said suit were threatening to, and if not restrained would cause execution to issue for the enforcement of said judgment and cause the same to be levied upon its property, etc., and prayed that they be enjoined, pending final hearing, from doing any act toward the enforcement or collection of said judgment, and that on final hearing the enforcement thereof be perpetually enjoined, and that said judgment be set aside and a new trial in said cause be granted. The county judge granted the injunction in the terms of the prayer, and on February 12, 1908, a writ of injunction under the direction of the judge was issued and served upon plaintiffs in said judgment. Thereafter the parties enjoined filed their answer in the injunction proceeding, alleging, among other things, that the injunction was sued out for delay, and that if the judgment enjoined left any of the plaintiffs undisposed of, or if the - same by reason of not disposing of all the plaintiffs was not a final judgment, the same could be corrected in this proceeding, and they prayed that such correction be made by providing that such undisposed of parties take nothing by reason of said suit, that the temporary injunction be dissolved, and that the defendants be awarded the statutory penalty of ten percent on the amount of their judgment.
+Upon a hearing of the matter by the county judge in vacation, on March 9, 1908, he made an order dissolving the temporary injunction, and correcting and amending the judgment by decreeing that Alford Ivey and Theo Eagan take nothing by said suit, and rendered judgment in favor of the other plaintiffs in the damage suit against The Texas Company for $10, statutory penalty for suing out the injunction. From this order The Texas Company appeals.
+It is well settled that a judgment which fails to dispose of all the parties to the controversy is not a final judgment (Mignon v. Brinson, 74 Texas, 18; Whitaker v. Gee, 61 Texas, 217); and that no appeal will lie therefrom. Nor does such a judgment authorize the issuance of an execution. (Revised Statutes, arts. 2324, 2325.) It was therefore error for the court to dissolve the temporary injunction in vacation pending a trial on the merits, and it follows, we think, that the court also erred in rendering judgment against the appellant for statutory damages. While an amendment or correction of a judgment, such as was sought in this case, might have been made in term time, upon proper motion and upon proper notice, we think it clear that no such correction could be made in vacation. The order of the county judge dissolving the injunction, and awarding damages and correcting the judgment rendered in the damage suit is hereby reversed. and the cause remanded for further proceeding in the matter of the hearing and determination of the suit for new trial.
+Reversed and remanded.
