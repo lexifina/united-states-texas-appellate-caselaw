@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-03-23"
+citations: ["25 Tex. Civ. App. 472"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hattie C. Robertsor v. A. H. Kirby et al."]
+source_url: "https://static.case.law/tex-civ-app/25/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2871049
+---
+
+# Robertsor v. Kirby
+
+## Majority (STEPHENS, Associate Judge.)
+
+STEPHENS, Associate Judge.
+This writ of error is prosecuted from a judgment denying Hattie C. Robertson recovery of a tract of land situated in Jones County. She sought to eject defendants in error, who were mere intruders, by showing prior possession of the land, and a chain of title from the patentee, Henry B. Williams. The case was submitted to the jury on special issues, and as no complaint was made in motion for new trial or otherwise in the court below of the verdict, it becomes conclusive as to the facts found. Rev. Stats., art. 1332.
+In response to the first and second special issues submitted the jury found that the Henry B. Williams to whom the land was granted was not the Henry B. Williams under whom plaintiff in error claimed, thus establishing that she had no title to the land sued for. There is no room, for difference of opinion as to the meaning of this verdict, for upon the ■ second issue it contains an express finding that the certificate sold by the administrator of the estate of Henry B. Williams, deceased, the sale under which plaintiff in error claimed, was not the certificate located on the land in controversy, which, according to the verdict upon the first issue, had been granted to a different Henry B. Williams. The case, then, is not one of mere failure to trace the title back to the sovereignty of the soil, but one in which it is established that the plaintiff in an action for trespass to try title is without title to the land sued for. That is to say, the verdict establishes conclusively (1) that the certificate laid on the land in controversy never belonged to the estate of Henry B. Williams, deceased, but was the property of a different Henry B. Williams; and (2) that it was not the certificate sold by the administrator of that estate.
+The court found, of which no complaint is made, and which there was evidence to sustain, that the prior possession relied upon by plaintiff in error was taken and held under the title arising from the administrator’s sale. We must accept this finding also. Rev. Stats., art. 1331. True, it is found in the transcript among the conclusions of law filed by his honor, the trial judge, but it is in reality a finding of fact, and the judgment recites that it was entered upon the “verdict of the jury and the facts found by the court.”
+The question of law to be determined then is, was the presumption of title arsing from prior possession rebutted by the facts above stated? The learned district judge held that it was, and we are constrained to adopt the same view. The case is distinguishable, we think, from House v. Reavis, 89 Texas, 626; Watkins v. Smith, 91 Texas, 589, and that line of cases, and seems more analogous to Bates v. Bacon, 66 Texas, 348. Suits to recover land by showing prior possession and title out of the State have been treated by our Supreme Court as analogous to those in which proof of superior title under a common source is relied on. In Ferguson v. Ricketts, 93 Texas, 565, which was of the latter class, it was held that recovery might be defeated by showing that the original grantee who made a deed to the common source had made a previous conveyance to another, as that was held to rebut the presumption of title in the common source, though it was not otherwise or conclusively shown that the common source had not acquired this title. In the course of the opinion it is said: “Ho presumption arises that the common source has acquired an independent outstanding title.” The case was distinguished from Rice v. Railway, 87 Texas, 90, “in which the title of the common source was not derived directly from the original grantee.” By analogy the same distinction may be made between House v. Reavis and this case. Since the title under which possession was taken by the grantor of plaintiff in error was fully exhibited, and was affirmatively shown, as found by the jury, not to be a title to the land in controversy, the evidence of title which possession unexplained affords was' rebutted, and no presumption arose that “an independent outstanding title” had been acquired. As was said by Chief Justice Gaines, in Watkins v. Smith, supra, of the effect of possession as evidence of title: “It is not a rule of property. It is a mere rule of evidence, and is founded upon the principle that, since ownership is a usual concomitant of possession, it is a reasonable: prima facie inference that the possessor of property is the owner of such, property.”
+Upon the findings of fact found in the record the judgment is affirmed.
+Affirmed.
+Writ of error refused.
