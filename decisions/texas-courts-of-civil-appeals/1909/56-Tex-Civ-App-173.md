@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-05-22"
+citations: ["56 Tex. Civ. App. 173"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. B. Rosamond et al. v. S. A. Rosamond."]
+source_url: "https://static.case.law/tex-civ-app/56/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 604758
+cites_cases: ["102 S. W., 734", "26 S. W., 889", "28 S. W., 1052", "31 S. W., 532"]
+---
+
+# Rosamond v. Rosamond
+
+## Majority (RAINEY, Chief Justice.)
+
+RAINEY, Chief Justice.
+This is a suit to partition certain lands in Collin County, brought by appellants against the appellee.
+Appellee plead that he and the appellants owned the land by virtue of the will of an uncle, and by said will their father was appointed independent executor; that by virtue of an agreement with his father he was to handle, manage and control said property according to his best judgment, that he was to fence and put into cultivation such land as should go into cultivation, and to make such improvements in the way of houses and barns, etc., as he deemed necessary to properly rent such land, and in consideration of his services in managing, handling and controlling, looking after and renting said land, including his own labor in so doing and in making such improvements as were necessary, it was agreed that he should receive the sum of two hundred dollars per year, and that he would pay rent on such land as he himself cultivated, and that he was to be reimbursed for the improvements made thereon. That he continued in possession under this agreement until 1900, when the said agreement was renewed with the appellants, since which time he had put- into cultivation 700 acres of said land, made other improvements and paid taxes thereon, and asked for judgment for the reasonable worth of his services, the value of said improvements, taxes paid, and that same be decreed to be a lien on the interest of the appellants.
+Plaintiffs replied by general and special demurrers, and specially, that defendant had settled with plaintiffs each year and never charged them anything for services in renting said land, and told plaintiffs and led them to believe that he was not charging anything for said services, that defendant had received rents in excess of the value of his work and expenditures, and that the improvements were made for defendant's own use and benefit. The statute of two and four years wns plead against defendant’s claim. That the rental, value of' said land had been for the last six years $2,500, which had been collected and used by the defendant, and for which he' was indebted to them in the sum of $7,000, etc.
+A trial resulted in a verdict of partition, and for defendant in the' sum of $320 for improvements and $1,200 for services, -with a lien on the land. From this judgment plaintiffs appeal.
+The appellants complain of the refusal of" the court to instruct the jury, in effect, that the statute of limitation had barred defendant’s claim for the value of services rendered under the contract with the executor. The refusal to give this charge was error. By the terms of the contract, as shown by the evidence of defendant, he was to receive $200 per year, which he was to take out of the rents in the fall of each year, and that he was not to run the estate in debt.
+The appellants also requested a charge applying the statute of limitations to the claim of defendant, alleged for services under the new contract made with the appellants in 1900, which contract was a renewal of the contract theretofore made with the executor. The contract was an express one. It was for a definite sum and payable at a definite time—the fall of each year—-and to be taken out of the rents of the farm. Such being the contract, we do not see why the statute of limitations does not, apply to the claim of defendant, although a co-tenant, as well as to any one else. Defendant’s services were not rendered by virtue of his cotenancy but by virtue of his contract. In the performance of the contract by defendant no equities arose in his favor that would not have arisen had they been" performed by some oue not interested in the land, under an express contract.
+The defendant sought to recover on his contract, and On this alone he must stand. There Avas no lien given by the contract, nor Avas any intended by the parties as it was payable in the fall, and defendant was not to incur any debt in the performance of the contract further than could be met by the rents, and therefore equity fixed none. There was error in not charging on limitation, and in fixing a lien on the land by the judgment of the court.
+In vieAV of another trial there is another proposition Ave Avill discuss, though not raised by an assignment of error, and that is, defendant was allowed a monied judgment for improvements in building a house and barn in the sum of $320, and the land on which these were situated was allotted to the defendant. The monied judgment could only have been granted on the principle that defendant made improArements that enhanced the value of the land. But we do not understand how the land allotted to the others was enhanced in value when defendant received the improvements in his allotment.
+In Taylor v. Taylor, 26 S. W., 889, it is said: “In adjusting the question of improvements between tenants in common, a recovery should not be alloAved in favor of the improving tenant for the value of his improvements against his cotenants; but in making the partition his improvements should be set apart to him, if it can be done without detriment to the interest of such cotenant.” 2 Jones, Law Beal Prop, in Con., sec. 1981. The judgment is reversed and cause remanded.
+Reversed and remanded.
