@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1911-01-11"
+citations: ["63 Tex. Civ. App. 555"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mrs. F. L. G. Sims v. C. Shaffer."]
+source_url: "https://static.case.law/tex-civ-app/63/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 618977
+cites_cases: ["44 S. W., 897", "8 S. W., 815"]
+---
+
+# Sims v. Shaffer
+
+## Majority (JENKINS, Associate Justice.)
+
+JENKINS, Associate Justice.
+Appellant brought this suit to recover of appellee $225, alleged to be due on a written contract for the rent of land. The contract was read in evidence, and showed that appellee agreed to pay to appellant $225 for one year’s rent on the land therein described. Appellee alleged in his answer that subsequent to the making of said contract and after a considerable portion of his crop had been planted, said land was overflowed and his crop badly damaged, and that thereupon appellant and appellee rescinded said contract, appellant agreeing to take said land back in its then condition, and to release appellee from the payment of said rent. This was denied by appellant. The court submitted the case to the jury on this issue, and they returned a verdict in favor of appellee.
+The evidence in support of this verdict is very meager, but we perhaps would not reverse the case on that account, if we did not think that the jury were influenced to the prejudice of appellant by the admission of illegal evidence, as hereinafter shown.
+Appellee, in addition to his allegation as to the rescission of said contract, alleged that at the time of making the same there was a verbal agreement that appellant would dig a ditch and repair a bridge on said land; that she had failed to do this, in consequence of which the land was overflowed and his crop destroyed, to his damage $500; that if said contract did not include the obligation of appellant to dig said ditch and repair said bridge “the same was obtained by fraud of plaintiff, accident or mistake.” There is no evidence in the record tending to show fraud, accident or mistake. Appellee was permitted to prove this oral agreement as a part of the rental contract, and that by reason of the failure to comply with the same, he had lost valuable crops, as well as a great deal of labor expended in plowing and planting the same. Appellant objected to all testimony of this character on the ground that the effect of the same was to vary the terms of the written contract. .
+It is well settled that a contemporaneous verbal agreement can not be set up to vary the terms of a written, contract, unless it be both alleged and proven that such agreement constituted a part of such contract, and was omitted therefrom by fraud, accident or mistake. The contract having been reduced to writing and signed by the parties, they are presumed to have stated therein all of the obligations assumed by each party, and their respective rights must be determined by the stipulations therein contained. All previous propositions or agreements are conclusively presumed to have -been rejected or rescinded. Lynch v. Ortlieb, 8 S. W., 815; Jones v. Brewing Assn., 44 S. W., 897; Blecher v. Mulhall, 57 Texas, 19.
+On account of the erroneous admission of said testimony, which, under the facts and circumstances of this ease, must necessarily have been prejudicial to appellant, this case is reversed and remanded.
+Reversed and remanded.
