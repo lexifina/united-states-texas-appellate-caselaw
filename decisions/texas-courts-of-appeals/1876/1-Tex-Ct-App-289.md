@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1876"
+citations: ["1 Tex. Ct. App. 289"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stephen Thomas v. The State."]
+source_url: "https://static.case.law/tex-ct-app/1/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 123804
+---
+
+# Thomas v. State
+
+## Majority (Ector, Presiding Judge.)
+
+Ector, Presiding Judge.
+The appellant was indicted in the district court of Washington county for the theft of a gray gelding, the property of James Baldridge. He was convicted by the jury, and his punishment assessed at eight years’ confinement in the penitentiary. The indictment is a good one. The court, in its charge to the jury, gave the law as applicable to the testimony.
+James Baldridge testifies that the gray gelding, charged in the indictment to have been stolen, was his property; was used on his plantation to help make crops ; that a hired man by the name of George Foster worked, fed, and took care of said animal, and often rode him off of the place by his (Baldridge’s) permission; and that said gelding was stolen about the last of March, 1876. The testimony further shows that George Foster had ridden said gelding from the place where he worked to another place in the neighborhood where there was a dance, or party, and during the party, at night, said gelding was stolen as charged.
+In behalf of the appellant it is insisted that the judgment of the court below must be reversed because the gelding, as the proof shows, was taken from the possession of George Foster, and not from the possession of James Baldridge. The possession of George Foster of said gelding, under the circumstances as shown from the evidence, was in law the possession of James Baldridge, who was still the legal owner, and had the general property in said animal. The allegation in the indictment that said gelding was taken from the possession of James Baldridge (the real owner) is in strict conformity with the rules of pleading.
+Mr. Wharton lays down this rule : “If the person named as owner is merely servant to the owner, the defendant must be acquitted ; for a servant has not a special property in the goods, the possession of the servant being the possession of the master.”
+Our Code of Criminal Procedure provides that “ it is not necessary, in order to constitute theft, that the possession and ownership of the property be in the same person at the time of the taking.” Art. 2386, Pasc. Dig.
+The supreme court of this state have had occasion to pass upon this question. See Langford v. The State, 8 Texas, 116; Moseley v. The State, 42 Texas, 79; Cox v. The State, 43 Texas, 101.
+We have been referred to three opinions of the same court, in the brief of the counsel for the appellant, to support the position contended for by them—that the possession of the gelding should have been laid in George Poster before a legal conviction could be had on the evidence in this case. By a careful reading of these decisions it will be seen that they do not sustain the position so strenuously insisted on by counsel. These cases all differ from the case at bar. In the case of Garcia v. The State, 26 Texas, 211, and also in the case of Gadson v. The State, 36 Texas, 350, the indictments do not charge from whose possession the property was stolen, and, therefore, were fatally defective. And in the case of Radford v. The State, 35 Texas, 16, the judgment of the court below was reversed because the indictment charged that the property was taken from the possession of Jeremiah Sawyer, the Galveston agent of a New York steamship company, when the evidence showed that it was from the vessel of said company. The judgment in this last case could not have been reversed had the indictment charged that the property was taken from the possession of the said steamship company, or if the proof had shown that the property had been delivered to, and was in possession of, Sawyer, as agent aforesaid, when it was stolen.
+The action of the court in permitting Anderson Wade, a witness for the state, to be recalled, sworn, and examined as a witness before the argument of the case had concluded, is assigned as error. It appears from the transcript that one of the attorneys for the ajDpellaht, after it had been announced by both sides that they were through with their evidence, during his speech to the jury türned and asked the court to withdraw from the jury the testimony of the witness Anderson Wade because he had not been sworn as a witness in the case. The county attorney insisted that the witness had been sworn. The court permitted the witness then to be sworn and to testify as a witness for the state.
+Our Code of Criminal Procedure (Art. 3046, Pasc. Dig.) provides that 4 4 the court shall allow testimony to be introduced at any time before the argument of a cause is concluded if it appears that it is necessary to a due administration of justice.” As a general rule, after the argument of a cause has commenced no testimony should be allowed. Cases sometimes will arise when the presiding judge, in his discretion, should relax this rule if he believes it necessary to a due administration of justice. We do not believe that the court erred, under the circumstances, in permitting the witness Wade to be recalled, sworn, and examined as a witness.
+It was not error in the court to read the paragraph of the case (Langford v. The State, 8 Texas, 15) in the hearing of the jury. This is frequently done; attorneys and judges often read the law in the presence of the jury, and we can see no possible injury to appellant that could have resulted from reading said opinion, inasmuch as the judge correctly gave, in his charge to the jury, the law on the same subject.
+We believe this opinion disposes of all the assignments of 'errors except the 6th, and as to this one it is sufficient to say that the verdict of the jury is abundantly sustained by the evidence, and is not contrary to law. The judgment of the district court is affirmed.
+Affirmed.
