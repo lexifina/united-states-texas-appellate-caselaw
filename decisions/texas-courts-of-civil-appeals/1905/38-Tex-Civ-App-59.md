@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-01-21"
+citations: ["38 Tex. Civ. App. 59"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. H. Young et al. v. Nora Meredith, Admx."]
+source_url: "https://static.case.law/tex-civ-app/38/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2341466
+---
+
+# Young v. Meredith
+
+## Majority (CONNER, Chief Justice.)
+
+CONNER, Chief Justice.
+This This suit was instituted by the appellee as temporary administratrix of the estate of C. E. Meredith, deceased, on the 31st day of December, 1903, for the recovery of an itemized list of personal property of the alleged total value of $1,706, claimed to have been the property of the plaintiff’s husband. It was alleged that during the lifetime of the deceased, to wit, on May 4, 1901, said property had been placed in the possession of the appellants for safekeeping, to be returned upon demand; that C. E. Meredith died in October, 1901, without reducing said property to his possession; that plaintiff was duly appointed as temporary administratrix of his estate by the county judge of Hephill County on December 10, 1903, in which county the principal estate was situated, and was expressly empowered as ternporary administratrix to bring this suit; and that said administration was still open and pending.
+Appellants answered by general and special exceptions and general denial, and by special plea admitted having possession of certain specified chattels enumerated in the plaintiffs petition, but charged that the same had been purchased from the plaintiff for a consideration of $1,000, alleged to have been paid by the appellant Margaret Young in December, 1900. It was also alleged that certain other articles of personal property not enumerated in the appellee’s petition had been included in the sale claimed by appellants. Appellee answered by supplemental petition, admitting the execution" and delivery of the bill of sale to appellant Margaret Young, set up in appellant’s said special answer, but averred that the property enumerated in the bill of sale "was the community property of appellee and her said husband, C. E. Meredith, and that the bill of sale had been executed with the understanding that C. E. Meredith was not to sign the same until the consideration for the property therein enumerated was paid; that no consideration was in fact ever paid. The trial resulted in a judgment for appellee for the possession of a list of property described in the verdict of the jury, and therein separately valued, in the aggregate sum of $905, and from this judgment in accord therewith this appeal has been prosecuted.
+The first, second, third, fourth, fifth, sixth and fifteenth assignments of error in different forms relate to the capacity of the appellee to sue. For instance, the order of the county judge appointing appellee as temporary administratrix, which was offered in evidence in appellee’s behalf, was objected to because it showed “upon its face an estate valued at $5,000, and no adequate or legal bond given by the administratrix, nor that she had taken the oath of office,” etc. We regard the assignments named for the most part, if not wholly, immaterial. Appellants in answer nowhere deny under oath appellee’s legal capacity to sue, as required by Revised Statutes, article 264, clause 2, in order to put the matter in issue. Insofar as necessary to show, we think the order of appointment offered by appellee, together with the further order of the County Court continuing her administration, fully sufficient to authorize the institution and prosecution of the suit in question.
+The seventh, eighth, ninth and tenth assignments seem to attack the verdict and judgment because unsupported by the testimony. We have examined the statement of facts and it seems to be a case merely where the testimony is sharply conflicting. Appellants’ evidence was to the effect that the property involved in this controversy had béen purchased partly from appellee, with the husband’s consent, and partly from the deceased in person, and that the whole had been fully paid for in accordance with contract of sale, as by them alleged. Appellee admitted that part of the property had been delivered under a contract of sale made by her, but specifically denied that the goods had ever been paid for, and the jury seems to have credited her version of the transaction. She also testified that a part of the specified property had been delivered to appellants for safe keeping merely. We conclude that the assignments attacking the sufficiency of evidence to sustain the verdict and judgment should all. be overruled.
+Objection is also made to the court’s charge in various particulars, and to the action of the court in refusing a number of special charges. The special charges, however, insofar as embodying correct propositions of law, and as applicable to the pleadings and evidence, were, we think, sufficiently included in the court’s general charge, which was in all respects as favorable to appellants as they could with any reason demand.
+Finding no error in the trial, the judgment is affirmed.
+Affirmed.
+Writ of error refused.
