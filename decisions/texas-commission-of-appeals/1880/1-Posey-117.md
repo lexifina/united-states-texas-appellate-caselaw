@@ -1,0 +1,47 @@
+---
+court: "Texas Commission of Appeals"
+docket: "Case No. 4066"
+decided: "1880-04-26"
+citations: ["1 Posey 117"]
+reporter: "posey"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. L. Mitchell v. Geo. W. Adams, Jr., et al."]
+source_url: "https://static.case.law/posey/1/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1870770
+cites_cases: ["1 Tex., 48", "34 Tex., 470", "6 Tex., 446", "9 Tex., 319"]
+---
+
+# Mitchell v. Adams
+
+## Majority (A. S. Walker, J.)
+
+A. S. Walker, J.
+I. As to the refusal to allow the request of defendants to make the heirs of B. F. Adams parties.
+The right was not based upon their having any direct interest in the land; the defense claimed ownership by the defendants. They did not ask partition, but resisted the claim of plaintiffs to recover any of the land; -no partition being asked, they had no right to make the new parties based upon the rule in such cases, that all the co-tenants be made parties; besides the heirs were not alleged to be, at the time, co-tenants in the land.
+The pleadings of defendants did not show that the other heirs of B. F. Adams were their warrantors. Ho warranty-can be inferred from the pleadings, save from the effect of the general allegation that the heirs had made a partition of the estate of their ancestor, and that plaintiff had appropriated his share, without giving the details of such partition or stating what the plaintiff had received, or to whom the land in controversy had been allotted.
+The common law right of voucher does not exist in Texas (Pas. Dig., 1468), and even with pleadings sufficiently full to show a cause of action against the warrantor, the right to make such warrantor a party, in a case like this, would not be clear. If warrantors at all, they were remote, not being the vendors of the defendants. The intimation by Judge Hemphill, in Garrett v. Gaines, 6 Tex., 446, does not appear to have been followed in the actual practice.
+But there being no direct connection between the said heirs and the defendants as warrantors and warrantees, nor any facts showing any interest in them in the land, the answer praying that they be made parties was properly stricken out. They were at most not necessary parties, and as the request to bring them into the case was filed on the day of trial the court could refuse because the application came too late.
+II. As to the action of the court upon the effect of the judgment for the locative interest relied upon in defense.
+The record does not show upon what ground the district judge disregarded the decree in evidence for the locative interest. The decree bore date December 19, 1856; the suit was styled “The heirs of W. R. Howe, deceased, by their guardian, Guy Stokes, v. Benjamin F. Adams.” In the body of the decree it appeared that the heirs were Mary Jane, Frances Ann and Wm. G. Howe. The decree recited:
+“ This cause having been regularly reached on the docket, and the presiding judge of this court having been of counsel for the plaintiff, E. H. Tarrant was selected by the plaintiff as special judge to try and determine the above cause. Whereupon Edward IT. Tarrant took the oath prescribed by the constitution and law of this state as special judge selected under the statute in such cases made and provided. And after having taken the oath as aforesaid, proceeded with the adjudication of the above entitled cause. Whereupon the plaintiffs in the above entitled cause came by their attorney, and defendant, who having been cited by publication as the law directs, as will appear by the return on the original writ made on the 5th day of April, 1855, by the sheriff of Ellis county. And it appearing to the satisfaction of the court that the defendant having been regularly cited as the law directs, and that one term of this court has elapsed since said defendant was regularly cited by publication; and the defendant having failed to appear and answer to the complaint of plaintiff and show cause, if any he could, why the prayer of petitioners should not be granted, on motion of the plaintiff, pray judgment by default against the defendant for the land sued for,” etc. Then follows judgment by default, writ of inquiry, testimony, and decree for one-third of the land, writ of partition, their report allotting the north one-third of the tract to plaintiffs and confirmation of report. Signed by “ E. H. Tarrant, special judge.”
+The plaintiff in this suit had proved that B. F. Adams died in 1843 or 1844, and that, July, 1844, an administration was pending on his estate in the probate court of Robertson county, Texas.
+Without expressing an opinion upon the effect upon the proceedings by the previous death of Adams and pendency of administration on his estate, we are of opinion, that the record discloses the want of jurisdiction in the court, for the want of a judge presiding. The district judge had been of counsel and was disqualified. "Under the constitution and laws then in force, “The parties could by consent appoint a proper person to try said case.” Const. of 1845, art. 4, sec. 14; Pas. Dig., 1419.
+The plaintiffs selected E. H. Tarrant, who, after being sworn, entered judgment by default against the defendant. This “ selection ” by the plaintiffs was not an appointment by the parties. This defect is regarded as fatal to the jurisdiction, and the court below was not required to give the decree any effect. Lawrence v. Underwood, 1 Tex., 48; Horan v. Wahrenberger, 9 Tex., 319; Castles v. Barney, 34 Tex., 470.
+III. The refusal of the court to admit the power of attorney and deed named in third assignment.
+The bill of exceptions preserving the action of the court upon those instruments is as follows:
+3d. “ The defendants offered as evidence the power of attorney from the heirs of Ben. F. Adams, deceased, to Bartlett W. Brown, dated May 30, 1859, to which plaintiffs excepted, and after argument had, said exceptions were sustained by the court, to which ruling defendants excepted.”
+4th. “ The defendants offered as evidence the deed from Bartlett W. Brown to James Hogue, to one-half the land in controversy, dated October 8, 1872, to which exceptions were made, and the court, after hearing argument, sustained said exceptions, to which. ruling the defendants excepted.”
+An inspection of the power of attorney shows that in Union county, Arkansas., May 30,1859, “John Q. Adams, W. B. Adams, Alabama Smith, and Wm. M. Smith, her husband, M. E. Hill, and George W. Hammond, as guardian for George W. Adams” (minor heir of George W. Adams, deceased), styled “ heirs of the estate of B. F. Adams, deceased, of Bobertson county, Texas,” empowered Bartlett W. Brown to take possession, lease, sell, etc., all lands of the estate of Ben. F. Adams, deceased, of Bobertson county, Texas. The document is signed by “ G. W. Hammond,” and the others named in the body of the instrument, and was acknowledged in Arkansas before a justice of the peace.
+It is not shown upon what objection the document was excluded. It does not appear to have been proven; it was not properly acknowledged for record. “ George W. Hammond,” who purported, in the body of the instrument, to act for “ George W. Adams, a minor,” could not sell the minor’s property, and of course could empower no one else to do so. There is no evidence of any benefit accruing to the minor from the labor of Brown, or any act of recognition of his acts. We could find no error in the exclusion of the power of attorney by Hammond and others when offered as against the plaintiff, who was, as is claimed by the minor, represented by Hammond.
+The transfer from Brown was a deed by himself as maker for half of the land, claimed under his contract of May 30, 1859, with the heirs of B. F. Adams. The power of attorney does not disclose such interest, nor would it in any way, whether as the basis of Brown’s interest or as a power to sell, conclude the plaintiff; its exclusion, therefore, was not error.
+Other matters are discussed in the briefs, but there are no fundamental errors apparent requiring attention.
+The evidence of title in defendants under a power of attorney subsequently made by persons recognized as the heirs of B. F. Adams to Hogan, as to all but the plaintiff, is not disputed. The conveyance under Hogan is for two-thirds of the survey, being that remaining after the locative interest allotted to the heirs of Howe in the decree already noticed, which seems to have been recognized by the other heirs of Adams.
+Defendants also show conveyances from the Howe heirs for the locative interest. The owners of the entire interest in the tract of land were thus before the court as parties, so that partition could be ordered.
+The testimony shows that plaintiff was born in April, 1855, and was in Texas in 1872, 1873 and 1874, and took some action about his landed interests in Texas. There is contradictory testimony as to bis participation while in Texas in some kind of partition, the terms of which are not shown.
+It also appears that he has made transfers for lands since his majority in 1876. The nature of those transfers, as bearing upon or evidencing a ratification of an alleged partition, is not apparent.
+[Opinion delivered April 26, 1880.]
+But restricting our action to the errors assigned, we find no error requiring a reversal.
+The judgment below should therefore be affirmed.
+Affirmed.
