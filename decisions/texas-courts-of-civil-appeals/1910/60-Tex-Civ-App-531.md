@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-04-30"
+citations: ["60 Tex. Civ. App. 531"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. F. Smith v. Palo Pinto County et al."]
+source_url: "https://static.case.law/tex-civ-app/60/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 608659
+---
+
+# Smith v. Palo Pinto County
+
+## Majority (SPEEK, Associate Justice.)
+
+SPEEK, Associate Justice.
+Appellant sought to enjoin Palo Pinto County and certain other respondents from opening a second-class public road along the west and south lines of section 1795 and the north line of section 1771 in Palo Pinto County, upon the ground that he had received no notice by the jury of view to appear and. present his claim for damages, and that no damages had been paid to him. The district judge granted a temporary writ, but later in chambers dissolved it, and the complainant appeals.
+The first, second and third assignments complain that the court erred in overruling certain exceptions attacking respondents’ answer because the same did not swear away the equities of the bill; and besides, the verification of the plea itself was defective for two or three reasons. The confusion in counsel’s mind perhaps arises out of the fact that the law at an early day required both the petition and the answer in injunction proceedings to be verified by an oath. (Paschal’s Digest, art. 3929.) But such is not now the law. It is true that article 3006 of the present statute declares that no injunction shall be dissolved before final hearing because of a denial of the material allegations of the plaintiff’s petition, unless the answer denying the same is verified by the oath or affirmation of the defendant, yet clearly this contemplates a dissolution upon the denial alone, and has no reference to a dissolution on demurrer or full hearing, as in the present ease.
+Neither is there any merit in the contention that the district judge was without authority to dissolve the injunction because no formal motion asking for =such relief had been filed. The respondents did pray in their answer for this relief, and that was sufficient. What we have already said also answers the fifth assignment, to the effect that respondents’ answer was insufficient because its allegations are in the nature of a confession and avoidance, and do not squarely deny the equities of the bill.
+The findings of fact that the Palo Pinto and Graham road, established in 1876, is practically the same as the road in controversy, and that appellant’s sections were unfenced after said road was laid out, and that the jury of view did review said road in accordance with their appointment, are immaterial in view of other findings of the court which appear to be supported by the evidence. We are not indicating that these findings themselves are not supported by the evidence, but merely point out that they are not decisive of the appeal.
+The eighth assignment is as follows: “The court erred in his first conclusion of law in concluding from the evidence that the road in question was recognized as a second-class road before the meeting of the Commissioners’ Court in the May term, 1909, which took action in regard to said road.” The conclusion referred to is as follows: “1. That the orders of the Commissioners’ Court of Palo Pinto County, in connection with the other evidence admitted, show that the Palo Pinto and Graham road, and that portion of same which is in controversy, was a second-class road, and was so recognized by former Commissioners’ Courts before the Commissioners’ Court at its May term, 1909, took any action in regard to said road.” It is not sufficient to overthrow that portion of the conclusion which shows that former Commissioners’ Courts recognized the road to be a second-class road, but the conclusion that such road was in fact a second-class road must also be overthrown, and this part of the conclusion is not attacked by the assignment. Ho proposition follows this assignment, but, treating it as a proposition within itself attacking the conclusion for want of evidence to support it (though there are findings of fact in the record), yet the same can not be sustained because there is evidence from which the court might properly have concluded that the road in question was recognized as a second-class road before the 1909 action of the Commissioners’ Court. If this conclusion must stand, supporting the final judgment as it does, the further conclusion of the district judge that appellant had waived his right to claim dam'ages, becomes immaterial in the case, and we need not discuss it.
+It is to be borne in mind that appellant makes no complaint, either in his pleadings or on this appeal, of the action of the county in changing the road to its present route in 1902; indeed, he alleges that he gave the right of way (for a third-class road) at that time. But we have seen that the trial court concluded that this was in reality a second-class road in 1902, and that this conclusion has not been successfully combatted, so that appellant has no just cause of complaint.
+Por the reasons given the judgment is affirmed.
+Affirmed.
