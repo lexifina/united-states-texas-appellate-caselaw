@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1880"
-citations: ["9 Tex. Ct. App. 100", "7 Tex. Ct. App. 659"]
+decided_precision: "year"
+citations: ["9 Tex. Ct. App. 100"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["John Taylor v. The State."]
 source_url: "https://static.case.law/tex-ct-app/9/cases/0100-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4434630
-cites_cases: ["10 Wend. 165", "16 Cal. 369", "26 Ala. 103", "26 Ala. 90", "34 Cal. 671"]
 ---
 
 # Taylor v. State
