@@ -1,0 +1,35 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1512"
+decided: "1883-10-27"
+citations: ["14 Tex. Ct. App. 638"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Donohoe v. The State."]
+source_url: "https://static.case.law/tex-ct-app/14/cases/0638-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357726
+---
+
+# Donohoe v. State
+
+## Majority (Hurt, Judge.)
+
+Hurt, Judge.
+This was a conviction for perjury. It was objected to the indictment that the perjury is not properly assigned.
+We have subjected this indictment to the rules laid down by Mr. Bishop, and enunciated in Gabrielsky v. The State, and find that it is not obnoxious to the objection urged against it by the defendant. (Bishop’s Procedure, vol. 2, secs. 918, 919; Gabrielsky v. The State, 13 Texas Ct. App., 428.)
+The indictment in hand charges that certain testimony given before the grand jury was material; that is, the substance of what was sworn to by defendant, and then avers that, “whereas, in truth and in fact,” stating wherever such matter was false, and thus assigning perjury. The matter averred to be material is charged to have been testified about, or in regard to, by defendant; his testimony is set forth in substance, and then the indictment proceeds to negative (not by simply saying that the defendant falsely swore to such matter, but in the i6 oper form) the truth of the facts sworn to by defendant, by averring that “whereas in truth and in fact,” stating that such facts sworn to by defendant were false. We are of the opinion that there is an assignment of perjury formally made in the indictment.
+The materiality of the false testimony must be alleged, either in terms, or by setting out the facts from which its materiality in law will appear. And every fact sworn to, upon which an assignment of perjury is desired to be made, must be averred to be material.
+To present this rule in another light: Ho false testimony can be included in the assignment of. perjury, unless its materiality Is alleged. We are not treating of inducements, inuendoes, or the admissibility of evidence, but of the proper mode to assign perjury. With these rules firmly in hand, let us see what is assigned for perjury in this indictment.
+It alleges that, “It became and was then and there a material question whether or not Willie O’Docherty had wilfully shot two certain mules in said county, on or about the first day of January, 1882.” All of the matters and things contained in the quotation are averred to be material; and upon all, or either of these, perjury can be assigned, but upon no other matter—no matter not contained in the averment of materiality. In regard to what particular matter did the defendant swear falsely? This is learned from what the defendant is charged to have sworn, and that which is alleged, in proper form, to be false—from what is known in legal parlance as the assignment of perjury. The matter upon which perjury is based is specifically selected, pointed out, and assigned for perjury; thus, by this contracting process, informing the defendant “ wherein and to what extent the statements alleged to have been made by him were false, that he may know with certainty what he is called upon to answer.” All of the matters alleged to be material can be made the basis of perjury, by proper assignments of perjury. But, if a general assignment is made upon all, and some of them should, in law, be immaterial, the assignment would be bad. Hence, when matters are alleged to be material which are not, in conjunction with matters which are, the absolute necessity of specific assignment of perjury upon the material matter is apparent.
+In the indictment before us perjury is assigned upon matter which is not alleged to be material, as well as matter averred to be material. Upon this state of the pleadings the learned judge below charged the jury as follows.
+“ Seventh. If, in view of what has , been said by tho court as to the law, and from all the evidence before them, the jury believe that the defendant, in San Patricio county, did, as charged, deliberately and wilfully make the statement set out in the indictment, or any part thereof that the jury believe to have been material to the matter before the grand jury, and if such statement or part thereof is shown (to) have been false when it was made, and if the jury believe the defendant knew it was false when he made it (if he did so), and if they further believe he made such statement before the regular grand jury of this county, as alleged, and under proper oath duly administered to him, then they should find him guilty as charged, and in addition assess his punishment at confinement m the penitentiary for not less than five years, nor more than ten years, in the discretion of the jury.”
+The jury are told in this seventh paragraph of the charge that if they believe that defendant made the statement, or any part of the statement, set out in the indictment, etc. As the indictment charges defendant with making statements not alleged to be material, this charge is most evidently wrong. The trial judge should examine the indictment and ascertain upon what false testimony a good assignment of perjury has been made, and confine the jury to such assignment or assignments.
+The indictment may, and frequently does, set out “ statements” charged to have been made by defendant, without making or a desire to make them the basis of perjury. The false statement or testimony to which the jury must be confined is that which is properly assigned as perjury. And unless assigned, the fact that the statement or testimony is false does not affect the question.
+Again, in this seventh paragraph of the charge, and elsewhere, the jurors are made the judges of the materiality of the testimony. This is error, for the judge, and not the jury, is to pass upon the materiality of the (statement) false testimony.
+If perjury is assigned upon immaterial matter, and the trial judge in his charge submits this matter to the jury, and hinges the guilt of defendant upon the issues therein found, the conclusion is that the judge believed the matter material. In other words, the charge of the court is an infallible test as to whether the trial judge holds matter or testimony material or immaterial.
+We have held this indictment sufficient, but we think it necessary to state upon which assignment it is sufficient. We are of the opinion that the last assignment suffices, to wit: “ Whereas in truth and fact the said William Donohoe was then and there present, and did know that the said Willie O’Docherty did then and there deliberately shoot said mules.” This matter is averred to be material, and in regard to said matter it is alleged to be deposed, and we think it is properly assigned for perjury.
+Because of the error in the charge of the court, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Opinion delivered October 27, 1883.
