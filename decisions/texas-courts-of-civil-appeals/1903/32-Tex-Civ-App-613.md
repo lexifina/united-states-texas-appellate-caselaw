@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-06-06"
+citations: ["32 Tex. Civ. App. 613"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["St. Louis Southwestern Railway Company of Texas v. V. O. Campbell."]
+source_url: "https://static.case.law/tex-civ-app/32/cases/0613-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4373536
+---
+
+# St. Louis Southwestern Railway Co. v. Campbell
+
+## Majority (TEMPLETON, Associate Justice.)
+
+TEMPLETON, Associate Justice.
+—Suit by V. 0. Campbell against the St. Louis Southwestern Eailway Company of Texas to recover damages alleged to have been sustained by him in consequence of his wife and child being made sick by reason of being compelled, while passengers on one of the company’s trains, to ride in an unwarmed coach in inclement weather. Verdict and judgment for the plaintiff for $700.
+The defendant asked for a continuance on account of the absence of a sick witness who had been duly subpoenaed. The application was in proper form, and showed that the witness was expected to testify to certain facts which were material, but the plaintiff admitted that the alleged facts were true, and the application was overruled. Appellant contends that it was entitled to have the application granted as a matter of right, regardless of the admission. We do not concur in the contention. The jury was instructed that the plaintiff had admitted the truth of the facts set out in the application, and that the said facts must be taken as true. The admission, followed by such instruction, rendered the presence of the witness wholly unnecessary.
+It was while Mrs. Campbell and her child were on a journey from Neyland, Texas, to Birmingham, Ala., that they were subjected to the exposure of which the- plaintiff complains. They left Neyland on December 20, 1899, and returned on January 20, 1900. Objection was made by the defendant to the introduction of evidence tending to shqw that Mrs. Campbell and her child were sick while in Alabama, the ground of the objection being that such evidence was contradictory of' the facts which the plaintiff had admitted to be true. The admission was to the effect that the witness for whom the continuance was sought saw Mrs. Campbell and her child on the day of their return and again on the following evening; that they seemed to be in good health; that they did not complain of being sick and did not appear to have been sick; that Mrs. Campbell said that she had a good time on the trip; that the witness was requested to sit up with the Campbells and give them medicine in order that they might be enabled to “get the defendant.” The admitted facts tended to show that the plaintiff’s wife and child were not sick while in Alabama, but were not conclusive of the question. They might have been sick, notwithstanding the existence of the admitted facts, and the admission can not be held to have included the disputable inferences deducible from the facts admitted. The jury was instructed to accept the admitted facts as true and to disregard all evidence in conflict therewith. In view of such instruction the jury can not have found that there was a conflict between the facts admitted and the evidence introduced over the objection of the defendant and followed the said evidence in preference to the admission. The objection to the evidence was properly overruled.
+Complaint is made of the action of the trial court in submitting to the jury as a basis, in part, of the plaintiff’s right to recover, the issue as to whether the plaintiff’s child was made sick by reason of being exposed to cold while on the defendant’s train, and in charging the jury that the plaintiff could not recover anything on account of the sickness and suffering of the child. The complaint is based on the theory that the said charges were confusing, if not conflicting. The plaintiff did not sue to recover damages for injuries to the child, but only the expenses incurred by him in consequence of the child’s sickness. Before he could recover such expenses he was bound to show that the child was exposed to cold and thereby made sick as a result of the defendant’s negligence, and that the expenses were made necessary by reason of the sickness so occasioned. The court correctly instructed the jury that the plaintiff was entitled to recover such expenses, if the evidence established the facts enumerated, and properly protected the defendant against a recovery for injuries to the child by instructing the jury not to allow the plaintiff anything on account of its sufferings. The two instructions are not in the least conflicting.
+The remaining assignments of error attack the evidence as not being sufficient to warrant the verdict. The evidence authorized the conclusion that Mrs. Campbell and her child were compelled, on account of the negligence of the railway company, to ride in a coach that was not heated in disagreeably cold weather, and that they suffered injury as a result of such negligence. ’ The extent of the injury was peculiarly a question for the jury, and we can not say that the verdict in that respect was not justified.
+'The judgment is affirmed.
+Affirmed.
+Writ of error refused.
