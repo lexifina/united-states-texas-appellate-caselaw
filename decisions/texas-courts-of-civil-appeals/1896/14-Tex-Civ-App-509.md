@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1896-10-03"
+citations: ["14 Tex. Civ. App. 509"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. B. Brennan & Co. et al. v. J. F. Fuller et al."]
+source_url: "https://static.case.law/tex-civ-app/14/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 267427
+cites_cases: ["100 U. S., 630", "12 S. W. Rep., 821", "25 S. W. Rep., 56", "25 S. W. Rep., 832", "27 S. W. Rep., 264", "27 S. W. Rep., 57", "4 Wall., 617", "8 S. W. Rep., 117"]
+---
+
+# J. B. Brennan & Co. v. Fuller
+
+## Majority (LIGHTFOOT, Chief Justice.)
+
+LIGHTFOOT, Chief Justice.
+This suit was brought January 25, 1895, by certain creditors of J. F. Fuller, appellee, in which they set out that they had obtained judgments against said Fuller for different amounts, which had been duly abstracted in Grayson County, and which they claimed to be valid liens upon the property in controversy. They alleged that appellees, Fuller and wife, with intent to defraud such creditors in the collection of their debts, were setting up claim to the property as their homestead; and plaintiffs asked for judgment establishing their liens, and that the property be sold to pay their debts.
+The defendants answered setting up that the property in controversy, a one-story brick building in the village of Howe, was the business homestead of appellee Fuller, and not subject to his debts. There was a judgment below in favor of defendants, from which this appeal has been taken.
+From the facts proved and the judgment thereon, we conclude: that the debts of appellants as set out in their petition were reduced to judgments as therein stated, and that such judgments have been duly and legally abstracted in Grayson County so as to create valid judgment liens against all the real estate of J. F. Fuller in Grayson County not exempt from execution. We further find that the property in controversy, being a one-story brick building in which J. F. Fuller formerly did a mercantile business, and in which he still does business as' postmaster in the town of Howe, and which he has continuously occupied and used as his place of business before and since such judgments were rendered, is the business homestead of the defendants, and as such is not subject to the liens claimed by the appellants.
+All the assignments of error presented in appellant’s brief raise the same question, in different form, which is this: Does the fact that a part of the property is occupied and used by J. F. Fuller in his capacity as postmaster constitute it his place of business so as to allow the homestead exemption as claimed by appellees? There is no serious difference between the parties in regard to the facts. It was clearly shown that Fuller was the head of a family, and owned a one-half interest in lot 19, block 3, in the town of Howe, the same as described in plaintiff’s petition, upon which is situated a one-story brick building; that the house upon said lot was put there by Fuller, and that the other one-half interest in the lot vras owned by the children of his first wife; that Fuller and his wife occupied a residence in the town separate from the property in controversy; that at and prior to December 13, 1893, Fuller was engaged in business as a fainily grocer and occupied and used the lot and store house as his place of business. On said date, defendant Fuller being largely indebted, and insolvent, made an assignment of his property to J. R. McMahan, trustee, for the benefit of such of his creditors as would accept the terms and release him from further liability. At the time of the assignment he went out of the grocery business, and has remained out of such business ever since; that the assignee took possession of the stock of goods then in the house, and occupied it from then until February 7, 1894, when he sold the stock of goods and delivered possession thereof to the purchaser. Fuller at that time rented a part of the house to the purchaser of the stock of goods, and has kept it rented continuously since said date. Prior to his assignment, Fuller was postmaster at Howe, aud has so continued to be up to the present time. That he has always occupied an enclosed space as an office in the, rear end of the building, about 10x16 feet, and around this was reserved an additional space of 6x10 feet for the use of the public; and in renting the building he reserved for the use of himself and the patrons of the office, a passway from the front end of the building, which was kept open for the public, and Fuller has always kept and used a key to the front door, and has thus occupied and used the house as his place of business as such postmaster. It is not contended that the value of the homestead claimed exceeds the Constitutional limit.
+We think the occupancy was clearly such as would exempt the property as the business homestead for the head of a family. Shryock v. Lattimer, 57 Texas, 677; Pfeifer v. McNatt, 12 S. W. Rep., 821. See also Hinzie v. Moody, 25 S. W. Rep., 832; Ford v. Fosgard, 27 S. W. Rep., 57; Bailey v. Boughknight, 25 S. W. Rep., 56; Prufrock v. Joseph, 27 S. W. Rep., 264.
+We find no error in the judgment, and it is affirmed.
+Affirmed.
