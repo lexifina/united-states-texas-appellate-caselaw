@@ -1,0 +1,23 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-10-29"
+citations: ["62 Tex. Civ. App. 498", "132 S.W. 853"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. A. Caldwell v. R. J. Dillard."]
+source_url: "https://static.case.law/tex-civ-app/62/cases/0498-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4399378
+cites_cases: ["119 S. W. 917", "119 S. W., 917", "122 S. W. 925", "122 S. W., 925"]
+---
+
+# Caldwell v. Dillard
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+J. A. Caldwell sued R. J. Dillard in the District Court of Lubbock County to remove cloud from title- to certain lands formerly ■ conveyed by Dillard to Caldwell against which a vendor’s lien was retained, alleging that the lien had been satisfied, but that the defendant refused to execute a release thereof. The court, to whom was submitted all issues of fact and law, finds as follows: “That on the 30th day of August, 1901, the defendant, R. J. Dillard, conveyed to the plaintiff, J. A. Caldwell, the four sections of land described in plaintiff’s petition, and that said Caldwell still owns sections 24 and 26, in block 24, in Lubbock County, and section 6 in block 0, in Lynn County, Texas, and that said Caldwell executed to the defendant, Dillard, his two promissory notes each for $500, one due one year after its date and the other due two years after its date, and that in said deed and the said notes the vendor’s lien was expressly retained to secure the payment of said notes and the interest thereon, and that after the execution and delivery of said notes said Dillard transferred both of them to J. W. Jarrott, but that he did not make any transfer of the vendor’s lien reserved in said deed, and that thereafter the said J. W. Jarrott transferred and delivered said notes to the First National Bank of Lubbock, and that both of said notes have been fully paid off and discharged, and that the defendant, Dillard, had refused to make any release or to convey to the plaintiff the title held by him for the security of said notes,”— upon which findings the court rendered judgment for the plaintiff removing cloud from his title and awarding costs in his favor. On a motion for a new trial, however, the court so reformed the judgment as to tax the costs of the proceeding against the plaintiff, and it is of this the plaintiff complains on this appeal.
+Article 1425, Sayles’ Texas Civil Statutes, provides that: “The successful party to a suit shall recover of his adversary all the costs expended or incurred therein, except where it is or may be otherwise provided by law.” Article 1438 makes the further provision that: “The court may for good cause, to be stated on the record, adjudge the costs otherwise than as provided in the preceding articles of this chapter.” In the judgment sustaining appellee’s motion to reform the judgment and tax the costs against appellant, no cause is stated why the costs are taxed otherwise than in favor of the successful party. It was the duty of the trial court if he found good cause to exist for taxing appellant with the costs, to state that cause in the record to the end that the sufficiency of it might be reviewed on appeal.
+It has been held that the appellate court will not indulge the presumption that good cause did exist where none is stated of record. Lumpkin v. Williams, 56 Texas Civ. App., 160 (119 S. W., 917); St. Louis S. W. Ry. Co. of Texas v. King, 57 Texas Civ. App., 583 (122 S. W., 925). We are not altogether prepared to assent to this holding, neither do we care to disapprove it. If it be true that the presumption of regularity usually attaching to judgments should obtain in this kind of a case and that the judgment should be interpreted in the light of the pleading (the motion to retax in this case), then the most that can be said is that there is an implied finding of the truth of the pleading made the basis of the judgment. The ground for appellee’s motion to retax costs was that appellant had accepted a release from the First National Bank of Lubbock, Assuming this to be true, it was not sufficient cause to tax appellant with the costs of a suit which he had been forced to bring in order to devest appellee of the apparent superior title to his land. So that in any event, the trial court erred in taxing the costs as lie did, and.for this error the judgment is reversed and here rendered in appellant’s favor, both upon the merits and for all costs.
+Reversed and rendered.
