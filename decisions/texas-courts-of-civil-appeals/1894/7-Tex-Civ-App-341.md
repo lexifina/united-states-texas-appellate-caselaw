@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1146"
+decided: "1894-05-30"
+citations: ["7 Tex. Civ. App. 341"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Texas & Pacific Railway Company v. Eva McDowell."]
+source_url: "https://static.case.law/tex-civ-app/7/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 237471
+---
+
+# Texas & Pacific Railway Co. v. McDowell
+
+## Majority (HEAD, Associate Justice.)
+
+HEAD, Associate Justice.
+There is not sufficient evidence in the record of the value of the animal alleged to have been killed. The only evidence upon this subject was by the witness R. Watson, as follows: “The horse was a high-headed, well-formed horse, 5 years old, and fifteen hands high; was a good saddle horse. He was a trotting horse, and could singlefoot and walk. He could walk six miles an hour. He was used as a saddle horse, and he was a fast trotter. There was no market at Ranger, Texas, for such horses. I carried or shipped my horses and my daughter Eva McDowell’s horses to Texarkana for sale. The horse was from a fine pedigreed stallion (trotting stock), and a fine graded mare.” And again, in speaking of the mares: “There was no market for such animals at Ranger at the time that they were injured, or at the time they died. There was one bay mare 6 years old, fifteen and one-half hands high, and weighed 900 pounds, two sorrel mares fourteen and one-half hands high, and one brown mare fourteen and one-half hands high, all well bred and from 4 to 6 years old. The mares were kept as brood mares, and were all with foal by a good horse. One sorrel horse and two fillies were injured on the fence, but did not die, and do not sue for the damage to them.”
+The measure of appellee’s damages for the stock killed is their value; and the evidence should furnish some data to guide the jury in arriving at the loss sustained, when so measured, and to enable this court to decide as to whether or not this measure has been properly applied.
+In 5 American and English Encyclopedia of Law, page 39, it is said, “the value of the property in the nearest market is usually the measure of the plaintiff’s damage.”
+In Railway v. Simcock, 81 Texas, 504, in reversing a case because a charge was given allowing a recovery for the value of lost time, in which there was no evidence of such value, it is said: “The rule is, that even where the law implies damages such as necessarily result from the wrongful act complained of, proof is required to show the extent and amount of damages;” citing Railway v. Curry, 64 Texas, 87.
+The cases of Railway v. Pickens, 4 Willson’s Civil Cases, 35, and same case, 3 Id., 398, were quite similar to the case at bar, and both were reversed for insufficiency of the evidence to show the value of a mixed blood calf, and in the first of these cases it is said: “On the former appeal the judgment was reversed because there was not sufficient proof of the value of the calf. On this appeal the judgment must be reversed for the same cause. It appears from the evidence that at the place where the calf was killed there was no market for such animals, but that there was a market for them at Longview, which was the nearest market; and yet it was not proved what such an animal was worth in said market, nor was any other legal evidence adduced of the value of said animal. There was some evidence as to the market value of thoroughbred calves in the market at Shreveport, but none as to the value of mixed blood calves of the age of the one in controversy. It devolved upon appellee to prove the value of the cattle killed, as this was the measure of his damage. There being no market for such animals as the calf at the place where it was killed, its value could have been shown by proof of the market value of animals of a similar kind in the nearest market, which, as the evidence shows, was the Longview market. This proof was not made or attempted to be made.”
+Delivered May 30, 1894.
+While we do not hold that in all cases it is necessary for the owner of an animal killed to show its value at the nearest market, in order to sustain a recovery, we do hold that something more must be shown than a simple description of the animal, accompanied with the statement that there was no market at the particular place where it received the injury; and this additional proof can ordinarily, in such cases, be best made by showing the value of such animals at the nearest market, with proper allowance for cost of transportation. Sedg. on Dam., 246-250.
+As the judgment of the court below must be reversed on account of the insufficiency of the evidence to show the value of the animals killed, the other assignments of error need not be considered, further than to add that the decisions of our Court of Appeals, holding that to render a railroad liable under our statute for stock killed it is necessary to show actual contact with the cars, do not apply to a case where other negligence than a failure to fence the track is shown to have been the proximate cause of the injury.
+The judgment of the court below will be reversed and the caused remanded.
+Reversed and remanded.
