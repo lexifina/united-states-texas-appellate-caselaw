@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1880"
+citations: ["7 Tex. Ct. App. 616"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. Schott v. The State."]
+source_url: "https://static.case.law/tex-ct-app/7/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4414772
+cites_cases: ["15 Gray, 573", "2 Dev. & B. 547", "24 Vt. 448", "30 Ga. 506", "51 Me. 256", "6 Munf. 308"]
+---
+
+# Schott v. State
+
+## Majority (White, P. J.)
+
+White, P. J.
+The prosecution in this case was by information charging appellant with a violation of the first sectian of the act of April 23, 1873 (Gen. Laws 13th Leg., p. 41), which provides that “ it shall be unlawful for any person or persons to break, pull down, or injure the fence or fences of another, without the. consent of the owner or person in possession thereof.”
+The objection urged to the affidavit and the information in the motion to arrest the judgment is that the former was not “ filed.” The statute is, the “ information shall be based upon the affidavit of some credible person, which shall be filed with the information.” Acts 1876, p. 20, sect. 8. If such defect really existed, advantage should have been taken of it by exception in limine, and it cannot be reached for the first time by motion in arrest. We are of opinion, however, that the objection is wholly untenable; the law, so far as appears, having been substantially complied with by the filing of the information which is based upon the affidavit. For aught that appears, the complaint and information may have been fastened together, as is frequently done, or been written upon the same sheet of paper; in either of which cases it would be unnecessary that the clerk should indorse more than one file-mark, and that upon the paper which happened to be on the outside.
+Defendant in this case was overseer of a first-class public road in Fayette County. One Mtsche had moved his fence out into and erected it along the road, so as to reduce the width of the road to twenty-seven feet. Defendant, in working his road as overseer, made his hands take up and remove the fence back to the line it previously stood upon, and which made his road just forty feet wide, the width which the statute prescribes for first-class roads. See Road Law, Acts 1876, p. 63, sect. 2.
+On the trial, defendant proposed to prove these facts by several witnesses, and the evidence was excluded by the court, as is shown by the bill of exceptions.
+Amongst other special instructions asked in behalf of defendant, and refused by the court, we select the following:-
+“ 1. That a first-class road is by law forty feet wide. 2. That under the law it is the duty of the overseer of a road to keep it clear of obstructions for forty feet. 3. That if the defendant was the overseer of the road, and as such only caused the fence to be removed in so far as it obstructed said road, or reduced it to less than forty feet in width, then he is guilty of no offence, and you should acquit him.”
+The court erred both in excluding the evidence set out in the bill of exceptions and in refusing to give the special charges asked. As stated above, the statute prescribes that all first-class roads shall not be less than forty feet. wide. Acts 1876, p. 63, sect. 2. By sect. 24 of the Road Act of 1876 (Gen. Laws 15th Leg., p. 68) it is provided that “if any overseer of a road shall fail, neglect, or refuse-to perform the duties as prescribed by this act, or if he should not keep the roads, bridges, and causeways within his precinct clear and in good order, or if he suffer them to. remain uncleared and out of repair for twenty days at any one time, * * * such overseer shall be deemed guilty of a misdemeanor, and on conviction thereof by any court of the county, of competent jurisdiction, he shall be fined not less than ten nor more than twenty-five dollars.” By moving his fence out and erecting it in the public road, and thereby lessening- the width of said road, Nits che, the party alleged to have been injured, was himself guilty of a violation of law, and was liable to be punished by fine not to exceed $500. Pasc. Dig., art. 2034; Rev. Penal Code, art. 405. Moreover, he was further liable for creating a nuisance, for it is in law a nuisance to obstruct a highway. Columbus v. Jaques, 30 Ga. 506 ; Gerrish v. Brown, 51 Me. 256 ; Merton v. Moore, 15 Gray, 573 ; The State v. Spainhour, 2 Dev. & B. 547 ; The State v. Mobly, 1 McMull. 44; The State v. Atchison, 24 Vt. 448 ; Dimmitt v. Eskridge, 6 Munf. 308.
+Mr. Angeli, in his work on Highways, says : “ To destroy, stop up, or divert the course of an ancient highway is a nuisance at common law; nor is it less a nuisance though a new and better way be substituted in its place. Such a change can only be made under the Icing’s license, obtained upon a writ of ad quad damnum or in the mode provided by statute. Where, therefore, the change has been made without due authority, the public may at any time return to the old path and remove any obstruction there, or indict the person who caused or continued such obstruction; and it is immaterial how long it has been shut up or disused.” Sect. 224.
+It was peculiarly within the province and the duty of the road overseer to remove any obstruction or nuisance which might be placed in it. More than a duty: he rendered himself directly liable to be punished if he failed to remove the obstruction, as we have seen, under the statute above quoted. If the fence was not an obstruction to the highway, then the overseer would have no more right to remove or interfere with it than any other individual, and his doing so would be a violation of the statute under which this prosecution was conducted. This was the issue sought to be met by the evidence which was excluded, and was the main question to be solved, and which in this case called expressly'for the special instructions, or ones similar to those, refused by the court.
+The judgment is reversed, and cause remanded for a new trial.
+Reversed and remanded.
