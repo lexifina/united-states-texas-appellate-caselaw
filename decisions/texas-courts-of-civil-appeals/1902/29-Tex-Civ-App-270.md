@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1902-04-16"
+citations: ["29 Tex. Civ. App. 270"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. H. Taylor v. W. W. Sturgis et al."]
+source_url: "https://static.case.law/tex-civ-app/29/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5381345
+---
+
+# Taylor v. Sturgis
+
+## Majority (RAINEY, Chief Justice.)
+
+RAINEY, Chief Justice.
+W. H. Taylor sued W. W. Sturgis and J. D. Kendrick. Taylor and Kendrick were alleged to be residents of Hill County, and Strugis a resident of Grayson County. Plaintiff for cause of action alleged in substance that Sturgis had loaned money to Kendrick for which Kendrick had executed his note, which note Kendrick had paid off and discharged; that said payment included interest amounting to $769, which was usurious, for which said Kendrick had a right of action against Sturgis, which right of action Kendrick had, for a valuable consideration, transferred to plaintiff and had guaranteed the payment thereof.
+It was further alleged that the note was paid off by Kendrick and his wife conveying to Sturgis a tract of land valued at $7000, a part of which consideration for the land was settled by Sturgis’ indorsing the said note without recourse to the wife of Kendrick and turning the same over to her.
+Sturgis, in due order of pleading, filed a plea in abatement claiming the privilege of being sued in his own county, and alleging that the assignment to plaintiff was simulated and fraudulent and done for the purpose of conferring jurisdiction on the District Court of Hill County. Also, without waiving his plea in abatement, he answered by demurrer and to the merits. Kendrick also answered, and set' up a cross-action against Sturgis alleging practically the same facts that plaintiff had alleged, and praying that he recover against Sturgis in the event a recovery was denied to plaintiff.
+Sturgis, in due order of pleading, filed a plea of privilege to be sued in his own county as to said cross-action, and then, without waiving said plea, answered to the merits.
+The cause was continued several times without prejudice to the pleas in abatement. When the cause was called for trial the court ordered the exceptions to the pleadings to be first heard and determined, it being specially provided that this was not in any way to prejudice the pleas in abatement. Hpon a hearing a general demurrer was sustained to the plaintiff’s petition on the ground that a right to recover this penalty was not assignable; whereupon the plea in abatement, as against the cross-action of Kendrick, was heard and determined in favor of the defendant Sturgis, and judgment was entered dismissing both the plaintiff’s petition and the cross-action of the codefendant Kendrick. Both the plaintiff and the defendant Kendrick have appealed.
+The main question presented for consideration is: Can one who has a right of action for double the amount of usurious interest paid by him under article 3106, Bevised Statutes, assign the same to another so as to give to that other a right to maintain an action thereon?
+Said article 3106 reads as follows: “If usurious interest, as defined by the preceding articles, shall hereafter be received or collected, the person or persons paying the same, or their legal representatives, may. by action of debt instituted in any court of this State having jurisdiction thereof, within two years after such payment, recover from the person, firm, or corporation receiving the same, double the amount of the interest so received or collected.” This statute gives a right of action to one paying usurious interest, and in case of his death such a right would become an asset of his estate and subject to administration. In Railway v. Freeman, 57 Texas, 156, the test there given for the assignability of a right of action is thus stated: "Mere personal torts die with the party and are not assignable. Such are actions of slander, libel, assault and battery, false imprisonment, crim. con., seduction, etc. On the other -hand, when the injury affects the estate rather than the person, when the action is brought for damage to the. estate and not for injury to the person, personal feelings, or character, the right of action could be bought and sold. Such right of action, upon the death, bankruptcy, or insolvency of the party injured, passes to the executor or assignee as a part of his assets because it affects his estate and not his personal right.” Applying this test to the cause of action here alleged, we are of the opinion that Kendrick had a right to assign his right of action, and if the assignment to plaintiff was bona fide he had the right to maintain an action thereon.
+We think it immaterial under the statute whether the usurious interest was paid in property or money. In either case the party paying has a right to recover a moneyed judgment for double the amount so paid. Plaintiff’s petition alleged a good cause of action, and if sustained by proof entitles him to judgment. The trial court therefore erred in sustaining the general demurrer to plaintiff’s petition.
+If it should be shown on the trial that the alleged transfer of the claim was simulated and done for the purpose of conferring jurisdiction upon the District Court of Hill County, then Sturgis’ plea of privilege should be sustained, and the suit of plaintiff against him should be dismissed, and in such an event Sturgis’ plea of privilege to be sued in the county of his residence should be sustained as against Kendrick’s cross-bill. There is nothing in the record sufficient to constitute a waiver of the privilege plead, and the court did not err in so holding.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
