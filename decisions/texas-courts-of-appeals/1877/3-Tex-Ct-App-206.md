@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1877"
-citations: ["3 Tex. Ct. App. 206", "3 Tex. Ct. App. 63"]
+decided_precision: "year"
+citations: ["3 Tex. Ct. App. 206"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["W. C. Wilson v. The State."]
 source_url: "https://static.case.law/tex-ct-app/3/cases/0206-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4406842
-cites_cases: ["7 Gratt. 593"]
 ---
 
 # Wilson v. State
