@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1879"
+citations: ["5 Tex. Ct. App. 616"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Fields v. The State."]
+source_url: "https://static.case.law/tex-ct-app/5/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4418098
+---
+
+# Fields v. State
+
+## Majority (White, J.)
+
+White, J.
+John Fields, the appellant in this case, was indicted in the Criminal District Court of Harris County, on June 20, 1878, for rape, alleged to have been committed by him upon “the body of one Catherine Keyser, a female,” on April 10, 1878. The trial from which this appeal is prosecuted was had on October 25, 1878, and resulted in his conviction, with his punishment assessed at death by hanging.
+Notwithstanding the serious nature of the case for appellant, as here presented, there is no appearance of counsel for him, though he seems to have been well defended in the court below. This fact has only conduced to add to the responsibility which, as a court of last resort, we feel in cases involving the life of a human being. Fully alive to a sense of this responsibility, we have searched the record before us with unusual care, and we find as the result of our investigations that there is really but one question on this appeal, and that is the refusal of the court to grant defendant’s application for a continuance.
+It will be noted that the indictment was found June 20th, The application for, a continuance was made October 25th. The application is in these words : “ Now comes the defendant, John Fields, at this term of this court, and moves the court to grant him a continuance until next term, because, he says, he cannot safely go to trial for the want of the testimony of Peter Mosley, who are residents of Harris County, whose testimony is material to his defence. That he caused, on the 10th day of October, a subpoena directed to the sheriff of Harris County to issue for him, and which said subpoena was by the sheriff of said county returned on the 25th day of October, 1878, ‘ not found ; ’ and that thereupon he had an attachment issued, directed to the sheriff of Harris County, for said witness, which was by him returned on the same day by said sheriff ‘ not executed; ’ and that he expects to prove by said witness that on the 17th day of May, the time said offence is alleged to have been committed by him, that he was in company with, said witness all day that day, and that he could not have committed said offence without his seeing him, and that he will swear that he. did not commit said act. That said wit-' ness is not absent by the procurement or consent of the defendant, and that this application for a continuance is not made for delay.” This motion was properly signed and sworn to by defendant.
+In certifying the bill of exceptions granted to the overruling of the motion, the district judge adds a memorandum, in these words : “ The affidavit does not disclose when the subpcena was placed in the sheriff’s hands; for anything appearing, it might have been or was placed in said officer’s, hands on same day it was by him returned not found, i. e.,, 25th October. The party having been once before tried, in the opinion of the court no sufficient diligence is shown by the affidavit.” We concur in the correctness of this view of the court with regard to the showing of diligence. If the subpcena was placed in the hands of the officer on October 10th, that fact should have been made to appear. In all cases the date of its going into the hands of the officer can or should be shown by the indorsement upon the, process itself, where it has been returned. As was said in Buie v. The State, 1 Texas Ct. App. 452, “the better practice, in order to establish such diligence beyond controversy, and certainly the most satisfactory, would be to make the process itself, if returned, a part of the application, as an exhibit.” See also Murray v. The State, 1 Texas Ct. App. 417 ; Cantu v. The State, 1 Texas Ct. App. 402 ; Grant v. The State, 2 Texas Ct. App. 163 ; Summerlin v. The State, 3 Texas Ct. App. 444 ; Bowen v. The State, 3 Texas Ct. App. 617; Johnson v. The State, 4 Texas Ct. App. 268.
+In the five months which elapsed from the finding of the indictment to the date of the trial, and especially where the party had once before been tried during that time, it does appear to us that defendant should have been able to have made a more certain statement of the diligence used by him ; to say the least of it, he should have shown that his process went into the hands of the proper officer before the day of trial.
+We believe defendant has had a fair and impartial trial, and that he has been legally convicted of one of the most heinous crimes known to our law. That he is guilty as found by the jury, the evidence as before us abundantly shows. If guilty, that his punishment may be affixed at death is, we think, a wise provision of the law in such cases. We see no error, and the judgment is affirmed.
+Affirmed.
