@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-02-23"
+citations: ["25 Tex. Civ. App. 309"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Montgomery Baggs v. H. C. Hale."]
+source_url: "https://static.case.law/tex-civ-app/25/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2871195
+---
+
+# Baggs v. Hale
+
+## Majority (HUNTER, Associate Justice.)
+
+HUNTER, Associate Justice.
+This suit was brought April 12, 1895, on two judgments amounting in the aggregate to about $9000, rendered by the Superior Court of Stanislaus County, California, on the 16th day of November, 1893, in favor of H. B. Davis and his wife, Elizabeth C. Davis, against Montgomery Baggs. These judgments revived two certain previous judgments in favor of same parties against same defendant, rendered in the same court on- day of-, 1886, in suits commenced in said court on June 22, 1886. Appellee, Hale, alleges that he is the legal owner of said judgments, but that said Davis and wife have an equitable interest therein, and that he sues for their benefit as well as his own. A writ of attachment was sued out and levied on eight sections of land in Runnels County.
+The defendant answers by general denial, and specially that the judgments sued on had been satisfied in full, and released and satisfied of record on the 29th day of June, 1894, by virtue of a settlement made by and between defendant and one R. A. Prouty, agent and attorney in fact for the said Davises, duly authorized in writing so to do, whereby defendant paid the said Prouty $1000, which was accepted by him in full settlement of said judgments.
+The reply of plaintiff to this plea was that the release and satisfaction pleaded by defendant was obtained by false representations, in that the defendant represented to said Prouty that he was insolvent and had no property out of which said judgments or any part thereof could be made, and that he had no means with which to pay said judgments; when in truth and in fact he was then, and is now, the owner of eight sections of land of 640 acres each, attached in this suit, and which were thén and are now of the value of $3 per acre.
+The case was tried by a jury, and verdict and judgment went against Baggs, and he has appealed to .this Court, assigning errors»on the charge, on the admission of evidence, and that the verdict of the jury was contrary to the evidence.
+The evidence was uncontradicted that the settlement and release of the judgments were made as alleged, and upon the representations of Baggs as alleged, but it also tended to prove that the Davises and Prouty knew at the time the settlement was made and long before that these section of land had been purchased by Baggs in February and March, 1883, and that on the 28th day of October, 1885, he conveyed them to his wife for the expressed consideration of 'dove and affection,” and at the time of the settlement, which was made in San Francisco, Cal., Prouty asked him about these Texas lands, and Baggs told him they belonged to his wife, and were her separate property. The indebtedness upon which the California judgments were rendered arose in October, 1883, after Baggs became the owner of the lands and before he conveyed them to his wife, but no lien was fixed upon them in favor of the indebtedness until the levy of the attachment in this case. Prouty had been advised, it seems, by lawyers in Texas a few months before the settlement was made, that the lands could be subjected to the payment of the debt, and the judgments were revived with the view of suing on them in Texas and attaching the lands. These are facts which were testified to by Prouty and Davis, and as recited in letters written by Prouty to Davis, a short time before the judgments were revived and the settlement made.
+It seems, then, from this evidence, that both the Davises and Mr. Prouty knew as much about the lands in Texas then as they knew at the trial. They knew about the consideration in the deed from Baggs to his wife, and, it seems, about the Texas law governing such transactions 'between husband and wife as affecting the rights of creditors; and, knowing all these facts, the wonder is why the settlement was made at $1000. But however that may be, it is difficult to see how Mr. Prouty could have-been misled by Baggs’ statement that he had no property out of which, the judgments could be made. He was justified in stating that the lands; were his wife’s separate property, for so they were under that deed of gift, though they may have been subject to the payment of the Davis debt, whenever a lien was fixed upon the lands to secure it, by the levy of judicial process, which Prouty, it seems, understood and contemplated doing.
+We conclude, therefore, that the verdict of the jury is contrary to the evidence, and a new trial should have been granted upon this ground, as presented in the motion therefor. We also think that the execution of the transfer of the judgments should have been proved before they were admitted in evidence. The charge, we think, is also subject in some respects to some of the criticisms made against it in appellant’s brief under the fourth, fifth, sixth, ninth, tenth, twelfth, fifteenth,' and sixteenth assignments of error.
+We are therefore of opinion that the judgment in this cause ought to be reversed and the cause remanded for a new trial, and it is so ordered.
+Reversed and remanded.
