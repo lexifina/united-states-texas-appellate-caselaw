@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-04-08"
+citations: ["55 Tex. Civ. App. 176"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["International & Great Northern Railway Company v. Mose Williams."]
+source_url: "https://static.case.law/tex-civ-app/55/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4405762
+---
+
+# International & Great Northern Railway Co. v. Williams
+
+## Majority (HODGES, Associate Justice.)
+
+HODGES, Associate Justice.
+This action was instituted by the appellee, Mose Williams, against the appellant to recover damages claimed by him as having resulted from his wife’s being ejected from one of the appellant’s trains. It appears from Williams’ testimony that he had carried his wife and child to the appellant’s depot in Eort Worth and there procured tickets for them to be carried over the appellant’s line to Calvert. He gave his wife the ticket for the child, and she and the child boarded the train, but he reserved her ticket for the purpose of having her baggage checked. He claims that he went promptly to the baggage room for that purpose, but through the negligence of the baggage agent did not procure a check for her trunk until after the train had left; that by reason of the conduct of the baggageman in negligently delaying the checking of the trunk, he did not have the opportunity to give his wife her ticket. He further testified that immediately after the train left he notified the ticket agent of the situation and requested him to telegraph to the next station notifying the conductor of the reason why his wife did not have her ticket; that the ticket agent agreed to do so, but negligently failed to send any such message; that if any was sent it was too late to reach the agent at the next station, which was ten miles distant, until after the train had passed and his wife had been ejected.
+The wife testified that when the conductor came through taking up tickets she told him the situation and requested that she be carried as far on her trip as her money, amounting to $3.70, would pay for; that she also requested the conductor not to put her off at Everman, the next station, because of the fact that she understood negroes were not permitted to stop there, and that by going to the station beyond Ever-man she could meet friends of her own race. She claims that the conductor gave her no definite answer as to what he would do, but when they reached Everman he told her to get off, which she did, and remained in the depot at that place until 11:10, when she returned on the next train to Fort Worth, where she was again met by her husband.
+It is agreed by the parties that the telegram containing the information requested by the plaintiff in this suit was sent, but was not delivered to the agent at Everman on account of a failure to get in communication with him. It was, however, delivered to the conductor at the next station beyond Everman, but after plaintiff’s wife had been compelled to leave the train. The testimony as to the negligence of the baggageman in checking the trunk, and of the ticket agent as to sending the telegraphic notification to the conductor, is conflicting; but the jury having found for the appellee, those issues were resolved in his favor.
+The appellee sued for $10,000 damages for the annoyance and humiliation suffered by his wife in being compelled to leave the train, and for $25 for his own loss of time. The jury returned a verdict for' $350. damages. On a motion for a new trial the court required the appellee, as a condition for overruling that motion, to remit $150 of the amount recovered. This was done and the motion overruled.
+Error is here assigned because the court submitted the issue of loss of time by the appellee, in the absence of any proof of the value and amount of time lost. This error, if any, we think, was cured by the remittitur required by the trial court.
+It is also contended that the verdict is still excessive, even after the' remittitur in the court below. "We think this contention is correct. The evidence does not show that appellee’s wife received any harsh treatment or was- subjected to any special annoyance or injury in being compelled to leave the train at Everman. The conductor merely told her that this was the place for her to get off. It is true she says that the child with her was sick; that she had to carry it in her arms; but she testifies to no facts showing that any situation existed which subjected her to any annoyances other than that which would naturally result from having to wait at the station. It was in the daytime, and she was only required to remain at Everman about four hours. She was carried back to Fort Worth without any extra charge for railroad fare, the conductor of that train having been notified of her situation and requested to permit her to return without collecting any fare. We think a judgment for $100 would be ample to compensate the appellee for all the damages sustained.
+The remaining assignment of error is without merit.
+The judgment of the District Court will be reversed and the cause remanded, unless the appellee shall within twenty days from this date file in this court a remittitur remitting $100 of the amount adjudged in his favor upon the final disposition of the case in the trial court.
+Affirmed on remittitur.
