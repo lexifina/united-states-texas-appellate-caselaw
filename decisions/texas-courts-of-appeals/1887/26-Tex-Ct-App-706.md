@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2567"
+decided: "1887-10-12"
+citations: ["26 Tex. Ct. App. 706"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Bailey v. The State."]
+source_url: "https://static.case.law/tex-ct-app/26/cases/0706-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4463709
+---
+
+# Bailey v. State
+
+## Majority (Hurt, Judge.)
+
+Hurt, Judge.
+Appellant Bailey, on the fourth day of March, 1887, was tried for the murder of John Smith, the trial resulting in a conviction for murder of the first degree, with the death penalty attached. From this judgment he appeals here.
+When called upon for an announcement, appellant applied for a continuance of the case for want of the testimony of Horace Ashton and Richard Floyd, which being overruled, exception was taken and the case proceeded to trial. Counsel for appellant rely upon this and the overruling of the motion for new trial for a reversal of the judgment. We must therefore consider these supposed errors in connection with the facts proven on the trial, to determine whether the facts proposed to be established by Ashton and Floyd are material and probably true.
+In the application, appellant states that he expects to prove by these witnesses that one Dan Ward admitted in their presence that he, Dan Ward, killed deceased Smith, and that he also stated that defendant Bailey had nothing to do with the killing.
+It would require a peculiar state of facts for Ward’s statement to become competent evidence for another accused of the crime. And if the accused desires to rely upon such confession his application must state all the facts necessary to clearly show their admissibility. When and where were these confessions made? At the time of the homicide? Was Ward present at the time of the homicide? These are important matters to be shown in order to the competency of the confession.
+This matter, however, is put to rest when considered in connection with the facts proven on the trial. Ward’s connection with this homicide is not shown by the slightest testimony. On the contrary, the evidence clearly shows him to have been at another place when the deceased was shot. These facts, linked with the fact that a witness swears positively that he saw Bailey shoot deceased, render Ward’s confession clearly inadmissible. The court did not, therefore, err in overruling the motion for new trial based upon this ground.
+From the record it appears that appellant made' a voluntary statement before the examining court, after being fully cautioned as the law directs. It also appears that a part of the statement was “drawn out by the county attorney,” and that the whole statement was excluded on motion of appellant. The State was permitted, however, over appellant’s objection, to prove by oral testimony such statements as were-not thus drawn out. The record does not disclose by what means the statement was “drawn out by the county attorney.” If "the statement was voluntarily made, though in answer to questions propounded by the county attorney, it was admissible, and to exclude it was error. At the instance of appellant, however, the written statement was excluded. This being so, he can not complain of proof of oral testimony of the statements made by him voluntarily, after being duly cautioned.
+Again, there was no possible danger of injury to appellant, because there is no variance between the oral and written evi. dence of what appellant did in fact state before the examining court.
+Six jurors had been sworn to try the cause, when the venire was exhausted. The court ordered these jurors to be taken to a room until talesmen could be summoned; five retired under the charge of an officer, leaving juror Frankelstein remaining in the court room and seated in the bar, and he remained thus seated some minutes, separate from the other jurors. The affidavit of R. M. Brown presents a similar state of facts with reference to jurors Frankelstein and Rivers. Row, it is not pretended that any person conversed with either of these jurors upon any subject while separated from their fellows. But, conceding that these jurors had in fact conversed with others, this fact will not of itself necessarily require a reversal of the judgment. (Nance v. The State, 21 Texas Ct. App., 457, and authorities cited.)
+Counsel for appellant propound this proposition: “A conviction can not be had upon the testimony of an accomplice, unless corroborated by other evidence,” etc. The position is a sound •one under our code, and unless the accomplice is corroborated, or the evidence of the other witnesses not accomplices is sufficient, the judgment must be reversed. Looking to the facts of this case, there can be no doubt of ample and cogent corroboration. If the testimony of the accomplice were stricken from the case, the other testimony sustained a very strong case against the appellant—such a case as would not, we think, be reversed for want of sufficient evidence.
+There is a theory of the case presented by the voluntary statement of appellant which exhibits an offense of less degree than that for which he has been convicted. Under this state of case, counsel for appellant insists that the court below should have instructed the jury upon this phase, and, failing to do so, it is insisted that the judgment must be reversed. There being no exceptions to the charge, and no instructions requested by appellant, we must pass upon the supposed error in the light of the whole record, in determining whether appellant has been injured. When considered in connection with the whole evidence, there is not the most remote probability of the truth of the statement made by appellant before the examining court. And while it was the duty of the court to submit this theory by proper instructions to the jury, still, as there was no objection to the charge and no special instructions asked, we can not for this error reverse the judgment, there being not the slightest probability of injury to appellant arising out of. the omission.
+Opinion delivered October 12, 1887.
+It is urged that the testimony is not sufficient to support & conviction for murder of the first degree. We think differently. This record presents a homicide planned and executed deliberately—in cold blood. In fact, appellant waylaid and with great deliberation assassinated his victim, in pursuance of a purpose coolly and deliberately formed.
+We find no error in the record, and the judgment is accordingly affirmed.
+Affirmed.
