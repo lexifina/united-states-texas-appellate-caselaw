@@ -1,0 +1,38 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1269"
+decided: "1895-05-15"
+citations: ["10 Tex. Civ. App. 626"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. N. Bemis, Receiver, v. W. S. Wells."]
+source_url: "https://static.case.law/tex-civ-app/10/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 245152
+---
+
+# Bemis v. Wells
+
+## Majority (FINLEY, Associate Justice.)
+
+FINLEY, Associate Justice.
+The appellant instituted this suit in the District Court of Marion County against appellee, on April 10, 1893, for the recovery of the title and possession of certain work oxen, log wagons, yokes, bows, and chains; and at the same time sued out a writ of sequestration, filing his affidavit and bond therefor in due form of law, alleging in his original petition, and also in his original affidavit for sequestration, that the property was then situated in Marion County, Texas. The plaintiff filed with his original petition and original affidavit and bond, a supplemental petition, stating the fact that he had just received the information that the property had been removed to Harrison County, and asked that a writ issue to Harrison County, which was accordingly done, and under this writ so issued to Harrison County, on April 11, 1893, the day after the institution of the suit, and subsequently, on to wit, April 21, 1893, was replevied by appellee, W. S. Wells, who entered into a replevy bond, with A. B. Bennett, John A. Kruse, Joe Cline, G. W. Brown, J. J. Segal, and George T. Todd, as sureties thereon, and the property was thereupon released by said sheriff unto the said W. S. Wells, appellee.
+Hpon the trial of the cause the defendant moved to quash the sequestration under which the property was seized and which issued to Harrison County, because the supplemental petition asking for said writ was not sworn to, and because the property was not sufficiently described. The court sustained the motion to quash, upon the ground that the pleading- stating the fact that the property had been moved to Harrison County was not verified.
+The cause proceeding to trial upon the facts, was tried before the court without a jury, and resulted in a judgment for plaintiff (appellant) for the title and possession of the property in controversy; or in the event said property could not be found, then for the sum of $1500, the value thereof as found by the court. The court having quashed the writ of sequestration, declined and refused to enter judgment against the sureties on the replevy bond, and adjudged the costs of such sequestration proceedings against this appellant, from which said ruling and judgment plaintiff appeals.
+Opinion.—There are two questions only presented for decision:
+1. Did the court err in quashing the writ of sequestration ?
+2. Was the plaintiff entitled to judgment against the sureties upon the replevy bond?
+We will consider the questions in the order stated.
+The ground upon which the application for the writ is based, and the location of the property, as to the county in which it is situated, are facts required by our statute to be verified by affidavit. 2 Sayles’ Civ. Stats., art. 4490. The intention of the Legislature to require such facts to be verified is further evidenced by article 4494, which reads: " Writ and its requisites. The writ of sequestration may be directed to the sheriff or any constable of any county wherein the property is alleged to be situated, which allegation may be made either in. the original or in a supplemental affidavit. It shall command the sheriff or any constable to take into his possession the property, describing the same as it is described in the affidavit, if to be found in the county, and keep the same subject to the future order of the judge, court, or justice of the peace who issued the writ, unless the same is replevied according to law. ”
+We are of opinion that the writ was properly quashed.
+Was the plaintiff entitled to judgment against the sureties upon the replevy bond ?
+Article 4498 gives the defendant the right to replevy the property seized under the writ. Article 4499 provides the character of bond to be given, as follows: “If the property to be replevied, as provided in the preceding article, be personal property, the condition of the bond shall be that the defendant will not remove the same out of the county, or that he will not waste, ill-treat, injure, destroy, sell, or dispose of the same, according to the plaintiff’s affidavit, and that he will have such property, with the value of the fruits, hire, or revenue thereof, forthcoming to abide the decision of the court, or that he will pay the value thereof and the fruits, hire, or revenue of the same in case he shall be condemned so to do.”
+By this bond the sureties entered into the obligation that the defendant in the suit would not remove the property out of the county during the pendency of the suit, and that he would have the property forthcoming to abide the decision of the court, or that he would pay the value thereof in case he was condemned so to do. The terms of the bond bind the sureties, and their liability is not conditioned upon the regularity of the sequestration proceedings. This view is made more- certain by article 4501: “The bond provided for in the three preceding articles shall be returned with the writ to the court from whence the writ issued, and in case the suit is decided against the defendant, final judgment shall be entered against all the obligors in such bond jointly and severally, for the value of the property replevied, and the value of the fruits, hire, revenue, or rent thereof, as the case may be.”
+It is held in the case of a distress warrant, that the sureties on the replevy bond are liable, notwithstanding the writ be quashed. 2 Texas Civ. App., 462; Jacobs v. Daugherty, 78 Texas, 682.
+The statutes governing the liabilities of sureties upon the replevy bond in distress proceedings are substantially the same as in sequestration. Articles 3116 and 3117 provide: (3116) “The defendant shall have the right at any time within ten days from the date of said levy to replevy the property so seized, by giving bond payable to the plaintiff, with two or more good and sufficient sureties in double the amount of the debt, or, at his election, for the value of the property so seized; conditioned, that if the defendant be cast in the action he shall satisfy the judgment that may be rendered against him or pay the estimated value of the property, with lawful interest thereon from the date of the bond.” .
+(3117) “When the property levied on has been replevied as provided in the preceding article, and final judgment- shall be rendered against the defendant, such judgment shall be also against him and his sureties on his replevy bond for the amount of the judgment, interest, and costs, or for the value of the property replevied and interest, according to the terms of such bond.”
+We are aware that the Court of Appeals has held that there is a material difference, and that sureties upon a replevy bond in a sequestration proceeding are not liable in case the writ be quashed. 1 Texas Civ. App., 787; 2 Texas Civ. App., 462. We do not think this the correct view of the question. We are of opinion that the sureties were liable, notwithstanding the quashal of the writ, and that judgment should have been rendered against them.
+The judgment of the court below is reversed, and the cause remanded.
+Reversed and remanded.
+Delivered May 15, 1895.
