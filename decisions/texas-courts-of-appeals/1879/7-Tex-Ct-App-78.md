@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1879"
-citations: ["7 Tex. Ct. App. 78", "7 Tex. Ct. App. 109"]
+decided_precision: "year"
+citations: ["7 Tex. Ct. App. 78"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["W. Irvin v. The State."]
 source_url: "https://static.case.law/tex-ct-app/7/cases/0078-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4414207
-cites_cases: ["1 Park. Cr. 182", "12 Pick. 496", "17 Pick. 395", "18 Ga. 8", "19 Ohio, 423", "24 Miss. 54", "47 Cal. 388", "5 Port. 523"]
+cites_cases: ["1 Park. Cr. 182", "12 Pick. 496", "17 Pick. 395", "18 Ga. 8", "19 Ohio, 423", "24 Miss. 54", "5 Port. 523"]
 ---
 
 # Irvin v. State
