@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1880"
-citations: ["8 Tex. Ct. App. 510", "9 Tex. Ct. App. 363", "9 Tex. Ct. App. 634"]
+decided_precision: "year"
+citations: ["8 Tex. Ct. App. 510"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Henry Davis v. The State."]
 source_url: "https://static.case.law/tex-ct-app/8/cases/0510-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128225
-cites_cases: ["13 Ired. 63", "30 Vt. 100", "6 Ohio, 467"]
 ---
 
 # Davis v. State
