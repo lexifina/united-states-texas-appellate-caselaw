@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["4 Tex. Ct. App. 554"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. M. Morris v. The State."]
+source_url: "https://static.case.law/tex-ct-app/4/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4418254
+---
+
+# Morris v. State
+
+## Majority (White, J.)
+
+White, J.
+This is one of two cases numbered, on our docket, respectively, 34 and 35, appealed by the same parties from judgments final upon forfeited recognizances. According to an agreement of parties, which we find on file in this case, it appears, and is so understood, that the district clerk, in preparing the transcripts, has, from inadvertence, interchanged the two indictments, copying in this case the indictment which properly belongs to the record in case No. 35, and vice versa.
+The proper indictment, then, in this case is the one drawn under article 2105 of Paschal’s Digest, which reads thus : “If any person shall knowingly pass as true, or attempt to pass as true, any such forged instrument as is mentioned and defined in the preceding articles of this chapter, he shall be punished by imprisonment in the penitentiary not less than two nor more than five years.”
+In our opinion, the indictment is sufficient to charge the offense under this statute. The recognizance, however, entered into by this appellant, and upon forfeiture of which the final judgment appealed from was entered, in setting forth the offense, recites that the principal cognizor, “ William Sharp, stands charged with the offense of passing a forged writ of error bond to the clerk of the District Court of Van Zandt County,” etc. ; and the offense is not otherwise stated anywhere in the recognizance.
+The question arising is whether “ the offense of which the defendant is accused is named in the recognizance, and whether it appears therefrom that he is accused of some offense against the laws of the state.” Pas. Dig., art. 2732. As seen from the statute creating the offense quoted above, the crime is made to consist in “ knowingly ” passing as true the forged instrument, and the scienter, together with the intent of passing the forged instrument as true, must combine to constitute the offense. A party may ignorantly pass a forged writ of error bond, or other written instrument, or he may knowingly pass the forged instrument without passing or intending to pass it as true ; and in neither case, we apprehend, would he be guilty of a violation of the law.
+The distinction seems now to be well settled by the adjudications of our courts with reference to the particularity and certainty with which, according to the nature of the case, the offense must be stated and named in the recognizance. The distinction is this: Whenever the offense is specifically and in general terms defined in the statute, it is only necessary that the general crime be named in the recognizance, or such a statement of the facts constituting the offense may be made as will clearly indicate the offense, and supersede the necessity of naming it. But where there is no specific definition of the offense in general terms, but the crime is by law made to consist in the particular mode and manner of doing a particular act, then and in that case the essential requisites — the mode and manner — become necessary, and should be set forth particularly in the description of the offense charged.
+To illustrate: murder, rape, robbery, theft, etc., are all specifically defined in our Penal Code. A recognizance to answer either of these offenses would be sufficient if, in stating the offense charged, it should simply designate it by name — as, murder, rape, robbery, theft—without detailing further the elements or ingredients constituting it, or without giving a more particular description of the crime. Thompson v. The State, 31 Texas, 166; Lowrie v. The State, 43 Texas, 602.
+As was said in Turner v. The State, “ If the charge against the accused is known, and can be designated by a distinctive name, it is sufficient to do this. But the bond is not invalid if more than this is done, and it can be told, not by a name by which the alleged offense is called in the bond, but by positive and direct statement of matters and things with which the defendant is charged, that he is held to answer for an offense against the laws of the state. * * * The name of such offense being judicially known to the court, it cannot be supposed that the failure of the ministerial officer by whom such bonds (bail-bonds) are mostly taken to designate the offense by its distinctive name can avoid it.” 41 Texas, 549; Gay v. The State, 20 Texas, 505; Lowrie v. The State, 43 Texas, 602.
+But where the offense is not specifically defined in general terms in the statute — as, for instance, in “ gaming,” “ malicious mischief,” and the like — then the offense must be set forth and described by giving the statutory ingredients necessary to constitute it. See McLaren v. The State, 3 Texas Ct. App. 680, and all the cases therein collated and cited; also, Hutchison v. The State, 26 Texas, 111.
+It is clear that in this case, had the indictment charged that the defendant did, as is stated in the recognizance, “ pass a forged writ of error bond,” without further stating that he did so knowingly, and passed it as true, such a charge would not be sufficient to sustain a conviction under article 2105 of Paschal’s Digest; nor, in our opinion, would it state any offense known to our law.
+Because the recognizance in this case is wholly insufficient, in that it states no offense against the law, the judgment rendered in the lower court is reversed, and the case is dismissed.
+Reversed and dismissed.
