@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-04-05"
+citations: ["39 Tex. Civ. App. 16"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["St. Louis Southwestern Railway Company of Texas v. J. A. Baer."]
+source_url: "https://static.case.law/tex-civ-app/39/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2342677
+cites_cases: ["25 S. W. Rep., 54", "45 S. W. Rep., 311"]
+---
+
+# St. Louis Southwestern Railway Co. v. Baer
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+This is a suit by the appellee against the railway company for damages to his crops and lands, alleged to have been caused by water overflowing the ditches along the defendant’s roadbed. It is alleged that the railway company.negligently failed to construct and maintain the necessary culverts and sluices for the drainage of the land, and failed to maintain such sluices and ditches in proper condition.
+The charge submitted by the court, and which is complained of in the first assignment of error, practically instructed the jury that the railway company was under the duty, in constructing its road across the plaintiff’s land, to construct and maintain such culverts and sluices as the natural lay of the land required for the necessary drainage thereof. This charge is objected to, for the reason that the otatute only makes the railway company liable when it negligently fails to perform this duty, or fails to maintain the ditches and sluices in proper order. In San Antonio & A. P. Ry. Co. v. Gurley (11 Texas Ct. Rep., 359) and Texas & Pac. Ry. Co. v. Whittaker (11 Texas Ct. Rep., 249), it is held that the requirements of the statute are absolute, and the right to recover damages resulting from such failure is not dependent upon whether or not the railway company was guilty of negligence.
+The case of Clark v. Dyer (81 Texas, 343) holds that the failure to maintain the right of way or the sluices and culverts in proper condition, so as to effect the purpose intended by the statute, is not dependent upon the fact whether the railway company was guilty of negligence or not. In other words, the duty to maintain in proper condition is to be governed by the same absolute rule that requires the railway company to construct.
+What we have said disposes of the second assignment of error. The .first portion of the charge requested under appellant’s third assignment of error was erroneous. It stated, in terms, that the defendant owed no duty to the plaintiff to construct and maintain ditches that would carry off the water which was diverted from its natural course to such ditches. There the sentence ends. Then the charge proceeds upon the theory that the railway company would not be liable for damages resulting from ditches on the plaintiff’s farm constructed by the plaintiff or those under whom he claims. The charge being improper in the particular first noticed, it was properly refused. Although the issue presented by the latter portion of it might have been submitted, the court was not required to properly frame and reconstruct the charge, so as to eliminate the objectionable portion.
+The action of the court in refusing the charge set out under the fourth assignment of error was correct. This charge loses sight of .that phase of the ease which sought to hold the appellant liable for its failure to properly maintain the sluices and ditches in proper condition. The first portion of the charge does mention the word “maintain,” but it concludes with this statement: “And unless you believe from the evidence that the plaintiff has suffered damage by reason of water diverted from its natural course to plaintiff’s land by the construction of defendant’s railway, you will find for defendant.” The jury from this latter portion of the charge could have assumed that if the railway company, 'in the construction of its railway, properly provided sluices and ditches for the drainage of the water, that it would not be liable although it might have failed to maintain them in proper condition, after being originally properly constructed.
+The charges complained of on the measure of damages, we think, were proper, and of that portion of them that relates to the market value of the crop the appellant possibly is not in a position to complain, because it seems that it had requested a similar instruction. The instruction of the court to the jury on this subject is that, if they find for the plaintiff, they will allow him such sum as will in cash compensate him for the damages done to his crop, taking into consideration the actual cash market value of the crop so injured or destroyed, if any, at the time of such injury, allowing only for the actual damages to the same; and if you find from the evidence that the plaintiff’s land was injured you will allow him such further sum as will in cash compensate him for the injuries, if any, done to the land.
+There is some evidence in the record udiieh had a tendency to show that the injury to the land was merely temporary, and not permanent, and there is evidence tending to show that there was a partial injury and destruction of the crop. While ordinarily the rule may be that the crop, in the condition it was at the time it was injured or destroyed, may not have had a market value (International & G. N. Ry. Co. v. Pape, 73 Texas, 503), but, if it had a market value, we see no reason why it would not be proper to instruct the jury to award the plaintiff, as compensation, the market value of the crop so injured or destroyed. (Texas & St. L. Ry. v. Young, 60 Texas, 203, and Gulf, C. & S. F. Ry. v. Nicholson, 25 S. W. Rep., 54.)
+The verdict and judgment in appellee’s favor are supported by the evidence.
+We find no error in the record, and the judgment is affirmed.
+Affirmed.
