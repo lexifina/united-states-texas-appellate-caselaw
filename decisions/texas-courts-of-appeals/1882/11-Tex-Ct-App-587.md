@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1882"
-citations: ["11 Tex. Ct. App. 587", "11 Tex. Ct. App. 509"]
+decided_precision: "year"
+citations: ["11 Tex. Ct. App. 587"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["B. L. Reed v. The State."]
 source_url: "https://static.case.law/tex-ct-app/11/cases/0587-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4430679
-cites_cases: ["20 Iowa, 108", "30 Mo. 270", "47 Ill. 376"]
 ---
 
 # Reed v. State
