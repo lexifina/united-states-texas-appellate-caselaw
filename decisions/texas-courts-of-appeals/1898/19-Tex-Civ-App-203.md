@@ -1,0 +1,47 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1898-06-04"
+citations: ["19 Tex. Civ. App. 203"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julia J. Gurley v. H. F. Dickason et al."]
+source_url: "https://static.case.law/tex-civ-app/19/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 252324
+---
+
+# Gurley v. Dickason
+
+## Majority (HUNTER, Associate Justice.)
+
+ON MOTION EOR REHEARING.
+HUNTER, Associate Justice.
+Our jurisdiction in this case being final, because it is an appeal from the County Court, we disposed of the case originally by reversing the judgment and rendering it for appellant on an oral opinion, as is our practice in such cases, adopted to save the time necessarily consumed in writing opinions. Appellees’ counsel, however, urge that we have committed error, and have filed an able brief and argument in support of their contention, showing extensive research and thorough investigation of the authorities, and we feel that it is but fair to them as well as to ourselves to briefly announce the grounds upon which we based our action herein.
+The appellant was the plaintiff below, and to her suit the defendants (appellees here) pleaded a set-off in extinguishment of her demand, and it was allowed by the jury and court, and judgment was rendered for the defendants for $20.35 and all costs, and from such judgment the plaintiff has appealed.
+We find but one serious question in the case, and that is whether the law implies a warranty of title to personal property in sales made by one joint owner to another, the contracting parties being in joint possession, and having equal knowledge of the legal status of the title. We held in our original oral decision of the case that it does not, and a still more thorough research among the authorities has confirmed us in the correctness of that conclusion, though it is strange that we have been unable to find a single ease where the direct question has been decided.
+The question here grows out of the following facts:
+In the latter part of April, 1895, Dr. J. W. Gurley died in Dallas, Texas, leaving his wife, the appellant, and five children surviving him, one of them being Mrs. Alice Diekason, one of the appellees herein. At the time of his death he and the appellee, H. F. Diekason, his son-in-law, were occupying the same rooms over 264 Elm street, Dallas, and working together as partners in their profession as dentists, each, however, owning his own dental outfit, but using them sometimes in common. Two of the children of Dr. Gurley were adult married daughters, and three were minors. No administration was ever granted upon Dr. Gurley’s estate, nor did Mrs. Gurley ever qualify as survivor in community. She did, after the sale hereinafter set out, qualify as guardian of her three minor children.
+On May 2, 1895, and after the funeral of Dr. Gurley, Dr. Diekason desired to go to work at his profession, but wanted an understanding with Mrs. Gurley about the dental office outfit, and the two went to the dental office together, where it was agreed between them that she would convey him the dental outfit upon his canceling a note his wife held against her for $259, and upon his and his wife’s receipting her for $1000, as an advancement by Mrs. Gurley to her daughter out of her estate ; and thereupon Dr. Diekason drew the following papers, which were.signed by the parties respectively, as shown:
+“The State of Texas, County of Dallas.—Know all men by these presents, that I, Julia J. Gurley, for and in consideration of one dollar, the receipt of which is hereby acknowledged, and the further consideration of the love that I have for my daughter, Alice, have bargained, sold, and delivered to Alice D. Diekason the entire outfit of dental goods, furniture, and all articles of whatever nature, used in the dental practice of Dr. J. W. Gurley, now located over No. 264 Elm street, Dallas, Texas.
+“Julia J. Gueley.”
+When this contract was delivered to Dr. Diekason he delivered to her the following receipts:
+“259. Dallas, Texas, May 2, 1895.
+“Received of Mrs. Julia J. Gurley two hundred and fifty-nine dollars, in full payment of note of that amount signed by Julia J. Gurley, payable to the order of Alice D. Diekason.
+“H. F. Dickason.”
+“$1000.
+“Received of Mrs. J. W. Gurley one thousand dollars, as part of my interest in the estate of Mrs. J. W. Gurley.
+“H. F. Dickason,
+“For Alice D. Diekason.”
+Dr. Diekason testified that it was clearly understood at the time by plaintiff and himself that by this sale his wife and he were to have perfect title to the entire outfit, while Mrs. Gurley testified: “By the bill of sale to the dental outfit I intended to convey only my half interest therein.”
+After qualifying as guardian of the estates of the three minor children, Mrs. Gurley inventoried their interest in the dental outfit, and sold it under order of the probate court, and Dr. Dickason was compelled to buy it at the price of $291.30, and it was this sum that was pleaded in set-off to plaintiff’s demand.
+It is shown by the record that Dr. Dickason and his wife knew, as well as Mrs. J. W. Gurley, the legal status of the property, that is, that it was community property of Dr. J. W. Gurley and his wife, and that Dr. Gurley was dead and had left a widow and five children surviving him, three of whom were minors; and that he and his wife knew or must be held to have known that by the statute law of this State the wife, upon the death of the husband, became vested with the title to one-half of the community property and the children the other half, and that the surviving widow could not convey the title to the children’s half in the way and manner attempted.
+It is not contended that there was an express warranty of title, but appellees’ counsel contend that by an absolute sale of the entire outfit, Mrs. Gurley being in possession, the law implies that she thereby asserted that she was the sole owner and had a right to sell, and a warranty of title on her part is implied.
+This is the rule now, it seems, where the seller is in actual or constructive possession of the chattel, and sells it as his own for a full and fair price. By constructive possession is meant, it seems, possession held by another for the seller. But that is not the case here. In the ease at bar the evidence is undisputed that Dr. Dickason and wife were in the actual possession and custody of the property, and that the wife, as child and heir of Dr. Gurley, owned a tenth undivided interest therein, or at all events, that they held joint possession with Mrs. Gurley. Dr. Dickason and wife can not be heard to say that they were ignorant of the plain provisions of our statutes of descent and distribution, which cast the title to one-half interest in the property upon the five children of Dr. Gurley, and the other half upon his surviving widow. They must, then, be held conclusively to have known the law, and that the surviving widow owned only a half interest and could convey the title to only a half interest.
+Logically, then, if both parties must be held to know the law, and the undisputed evidence shows that both knew the facts, and these together showed that the widow owned only an undivided interest and Mrs. Dickason and her brothers and sisters the other interest, and the possession was joint between Dickason and wife and the surviving widow, Dickason and wife were not misled or deceived by Mrs. Gurley’s sale to them, though it was of the whole outfit. Dr. Dickason wrote the bill of sale himself, and she signed it as he wrote it. There is not the slightest evidence of any fraud or concealment on her part, or other improper conduct. Dnder such circumstances, it would be unreasonable to hold her to an implied warranty of title. .Nothing short of an express warranty could make her liable.
+We have considered the question as if Dr. Dickason and wife had paid the $1000 in cash, but the fact is they only receipted Mrs. Gurley for $1000 as an advancement out of the latter’s estate. It does not appear what her estate is worth now, nor what it will be worth at the date of her death; and if it should turn out to be insolvent when the time comes for distribution, the consideration for the dental outfit might fall far short of its value, and Dickason and wife would be the gainers, even with the loss of the minor children’s interest.
+In Benjamin on Sales (sixth edition, Bennett’s), p. 633, that distinguished author says: “If out of possession, actual or constructive, especially if the property is in the possession of an adverse claimant, it is more natural to believe that the vendor is selling only Bis interest’ in it, be it more or less; in which case the vendee might be supposed to take his own risk, and to understand that he had no claim against his vendor if his title failed.”
+We think that this rule would apply with still greater force in a case where the buyer is a part owner in the property, and is in exclusive or joint possession, and knows the defects in the seller’s title as well as the seller does. In such a case, where no offer is made to prove an express warranty, the court, we think, should instruct a verdict for the seller.
+The motion for a rehearing is overruled.
+Overruled.
+Taelton, Chief Justice, did not sit in this case.
