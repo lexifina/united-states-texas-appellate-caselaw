@@ -1,0 +1,38 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-10-28"
+citations: ["33 Tex. Civ. App. 349"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Antony Bradford et al. v. Tom Malone."]
+source_url: "https://static.case.law/tex-civ-app/33/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4376323
+cites_cases: ["14 S. W. Rep., 59"]
+---
+
+# Bradford v. Malone
+
+## Majority (COCHRAN, Special Associate Justice.)
+
+COCHRAN, Special Associate Justice.
+Appellee brought this suit, alleging that appellants on December 1, 1900, executed and delivered to him a deed, intending to convey a tract of twelve acres of land in Milam County, but that a mistake was made in the description of the land. He- further alleged that after the execution of the deed he rented the land to appellants for the succeeding year by paroi contract, and that they had repudiated the contract, refusing to pay the rent or 'surrender the possession. The prayer of the petition was for the correction of the deed, for possession and for rents.
+The appellants answered by general denial, by plea of not guilty, and specially that the land sued for was their homestead when the deed was executed. They admitted the execution of the deed, but alleged that it was given to secure a loan of $107.50 made to the husband by appellee, and was therefore void.
+Upon the verdict of a jury, judgment was rendered for appellee for the land and for the correction of the deed, from which Bradford and wife prosecute this appeal.'
+We find the facts to be as follows:
+1. Appellants were husband and wife on December 1, 1900, and were residing upon the land sued for, which was'then their homestead.
+2. On the day named, appellants in due form executed a deed to appellee, conveying their said homestead; the mistake in the description being admitted.
+3. Appellants never surrendered the actual possession of the land and have continued to reside upon it, but whether as tenants under appellee or as claimants of title in themselves, depends upon the issue made as to the purpose and effect of the deed. On this point the testi-" many was conflicting and presents the two issues made by the pleadings.
+4. The appellant’s husband being imprisoned, because unable to pay a fine and costs adjudged against him amounting to about $100, offered to make a deed to his homestead to anyone who would advance the money necessary for his release. The appellee was approached by the officer having him in charge, and was told of the offer. The wife was not consulted about this offer, but was in town with relatives trying to arrange to secure a loan sufficient to get her husband out of jail. After appellee went with the officer to see the husband, these three went to the office of an attorney, where the wife and her relatives were with others, and here the attorney told them that a mortgage could not be placed upon the homestead, and that a deed must be made. At this point the testimony is in hopeless conflict, the appellants and their witnesses testifying-that it was the understanding that they were simply “signing away their land until fall, and that appellee was to make them a new deed in the fall upon return of his moneywhile the appellee .and his witness testified that nothing was said about deeding the land away until fall, and that the deed was absolute.
+As to the rent contract, appellee alone testified that such a contract was made, while appellants denied that any such contract was made. The value of the land was placed by appellants at about $30 per acre and a like amount for the improvements, and in this they were corroborated by disinterested witnesses, while appellee testified that the land was not worth more than $15 per acre and that the improvements were of little value.
+There is no dispute as to the fact that before the end of the next year appellee was claiming title to the land, and that the deed was absolute, and that appellants were denying this claim.
+5. The issue of a valid conditional sale giving appellants the right to repurchase their land was not made by the pleadings nor by the evidence of either side.
+Conclusions of Law.—Only two errors are assigned which require consideration. Appellants complain of the action of the court in charging the jury that the deed in controversy was absolute on its face and vested the legal title to the land in appellee. Had the court given this charge without requiring the jury to consider other parts of the charge in determining whether it was intended between, the parties as a sale of the land or as a mortgage to secure the loan of money, the assignment might be sustained.
+The point that when an instrument is attacked as not expressing the contract between the parties and paroi evidence is introduced to explain an ambiguity, or to show that a part of the contract was not reduced to writing, as that a deed has attached to it a trust or is in fact a mortgage, the court should not construe the writing and' instruct the jury as to its legal effect, is not in accord with the rule of practice in this State. Miller v. Yturria, 69 Texas, 554; Howard v. Zimpelman, 14 S. W. Rep., 59; Houston & T. C. Railway Co. v. Shirley, 89 Texas, 99.
+The rule announced in Taylor v. McNutt, 58 Texas, 73, followed in Moss v. Helsley, 60 Texas, 426, that it is the duty of the court in such cases to submit for the consideration of the jury the instrument with the attending facts and circumstances adduced in evidence, with such instructions upon the legal effect of the instrument as will meet the various phases of the case¿ does not necessarily conflict with the rule stated in the above cases. The charge in the present case follows the approved practice on this point, and clearly submits to the jury the issue of deed or mortgage as depending on the intent with which the instrument was executed.
+Complaint is made of the following charge as given: “If you believe from the evidence that the defendant signed and acknowledged the deed in evidence before you as provided by law for the conveyance of the homestead, and delivered same to plaintiff for the consideration of $107.50 paid by Tom Malone in settlement of said fine and costs due by Antony Bradford, but you further believe that it was understood and intended between the parties to said conveyance that title to the land in controversy should vest in plaintiff and that the land should become the absolute property of plaintiff, you will find your verdict for plaintiff, although you may believe from the evidence that the plaintiff at the time stated to the defendant that he would resell' same land to Antony Bradford in the next fall for a sum stipulated at said time.”
+The last clause in this charge we consider erroneous. The issue made by the pleadings and evidence was that of deed absolute or mortgage. The issue of a conditional conveyance was not made, and we think it was error for the court to submit this theory, and in so doing minimize, if it did not destroy, the evidence of appellants given in support of their contention that the deed was only intended to secure appellee in the return of his money, and that he was to execute an instrument in the form of a deed, sufficient to overcome the effect of the deed in controversy.
+For this error the judgment will be reversed and the cause remanded.
+Reversed and remanded.
+Associate Justice Streetman, being disqualified, did not sit in this case, and T. B. Cochran, Esq., was appointed and qualified as Special Associate Justice in his stead.
