@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2413"
+decided: "1886-11-24"
+citations: ["22 Tex. Ct. App. 408"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry and John Willey v. The State."]
+source_url: "https://static.case.law/tex-ct-app/22/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 145522
+---
+
+# Willey v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+Appellants were jointly indicted for theft of a cow, the property of Oliver Bland. When the case was called for trial after their motion for continuance had been overruled, defendants presented to the court an application for a severance, as follows, viz.: “Wow come defendants in the above entitled cause, and ask a severance upon the trial thereof, and defendants agree and ask that defendant Henry Willey be placed first on trial,” which application was subsequently amended as a separate application of John Willey, and by the addition that “said severance is requested for the purpose of obtaining the evidence of said Henry Willey jointly indicted with him; that such evidence is material to his defense, and that he, John Willey, verily believes that there is no evidence against said Henry Willey.” A severance was refused by the court. The learned judge, in his explanation appended to the bill of exceptions saved to the ruling, amongst other reasons for his action, says the application was overruled, “ the court not being satisfied that it is a matter of absolute right that the defendants had to sever, and thinking that if it is true that it is a matter of absolute right, that it ought not to be,” etc.
+Articles 669 and 670 of the Code of Criminal Procedure, before they were amended, provided for a severance of defendants jointly indicted; and where an application therefor was made in the terms of the law, a severance was a matter of right. (Rucker v. The State, 7 Texas Ct. App., 549; Myers v. The State, Id., 640; Allison v. The State, 14 Texas Ct. App., 402.) These two articles of the code have been amended, and, as amended, now read: “Article 669. When two or more defendants are jointly prosecuted they may sever in the trial upon the request of either.” “Article 670. When a severance is claimed the defendants may agree upon the order in which they are to be tried, but in case of their failure to agree the court shall direct the order of trial.” (Gen. Laws Eighteenth Leg., Reg. Sess., p. 9.) In our opinion there can, be no question as to the intention of the Legislature to confer upon such defendants the right to demand a severance and, where they come within the terms of the statute and demand such right, it is manifest error to refuse or deprive them of it.
+Opinion delivered November 24, 1886.
+One of the instructions thus given the jury in the charge of the court was as follows: “Upon the trial of any person charged with theft of any animal of the horse, ass or cattle species, the possession of such stolen animal by the accused1, without a written transfer or bill of sale containing a description of such animal shall be prima facie evidence against the accused, and that such possession was illegal.” This charge is upon the weight of evidence, and this court has condemned similar charges as vicious and erroneous. (Garcia v. The State, 12 Texas Ct. App., 336; Flores & Bernal v. The State, 13 Texas Ct. App., 665; Schindler v. The State, 15 Texas Ct. App., 394.)
+In so far as defendant John Willey was concerned, in addition to his plea of not guilty, another theory in his behalf raised by the evidence was that if he was implicated at all in the driving or killing of the cow, then he was a hired hand, and in his connection with the driving or killing he acted, in whatsoever he did, under the honest belief that the animal was the property of his codefendant Henry Willey, or of the butchering partnership composed of Henry Willey and Jeff Lewis. Upon this phase of the case the special requested instruction asked by the defendant was the law, and it was error to refuse it, especially since the charge given contained no enunciation of the law pertinent to this portion of the facts. (Ivey v. The State, 43 Texas, 425; Taylor v. The State, 5 Texas Ct. App., 529; Allen v. The State, 42 Texas, 518; Anderson v. The State, 8 Texas Ct. App., 542.)
+Looking to another trial of the case, we call attention of the court to certain testimony allowed over objection as shown by exception noted in the statement of facts. The witness Myers was allowed to testify to statements made by defendant John Willey to him when his codefendant Henry Willey was not present. Such confessions or admissions would be legitimate as evidence against John but not as against Henry. After the consummation of a conspiracy the declarations of one conspirator can not be used against his coconspirator. (Cox v. The State, 8 Texas Ct. App., 254; Holden v. The State, 18 Texas Ct. App., 92; Ricks v. The State, 19 Texas Ct. App., 308; Smith v. The State, 21 Texas Ct. App., 108.) A man’s confession of guilt can only be used against himself. (Draper v. The State, 22 Texas, 400.)
+For the errors discussed the judgment is reversed and the cause remanded. Reversed and remanded.
