@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-10-23"
+citations: ["57 Tex. Civ. App. 267"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Western Union Telegraph Company v. J. H. Williams."]
+source_url: "https://static.case.law/tex-civ-app/57/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2348625
+cites_cases: ["70 S. W., 784"]
+---
+
+# Western Union Telegraph Co. v. Williams
+
+## Majority (BOOKHOUT, Associate Justice.)
+
+BOOKHOUT, Associate Justice.
+Appellee J. H. Williams, a resident of Freestone County, Texas, on July 23, 1908, brought suit against appellant, Western TJnion Telegraph Company, for the nondelivery of the following telegram:
+"Rockwall, Texas, 7-23-1907.
+To R. H. Waldrop, Teague, Texas.
+Rent building if you think best. (Signed) J. H. Williams.”
+It was alleged that on the 23d of July, 1907, appellee was the owner and -is still the owner of lot Ho. 17, in block Ho. 94, in the town of Teague, Texas, and a certain storehouse situated thereon; tliat on said last mentioned date appellee had an agent, to wit: R. H. Waldrop, who was then residing in the town of Teague, and was in said town at said time, and that he was well known to the citizens of said town of Teague; that Connell Brothers, a firm then doing business in said town of Teague, was desirous of leasing appellee’s said store house for a period of twelve months beginning on the first day of August, 1907, and to run for twelve months, or until August 1, 1908, and the said Connell Brothers offered to the appellee the sum of $35 per month rental for said building; that appellee was absent from the town of Teague at the time, and was in the town of Rockwall, Texas; that being advised by his said agent of the proposition so made by the said Connell Brothers to lease his said building, his said agent not having the authority to lease same without the consent of appellee, he (appellee) on the 23d day of July, 1907, made and delivered to the appellant’s agent at Rockwall the telegram herein above set out; that he paid to appellant’s agent at Rockwall, Texas, the sum of twenty-five cents, being in full of all charges demanded by appellant’s agent at said place; that the said telegram was by the negligence of said appellant,' its agents and servants, never delivered to the said R. H. Waldrop, and by reason of such negligence of appellant in failing to promptly transmit and deliver the said message to the said R. H. Waldrop as it Contracted and agreed to do, the said Connell Brothers failed to lease the said building, and appellee has thereby suffered and lost in actual damages the amount of $420; that had the appellant delivered the said message to B. H. Waldrop, the said Waldrop could and would have closed a rental contract with the said Connell Brothers for appellee’s said building for one year, beginning on the first day of August, 1907, and ending on the first day of August, 1908, at a monthly rental of $35; that appellee has only been able to rent his said building for about two months during said time, and has collected as rents the sum of $45, which said amount he credits on the yearly rental he would have received, leaving a balance due of $375, for which amount he asks judgment.
+The defendant answered by general and special exceptions, general denial and by special answer, that the plaintiff could and should by the use of ordinary diligence have rented the premises for a reasonable monthly rental, shortly after July 23, 1907, and that by reason of plaintiff failing to use ordinary diligence in this respect, and by reason of the fact that the plaintiff has been guilty of contributory negligence, the . alleged loss and damage to plaintiff was occasioned, and that the plaintiff for this reason is not entitled to recover against the defendant herein.
+The demurrers were overruled, to which action of the court the defendant excepted. Trial was had before the court, which resulted in a judgment in favor of appellee and against appellant, for $375.
+We are of the opinion that the telegram gave sufficient notice of the object of plaintiff in sending it, and that the agents of defendant could reasonably have contemplated that some such damages as that sued for would result to plaintiff by its failure to use reasonable diligence for its delivery.
+The message was sufficient to show that Waldrop, the addressee, had been negotiating to rent plaintiff’s building and that he was authorized to rent it if in his judgment he thought best and that damages might result to plaintiff if the company failed to deliver the message and the building was not rented. There was no error in overruling appellant’s demurrers to the petition.
+We are, however, of the opinion that reversible error is pointed out by the sixth assignment of error, reading as follows: “The court erred in rendering judgment in favor of the plaintiff and against the defendant herein, for the reason that it appears from the uncontradicted evidence in this case that the proximate cause of the damages claimed to have resulted to the plaintiff was caused by the failure on the part of the plaintiff to make other efforts to rent the storehouse during the time it is claimed he could have rented it to Connell Brothers.” It was the duty of plaintiff, after the contract had been breached and he ascertained that Connell Brothers would not rent his building, to use reasonable diligence to rent the same to some other responsible party. If it could not bo rented for the same amount that Connell Brothers were willing to pay, then he should have used reasonable diligence to rent it for the best price he could get from' other solvent parties and held the appellant liable for the difference and thus reduce as far as possible his damages. (Telegraph Co. v. Jeanes, 88 Texas, 230; Kramer v. Wolf Cigar Stores, 99 Texas, 597.) Appellee testified that he made no attempt after he found his telegram had not been delivered to rent his storehouse during the balance of the year.
+For the error pointed out the judgment is reversed and the cause remanded.
+Reversed and remanded.
