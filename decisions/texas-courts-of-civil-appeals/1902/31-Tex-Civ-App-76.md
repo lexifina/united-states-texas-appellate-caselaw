@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1902-12-18"
+citations: ["31 Tex. Civ. App. 76"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. Hughey et al. v. J. D. Mosby et al."]
+source_url: "https://static.case.law/tex-civ-app/31/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4369443
+---
+
+# Hughey v. Mosby
+
+## Majority (GARRETT, Chief Justice.)
+
+GARRETT, Chief Justice.
+This action was brought by the appellees against the appellants for the recovery of an undivided one-half •interest in 327 acres of land situated in Waller County, and lots 2, 3 and 4, in block 62, in the city of Hempstead, in said' county, and for rents and partition. The plaintiffs are the collateral heirs of Augusta M. Hughey, the deceased wife of the defendant J. E. Hughey, and the property sued for was the separate property of the said Augusta M. Hughey, who died intestate in the said county of Waller July 12, 1896, seized and possessed thereof, without issue, leaving her husband, J. E. Hughey, and the plaintiffs as her heirs. During the lifetime of the said Augusta M. Hughey,-on to wit, the 27th day of December, 1893, she undertook to convey the said property by a deed to her husband, J. E. Hughey, “for and during his natural life, and to his heirs after his death.” This instrument was acknowledged and recorded as a deed. Judgment was rendered in favor of the plaintiffs for one-half of the property, and partition thereof was decreed.
+The plaintiffs alleged in their petition, “that there has never been an administration, upon the estate of said Augusta M. Hughey, deceased, and no necessity exists therefor.” Hence the assignment of error that the “court erred in not sustaining defendants’ general demurrer to plaintiffs’ petition, in that plaintiffs do not allege there was no administration on the estate of their ancestress, Augusta M. Hughey, or that there was no necessity therefor, nor is there any evidence in the record to show those facts,” can not be sustained. This assignment will not support a proposition that it was necessary to prove the facts alleged, and does not raise the question of the sufficiency of the evidence to sustain the judgment on this issue, the only error assigned thereby being the refusal of the court to sustain a general demurrer.
+Plaintiffs showed common source of title by the introduction of the deed from Augusta M. Hughey to her husband, J. E. Hughey, and notwithstanding the fact that the deed was void and ineffectual to pass title, it was sufficient to show common source. Garner v. Lasker, 71 Texas, 433 ; Burns v. Goff, 79 Texas, 239. It was therefore not necessary for the plaintiffs to show title deraigned from the sovereignty of ■the soil, as contended in the first assignment of error. Plaintiffs were not required to allege the common source to enable them to give evidence thereof. Keys v. Mason, 44 Texas, 142 ; Stegall v. Huff, 54 Texas, 198. There is no proof in the record to show that the defendants are in possession of the land claiming it adversely to the plaintiffs, nor under the facts could there have been possession by them for a sufficient lapse of time to bar the right of plaintiffs to recover under the statute of limitations.
+By the third assignment the question is raised of the right of the two lunatic plaintiffs to sue by next friend. This has been settled adversely to the contention of the appellants. Holzheiser v. Railway, 11 Texas Civ. App., 677.
+The fifth assignment of error is that “the court erred in overruling defendants’ motion for a new trial, in that the motion set out good cause for a new trial.” This is too general for consideration.
+The sixth assignment complains generally that the court “erred in not finding the facts proven on the trial as requested by the defendants,” etc. If, the appellants desired a fuller finding of the facts they should have called the matter to the attention of the court by motion or exceptions, and pointed out in what respect they desired fuller findings. Railway v. Fossett, 66 Texas, 339 ; Fitzhugh v. Franco-Texas Land Co., 81 Texas, 313. This they failed to do, and can not be heard to complain of the insufficiency of the findings for the first time in this court.
+There is nothing in the seventh assignment of error, nor is the proposition under it germane thereto. The deed being an attempt by a married woman to convey to her husband land belonging to her separate, estate, is a nullity. Graham v. Struve, 76 Texas, 533. Being a living man, J. E. Hughey could have no heirs who should have been made parties to the suit.
+By the ninth assignment of error it is contended that the court erred in rendering judgment in favor of the plaintiffs for the recovery of lot 2, in block 62, in the city of Hempstead, because the evidence showed no title in Augusta M: Hughey for that lot, but on the contrary showed-that she was the owner of lot 2, in block 2. A. J. Harvey testified that at the time of her marriage with J. E. Hughey, Augusta M. Hughey, used, had possession of, owned and claimed the lots 2, 3 and 4, in block1 62, as her separate property. It is probable that the description of the property as lot 2, block 2, in. the deed to her from L. A. Griffin is a typographical error. The lot is correctly described in the petition and the judgment and the deed from Augusta M.' Hughey to her husband. The evidence is sufficient to support the judgment. Rice v. Railway, 87 Texas, 93. No error has been pointed out for which the judgment of the court below should be reversed, and it will therefore be affirmed.
+Affirmed.
+Writ of error refused.
