@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-05-28"
+citations: ["36 Tex. Civ. App. 240"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas & Pacific Railway Company v. E. M. Miller."]
+source_url: "https://static.case.law/tex-civ-app/36/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4378330
+cites_cases: ["27 S. W. Rep., 420", "76 S. W. Rep., 234"]
+---
+
+# Texas & Pacific Railway Co. v. Miller
+
+## Majority (BOOKHOUT, Associate Justice.)
+
+BOOKHOUT, Associate Justice.
+This is an appeal from a judgment rendered in the District Court of Van Zandt County, at the fall term, 1903, of said court, against the appellant in a suit brought to recover damages for personal injuries alleged to have been sustained by the appellee on the 8th day of May, 1902, while appellee was an employe of appellant as a laborer in a construction gang. A trial resulted in a verdict and judgment for plaintiff, and defendant appealed.
+By the sixth assignment of error the correctness of the eighth paragraph of the court’s charge is challenged on the ground that there is no evidence to authorize the submission of the issue embraced therein to the jury. The charge reads: “If you find from the evidence that Henry Crick ordered plaintiff and A. Hogue to move the tie in question, then if you find further that the tie was too heavy for the two to move, and if you find that Crick knew, or by the exercise of ordinary care could have known, that same was too heavy for plaintiff and Hogue to move, taking into consideration the size and weight of the tie, and the strength of two men of plaintiff’s and Hogue’s size and appearance would ordinarily have; then if you further find that an ordinarily prudent person would not under the same circumstances have ordered plaintiff and Hogue to move the tie; and if you further find that in an attempt to move the tie, in consequence of its weight and insufficient number of men to move the same, Hogue gave way and let the weight of the tie fall on plaintiff; then if you find that plaintiff was injured as the direct and proximate result of so attempting to move the tie and Hogue giving way, you will find for plaintiff.”
+The record shows without material contradiction that on May 8, 1902, appellee, E. M. Miller, was working as a laborer for the Texas & Pacific Railway Company in an extra gang, under H. C. Crick, its foreman. This gang was doing any kind of work required to be done on the road, and had taken up an old switch and loaded the ties on a push " car and run the car down the track to a point where the ties were unloaded by sliding them off the car. One of the ties thus unloaded was lying at right angles with the track, one end resting against the rail of the main line.
+The foreman, Crick, ordered the appellee and a man named Hogue, a colaborer, to shove the tie back from the main track. The appellee said to Hogue, “We had better wait for help.” Thereafter the foreman said, “Why don’t you move that tie out?” They then took hold of the tie, Hogue being at the end and appellee at the side and as close to Hogue as he could get. They both lifted at the tie and endeavored to pull or shove it away from the rail of the track. Hogue gave down and thereby threw the weight upon appellee with a jerk, and he was thereby ruptured.. Appellee then told Crick they could not move the tie, whereupon a third man was sent to their assistance and the three moved it. Hogue was 26 years old at the time, weighed from 135 to 150 pounds, and was free from all physical infirmities. He was regarded as one of the best laborers in the gang. The appellee was 35 years old when injured, could read and write, had been raised on a farm, and had helped clear land, build log houses and do all sorts of farm work. He was raised in a timbered country, and was familiar with oak, poplar and chestnut growth, and knew that oak was the heaviest of timbers. The tie was 12 or 14 feet long, 12 inches wide and 10 inches thick. Appellee and Hogue had been engaged in this character of work two and a half days.
+We are of the opinion the evidence did not authorize the giving of the charge. While it is the duty of the master to use ordinary care to furnish a sufficient number of competent laborers to perform the work, yet if the servant, with knowledge that the master has failed in that respect, enters upon the performance of the work, he assumes the risk arising from such failure. Shearm. & Redf. on Neg., 5 ed., sec. 193; Bonnett v. Railway Co., 80 Texas, 72; Texas & P. Ry. Co. v. Bradford, 66 Texas, 732; San Antonio Traction Co. v. Rodrigues, 27 S. W. Rep., 420.
+There is evidence that the appellee knew that two men were insufficient to move the tie, or at least that they would have difficulty in moving it. Appellee was a man with a fair education; had worked with different kinds of timber; was raised on a farm, helped clear land and build log houses, and he and his colaborer Hogue had actually been engaged two and a half days in the same character of work. His co-laborer was of vigorous age and a first-class man for his size. He had no physical defects.
+There is no evidence that appellee did not have full knowledge of the danger of attempting to move the tie with an insufficient number of men. Under the evidence as shown in the record the appellee must be held to have assumed the risk arising from two men attempting to move the tie. As bearing on the principles involved, see Parish v. Railway Co., 76 S. W. Rep., 234; St. Louis S. W. Ry. Co. v. Austin, 6 Texas Ct. Rep., 708.
+The judgment is reversed and the cause remanded.
+Reversed and remanded.
