@@ -1,7 +1,7 @@
 ---
 court: "Texas Courts of Civil Appeals"
 decided: "1910-01-20"
-citations: ["58 Tex. Civ. App. 609", "58 Tex. Civ. App. 612"]
+citations: ["58 Tex. Civ. App. 609"]
 reporter: "tex-civ-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Missouri, Kansas & Texas Railway Company of Texas v. D. H. Byrd."]
 source_url: "https://static.case.law/tex-civ-app/58/cases/0609-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4405157
-cites_cases: ["101 S. W., 208", "114 S. W., 1170", "114 S. W., 1171", "115 S. W., 891", "38 S. W., 162", "39 S. W., 954", "43 S. W., 576", "66 S. W., 573", "84 S. W., 1049"]
+cites_cases: ["114 S. W., 1170", "114 S. W., 1171", "115 S. W., 891", "38 S. W., 162", "43 S. W., 576", "66 S. W., 573", "84 S. W., 1049"]
 ---
 
 # Missouri, Kansas & Texas Railway Co. v. Byrd
