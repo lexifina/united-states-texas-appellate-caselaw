@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1899-03-01"
+citations: ["21 Tex. Civ. App. 19"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. K. Breneman v. George West et al."]
+source_url: "https://static.case.law/tex-civ-app/21/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277053
+cites_cases: ["24 Pick. (Mass.), 84", "36 S. W. Rep., 521", "40 S. W. Rep., 63"]
+---
+
+# Breneman v. West
+
+## Majority (FLY, Associate Justice.)
+
+FLY, Associate Justice.
+Appellant sued Lionel Graham and George W. West to recover the sum of $100,000 damages for malicious prosecution on a charge of embezzlement. Graham being a resident of London, England, could not be cited, and the suit was dismissed as to him. The case was tried by jury, but after hearing the testimony of appellant a verdict was instructed for appellee.
+Appellant testified that he was a practicing attorney residing in San Antonio, and that in the spring of 1895 he became acquainted with Lionel Graham, a British subject, who at that time was a director and inspector of the American business of the British and American Mortgage Company, whose head office was 32 Nicholas Lane, London, England. He agreed with appellant that if he would obtain parties wanting large sums of money, he would divide commissions which were to come out of the borrowers. Appellant found one man who wanted to borrow $55,000, and two others who wanted $25,000 each, who agreed to pay 5 per cent as commissions for getting the money. Graham examined the securities, and told the parties they could have the money they wanted. Afterwards Graham told appellant that he wanted some monejq and told appellant that he would get a note payable to appellant’s order, with a good man on it, and wanted appellant to negotiate the note and get him (Graham) the money. Graham brought the note to appellant payable to his order, which was signed by Graham and West. Appellant tried for several days to get the money, but did not succeed, and Graham returned to New York, from which place he telegraphed to appellant: “If you have not discounted the note, please indorse it and mail it to me at the Windsor Hotel.” Appellant did not send the note to Graham, claiming that although the mortgage company had refused to make the loans, that Graham owed him $2625 for commissions. In the language of appellant: “When I discovered Graham would not put these loans through, and after he declined to pay me the $2625 due to me, I made up my mind to pay myself, and I indorsed and sold the note for $3400. I then felt perfectly easy. I felt I was master of the situation.” Appellant has never paid any surplus over what he claimed to Graham or West. Afterwards appellant was indicted for embezzlement by a grand jury of Bexar County, the name of appellee, Geo. W. West, appearing on the back of the indictment with the names of seven other witnesses under the caption: “Names of witnesses upon whose testimony indictment was found.” Appellee employed attorneys to assist in the prosecution of appellant, who was tried and acquitted. Appellant was not acquainted with appellee, and there was no evidence that he made any effort to procure the indictment, but that he went before the grand jury upon process of the State, as did the other witnesses, and that he had no connection with the prosecution until after the indictment was returned. We conclude that the evidence failed to establish malice, and not only failed to show want of probable cause, but clearly indicated that there was sufficient cause to have raised the reasonable belief in the mind of appellee that appellant had been guilty of appropriating trust funds to his own use and benefit in such a manner as to constitute embezzlement.
+To maintain an action for malicious prosecution it must be proved that there was a prosecution by the defendant, that it was malicious, that it was without probable cause, and that the prosecution had ended in acquittal. Usher v. Skidmore, 28 Texas, 622; McManus v. Wallis, 52 Texas, 545; Glasgow v. Owen, 69 Texas, 169; Von Koehring v. Witte (Texas Civ. App.), 40 S. W. Rep., 63. It devolved upon appellant to prove both malice and the want of probable cause. These two must concur, and in the absence of proof of one, or both, it was proper for the court to instruct a verdict for appellee. Griffin v. Chubb, 7 Texas, 603; Stone v. Crocker, 24 Pick. (Mass.), 84; Lancaster v. Langston (Ky.), 36 S. W. Rep., 521.
+In the Massachusetts case above cited it is said: “The want of probable cause is the essential ground of this action. Other things may be inferred from this. But this can not be inferred from anjdhing else. It must be established by positive and express proof. It is not enough to show that the plaintiff was acquitted of the charge preferred against him, or that the defendant abandoned the prosecution. But the onus probandi is upon the plaintiff to prove affirmatively, by circumstances or otherwise, as he may be able, that the defendant had no grounds for commencing the prosecution.”
+The judgment is affirmed.
+Affirmed.
+Writ of error refused.
