@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "2077"
+decided: "1885-11-28"
+citations: ["3 Willson 71"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tex. & Pac. R’y Co. v. Ervay."]
+source_url: "https://static.case.law/willson/3/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1367684
+cites_cases: ["61 Tex. 660"]
+---
+
+# Tex. & Pac. R'y Co. v. Ervay
+
+## Majority (Hurt, J.)
+
+Opinion by
+Hurt, J.
+§ 47. Fire caused by railroad engine; burden of proof of negligence.;. case stated. Appellee recovered of appellant a judgment for $650 damages for the destruction of grass and turf on his land by fire communicated from appellant’s engine. Upon the burden of proof of negligence, the court charged the jury as follows: “The burning of the grass off of plaintiff’s land by the defendant’s engines being operated and run through the land upon which the said grass was situated, by the employees of defendant, and that the plaintiff was injured by said burning, are the facts which must be proved to make out the plaintiff’s cause of action. Whenever the plaintiff has made out the proof of those facts by the evidence before you, it then devolves upon the plaintiff to show by the evidence that the burning was not caused by their negligence, that is, that the defendant, in operating their engines, exercised that degree of care which prudent men, skilled in the particular business in which they are engaged, would likely exercise under the circumstances. In order to show that they have not been negligent in the construction and management of its engines, you must believe, from the evidence before you, that the defendant, in the construction and use of their engines, have taken all the precautions within their means to prevent the injury complained of.” This charge asserts the proposition “that the fact of the premises being fired by sparks emitted from a passing engine is prima facie evidence of negligence on the part of the company, rendering it incumbent upon it to show that such precaution had been adopted, reasonably calculated to prevent such accident.” Held: This rule is sustained in the case of R. R. Co. v. McDonough, W. & W. Con. Rep. §§ 651-655, and the opinion in that case is cited approvingly in R. R. Co. v. Timmerman, 61 Tex. 660. In order to charge the company it must be alleged and proved that the sparks of fire causing the damage escaped from the engine through the negligence of its servants or agents. How is this proof of negligence made? Numerous authorities hold that the plaintiff, in order to make out a prima facie case of negligence, must go farther than merely proving that the fire was caused by the engine. On the other hand, the decisions in this state, above cited, support the proposition enunciated in the above quoted proposition; that is, that, when it is shown that the fire was caused by the engine, the burden rests upon the company to show that there was no negligence on its part. The solution of this question, therefore, is this: While it is necessary for the plaintiff to allege and prove negligence on the part of the company, the proof is made, prima facie, by showing that the property was destroyed or damaged by fire from the engine; and to prevent a recovery upon such proof, the company must disprove negligence. But the charge of the court must never be such as to impress upon the jury that the burden is not upon the plaintiff to prove negligence. A charge, however, that, whenever certain facts are proved by the plaintiff, the burden shifts to the defendant, does not necessai'ily have this effect. In this case a subsequent portion of the charge instructs the jury that, before they can find for the plaintiff, they must believe from the evidence that the damage resulted from the negligent use or construction of the engine, thus holding the plaintiff to the burden of proof upon the whole case.
+Note. — Judge Willson dissented from the doctrine above stated. He concluded that the cases cited support the rule as stated; but he believed that the weight of American authority is the other way. He referred to the case of R. R. Co. v. Holt, W. & W. Con. Rep. p. 477, for his views in full upon the question, which decision he says is overruled by the doctrine announced by a majority of the court in this case.
+§ 48. Measure of damage for destruction of grass, etc.; evidence as to. Upon the trial plaintiff was permitted, over the objection of defendant, to prove that the land was used for hay and grazing purposes, and to prove the value of the same for such purposes. The objection urged to such proof is, that the purposes for which the land was used are ■ not to be considered in estimating the damages, and in support of this objection the case of R. R. Co. v. Tippett, 2 W. Con. Rep. 710, is cited. That case holds a contrary doctrine, and the evidence was properly admitted.
+November 28, 1885.
+§ 49. Excessive verdict. It was claimed in the petition that two hundred acres of plaintiff’s land had been injured by the fire. It was proved that between one hundred and fifty and two hundred acres had been injured, and that the amount of such injury was $2.50 per acre. If, therefore, the entire two hundred acres were damaged $2.50 per acre, this would make the aggregate damage sustained $500, while the verdict and judgment are for $650, wherefore the judgment must be set aside.
+Eeversed and remanded.
