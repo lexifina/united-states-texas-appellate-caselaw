@@ -1,0 +1,44 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "54"
+decided: "1892-12-14"
+citations: ["1 Tex. Civ. App. 701"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John King v. Nathan Mitchell."]
+source_url: "https://static.case.law/tex-civ-app/1/cases/0701-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 216188
+cites_cases: ["7 S. W. Rep., 774"]
+---
+
+# King v. Mitchell
+
+## Majority (COLLARD, Associate Justice.)
+
+COLLARD, Associate Justice.
+The appellee, Nathan Mitchell, on the 25th day of August, 1887, sued John King, the appellant, in -trespass to try title for a strip of land on the north end of survey No. 25 — that is, a strip 78.42 varas wide. Survey 25, in the name of Anselmo Gallan, is described as south of survey 24, in the name of Thomas Thatcher, the former calling for the south line of the latter.
+Defendant answered not guilty; that the land sued for was vacant land and had been pre-empted by him; and if it was held not to be vacant when pre-empted, that it was a part of survey 24, adjoining 25; and since the suit was brought, to-wit, on June —, 1888, he had purchased the same from Ed. Braden, who owned the southern portion of 24, which title he pleads. *
+Plaintiff replied, denying the answer, and alleging that the land in suit was not a part of 24, but was a part of 25; also, that some twelve years before, Ed. Braden, being in possession of that part of the land of survey 24 next adjoining the land in suit on the north, erected a division fence on what was then considered by him and plaintiff the division line between the two surveys, plaintiff then owning survey 25; that the fence has remained where it was placed, and is now standing; that it was tacitly, if not expressly, agreed by plaintiff and Braden at that time and ever afterward to be the division line between the two surveys; that in 1884, plaintiff being the owner of survey 25, desiring to enclose the land, obtained Braden’s consent and agreement that plaintiff should join on to the division fence, which both had considered and agreed was the division line, whereby both parties acted on the former understanding and tacit agreement that the fence was on the line; and plaintiff did join to the same, enclosing the strip in question, since which time he has been in the quiet possession of the same until ejected by defendant, as alleged in original petition.
+A jury was waived, and the cause submitted to the court, who rendered judgment for plaintiff, stating therein the grounds of the judgment as being of opinion that there was no vacancy between surveys 24 and 25, and that therefore there were no pre-emption rights; and “ the court being of the opinion that the south boundary, line of survey No. 24 and the north boundary line of survey No. 25 being one and the same, and that said line had long since and for many years been established and acquiesced in by the owners, and is now, as it has been for many years, marked by a line of fence extending along said line, erected by one Ed. Braden, the same is hereby established as the true and correct boundary line,” etc.
+Defendant appealed, and assigns errors by the court:
+1. In holding that there was no vacancy.
+2. In holding that the excess belonged to survey 25.
+3. The evidence shows that survey 24 is the older survey, and is entitled to the land in controversy, if it is an excess.
+4. The holding that the land is an excess and belongs to survey 25 changes all the original calls; while holding that it belongs to survey 24, or defendant, harmonizes with the calls.
+The material facts, as we find them, are:
+There are about 1118 acres of land in survey 24, and 464 acres in" survey 25. The alleged vacancy is not quite 38 acres; the strip between the surveys is 78.42 varas wide.
+Survey 24 was made in February, 1838, and survey 25 in June, 1838. Survey 24 calls its south line as running from a mound, west 1547 varas to a stake, from which two mesquites are named as bearings. The north line of survey 25 calls for the south line of No. 24, and to run with its full length 1547 varas between two other surveys, and at the northwest corner of 25 the same witness trees are called for that are named to identify the southwest corner of 24. There is evidence tending to show that the line of 24 is where plaintiff claims it to be — enough to support such a conclusion if the court had so found; but there is testimony tending to show that it can not be identified on the ground, and that distance will leave a vacancy between the two surveys.
+It is shown that defendant has complied with the preliminary requirements of the law as a pre-emptor of the land in suit, by making application, supported by affidavit, and having the land surveyed as such by the proper surveyor, and by residence upon the land; the application being made February 9, 1885, the survey February 3, 1886.
+It was admitted that plaintiff owned survey 25, which was patented in June, 1881. Survey 24 was patented in February, 1849.
+It was proved that Braden built his fence on what he believed was his south line (the south line of survey 24) in 1878; that he at no time claimed any land south of his fence, and has since claimed the fence as the line.
+It was also proved that plaintiff, owning survey 25, though he thought the fence too far south, recognized it as the division line between the two surveys, and that he acted upon it by enclosing all of survey 25, and joining to the fence by Braden’s consent. He says, and the court below having so found if necessary to his conclusion upon this subject, we find, that Braden was present when he joined fences and agreed that he should do so.
+Delivered December 14, 1892.
+In out opinion, the conclusion of the court below, that there was no vacancy between surveys 24 and 25, is correct; and this being so, no right of pre-emption could be acquired in the supposed vacancy.
+It was evidently the intention of the locating surveyor to include all the land; and though there may be some excess, it is not so great as to defeat that intention. Survey 25 being the junior survey and calling for the south line of 24, will extend to that line wherever it is established, there being no unreasonable discrepancy in the distance, even though the south line of 24 may'be an open line. We do not intend to say that it is an open line, for there is some evidence to fix it on the ground as identical with the Braden fence, and quite enough to sustain that conclusion, if it had been so found by the court below. Moore v. Reiley, 68 Texas, 668; Moore v. Stewart, 7 S. W. Rep., 774; Freeman v. Mahoney, 57 Texas, 626; Anderson v. Stamps, 19 Texas, 460.
+There was no error in the court’s finding that there was no vacancy between the two surveys.
+The judgment of the court below is not based upon the fact that the excess belongs to survey 25, but upon two facts: that there is no vacancy, and that the line has been established by acquiescence of the owners.
+There is no error assigned to the latter conclusion; and there being no fundamental error, it will not be disturbed. Floyd v. Rice, 28 Texas, 341, and authorities cited; Browning v. Atkinson, 46 Texas, 606.
+Finding no error in the judgment of the court below, it is affirmed.
+Affirmed.
