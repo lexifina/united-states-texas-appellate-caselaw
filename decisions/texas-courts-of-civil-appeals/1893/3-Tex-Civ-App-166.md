@@ -1,0 +1,35 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "149"
+decided: "1893-04-19"
+citations: ["3 Tex. Civ. App. 166"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gregory, Cooley & Co. v. Coleman & Estes."]
+source_url: "https://static.case.law/tex-civ-app/3/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 221030
+cites_cases: ["36 Cal., 462"]
+---
+
+# Gregory, Cooley & Co. v. Coleman & Estes
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+This suit was brought by appellees to recover of appellants damages, both actual and exemplary, on account of the seizure at Kansas City, Missouri, under a writ of replevin, of 74 beef steers, the property of appellees, which were in transit from Amarillo, Texas, to Chicago, Illinois.
+. There was a compromise of the replevin suit, by the terms of which one of the appellees, P. C. Coleman, received of appellants the sum of $1765.83 as a compromise settlement of the value of the cattle in controversy in said cause, and agreed not to bring any suit upon the replevin bond. This compromise was effected October 26, 1889, at Kansas City. Thereafter appellees instituted this suit in Mitchell County, Texas, alleging, in substance, that the affidavit made by appellants to obtain the writ of replevin was false, and made without probable cause for belief in its. truth; that the cattle in question were the property of appellees; that appellants had no interest therein; and that they had acted willfully, maliciously, and unlawfully in suing out the writ of replevin, with the intent to injure and harrass appellees, who were put to great damage and expense in defending the replevin suit, to-wit, in the sum of $640.60; admitting, however, the payment by appellants of $1765.83 as part of the value of said cattle, which were alleged to be worth $1965.83, and praying for judgment for 8900 actual damages and $1050 exemplary damages, and for general relief. The trial resulted in a verdict and judgment in their favor for the sum of $1 actual and $1800 exemplary damages, from which judgment this appeal is prosecuted.
+The verdict is supported by the evidence in establishing the following conclusions:
+1. That the cattle were the property of appellees, and that appellants had no interest whatever therein.
+2. That the writ of replevin was not only wrongfully but without probable cause and maliciously sued out.
+3. That the compromise of the replevin suit was limited to the value of the cattle which had been converted by appellants by means of the proceedings in that suit, and did not include a settlement of the damages for the wrongs herein complained of.
+4. That on account of the wrongful and malicious seizure as aforesaid, appellees were entitled to recover vindictive damages, including attorney fees and other expenses incurred in defending that suit, in the sum of $1800.
+Conclusions of Law.—1. The first assignment of error complains of the exclusion from the evidence of certain testimony of L. R. Hastings, one of the appellants, tending to show that the compromise entered into in the replevin suit included within its scope the matters litigated in this suit, and that the stipulations contained in the written receipt, relied upon by appellees as the only evidence of the terms of the compromise, did not express the full terms of settlement. This witness, as well as the attorney for appellants in the replevin suit, did testify, as appears from the statement of facts, substantially to what occurred at and before the compromise of that suit; and their version of the transaction was submitted by the court in the charge to the jury. Hence if there was error in excluding this evidence, as shown by the bill of exceptions, it was rendered harmless by the subsequent admission of full proof upon the issue and its submission to the jury. .
+2. By the second assignment and proposition thereunder, appellants complain that the settlement for the value of the cattle seized in the replevin suit necessarily included all actual damage, whether nominal or otherwise, growing out of their seizure and conversion, and that therefore there was error in charging the jury that they might find nominal damages.
+If this be assumed, we are of opinion that the error would not require a reversal of the judgment, the jury having found as actual damage only the nominal sum of $1. It may be conceded in a case where there has been no payment or satisfaction of actual damages, that a recovery of exemplary without also recovering actual damages would not be upheld; but where actual recoverable damage has been sustained and settled for, without including in the settlement the claim for vindictive damage, a recovery of the former, whether nominal or substantial, is not believed to be a prerequisite to a recovery of the latter.
+3. The third assignment, that “ the court erred in refusing to give in charge to the jury the four special instructions asked by defendants,” is too general to require consideration of the propositions submitted under it.
+4. This brings us to the last assignment found in appellants’ brief, by which they complain of the verdict as being excessive, and especially in that the amount recovered exceeded the amount claimed in the petition. As the evidence showed that the amount of actual damages sustained, though not recovered because previously satisfied, was reasonably proportionate to the amount of exemplary damages awarded, this contention must be overruled, except in so far as complaint is made that the amount of the verdict exceeds the amount alleged in the petition. We are of opinion that the case of Railway v. Gordon, 72 Texas, 44, relied upon by appellees to sustain the verdict, is not entirely applicable to the case as here presented. If it be assumed (which we do not decide) that attorney fees and other expenses of litigation may be recovered as punitory damages, and that the sum of $640.60, covering these items, was so alleged as to make it recoverable, in addition to and not as a part of the total amount of exemplary damages alleged, to-wit, $1050, the verdict for $1800 would still be excessive. In the case relied upon, facts were alleged showing the amount of actual damages, though improperly denominated exemplary in the pleading, for which the verdict was returned and sustained. It can not be said, as we think, that the petition in this case showed such a state of facts. Besides, the claim here set up was in its nature penal, and the same liberality of construction should perhaps not be indulged.
+We are of opinion that appellees, on account of the manner in which their cause of action was stated in the petition, should be required to remit all damages recovered by them above the sum of $1050, and that upon the remittitur being filed within twenty days the judgment should be affirmed; otherwise, let it be reversed and the cause remanded for a new trial.
+Affirmed, remittitur having been duly filed.
+Delivered April 19, 1893.
