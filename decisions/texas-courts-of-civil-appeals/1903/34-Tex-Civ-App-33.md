@@ -1,0 +1,42 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-12-10"
+citations: ["34 Tex. Civ. App. 33"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Texas Gulf Coast Land and Oil Company v. Galveston-Chicago Well-Boring and Drilling Company."]
+source_url: "https://static.case.law/tex-civ-app/34/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4376589
+---
+
+# Texas Gulf Coast Land & Oil Co. v. Galveston-Chicago Well-Boring & Drilling Co.
+
+## Majority (GILL, Associate Justice.)
+
+GILL, Associate Justice.
+This suit was brought by the appellee against the appellant to recover the balance alleged to he due upon a. contract to bore an oil well for the appellant on lands in Jefferson. County. The defenses pleaded were that appellee had not cased the last 500 feet of the well, and the contract being an entirety no recovery could bo had until tlic well was completed to the requirements of the contract. Further, that the work performed had not been done in a skillful and workmanlike manner. Among other things it was charged that plaintiff had failed to bail the well as the work progressed in order to test the various strata through which the well was sunk. Further, that one of the considerations which induced defendant to enter into the contract was the obligation on the part of one Gray to give his personal attention to the drilling, he being an old and experienced driller, and that he had failed to do so.
+Various items were claimed by defendant for procuring water, piping, etc., and these sums defendant sought to have refunded on the ground that they were properly chargeable to plaintiff.
+There was a trial bv jury with verdict and judgment in favor of plaintiff for $1851.96 with interest. The oil company has appealed.
+The defendant, a corporation organized for the purpose of acquiring lands and exploring for oil, employed Gray & Bro. to drill a well for it on certain of its land. The contract was in writing and obligated Gray & Bro. to drill within a certain time a well to a depth of 1500 feet unless oil in paying quantities was discovered at a less depth. The oil company was to pay Gray & Bro. $5 per foot, stipulated payments to be made on account at stipulated depths as the work progressed, the oil company reserving the right to stop the work at any depth beyond 700 feet, and pay at that rate for the depth actually achieved. Appellant was to furnish the pipe, valves and fittings, and Gray & Bro. was to furnish the machinery and labor and ivas tq be paid $3 per day for fuel for the first forty days, and the actual cost of fuel thereafter. The written contract contained no specific agreement for personal services of Gray. The defendant also bound itself to dig the necessary holes to obtain a water supply for the sinking of the well and to supply water for the boiler, Gray & Bro. agreeing to furnish the pumps for pumping the water to the engine and well.
+The well was actually sunk to a depth of 1512 feet, and payments were made by defendant from time to time according to the contract stipulations.
+The amount sued for was $2500 due on the obligation to sink the well at the agreed amount per foot, and $2000 for cost of fuel and water alleged to be chargeable to defendant under the terms of the contract.
+On the issue of whether the well had been sunk in a skillful and workmanlike manner the evidence may be said to be conflicting, but there is neither direct allegation nor any proof that oil would have been found in paying -quantities if it had been dug differently. The evidence is also conflicting on the issue of defendant’s assenting to the failure to put down the last 500 feet of casing before the drillers abandoned the work, the plaintiff’s testimony tending to show that defendant’s manager conceded that there was manifestly no oil and that bailing and easing would be useless expense.
+The last 500 feet was not cased, and the completed well was not effectively bailed.
+Defendant knew, during the entire progress of the work, that Gray was not giving the matter his personal supervision, and knew also that the contract had been assigned to the appellee at the outset.
+On the 31st of January, 1902, defendant advised plaintiff by letter that a report had been received from M. Nichols, its manager, and that the well could not be received in that condition. Thereafter, with, knowledge of the facts, defendant paid plaintiff $2000 and turned over to defendant as a credit on their account the very" pipe which they furnished to ease the last 500 feet of the well, and which they complain was not put down. Had it been put down it would have been' lost to defendant.
+Such other facts as may become material to the disposition of the questions presented on this appeal will be stated in their proper connection.
+The trial court assumed, as an established fact, that the well had been completed according to contract to a depth of 1500 feet, and that the plaintiff was entitled to the balance due therefor less certain credits.
+The defendant contends that the issue of the completion of the well should have been submitted to the jury, and assails as error the action of the trial court in refusing to do so.
+As was stated generally in setting out the facts, defendant had one Nichols in charge as manager, who kept himself informed of the manner of the work as it progressed. According to his statements he insisted on the bailing of the well after it reached its full depth. He knew that the well was partially bailed, and that the casing for the last 500 feet was not pnt in. He concedes that to put it in, unless oil in paying quantities was found, would have been a waste of time and material. The piping for that purpose belonged to defendant and was valuable. He reported the facts to the oil company, and that company with full knowledge of the facts, made a further payment of $2000 to plaintiff. It also sold the casing which had been designed for the last 500 feet to plaintiff at an agreed price per foot, and had the amount credited on the account. The evidence altogether makes it very probable, if not certain, that oil in paying quantities was not to be found in that field and it is not alleged it was to be found in that well.
+We think under the facts the trial court was authorized to assume that defendant had waived the right to insist on the complete bailing of the well, and certainly this is true as to the easing.
+We are impressed with the force of defendant’s contention that where one hires another to sink an oil well in an unproved field, the discovery of oil in that particular well is not the only purpose. It is thereby intended to obtain a history of the strata to the depth of the well, and to so conduct the enterprise that if oil is not found, to demonstrate the uselessness of making further search in that particular neighborhood. We can understand how bailing from time to time may be necessary to this end. In view of these considerations we are not prepared to hold that in order to defeat liability on the ground of failure to bail or otherwise properly conduct the boring, the burden is on the owner to show that but for the well borers’ failure of duty in these respects oil in paying quantities would have been found. Such an issue is incapable of proof save by the sinking of another well. We simply hold that in this case if such a right in the defendant is disclosed by the contract and the facts, it was waived.
+The other assignments assail the method of the trial court in the adjustment of collateral issues involving the fuel and water accounts. It is unnecessary to notice them in detail. They have received at our hands a careful consideration and we have found them without merit.
+The judgment of the trial court is affirmed.
+• Affirmed.
+on motion for rehearing.
+GILL, Associate Justice.—We do not desire to add anything to what has been said in respect to the decision of the case. We have found no reason why we should not adhere to our first opinion. This is written merely for the purpose of correcting an inaccurate fact statement as to date.
+We said in the main opinion that the defendant paid $2000 on account subsequent to the date of its letter refusing to accept the well. This is an error. The item was in fact paid about ten days before, but after the well had been reported completed. The motion is overruled.
+Overruled.
+Writ of error refused.
