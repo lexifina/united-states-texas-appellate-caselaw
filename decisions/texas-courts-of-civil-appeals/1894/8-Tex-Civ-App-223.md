@@ -1,0 +1,45 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "469"
+decided: "1894-09-19"
+citations: ["8 Tex. Civ. App. 223"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. W. Barton et al. v. American National Bank et al."]
+source_url: "https://static.case.law/tex-civ-app/8/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 240360
+cites_cases: ["95 U. S., 90"]
+---
+
+# Barton v. American National Bank
+
+## Majority (LIGHTFOOT, Chiee Justice.)
+
+LIGHTFOOT, Chiee Justice.
+The American National Bank brought suit in the District Court of Dallas County upon the following note:
+“No. 6007. $3000.
+“Dallas, Texas, March 31, 1891.
+“Ninety days, without grace, after date, we, or either of us, promise to pay to the order of the American National Bank, of Dallas, three thousand dollars, at the office of said bank, with interest at the rate of 12 per cent per annum after maturity until paid, and 10 per cent additional on the amount of said note for attorney’s fees, if placed in the hands of an attorney for collection. Value received.
+[Signed]
+“Times Publishing Company,
+. “By C. E. Gilbert, President; “C. E. GlLBEBT,
+“Geo. C. Cole,
+a
+B. Gibbs.
+“Due January 29, 1891.
+On tbe back of said note were tbe following indorsements: “ J. W. Barton, John Bookhout.”
+Judgment was rendered October 22, 1892, in favor of tbe bank for balance due on tbe note, against the Times Publishing Company, Gilbert, Cole, and Gibbs, as principals, and against Bookhout and Barton assureties. At tbe same term tbe judgment was set aside at tbe instan ce of Gibbs, tbe cause again tried before tbe court, and judgment rendered protecting said Gibbs, as surety with Bookhout and Barton, from which they have appealed. There are no conclusions of fact, or law in tbe record, and no request by appellants for them. In tbe absence of such findings, if tbe judgment is supported by any theory of tbe evidence, it must be affirmed. In support of tbe judgment we find tbe following facts:
+1. Gilbert, as manager of tbe Times Publishing Company, desiring to raise money for tbe use of tbe company, applied to Bookhout, Barton, and Gibbs, as friends, to assist him. He went from one to tbe other until they each agreed to indorse tbe note if tbe others would; tbe understanding among them was that they would all make a general note. Tbe note was signed on its face by Gibbs, with tbe understanding that tbe others were to sign it, and was carried by Gilbert to Bookhout and Barton, who signed their names on tbe back. When asked by Gilbert why be did not sign bis name on the face of tbe note, Bookhout remarked that there was practically no difference. Tbe note was then delivered to tbe payee, and tbe money paid to Gilbert. Tbe parties Gibbs, Bookhout, and Barton were all sureties, as among themselves, and neither of them received any benefit whatever from tbe transaction. Neither Gilbert nor Cole set up any suretyship, and neither of them has appealed; hence no finding is necessary as to them.
+Tbe first assignment of error attacks tbe ruling of tbe court in setting aside tbe judgment rendered October 22, 1892, upon tbe motion of appellee Gibbs, because tbe motion was filed after two days from tbe rendition of tbe judgment, find showed no excuse for not filing it in time, and was without merit. Tbe motion, under oath, set up the agreement of all tbe parties to sign tbe note for the accommodation of the maker, and that they were to be equally bound as sureties on indebtedness for accommodation; that be believed tbe note bad been signed on tbe face by all the parties; that said Bookhout and Barton bad in fact signed as sureties, and that be believed that tbe judgment bad been rendered against them all alike until about the time bis motion wasfiled, when be discovered that judgment bad been taken against him as principal, and against Bookhout and Barton only as sureties, authorizing execution in their favor over against him; that there was no proper pleading on tbe part of said Bookhout and Barton to authorize such judgment, etc.
+It is well settled, that- before adjournment of tbe term at which a judgment is rendered, tbe court has a large discretion over its own records, and may reform a judgment or set it aside and grant a new trial, even without any motion, if the ends of justice require it. Linn v. Le Compte, 47 Texas, 440; Bryorly v. Clark, 48 Texas, 353.
+It appears from the judge’s note to appellants’ bill of exceptions, that upon the hearing of the motion the court announced that a new trial would be granted, .or the judgment would be reformed so as to make Gibbs liable as surety, or indorser with Bookhout and Barton, when they stated in open court that they preferred that a new trial should be granted, which was done. We find no error in this ruling.
+2. The second assignment is, that the court erred in again trying the case at the same term of court. In the absence of any legal motion for continuance of the cause, and no injury being shown to appellants by such trial at that term, their testimony being all in court and they being present and represented by counsel, we can not sustain this assignment.
+3. The third assignment is, that the court refused the application of appellants for a jury, they having made a demand therefor in open court and tendered the jury fee. It appears from the bill of exceptions, that at the time of the demand the jury service for the term had been concluded and the jury discharged, so that if the demand had been complied with, it would have necessitated a continuance of the cause. It is provided by statute (article 3061), that “any party to a civil suit in the District or County Court desiring the same tried by a jury, shall make application therefor in open court on the first day of the term of the court at which the suit is to be tried.” It is the duty of the trial court to give a liberal construction to the statute, so as to permit parties to exercise the right of trial by jury where it can be done without delay or prejudice to the opposite party, and our courts have gone as far in this direction as seems reasonable and just. Appellants failed to call for a jury on the first day of the term, or at any time before the jury was discharged for the term. They could not then force a continuance of the cause in order to get a jury. Petri & Bros. v. Bank, 84 Texas, 153; Id., 83 Texas, 424; Cabell v. Shoe Co., 81 Texas, 104.
+4. The only remaining assignment which we deem it necessary to consider is the seventh, which attacks the judgment upon the ground that the court erred in holding that the liability of Gibbs, as surety, was the same as that of Bookhout and Barton, who claim to be liable only as indorsers, and that their liability is secondary to all the signers on the face of the instrument. When a party signs his name in blank across the back of a note, before delivery and before any indorsement of the paper by the payee, the intention of such party is not manifest from the paper itself, and the contract intended to be placed above the signature may be proved by parol evidence. Mr. Daniel says: “The ground upon which parol proof of intention and agreement in such cases is admitted, is, that the position of the name upon the paper is one of ambiguity itself, that it is not a complete contract, as is the case of an indorsement by the payee, which imports a distinct .and certain liability; but rather evidence of authority to write over it the contract that was entered into; and that parol proof merely discloses and brings to light the terms of the unwritten contract that was made between the parties.” 1 Dan. Neg. Inst., sec. 711.
+Delivered September 19, 1894.
+In the case of Cook v. Southwick, 9 Texas, 617, Judge Wheeler, in commenting upon this question quotes from Judge Story, as follows:. “If the blank indorsement was made at the same time as the note itself, the indorser ought to be held liable as an original promisor, or maker of the note, and that the payee is at liberty to write over the blank signature, 'For value received, I undertake to pay the money within mentioned .to B., the payee.’” Story’s Com. on Prom. Notes, see. 473. Continuing, Judge Wheeler says: “The authorities are numerous to the effect that where a person, not the payee of a note, signs his name upon the back, at the time of its inception, without any words to express the nature of his undertaking, he is liable as an original promisor or surety.” 9 Texas, 618; Latham v. Flour Mills, 68 Texas, 130; Carr v. Rowland 14 Texas, 275; Good v. Martin, 95 U. S., 90, and authorities there cited.
+In this case there are no conclusions of fact, and the record does not show that any were requested. There is sufficient testimony in the statement of facts to support the judgment upon the theory that it was understood by all the parties that Gibbs, Bookhout, and Barton all signed the instrument as sureties.
+The judgment is affirmed.
+Affirmed.
