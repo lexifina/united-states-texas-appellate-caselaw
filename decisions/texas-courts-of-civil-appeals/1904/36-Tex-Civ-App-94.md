@@ -1,0 +1,37 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-05-13"
+citations: ["36 Tex. Civ. App. 94"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lizzie Harris v. Gulf, Colorado & Santa Fe Railway Company."]
+source_url: "https://static.case.law/tex-civ-app/36/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4379840
+cites_cases: ["36 S. W. Rep., 410"]
+---
+
+# Harris v. Gulf, Colorado & Santa Fe Railway Co.
+
+## Majority (PLEASANTS, Associate Justice.)
+
+PLEASANTS, Associate Justice.
+Appellant brought this suit to recover damages for personal injuries alleged to have been caused by the negligence of the employes of appellee. The petition alleges that on the 27th day of July, 1902, plaintiff was a passenger upon defendant’s railroad from the city of Brenham, in Washington County, to the station known as Allen Farm in said county. That in disembarking from said train after it arrived at said station she was, by the sudden starting of the train, thrown violently upon the ground and painfully injured. The negligence alleged was the failure of the operatives of the train to stop same for a reasonable time for passengers to alight therefrom and in suddenly starting it without any Warning while plaintiff was in the act of alighting. It is further alleged that the operatives of the train were negligent in failing to provide proper and safe facilities for the egress of passengers, in that they allowed a number of persons to get upon said train as soon as it stopped at said station and before the passengers thereon could make their egress, and that the persons so permitted to get upon the train crowded into the aisles and upon the platform of the car and obstructed plaintiff in her egress therefrom and thereby caused her injury. It is also alleged that the conductor and brakeman in charge of said train saw plaintiff, or by the use of ordinary care could have seen her, when she was on the steps of the car and in the act of alighting therefrom, and negligently and recklessly gave the signal to start after they had discovered plaintiff’s peril.
+The defendant answered by general demurrer, general denial, and by special plea of contributory negligence on the part of plaintiff, in which it is averred in substance that when the train reached Allen Farm it was stopped for an amply sufficient time to allow passengers to disembark therefrom, and that the conductor, not knowing that plaintiff had not gotten off the train, gave the signal to start and after the train began to move plaintiff for the first time started to get off; that when the conductor saw that she would attempt to alight from the train after it had started, he told her to wait and he would stop the train; that he at once pulled the bell cord and had the train stopped, hut before it could be brought to a stop plaintiff attempted to jump from the steps of the train and in so doing fell upon the ground.
+The trial in the court below by a jury resulted in a verdict and judgment in favor of defendant.
+The first assignment of error complains of the following charge of the court given at the request of the defendant:
+“If the jury believe from the evidence that as soon as the conductor saw the plaintiff coming out of the car apparently to get off the train after the same had started to depart from the station, he told her not to get off or try to get off but wait and he would stop the train so she could get off, and she heard him, but, disregarding what he told her, proceeded to get off the train while the same was in motion and before the conductor had time to bring the same to g, full stop, and in stepping or jumping off the train, if she did, was hurt, then she can not recover, and if you so find you will return a verdict for the defendant.”
+The assignment does not point out the supposed error in this charge, and the only proposition under the assignment is as follows:
+“It is improper in the court to single out and give prominence to an uncontroverted fact favorable to the defendant but not inconsistent with the plaintiff’s theory of the case.”
+The charge is not subject to the criticism implied from this proposition. It submitted to the jury the issue raised by defendant’s plea of contributory negligence. The facts alleged in said plea and embodied in said charge, if true, established a complete defense to plaintiff’s suit. If the facts mentioned in the charge were uncontroverted the jury should have been instructed to find a verdict for the defendant, and appellant certainly ought not to complain that the issue raised by the plea of contributory negligence was left to the determination of the jury.
+The second assignment of error assails the following portion of the court’s charge:
+“If the jury believe from the evidence that the employes of the defendant, operating the train on which the plaintiff was riding as a passenger, announced the station of Allen Farm prior to the train, reaching said station; and if you find from the evidence that said train was stopped a sufficient length of time for passengers to get off and the plaintiff failed to do so, without the fault of the employes in charge of said train, and the conductor did not know and had no reason to believe that she was still on the train in the act of getting off and gave the signal for the train to start, and that after the train started she stepped off or jumped off the train while it was in motion and was injured, then you are charged that she can not recover, and if you so find, you will return a verdict for the defendant.”
+The objection urged to this charge is that it is upon the weight of the evidence in that it assumes that the question of whether the operatives of the train announced the station of Allen Farm when the train reached said station was a material issue in the case, when it was an admitted fact.
+We do not think the jury could have been misled by this charge. The fact that the station was announced is not submitted in the charge as being in itself at all material, but is only mentioned in connection with other facts which if found would authorize a verdict for the defendant. We do not see how the charge could have possibly injured the appellant.
+The third assignment of error complains of the refusal of the court to give a charge requested by the appellant upon the issue of discovered' peril.
+We do not think the evidence raises the issue, and for that reason the charge was properly refused. If the issue had been raised by the evidence the requested charge should not have been given, because it does' not correctly state the law applicable to such issue.
+If the appellant by her own negligence exposed herself to danger, the duty to use every means in their power consistent with the safety of those upon the train to prevent injuring her did not devolve upon the operatives of the train until they discovered appellant’s peril. If they did not know of her peril no duty was imposed upon them even though by the exercise of ordinary care they might have discovered the dangerous position in which she had negligently placed herself. Texas & P. Ry. Co. v. Breadow, 90 Texas, 26, 36 S. W. Rep., 410; Texas & P. Ry. Co. v. Staggs, 90 Texas, 458.
+The charge of the court in its entirety correctly submitted to the jury every issue raised by the pleading and evidence.
+We are of opinion that the judgment of the court below should be affirmed and it is so ordered.
+Affirmed.
