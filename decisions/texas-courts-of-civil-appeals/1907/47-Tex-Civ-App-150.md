@@ -1,7 +1,7 @@
 ---
 court: "Texas Courts of Civil Appeals"
 decided: "1907-06-26"
-citations: ["47 Tex. Civ. App. 150", "47 Tex. Civ. App. 149"]
+citations: ["47 Tex. Civ. App. 150"]
 reporter: "tex-civ-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["New York Life Insurance Company v. Gus D. Thomas."]
 source_url: "https://static.case.law/tex-civ-app/47/cases/0150-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2345477
-cites_cases: ["108 Ill., 170", "110 Wis., 271", "113 Ga., 975", "12 Fed. Rep., 377", "130 Ill., 660", "130 N. Y., 354", "16 N. W. Rep., 893", "27 S. W. Rep., 774", "34 S. W. Rep., 182", "34 S. W. Rep., 187", "37 N. Y. Supp., 64", "45 Md., 161", "48 Am. Rep., 548", "48 S. W. Rep., 33", "48 S. W. Rep., 795", "53 N. J. Law, 607", "59 S. W. Rep., 318", "66 S. W. Rep., 212", "87 S. W. Rep., 724"]
+cites_cases: ["108 Ill., 170", "110 Wis., 271", "113 Ga., 975", "12 Fed. Rep., 377", "130 Ill., 660", "130 N. Y., 354", "16 N. W. Rep., 893", "27 S. W. Rep., 774", "34 S. W. Rep., 182", "34 S. W. Rep., 187", "37 N. Y. Supp., 64", "45 Md., 161", "48 Am. Rep., 548", "53 N. J. Law, 607", "59 S. W. Rep., 318"]
 ---
 
 # New York Life Insurance v. Thomas
