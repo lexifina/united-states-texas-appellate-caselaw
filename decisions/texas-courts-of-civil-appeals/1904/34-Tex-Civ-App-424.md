@@ -1,0 +1,48 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-02-04"
+citations: ["34 Tex. Civ. App. 424"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Albert Chimene et al. v. A. Pennington."]
+source_url: "https://static.case.law/tex-civ-app/34/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4377099
+---
+
+# Chimene v. Pennington
+
+## Majority (PLEASANTS, Associate Justice.)
+
+PLEASANTS, Associate Justice.
+This is a suit by appellee against the appellants to recover the value of material furnished and labor performed by appellee under a written contract by the terms of which he agreed, in consideration of the sum of $1850 to be paid to him by the. appellants, to furnish the material and labor necessary in .the construction of certain- improvements upon premises owned by appellants in the city of Houston. -
+Plaintiff’s petition sets out the substance o.f the contract in general terms and alleges that it is attached to the petition .as an exhibit and expressly made a part thereof. It then -alleges that plaintiff, acting under said contract, began the construction of the improvements therein provided for. “That he proceeded in good faith in his work upon said building and proceeded to erect same in accordance with said contract, and was carrying out said contract in accordance with the terms, imposed upon him under and by virtue of the same, until on or about the 19th day of March, A. D. 1902, in a certain cause, No. 31,913, in the Fifty-fifth Judicial District Court of Harris County, Texas, styled James A. Baker et al. v. Albert Chimene et ah, a writ of injunction was issued and served upon this plaintiff, and by the said writ and order of said Fifty-fifth Judicial District Court in said cause, this plaintiff was compelled to refrain from further carrying out said contract, and said order of said court is still in effect and binding on this plaintiff, and it is impossible, without this plaintiff bringing himself into contempt of said court and said order, for him to further prosecute his said work and to further carry out said contract for the erection of said building. That thereafter in said cause, upon a trial being had before a jury, said injunction in said cause was perpetuated, and at this date is still in force and effect and has in no way been vacated or set aside. That after the execution of said contract with defendants and prior to the time said injunction was served upon this plaintiff, this plaintiff, Pennington, had done the following work and paid out the folowing money for materials and labor upon said contract and in carrying out same and in erecting the building provided for in said contract, all of which sums were expended by this plaintiff upon said above described property belonging to said defendants, Chimene:
+“1300 ft. 6x6 and 8x8 used in the building, at $20 per M.....$ 26.00
+“2600 ft. 2x10, at $18 per M............................. 46.00 -
+“2500 ft. of 2x8, at $18 per M.........'........■.......... 46.00
+“7000 ft. of 2x6, at $18 per M............................ 126.00
+“12,000 ft. of 1x6 flooring, at $18 per M.................... 216.00
+“1000 ft. of 2x4, at $17 per M............................ 17.00'
+. $476.80
+“3 window frames, at $5 each........................... 15.00
+“6000 brick, at $9 per M................................. 54.00
+“Lime and sand in building............................. 21.75
+^Excavation for building ............................... 72.00
+“Brickmason and carpenter work on building.........:..... 400.00
+“Fails in same ........................................ 15.00
+“$1054.55”
+The prayer of the petition is for a recovery of above amount and for foreclosure of a mechanic’s and materialman’s lien upon the premises described in the petition.
+The defendants answered by general demurrer and general denial, and by special pleas which it is unnecessary to set out at length, it being sufficient to say that they set up as a defense the illegality of the contract sued on under a municipal ordinance of the city of Houston which prohibits the erection or construction within certain defined limits of said city of any building or structure of material that is combustible or not fireproof.
+■ The trial in the court below by a jury resulted in a verdict and judgment in favor of plaintiff for $909.05 and for foreclosure of the lien upon the property described in the petition, as therein prayed for.
+The following facts are established.by the undisputed evidence: The contract for the erection of the building was executed by appellants and the appellee on February 20, 1902, and is in substance as alleged in plaintiff’s petition. The plans and specifications for the work, which were prepared by the appellee and made a part of the contract, show that the greater portion of the material to be used in the construction of the building was wooden. The walls were all of .wood, except the front wall pf the second story, which was to have been partly of brick. All of the outside of the side and rear walls was to be covered with one coat of lime and cement plastering. The framing joists, flooring and roof were of wood.
+The city of Houston has an ordinance properly and legally passed by the city council prohibiting the erection within certain defined limitein said city of “any building' of combustible material not fireproof,” and providing that any person violating said ordinance shall be fined in. the sum of $50. This ordinance was in effect at the time the contract, between appellants and appellee was executed. The premises upon-which the appellee contracted to erect the building for appellants, and upon which he commenced the erection of said building and furnished the material and labor for the value of which this suit was brought, is, situated within the limits, designated in said ordinance- Appellee began, the erection of the building in accordance with the terms of his contract, and was proceeding with same when he was restrained from further prosecuting said work by an injunction issued by order of the District Court of Harris County in a suit brought by adjoining property owners against appellants and the appellee to prevent the construction of said building on the ground that it was of combustible and not fireproof material and would greatly endanger the plaintiffs’ property, and that its erection was forbidden by the ordinances of said city. Upon a final héaring of this suit appellee and appellants were perpetually enjoined from completing said building. Upon appeal by the appellants- and the appellee from this judgment it was affirmed by the Court of Civil Appeals for the Fourth District. Vide Chimene v. Baker, 8 Texas Ct. Rep., 10.
+: Prior to the time the appellee was enjoined from further proceedings-under his contract with appellants he had furnished the material and labor mentioned and described in his petition, and the reasonable value-of same was $909.05.
+We are of opinion that the facts before stated conclusively show that, the contract out of which appellee’s alleged cause of action grew and: upon which his right of recovery is sought to be. founded was illegal and. therefore can not form the basis of any enforcible right.
+The trial court instructed the jury to find a verdict for the defendant" if they believed from the evidence that the building which appellee contracted to erect for appellants was to be built of combustible1 material or material not fireproof. Appellee earnestly insists that the evidence raised this issue, and it having been properly submitted to the jury their verdict therein ought not to be disturbed.
+We can not accede to this contention. It is true no witness testified, that the material out of which the building was to have been erected was-combustible or that it was not fireproof. The undisputed evidence does-show; however, that much the greater portion of the material in said building was wood, and the fact that wood is a combustible material is so universally known as to require no proof of its existence. While the-exact proportion- of wooden material in said building is not shown, it appears from the itemized statement in appellee’s petition that all. of the» $582.55 worth of material furnished by him under said contract was lumber except 6000 brick, valued at $54, lime and cement, valued at $21.75, and nails valued at $15. Appellee testifies that all of this brick was used in the foundation. We do not think there is any evidence in the record to sustain a finding that the building was to be constructed of noncombustible or fireproof material, or that even raises the issue as to the character of material that was to.have been used.
+In reaching this conclusion we do not construe the ordinance as requiring that the material should be absolutely fireproof. We think no reasonable conclusion can be reached from the facts in this case other than that almost all of the material used in this building was combustible as that term is generally understood.
+The erection of a building of this character being prohibited by the ■ ordinance of the city of Houston the contract to erect such building was illegal and void, and appellee is not entitled to recover upon a cause of action arising out of said contract. Texas & P. Coal Co. v. Lawson, 89 Texas, 394; Houck V. Brewing Assn., 88 Texas, 184; Brewing Co. v. Templeman, 90 Texas, 277; Fuqua v. Brewing Co., 90 Texas, 298.
+We are of opinion that the judgment of the court below should be reversed and judgment here rendered for appellant, and it is so ordered-
+Reversed and rendered.
+Writ of error refused.
