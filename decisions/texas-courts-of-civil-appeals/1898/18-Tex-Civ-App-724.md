@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1898-05-18"
+citations: ["18 Tex. Civ. App. 724"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. B. Willoughby v. W. A. Townsend."]
+source_url: "https://static.case.law/tex-civ-app/18/cases/0724-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 255749
+---
+
+# Willoughby v. Townsend
+
+## Majority (FISHEE, Chief Justice.)
+
+FISHEE, Chief Justice.
+This was an action of trespass to try title, filed March 15, 1897, by W. A. Townsend, appellee, against D. B. Willoughby, appellant, for 640 acres of landt in McCulloch County, Texas, known as the Galveston, Houston & Henderson Eailway Company school section Ho. 228, certificate Ho. 32-246.
+Appellant and appellee both made applications to the Commissioner of the General Land Office to purchase the land under the Acts of 1895, as actual settlers on the land, appellee’s application being at $1 per acre, and filed in Land Office January 13, 1897, and appellant’s being at $1.25 per acre, and filed in Land Office January 12, 1897.
+The Land Commisssioner awarded the land to appellant January 12, 1897, and rejected appellee’s application, and appellee brought this suit against appellant, alleging that appellant had not complied with the law in his purchase, and that appellee had complied with the law in his attempt to purchase.
+Appellant answered by exceptions, general denial, plea of not guilty, and alleged that he had complied with the law and that appellee had not. Judgment was rendered upon verdict of jury for appellee.
+There was no error in overruling the demurrer to the plaintiff’s petition. The application to purchase was in substantial compliance with the law. The ruling here made also applies to the questions raised in the second and third assignments of error.
+In response to the eighth assignment of error, we believe that the fact that the application to purchase may have been made on Sunday did not render it void or illegal.
+Hnder the facts of the case, there was no error in the court giving the special charge requested by the plaintiff, relating to his absence from the land. If he was absent for the purpose of educating his children or for the purpose of earning money with which to pay for the land, not exceeding six months in a year, such absence would not forfeit his right as an actual settler.'
+The court in its general charge, instructed the jury as follows: “You are instructed that the undisputed evidence in this case shows that the defendant D. B. Willoughby’s application to purchase the land in controversy was filed in the General Land Office of the State of Texas prior to the application of the plaintiff, W. A. Townsend. Therefore, you are instructed to return a verdict for the defendant, D. B. Willoughby, if you believe from the evidence that the defendant was desirous of purchasing said land for a home, and you further believe that said D. B. Willoughby in good faith (and prior to the making of the application to purchase the same) settled upon said land, as an actual, bona fide settler, and you further believe that he has so resided upon said land up to this date in good faith, and you further believe that the said Willoughby was not acting in collusion with another person for the purpose of buying the land, and you further believe that no one is interested in the purchase of said land except the defendant, and if you so believe it will be your duty to find a verdict in favor of the defendant, D. B. Willoughby and so state in your verdict.
+“Now, upon the other hand, you are instructed (1) that if you believe from the evidence that said D. B. Willoughby did not in good faith settle upon the land in controversy, (2) and if you further believe that the plaintiff, W. A. Townsend, did in good faith settle upon the land in controversy, and if you further believe that said W. A. Townsend is now and has been all the time since the 10th day of January, 1897, an actual bona fide settler on the land in controversy in good faith, and if you so believe, it will be your duty to find a verdict in favor of the plaintiff, W. A. Townsend, and you shall so state in your verdict.”
+The charge relating to the settlement of the plaintiff, Townsend, was not in compliance with the law. The Act of 1895, under which both parties claim to have purchased the land in controversy, in effect, requires the applicant to be an actual settler in good faith on the land sought to be purchased, and that he desires to purchase it for a home. In order to confer the right upon a purchaser, there must not only be a bona fide settlement and an actual occupancy in good faith, but it must be for the express purpose of making his home upon the land. This requirement of the statute was not included in the charge of the court.
+Where the court in charging the jury submits to them a combination of facts which if established would entitle the plaintiff to recover, and omits therefrom a fact which must be shown in order to complete the right, such a charge would be erroneous. Baker v. Ashe, 80 Texas, 357. Now, the Legislature has seen fit to confer the right only upon those persons who have acquired the land for the purpose of making it a home, and who in buying have not acted in collusion with others, but purchased it solely for the use of themselves. These requisites of the statute were not embraced in the charge.
+In addition to the first part of the charge of the court, which instructed the jury with reference to the right of the appellant, Willoughby, there should have been an instruction to the effect that Willoughby would be entitled to recover if the plaintiff failed to establish a superior right to the land in accordance with the requirements of the law relating to the purchase thereof; for the plaintiff could only recover from the' defendant, Willoughby, upon the strength of his own title, and Willoughby would be entitled to recover if the plaintiff in making his case failed to develop a state of facts which would authorize him to recover. Therefore, the statement made, that Willoughby could only recover upon proof of the combination of facts stated in the charge of the court, was, in the shape in which it was given, calculated to lead the jury to believe that the burden was upon Willoughby, and that he could not recover although the plaintiff may have failed to make >a case authorizing him to recover.
+For the errors pointed out in the charge, the judgment below will be reversed and the cause remanded. We find no other error in the record.
+We express no opinion concerning .the facts.
+Reversed and remanded.
