@@ -1,7 +1,7 @@
 ---
 court: "Texas Courts of Civil Appeals"
 decided: "1900-05-02"
-citations: ["23 Tex. Civ. App. 619", "23 Tex. Civ. App. 658"]
+citations: ["23 Tex. Civ. App. 619"]
 reporter: "tex-civ-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["City of San Antonio v. Sullivan."]
 source_url: "https://static.case.law/tex-civ-app/23/cases/0619-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 283173
-cites_cases: ["21 Ill., 131", "22 Pac. Rep., 474", "24 N. J. Eq., 249", "41 Atl. Rep., 120", "53 Pa. St., 387", "56 Md., 195", "62 Ill., 332", "90 Va., 34", "94 Am. Dec., 555"]
+cites_cases: ["22 Pac. Rep., 474", "41 Atl. Rep., 120", "56 Md., 195", "90 Va., 34", "94 Am. Dec., 555"]
 ---
 
 # City of San Antonio v. Sullivan
