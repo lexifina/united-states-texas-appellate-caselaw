@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-10-12"
+citations: ["36 Tex. Civ. App. 536"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["INTERNATIONAL & GREAT NORTHERN RAILROAD COMPANY v. Charles A. Gready."]
+source_url: "https://static.case.law/tex-civ-app/36/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4380050
+cites_cases: ["77 S. W. Rep., 403"]
+---
+
+# International & Great Northern Railroad v. Gready
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+Appellee, a brakeman, sustained injury from a fall, which resulted, as he alleged, from appellant’s negligence in failing to use ordinary care to see that the car handhold, which gave way with him, was properly secured. Appellant answered by exceptions, general denial, and a special plea that if the handhold was defective, the defect was latent and that the risk incident thereto was assumed by appellee.
+Appellant specially excepted to the following allegation in the petition, where plaintiff stated his injuries, upon the ground that it was not sufficiently specific and did not inform defendant of the exact parts of plaintiff’s body which were injured, or the exact character and extent of said injuries. The allegation was: That he was precipitated with great force and violence to the ground, striking the cross-ties and ground, whereby he was so crushed and mkngled that he suffered serious and permanent injury to his back, spine, head, kidneys, and internally as to make him incompetent to labor and earn money for the rest of his life, directly causing paralysis of his limbs and body, destroying his sexual capacity, impairing his eyesight and power to control his urine, and from which he suffered and will continue to suffer great physical and mental pain so long as he lives.
+Appellant insists that he was entitled to have plaintiff allege definitely what portions of his body were crushed and mangled in the fall or what part of his body was struck in the fall, in order that it might have notice thereof and be able to determine whether or not the injuries or injurious results alleged could readily have resulted.
+As we construe the pleading, it was in substance and effect an allegation that the result to plaintiff from the fall consisted of injury to his back, spine, head, kidneys, etc. It specified the particular injuries for which he sought recovery. It asked none for the crushing and mangling except as specified. The statement that he was so crushed and mangled by the fall that he suffered these results, was after all no more than alleging that the fall occasioned these injuries. We tbink there was no error in overruling the exception.
+By several assignments, which are grouped, appellant urges that the court erred in allowing certain witnesses to testify that the handhold in question had pulled out when they did not see the accident, and therefore the testimony was the conclusion of these witnesses. There was testimony that the screw pulled out, besides that of said witnesses. Appellant does not point us to any testimony that it became unscrewed, or that it came loose in other way than by pulling out of the wood. There evidently was none. Under these circumstances the assignment should be overruled. However, the several witnesses'mentioned in the assignments saw the handhold after the accident, and testified that the screw had pulled out of the wood. There was ample evidence that the wood was rotten. It seems to us that it can not be held that a witness who inspected the condition of the handhild under such circumstances states a conclusion, instead of a visible fact, when he testifies it pulled out.
+In reference to the sixteenth assignment it appears that plaintiff consented to an examination by three physicians appointed by the court, which was made, the court adjourning at 11 a. m. for that purpose. The court convened at 2 p. m. and waited three hours. At that time two of the physicians appeared and testified. On cross-examination" they stated that they had applied all the tests except chloroform and the electric battery, whereupon appellant’s counsel made a motion to have these tests applied, whereupon the court asked one of the- physicians how long it” would take, and he answered “I don’t know.” Upon further inquiry the physician stated that it was “very difficult to. say; for instance we must get the battery in good working order, which is not always the case; the battery is not used all the time and it has a trick of getting out of order, and there you are.” Whereupon counsel for plaintiff said, “We think there ought to be some limit to this thing, and we don’t propose to submit to the pain of it ;” whereupon the court said, “Well, we won’t go any further then.” This all occurred in the presence of the jury and was taken advantage of in argument by both sides. The above is the statement of the trial judge in his qualifieatian to the bill of exceptions, and must be taken as a recital of what, actually transpired. The qualification which controls is not in accord with some things that are stated in the body of the bill. The court was without power to require plaintiff to submit to an examination. Austin & N. W. Ry. Co. v. Cluck, 97 Texas, 172, 77 S. W. Rep., 403. Such an examination being subject to the consent of plaintiff, he could, we think, have terminated an examination while same was being conducted. The court did not err in not ordering a second or further examination against his .will.
+The remaining assignments of error, numbers 19 and 22, are not sustained.
+Affirmed.
+Writ of error refused.
