@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1482, Op. Book No. 3, p. —"
+decided: "1883-03-17"
+citations: ["1 White & W. 492"]
+reporter: "white-w"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Geo. Schneider & Co. v. P. B. and Mary Fowler."]
+source_url: "https://static.case.law/white-w/1/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1365062
+cites_cases: ["1 Tex. 350", "11 Tex. 326", "17 Tex. 206", "20 Tex. 69", "26 Tex. 228", "27 Tex. 695", "28 Tex. 97", "3 Tex. 460", "4 Tex. 187", "45 Tex. 525", "46 Tex. 417", "5 Tex. 364", "54 Tex. 87", "7 Tex. 8"]
+---
+
+# Geo. Schneider & Co. v. Fowler
+
+## Majority (Willson, J.)
+
+Opinion by
+Willson, J.
+§ 8 5 6. Separate property; mutations in, do not change character of. Appellants caused an execution which they had against appellee P. B. Fowler to be levied upon a stock of cattle as the property of said P. B. Fowler. Appellee Mary Fowler, wife of P. B. Fowler, claimed the cattle as her separate property, and, upon a trial of the right of property, judgment was rendered establishing her claim to the cattle. It was clearly proved upon the trial that the cattle in question, although purchased after the marriage of the claimant with P. B. Fowler, were purchased with money owned by her before and at the time of her marriage. This would constitute the cattle her separate property. Where it is established that property purchased during the marriage was purchased with the separate money of one of the parties, it remains the separate property of the party with whose money it was purchased. [McIntyre v. Chappell, 4 Tex. 187; Love v. Robertson, 7 Tex. 8; Rose v. Houston, 11 Tex. 326.]
+§ 857. Married woman not required to give notice of title to personal property; rule governing as to real estate not applicable to personal property. Appellants contend that the levy of their execution upon the cattle created a lien in their favor, which is a superior title to the unrecorded claim of the claimant, and upon the trial a charge, embracing this view of the law, was requested of the court by the appellants, and was refused. In support of the proposition advanced by appellants, we are cited to articles 2318, 4562, 4563 and 4564 of the Revised Statutes, and to Mercein v. Burton, 17 Tex. 206; Wallace v. Campbell, 54 Tex. 87; Grace v. Wade, 45 Tex. 525; Blankenship v. Douglas, 26 Tex. 228, and Grimes v. Hobson, 46 Tex. 417. These authorities we do not consider applicable to the question presented in this case. Article 2318 of the Revised Statutes is only applicable whore a sale under execution has taken place. As to the other articles of the Revised Statutes cited, we cannot perceive their applicability to the facts of this case, or what possible bearing they can have upon the issues involved.1 In regard to the decisions of the supreme court cited, they each relate to real estate, and are básed upon statutes concerning that species of property alone. We do not understand that the principles announced in those decisions apply to personal property claimed by aunarried woman. On the contrary, we think a different doctrine has been established by our supreme court. As we understand the law upon this subject, a married woman is not required to give notice of her title to personal property, by record or otherwise, in order to defeat a levy upon it for the debt of her husband. Nor does a failure to register her separate property, under the statute, in any way affect her title to it. [Edrington v. Mayfield, 5 Tex. 364; Parkes v. Willard, 1 Tex. 350; Gamble v. Dabney, 20 Tex. 69; Warren v. Dickerson, 3 Tex. 460; Kendrick v. Taylor, 27 Tex. 695; Dodd & Co. v. Arnold, 28 Tex. 97.]
+§ 858. Notice of title; record of mark and brand is constructive notice of title to cattle. It was shown that, at the time the levy was made, the cattle were branded in the brand of the claimant, and that this brand had been duly recorded in the office of the clerk of the county court of the county in which the cattle were found. This record is provided for by law [R. S. 4556], and it is made the duty of the clerks of the county court to keep a book in which marks and brands shall be recorded, which record is subject to the examination of every citizen [R. S. 4560], and a recorded brand is evidence of ownership. [R. S. 4561. J That this record is notice of ownership is shown by art. 4574, R. S., relating to es-trays, which denies compensation to the taker-up of an animal, when such animal bears a mark and brand which has been duly recorded in the county. It is true that there is no express provision of the statute declaring* that such record shall be notice of ownership, nor do we-think that any such statutory enactment is required for that purpose. Upon general principles, whatever is required or permitted by law to be recorded, is, when duly recorded, constructive notice of the matters contained therein. We hold, therefore, that the record of a mark and brand, in- the county where the stock is found to be, is constructive notice of title to the stock in the person in whose name the mark and brand is recorded.
+March 17, 1883.
+Affirmed.
