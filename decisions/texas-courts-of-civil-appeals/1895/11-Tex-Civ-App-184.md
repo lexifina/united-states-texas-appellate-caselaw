@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "919"
+decided: "1895-10-10"
+citations: ["11 Tex. Civ. App. 184"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Leon & H. Blum Land Co. v. Joseph N. Rogers."]
+source_url: "https://static.case.law/tex-civ-app/11/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 247001
+cites_cases: ["32 S. W. Rep., 562", "6 Tex. Civ. App., 51"]
+---
+
+# Leon & H. Blum Land Co. v. Rogers
+
+## Majority (PLEASANTS, Associate Justice.)
+
+PLEASANTS, Associate Justice.
+The appellant brought an action of trespass to try title to 288 acres of land, a part of the A. L. Martin survey of 640 acres. The plaintiff’s claim of title is derived through. conveyances from one J. M. Heaslet, who claimed to have purchased from John Rogers, who, it is alleged, acquired title to the land under the operation of the ten years’ statute of limitation. At the time of trial, both Heaslet and John Rogers were dead.
+The defendant pleaded not guilty, but neither averred ownership in the land, nor offered proof of an outstanding title. Upon trial of the cause by the judge of the court without a jury, judgment was rendered for the defendant, and the plaintiff appealed to this court, and the appeal is submitted upon the brief of the appellant, there being no appearance here for the appellee. We shall not discuss the assignments of error in detail. The substance of appellant’s objections to the judgment is, that the court erred in holding that the occupancy of the land by John Rogers was not adverse to the owner, because the possession was taken and held by him under the belief that the land was vacant; that Rogers did enter upon the land'under the belief that it was a part of the public domain, the evidence, we think, establishes beyond doubt; and we discover nothing in the evidence tending to show that during his occupancy he ascertained the land was not unappropriated public domain. The contention of the appellant is, if Heaslet and John Rogers held peaceable and exclusive possession of the land, using and enjoying the same, between 1853, the date of entry by Rogers, and the year 1875, the year when Heaslet made deed of conveyance to plaintiff’s vendor, for the term of ten years, exclusive of the period in which the statute of limitations was suspended, Heaslet thereby acquired title to the property, notwithstanding John Rogers’ possession, which terminated in 1867, was taken and held under the erroneous belief that the land was owned by the State, and had never been severed from the public domain; and, in support of this contention, appellant cites the case of Converse v. Ringer, 6 Tex. Civ. App., 51.
+With due deference to the respectable court which rendered the decision, and for the learned judge who delivered the opinion of the court, we cannot follow that decision. We have heretofore held in several decisions rendered in this court, following the views announced in Mhoon v. Cain, 77 Texas, 316, and Schleicher v. Gatlin, 20 S. W. Reporter, 120 [vide Bean v. Collins, 1 Texas Civ. App., 272; Beaumont Lumber Company v. Ballard, 23 S. W. Reporter, 920; Cartwright v. Pipes, 29 S. W. Reporter, 690; and Hartman v. Huntington, 32 S. W. Rep., 562], that occupancy of land for the period prescribed by the statute, where the occupant entered and continued to hold during his occupancy, under the erroneous belief that the land was a part of the public domain, is not a possession adverse to the owner; and that consequently such occupant does not acquire title to any part of the land. The statute defines adverse possession to be “an actual and visible appropriation of the land, commenced and continued under a claim of right inconsistent with and hostile to the claim of another.” To hold that one who enters upon land and holds possession thereof, with the intention to acquire title to it from the owner, as was done by Rogers, is one who “enters and holds, under a claim of right, inconsistent with, and hostile to, the owner,” would he paradoxical. But it is said the occupant, being mistaken as to the owner of the land, his possession is hostile to the claim of all others save him who he erroneously supposed was the owner. To reach this conclusion, we must presume that had the,occupant known the land was not public domain, he would have entered and held possession under a claim of right, in hostility to the owner. But the law indulges in no such presumption; on the contrary, he, who asserts title to land, under the statute of limitations, can only establish his claim by competent and adequate evidence of a compliance with all the requirements of the statute. Possession of property is prima facie evidence that the occupant is the owner of the property; and so, too, peaceable possession of property, accompanied with the ordinary incidents of ownership, such as use and enjoyment of the property, is prima facie evidence that the occupant is holding under a claim of right, hostile to all others. But when this prima facie evidence is rebutted and overcome by positive evidence, courts can indulge in no presumptions in furtherance of the claims of the occupant.
+Delivered October 10, 1895.
+We are of the opinion that there is no error in the judgment, and it is therefore affirmed.
+Affirmed.
+Writ of error refused.
