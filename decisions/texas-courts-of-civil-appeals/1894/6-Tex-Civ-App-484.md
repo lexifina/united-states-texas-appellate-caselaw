@@ -1,0 +1,36 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "155"
+decided: "1894-02-21"
+citations: ["6 Tex. Civ. App. 484"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wallace & Waggener et al. v. W. M. Bagley."]
+source_url: "https://static.case.law/tex-civ-app/6/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 229980
+cites_cases: ["1 McCrary, 176", "10 Fed. Rep., 101", "107 U. S., 361", "17 N. Y., 9", "3 Colo., 284", "3 Minn., 364", "37 Ark., 153", "6 Minn., 305", "7 Md., 380", "76 Pa. St., 289"]
+---
+
+# Wallace & Waggener v. Bagley
+
+## Majority (FINLEY, Associate Justice.)
+
+FINLEY, Associate Justice.
+The facts of this case are as follows: 1. J. P. Levy, who was a grocery merchant at McKinney, Texas, on •January 21, 1890, executed a chattel mortgage upon a stock of goods, wares, and merchandise, etc., to W. M. Bagley, purporting to be for the benefit of a number of creditors of said Levy, whose names and debts were set out in the instrument. A copy of the instrument appears in the transcript, as an exhibit to plaintiffs’ petition, and reference is here made to it for ascertainment of its entire contents.
+2. The mortgage purports to be made to secure the debts of twenty-one different creditors of Levy, whose debts amounted in the aggregate to $2300 or $2400. Seven of these creditors, whose debts in the aggregate amount to $577.34, were preferred over the other creditors named in the instrument. These seven creditors were first to be paid in full in the order named, and then the balance of the proceeds of the property conveyed was to be paid to the other creditors named in the mortgage, pro rata. Appellants were creditors of Levy to the extent of a debt of $1500, and were embraced in the mortgage in the latter, or unpreferred, •class of creditors.
+3. At the time the conveyance was made, Levy was wholly insolvent; all his property subject to execution was embraced in "the mortgage, and the value of the property conveyed was between $1500 and $2000.
+4. On execution of the mortgage, possession of the property convej’ed was turned over to W. M. Bagley, and he promptly accepted the trust imposed by the instrument upon him.
+5. On January 23, 1890, appellants brought suit on their claim, obtained the issuance of the writ of attachment, caused the stock of goods conveyed in the mortgage to be seized under the writ, and thereafter had them sold under legal process, and the proceeds applied to the payment of their debt against Levy.
+6. There was no evidence on the trial showing that any of the creditors for whose benefit the mortgage purported to be made procured its execution, or had accepted it, or indicated any intention to accept it.
+7. The evidence shows that all the debts named in the instrument were bona fide, though there was some inaccuracy in the statement of the amounts due the respective creditors.
+8. It was shown that in January, 1890, before the execution of the mortgage, Levy bought from appellants a bill of goods amounting to over $900. That at this time he was insolvent; that with full knowledge of his insolvency, to obtain these goods, he represented to the agent of appellants that he was in good financial condition and would be able to meet the bill promptly, and would thereafter discount his bills. At that time he had no intention of paying for the goods, but did intend to make the very disposition of them which was attempted by the execution of the mortgage. A considerable portion of the goods taken under appellants’ attachment came through this purchase. Bagley had no knowledge of the representations made by Levy to appellants’ agent, or of his fraudulent intent, and had no knowledge of any circumstances which would have put him on notice. So far as the evidence shows, Bagley acted in good faith.
+9. The mortgage directs that the trustee “shall proceed to reduce the same [property conveyed] into cash by sale of the property, goods, etc.,, in the usual course of business, for cash, unless at any time it should appear to be to the interest of the beneficiaries to sell the same in lots orín bulk; in which event said mortgagee is hereby invested with power to exercise his discretion in the premises,” etc.
+Conclusions of Law. — The instrument of conveyance executed by Levy to Bagley was a chattel mortgage. Johnson v. Robinson, 68 Texas, 400. Appellants were interested in the proceeds of the property; the property was of greater value than the amount of the debts of the creditors preferred to appellants, and appellants were entitled to share in such surplus. This interest in the proceeds of the property gave appellants a direct interest in the power sought to be conferred upon the trustee as to the sale of the property. Under the power granted in the mortgage, the trustee was authorized to dispose of the goods “ in the usual course of trade for cash.” As this business was a retail business, the trustee under this grant of power was authorized to conduct a cash retail business, in the usual customary manner. This power was inconsistent with the right of Levy’s, creditors to have their debts paid when due, or subject his property to the payment of such debts. It is true that the trustee is also given power, if it should appear to be to the interest of the beneficiaries, to sell in lots or bulk, at his discretion. But this provision places the unlimited irresponsible discretion of a third party between the property of an insolvent debtor and his creditors. It places the action of the trustee as to manner of sale beyond the control of the courts. For a court is not authorized to substitute its discretion for that of the trustee, where the instrument creating the trust expressly confers the discretion upon the trustee. Dunham v. Waterman, 17 N. Y., 9. Such a grant of power should not be upheld against a creditor having an interest in the property or its proceeds. Gallagher v. Goldfrank, Frank & Co., 75 Texas, 562; Gregg v. Cleveland, 82 Texas, 187; Jaffrey v. McGehee, 107 U. S., 361-365; Galigher v. Griffith, 37 Ark., 153; Bump on Fraud. Con., 3 ed., 415; 1 Cobbey on Chat. Mort., sec. 413.
+Delivered February 21, 1894.
+Motion for rehearing overruled February 21, 1894.
+Writ of error refused by the Supreme Court March 22, 1894.
+If the instrument were not objectionable in its grant of power to the trustee, it was necessary to its operative effect against attaching creditors that it should have been accepted by the beneficiaries in it. It can not be binding upon others until it is binding upon the maker and those for whose benefit it is made; and it can not become binding upon the beneficiaries until they accept it. It has no legal force until it becomes a contract between such parties; and it can not become a contract between them until there is mutual assent to its terms. The trustee can not represent the beneficiaries in accepting the mortgage, unless he be authorized by them to do so. Alliance Milling Co. v. Eaton, Guinan & Co., 86 Texas, 401.
+We are of opinion that plaintiff below was not entitled to recover, and that the judgment should be reversed and here rendered for appellants.
+Reversed and rendered.
