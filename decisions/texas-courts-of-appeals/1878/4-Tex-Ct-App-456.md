@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1878"
-citations: ["4 Tex. Ct. App. 456", "5 Tex. Ct. App. 48"]
+decided_precision: "year"
+citations: ["4 Tex. Ct. App. 456"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["William Davis v. The State."]
 source_url: "https://static.case.law/tex-ct-app/4/cases/0456-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4418633
-cites_cases: ["11 Cal. 215", "12 Cush. 61", "14 Serg. & R. 405", "2 Wall. 219", "2 Wall. 234", "24 How. 315", "4 Wash. 26", "7 Blackf. 61", "7 Mo. 572", "9 Wheat. 702"]
 ---
 
 # Davis v. State
