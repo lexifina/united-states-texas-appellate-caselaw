@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3470"
+decided: "1890-12-06"
+citations: ["29 Tex. Ct. App. 236"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Snell v. The State."]
+source_url: "https://static.case.law/tex-ct-app/29/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148945
+cites_cases: ["78 Ky., 380"]
+---
+
+# Snell v. State
+
+## Majority (WILLSON, Judge.)
+
+WILLSON, Judge.
+We are of the opinion that the statements of the deceased, reduced to writing and signed and sworn to by him before the witness Fletcher, were properly admitted in evidence as dying declarations, it having been proved that the deceased was fully cognizant of said statements, and that afterwards, when he was conscious of approaching death, and was without hope of recovery, and was sane, he reaffirmed said statements. In Wharton’s Criminal Evidence. (9 ed.), section 287, it is said: “Prior declarations, though in themselves inadmissible, may become admissible on subsequent affirmation, in cases where, although the declarant did not at the time of first making them believe he was about to die, he subsequently referred to them and affirmed their truth at a time when he knew he was dying.” See also Mackabee v. The Comm., 78 Ky., 380. It was not necessary, we" think, that said statements should have been shown to or read over to the deceased at the time he reaffirmed the same, as it was clearly proved that he knew and fully understood the same, and he referred to and adopted them at a time when he knew he was dying and just before his death, and when requested to make a dying declaration.
+It was not error to refuse to permit the witness Thornton to testify that deceased had made statements to him different from the dying declarations, said witness being unable to state the substance of said variant statements. To permit the witness to so testify would have been permitting him to state merely his conclusions.
+Bill of exception No. 6 does not state facts which show that error was committed in rejecting the proposed testimony of the witnesses Stinson and Bidding as to statements made bv Mrs. White-field. Said proposed testimony would not be admissible except for the purpose of impeaching the credibility of Mrs. Whitefield as a witness, and the bill does not show that a proper predicate had been laid for the introduction of said testimony for said purpose. It was permissible for the defendant, in the cross-examination of Mrs. Whitefield, to lay a predicate for the purpose of impeaching her credibility by proof of statements made by her contradictory of her testimony, and if she denied making such statements it was then competent to prove that she had made them; but the bill of exception does not show that any predicate was laid.
+We are of the opinion that the evidence fairly presents the issue of self-defense as to this defendant. It shows that defendant’s brother was in an angry and violent struggle with the deceased; that deceased during the struggle attempted to possess himself of a club — a deadly weapon— with the apparent intention of using it upon defendant’s brother, and it was at this juncture that the defendant interposed, secured the club, and struck or attempted to strike the deceased with the same. Tip to this act of his it does not appear from the evidence that he engaged in any way in the difficulty between his brother and the deceased. It does not appear that he knew that his brother was using or intending to use a knife in the conflict. It does not appear that he knew or had reason to believe that his brother intended to kill the deceased or to inflict upon him serious bodily injury. . On the contrary, the evidence tends to show that the appearances indicated to him that his brother and the deceased were merely engaged in a contest with their fists, neither using or attempting to use a deadly weapon.
+Such being the state of the case, when the deceased attempted to possess himself of the club with the apparent purpose of using the same upon his brother, the defendant was justified in interfering in defense of his brother, and in securing the club, and even in striking or attempting to strike the. deceased with it if necessary to prevent the deceased from getting and using it. It is not the intent which actuated the defendant’s brother, but the intent with which the defendant acted which constitutes the criterion in passing upon the issue of guilt in this case. “According to his own act and intent does the law measure him and hold him guilty of murder, or of manslaughter, or entirely justifiable, as the facts may warrant,” and the intent of his brother is immaterial unless it be shown that the defendant knew or might reasonably have known such intent. Guffee v. The State, 8 Texas Ct. App., 187; Sterling v. The State, 15 Texas Ct. App., 249; Dyson v. The State, 14 Texas Ct. App., 454; Foster v. The State, 8 Texas Ct. App., 248; Kemp v. The State, 11 Texas Ct. App., 174; North v. The State, 12 Texas Ct. App., 111.
+In his charge to the jury the learned trial judge did not submit the issue of self-defense. No instruction whatever was given to the jury relating to self-defense, and because of the omission to submit said issue and to properly instruct the jury in relation thereto, the charge of the court is fundamentally defective and insufficient (Bell v. The State, 17 Texas Ct. App., 538; Meuly v. The State, 26 Texas Ct. App., 274),. and for this reason the judgment is reversed and the cause is remanded.
+Reversed and remanded.
+Hurt, J., absent.
