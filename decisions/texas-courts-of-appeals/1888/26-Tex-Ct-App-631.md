@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3048"
+decided: "1888-12-19"
+citations: ["26 Tex. Ct. App. 631"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Johnson v. The State."]
+source_url: "https://static.case.law/tex-ct-app/26/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4464432
+---
+
+# Johnson v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+There was a demurrer to defendant’s plea of former jeopardy, but there is "no direct positive evidence in the record that any action whatever was taken by the court either upon the demurrer or the plea, and counsel for appellant in his able brief filed in the case makes no mention of the matter. According to settled practice, it will be considered that the plea is waived by appellant. (State v. Thompson, 18 Texas, 527.)
+1. " A proper predicate was laid for the introduction of the testimony of the absent witness Carmichael as given at the coroner’s inquest, said witness being shown to be beyond the jurisdiction of the court. (Conner v. The State, 23 Texas Ct. App., 384, and authorities cited; Parker v. The State, 24 Texas Ct. App., 61.)
+2. Most of the errors complained of and insisted upon in the brief of counsel are directed at various paragraphs of the charge of the court upon the law of manslaughter and self defense. Two of the paragraphs seriously insisted upon as erroneous, in which the court announced the law with regard to the existence of adequate cause and provoking a contest with intent to kill, are literal copies of articles 602 and 603 of the Penal Code, and have been the law of this State at least since the adoption of our Codes.
+3. We are of opinion, however, that error has been committed by the learned judge, prejudicial to the rights of defendant, in his application of the principles of the law of self defense to the evidence, and for which the judgment will have to be reversed. Amongst other matters, the court instructed the jury as follows, viz: “If you should find from the evidence that, prior to the shooting, the deceased forcibly, and without defendant’s consent, seized money that was defendant’s property, or that defendant fairly and reasonably believed was his property, and that deceased refused to give up such money, and that, when defendant returned to where deceased was, he returned not for the purpose of provoking a difficulty and inflicting injury upon deceased, but, on the contrary, only for the purpose of making a demand quietly and peaceably and unaccompanied by force, of the said Gilstrap that the money should be returned; and if, with such purpose and intent, defendant did return to the room and quietly demand the return of such money, not intending nor contemplating at the time that such demand would result in a difficulty in which death or serious bodily injury would result, then, and in such case, if defendant afterwards shot and killed W. T. Gilstrap, it would be either murder in the second degree, or manslaughter, or justifiable homicide, according as you should find the other facts of the case under former instructions of the court.”
+The evidence adduced called for a charge upon the hypothetical case stated, but the facts stated, if found to be true, would have made a clear case of justifiable homicide, and it was error to tell the jury that upon such a state of facts the offense committed would be either murder in the second degree or manslaughter, or justifiable homicide.
+To correct this palpable error in the court’s charge, defendant’s counsel requested a special instruction, which the court refused, and which was in these words, viz: “If you believe from the evidence that defendant returned fco the gambling room, not for the purpose of renewing or provoking a difficulty with deceased for any purpose, but with an honest intention to demand of deceased the return of the money which defendant honestly believed that the deceased had wrongfully taken from him, and that the deceased, in refusing to comply with such demand, made an unlawful attack upon defendant with a knife, of such a nature as to inspire defendant with the reasonable belief that he was in danger of serious bodily injury from such attack, and that, acting on such belief, defendant fired the fatal shot, he would be justified in so doing.” This requested instruction presented the law as applicable to the facts stated, and the coui't erred in the charge as given and in refusing said instruction. (Bonnard v. The State, 25 Texas Ct. App., 173; Alexander v. The State, Id., 260; White v. The State, 23 Texas Ct. App., 154; Green v. The State, 12 Texas Ct. App., 445; Meuly v. The State, ante, 274, decided at the present term, and a case in many respects similar to the one under consideration.)
+Opinion delivered December 19, 1888.
+Another requested instruction which was refused was in these words, viz: “If you believe from the evidence that defendant re-entered the gambling room with the intention of renewing or provoking a difficulty with the deceased in order to get a pretext to kill him, and, after entering the room, he declined the combat and retreated, then, under these circumstances, the defendant will not be considered to have forfeited his right of self defense,’but the same would be complete and he would have the right to defend himself against any attack thereafter made upon him by the deceased.” There was some evidence in the case upon which to base the instruction and it was error to refuse it.
+Other errors are assigned and argued in the brief, but they are of a character not likely to arise on another trial, and are, therefore, not discussed. For the error pointed out, the judgment is reversed and the cause remanded.
+Reversed and remanded.
