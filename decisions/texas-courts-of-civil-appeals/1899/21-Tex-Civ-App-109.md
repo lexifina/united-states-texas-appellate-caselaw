@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1899-04-01"
+citations: ["21 Tex. Civ. App. 109"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCord-Collins Commerce Co. v. R. O. Levi."]
+source_url: "https://static.case.law/tex-civ-app/21/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277199
+---
+
+# McCord-Collins Commerce Co. v. Levi
+
+## Majority (HUNTER, Associate Justice.)
+
+HUNTER, Associate Justice.
+This was an action filed by appellee in the County Court of Comanche County for damages caused by the fraud and deceit of appellant in the sale of certain cigars.
+The appellant pleaded in the court below that it was a corporation organized under the laws of "Missouri, and had no office or local representative in Comanche County, but had a general office at Fort Worth, in Tarrant County, Texas, and claimed its privilege of being sued in Tarrant County. This plea, together with its general denial and other special answers, was submitted to the jury on the main trial, and on all the jury found in favor of appellee, allowing him as actual damages $107.50 and $76 as exemplary damages, and hence this appeal.
+The appellee, in addition to the allegations of false representations made by appellant’s agent, by which he was induced to purchase the cigars, and as part of the fraudulent scheme to swindle him, alleged that suit was filed upon the order made for 3000 cigars at $105 at Fort Worth and 10 per cent attorney’s fees, which had been agreed upon in writing in case of suit, etc., and judgment against him was thus obtained for $182, including the costs of said suit, and that by reason of such suit his credit had been injured and he had been harassed and humiliated by letters of inquiry from Dun’s Commercial Agency and from his creditors, etc., and prayed for damages.
+This part of the petition was demurred to specially, and we think the demurrer ought to have been sustained, because no damages can be recovered of any character against any person for filing a civil suit and prosecuting it against another to judgment upon a claim real or unfounded, unless one’s property or person is wrongfully seized or in some manner injuriously affected by process issuing therein. Johnson v. King, 64 Texas, 226; Runge v. Franklin, 72 Texas, 590.
+Neither can the attorney’s fees or the costs of that suit be recovered in this action, because by the contract appellee agreed to pay the 10 per cent for attorney’s fees in case of suit, and the law awards costs to the successful party to the suit, and the judgment in that case determined the rights of the parties as to attorney’s fees and costs, and the appellant’s right to recover on the order made for the cigars. Wood Machine Co. v. Hancock, 4 Texas Civ. App., 302.
+But if the order or contract was obtained by false representations and deceit, as is alleged, the appellee had the right to his action to recover his damages occasioned thereby, and was not bound to plead it as a defense to the appellant’s action on the order; and if the false representations were made to appellee at Comanche, and the contract obtained there, we think the cause of action in part at least accrued there, within the meaning of our statute on venue, notwithstanding the contract or order had afterwards to be approved by the appellant at Fort Worth and the goods shipped from there. Sayles’ Civ. Stats., art. 1194, sec. 25.
+There was no material error in refusing to give appellant's special charge number 2. The evidence was undisputed that the representations and contract were made at Comanche, and that fact, if the representations were false, was sufficient to fix the venue in Comanche County, and the charge applied, as we understand it, only to the plea of privilege. The jury found the representations to be false, and hence the error became harmless. The definition of deceit as contained therein is erroneous. It seems to be settled in this State that in actions of this character it is not necessary to aver or prove that the defendant knew, at the time he made the representations, that they were false. It is sufficient to allege and prove that they were untrue in fact, and that the plaintiff believed them and relied thereon, and was induced thereby to make the purchase, and it would make no difference whether the party making them did not know at the time whether they were true or not. Mitchell v. Zimmerman, 4 Texas, 80; Wintz v. Morrison, 17 Texas, 383; Henderson v. Railway, 17 Texas, 577; Culberson v. Blanchard, 79 Texas, 492; Loper v. Robinson, 54 Texas, 514.
+We think the ninth assignment of error should be sustained. The verdict for actual damages was excessive, in that the undisputed evidence established that the cigars delivered were worth at Comanche from $12 to $25 per thousand, and that the graphophone was worth $20 or $25. The amount paid on the Fort Worth judgment, less attorney’s fees and costs, was $105, with interest on this amount probably from the time of its maturity until the date of that trial. The jury should have deducted the market value of the cigars and the value of the talking machine from this sum paid, with interest added to the time of the trial of this cause, and found for the balance, if any.
+We have already said that no damages of any character can be predicated on the suit at Fort Worth or on any injury whatever which was the result of it, and hence the verdict for exemplary damages, if based thereon, must be set aside also, because the appellant had the legal right to bring that suit and prosecute it, and no damages can be predicated on the exercise of a lawful right, especially the one of appealing to the courts for redress of real or fancied wrongs.
+Whether this leaves in this case any grounds for exemplary damages, we do not decide.
+We find no other error necessary to note, but for the ones mentioned the judgment is reversed and the cause remanded.
+Reversed and remanded.
