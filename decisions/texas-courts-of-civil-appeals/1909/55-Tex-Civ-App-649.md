@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1909-05-12"
+citations: ["55 Tex. Civ. App. 649"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eugene Elam v. S. D. Carter et ux."]
+source_url: "https://static.case.law/tex-civ-app/55/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4406032
+cites_cases: ["102 S. W., 147", "24 S. W., 944"]
+---
+
+# Elam v. Carter
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+Eugene Elam brought an action of trespass to try title against S. D. Carter and his wife Delia J. Carter, and sued out a writ of sequestration, which the sheriff executed by dispossessing Mrs. Carter and her minor children.
+Mrs. Carter filed a separate answer, alleging that she and her husband were separated, that their interests were antagonistic and he refused to join her in maintaining her rights. She also alleged that the tract of land sued for had been acquired by her husband from his father, J. A. Carter, and that she and her husband had established their home upon it and she had a homestead interest therein, including the buildings thereon and the land in cultivation. She also filed a plea in rcconvention, seeking to recover damages against -the plaintiff and the sureties on his sequestration bond, on- account of injuries alleged to have been sustained by her by being dispossessed by the sheriff, she alleging that the distress warrant was wrongfully sued out. If S. D. Carter never was the legal nor equitable owner of the land of course his wife had no homestead interest therein.
+S. D. Carter filed an answer setting up, in substance, that he had no interest in the land otherwise than as tenant holding under his father, J. A. Carter, for the year 1907. He alleged that under the lease contract referred to he and his wife were entitled to possession of the land during the entire year 1907, and that the distress warrant was wrongfully sued out, and he joined in the prayer that damages be awarded to his wife on that account.
+The plaintiff filed an amended answer responding to the pleas interposed by Mrs. Carter, and also impleading J. A. Carter, alleging that he had purchased the land from J. A. Carter, and that if Mrs. Carter’s plea of homestead was sustained he would be entitled to recover from J. A. Carter upon his warranty of title.
+The transcript does not contain any answer filed by J. A. Carter, though it is stated in the brief filed on his behalf that he filed an answer, averring that he had never parted with title to the land until he conveyed the same to the plaintiff.
+There was a nonjury trial, which resulted in a judgment against the plaintiff and establishing Mrs. Carter’s homestead right to 200 acres of the land, and awarding to her damages in the sum of $225 against the plaintiff and the sureties on his sequestration bond. The court also rendered judgment over in favor of the plaintiff against J. A. Carter on account of the alleged breach of warranty. The plaintiff and the defendant J. A. Carter have presented the case in this court upon separate briefs.
+As between the plaintiff and the defendant Mrs. Carter the testimony shows that J. A. Carter was common source of title. The plaintiff introduced in evidence a warranty deed from J, A. Carter conveying the land to him. Mrs. Carter undertook to show, and the trial court seems to have held, that prior to the time of that conveyance J. A. Carter had made a parol gift of the land to his son S. D. Carter, the husband of Mrs. Carter. We sustain the contention of thé appellants that the brief failed to show a valid parol gift, for the reason that it was not shown that S. D. Carter or his wife made such improvements upon the land as would take the case out of the statute of frauds, which requires some character of written instrument to create a valid right to real estate. With the exception of a small sum paid for fruit trees and a few days’ labor by S. D. Carter, the undisputed testimony shows that J. A. Carter paid for all the improvements that had been placed upon the land. Compared with the value of the entire property, the amount expended thereon by S. D. Carter was too trivial to take the case out of the statute of frauds. Hence we conclude that, upon the undisputed testimony, the trial court should have rendered judgment for the plaintiff for the land; and, of course, if he had done so, no judgment would have been rendered against J. A. Carter,
+This ruling renders it unnecessary to pass upon all of the assignments of error, and leaves nothing further to consider except Mrs. Carter’s right to recover upon the sequestration bond; and we sustain that part of the judgment because, while at the time the plaintiff filed his amended petition, and at the time the case was tried, he was entitled to possession of the land, there was sufficient testimony to support the trial court’s finding that the distress warrant was unlawfully sued out. We refer to the testimony to the effect that S. D. Carter had the property rented for the year 1907. The writ of sequestration was sued out and executed before the expiration of the lease; and Mrs. Carter’s actual possession, and other circumstances, were sufficient to show that plaintiff had notice of Mrs. Carter’s right to possession during the year 1907. In fact S. D. Carter testified in substance that the plaintiff agreed that Mrs. Carter might remain in possession of the property until the end of the year.
+We also overrule the contention that the testimony was not sufficient to justify the amount of damages awarded.
+The judgment in favor of Mrs. Carter for $225 damages will be affirmed, but in all other respects the judgment of the trial court will be reversed and here rendered in favor of the plaintiff Elam for the land described in his petition, and that he take nothing as against the defendant J. A. Carter.
+Affirmed in part and reversed and rendered in part.
