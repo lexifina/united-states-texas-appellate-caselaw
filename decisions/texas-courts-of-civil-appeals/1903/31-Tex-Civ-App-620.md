@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-03-18"
+citations: ["31 Tex. Civ. App. 620"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. A. Cooper & Company et al v. L. M. Sawyer."]
+source_url: "https://static.case.law/tex-civ-app/31/cases/0620-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4371721
+---
+
+# M. A. Cooper & Co. v. Sawyer
+
+## Majority (STREETMAH, Associate Justice.)
+
+STREETMAH, Associate Justice.
+This was an action brought by appellee, L. M. Sawyer, to recover damages for the levy of a writ of attachment upon a stock of merchandise.
+The plaintiff claimed the property by virtue of a deed of trust executed to him by J'. E. Cline to secure certain creditors therein named. The defendants were the sheriff, who levied the writ, M. A. Cooper & Co., the plaintiffs in the attachment, and the sureties upon the bonds executed to procure the issuance and levy of the writ.
+In accordance with the verdict of a jury, judgment was rendered for the plaintiff against all of the defendants, and in favor of the sheriff, as against his codefendants.
+The defendants alleged that the debts mentioned in the deed of trust were fictitious and fraudulent; that the deed of trust was executed to hinder, delay and defraud the creditors of J. E. Cline and his father J. K. P. Cline, who had formerly owned the stock of goods; that the trustee had not taken possession of the goods when the writ was levied, and that none of the creditors had accepted under the deed of trust before the levy of the writ. The verdict of the jury settled all of these issues against the defendants; and a careful examination of the statement of facts convinces us that there was evidence to sustain the finding of the jury upon each of these issues.
+The first assignment of error complains that the court permitted J. E. Cline to testify that three or four years before the execution of the deed of trust, he heard his father and mother say that his father owed his mother the sum of $820.
+One of the debts preferred was a debt of $820 to Mrs. H. C. Cline, mother of II. E. Cline. Plaintiff claimed that this indebtedness grew out of a transaction in which J. K. P. Cline had sold a tract of land, part of which was the separate property of Mrs. Cline, and that J. K. P. Cline had borrowed from Mrs. Cline $820, which represented her separate interest in this propery, and afterwards executed to her the note which was assumed by J. E. Cline, and secured by the deed of trust in question. Defendants attacked this debt as fictitious and fraudulent, and the good faith of J. E. Cline in naming this debt in the deed of trust was an issue in the case. Upon this issue we think that the evidence was clearly admissible.
+The second assignment is directed to the action of the court in permitting J. K. P. Cline to remain in the courtroom during the trial, and not enforcing against him the rule invoked as to the witnesses in the case. He was not a party to the case, and the record does not give the reasons of the court for excepting him from the rule. It is evident, however, that the plaintiff, Sawyer, was only slightly interested in the suit, and the real parties to the suit were the creditors named in the deed of trust. One of these creditors was Mrs. H. C. Cline, wife of said J. K. P. Cline, and the court doubtless permitted him to remain in the court room as the representative of his wife’s claim. The manner in which the rule as to witnesses is enforced is lodged very largely in the discretion of the court, and we are unable to say that any abuse of the discretion was shown.
+The defendant requested the following special charge: “If you believe from the evidence that J. K. P. Cline and H. C. Cline were husband and wife at the time of the alleged execution of the note by J. K. P. Cline to the said H. C. Cline, and that the said J. K. P. Cline was the agent of the said H. C. Cline for the purpose of collecting said note, then notice of the fraudulent intent on the part of J. E. Cline to defraud his creditors, to J. K. P. Cline would be notice to Mrs. H. C. Cline and participation on the part of J. K. P. Cline with and in the fraudulent intent and purpose of J. E. Cline to hinder or delay his, J. E. Cline’s, creditors in the collection of their debts against J. E. Cline, would be participation in same on the part of Mrs. H. C. Cline.”
+The proposition of law announced in this charge is correct, but we are unable to find any evidence which required it to be given in this case. It is true that the husband is vested by law with the control and management of the wife’s separate estate, but he is not, in the absence of special authority, such an agent that notice to him will constitute notice to his wife. Speer, Law of Mar. Women, sec. 35. To affect her with notice of the fraud by reason of his knowledge, it was necessary to have shown that he was authorized by her to act as her agent in accepting the deed of trust. There was evidence that he had assumed to act as her agent in accepting the deed of trust, but no evidence whatever that she had authorized him to do so, and the agency cquld not be proved by the declaration or acts of the agent, which were not shown to have been known to the wife.
+Special charges were requested with reference to the acceptance of the deed of trust by the creditors, the possession of the trustee and the knowledge of the creditors of the fraudulent purpose of the deed of trust. The charge of the court upon all of these issues was very full and very fair to the defendants, and all of the special charges which were proper were fully embraced in it.
+It is insisted that the verdict as to the amount of the damages was excessive. It is true that if the jury had credited the testimony of the witnesses of defendants, the verdict should have been for a less amount, but there was evidence which tended to show that the value of the property was even greater than the amount assessed by the jury. It was the province of the jury to p>ass upon the weight of this evidence, and we are not authorized, under these circumstances, to disturb their verdict.
+There being no error in the judgment, it is affirmed.
+Affirmed.
