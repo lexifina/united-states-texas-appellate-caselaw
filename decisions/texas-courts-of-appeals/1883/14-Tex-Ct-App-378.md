@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Appeals"
+docket: "2663"
+decided: "1883-06-08"
+citations: ["14 Tex. Ct. App. 378"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sylvester Benevides v. The State."]
+source_url: "https://static.case.law/tex-ct-app/14/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357155
+---
+
+# Benevides v. State
+
+## Majority (Hurt, Judge.)
+
+Hurt, Judge.
+This is a conviction of murder of the first degree, the punishment being assessed at confinement in the penitentiary for life.
+The trial judge failed to submit to the jury a charge upon the law governing in cases of murder upon implied malice and murder of the second degree. Defendant moved for a new trial, and in his motion this is expressly made one of the grounds. It being the duty of the trial judge, in felony cases, to charge the law applicable to the case, whether asked or not, the question here presented is, does the case—that which is made by the evidence, the whole evidence—require a charge upon murder of the second degree? If the case is such, or, what is the same thing, if the evidence is of that character as to place it alone within the sphere of murder in the first degree, and that the killing was upon express malice, or done in the perpetration, or the attempt at the perpetration, of certain offenses named in Article 606 of the Penal Code, the trial judge should confine the charge to such a case, so made by the evidence, omitting instructions applicable to all lower grades.
+From the above proposition it follows that the correct rule is this: To relieve the trial judge of the duty of charging upon lower degrees of culpable homicide, the evidence (the case) must establish the highest degree. For, if there be reasonable doubt, the court cannot solve the doubt; this must be done by the jury. We believe this rule to be correct, whether applied to cases of homicide or to all cases in which the greater includes lesser degrees of culpability.
+To establish murder of the first degree under the evidence in this case, the State relied, and was forced by the case to rely, upon proof of express malice, or that the killing was done in the perpetration or attempted perpetration of robbery. Hence the State must prove one or the other of these grounds so conclusively as to place the existence of one or the other beyond a reasonable doubt. The burden is upon the State, not only to prove that defendant killed deceased, but, where she demands a conviction and punishment for murder of the first degree, to prove that the killing was with express malice or in the perpetration, etc., of some of the offenses specifically mentioned in the Code.
+When the trial judge comes to submit his instructions to the jury, he should carefully look to all of the evidence, analyze and weigh the same, and if the killing is not shown to have been with express ■ malice, or under the circumstances which would-make the homicide murder of the first degree, he should charge upon the lower degree or degrees, as indicated by the evidence, To justify an omission to instruct upon lower degrees, he should be able readily, without pressing or straining facts, to grasp the facts or circumstances which place the case alone within the sphere or boundary lines of the highest degree. No presumption from facts or a combination of facts can be indulged, unless they lead to the conclusion sought, and to no other. . For if such cogency is wanting, the jury might doubt; or if the evidence or any part thereof lead to other conclusions, uncertainty appearing, the jury might take that which is not so unfavorable to defendant, or might have a reasonable doubt as to which is the correct conclusion.
+Looking, then, to the record in this case, can we point to a fact or a combination of facts or circumstances which lead to the conclusion that the defendant is guilty of murder of the first _ degree? Does this appear so evidently and conclusively as to justify the court below in withholding this matter from the consideration of the jury? We think not.
+In order that there may be no misunderstanding of our views upon this subject, we will illustrate.
+1. Suppose the case is one in which murder of the first degree is clearly and conclusively established in the opinion of the trial fudge, but there is evidence tending to rebut this conclusion or to establish murder of the second degree. Should the judge submit a charge upon the lower degree? Unquestionably he should. Why? Because it is the province of the jury, and not that of the court, to pass upon the credibility of the witnesses and the weight of the evidence. 2. Suppose that the evidence is of that character as to leave no doubt that the homicide was of the first degree, and there is no evidence tending to reduce the offense. Must the trial judge submit a charge upon the lower degree? We think not.
+Hence, if there be a want of evidence to prove the first degree, or if the evidence be doubtful or conflicting, though deemed conclusive by the trial judge to establish the first degree, nevertheless instructions must be given upon the lower degree; and these rules apply to all degrees from the highest to the lowest embraced in the charge. These rules are to govern the court, and by them the judge is to determine the necessity of submitting charges upon the different degrees, or the different offenses contained in the charge preferred by the bill of indictment.
+They are not rules for the guidance of the jury trying the case. The jury will not, because instructed upon the higher or lower degree, infer that the presiding judge believes the one or the other way in regard to the evidence. Their duty is quite distinct from that of the judge. Theirs it is to determine the guilt and the degree of the guilt of the defendant, from the law as given them by the court and the evidence adduced upon the trial. They can judge of the credibility of the witnesses and the weight to be given to the evidence. This can not be done by the trial judge. It is his duty to submit the law applicable to every phase of the case presented by the evidence, viewed as a whole or in its parts.
+We will not discuss the evidence, believing that more light can be had upon another trial. (The Reporters, however, will give a statement of the facts.)
+Because the court failed to charge the law applicable to murder of the second degree, the judgment is reversed and the cause remanded.
+Reversed and remanded,
+Opinion delivered June 8, 1883.
