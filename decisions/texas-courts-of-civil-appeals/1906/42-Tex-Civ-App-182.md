@@ -1,0 +1,36 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-02-28"
+citations: ["42 Tex. Civ. App. 182"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. W. Hahl et al. v. Harry Laux."]
+source_url: "https://static.case.law/tex-civ-app/42/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4384953
+cites_cases: ["20 C. C. A., 521"]
+---
+
+# Hahl v. Laux
+
+## Majority (NEILL, Associate Justice.)
+
+NEILL, Associate Justice.
+This suit was brought by the appellee, Harry Laux,. against H. P. Mansfield, C. W. Hahl, T. P. Nichols, N. A. Newman, the E. W. Heitman Company and the Sheldon Canal Company to recover $292.90, against the three first named defendants, alleged due plaintiff as a common carrier for the transportation on his schooner certain machinery, and against the other two defendants, as well as the others, to foreclose his alleged carrier’s lien on said machinery for said sum, the amount of freight alleged due him thereon.
+The case was tried by the court without a jury and the trial resulted in favor of plaintiff against the defendant T. P. Nichols for the sum sued for. No personal judgment was rendered against either Mansfield or Hahl, and judgment was rendered against all defendants establishing and foreclosing appellee’s alleged lien on the machinery.
+Conclusions of Fact.—These conclusions were found by the trial court and the evidence is reasonably sufficient to support them.
+On the 1st of March, 1904, appellee Harry Laux was the owner of the schooner “Friends,” and, as such, was a carrier of freight for hire upon the waters in and around Galveston and the navigable rivers in the State of Texas. On said day he was engaged by defendant Nichols to transport the machinery, engines, boilers, fittings, etc., described in plaintiff’s petition from Waldeck Landing on the Brazos Eiver to the landing of the Sheldon Canal Company at Sheldon on the San Jacinto Eiver, it being agreed between plaintiff and Nichols that plaintiff should furnish the boat and necessary assistance to run it, for which Nichols agreed plaintiff should be paid $10 per day, while so engaged with his boat.
+That Nichols, at the time he made the contract, had a contract with defendant Mansfield who was representing the stockholders of the Sheldon Canal Company to transport the machinery for the sum of $500, of which contract plaintiff was not informed and had no knowledge or notice until he had performed the service of hauling said freight.
+When the said contract was made with plaintiff, Nichols had complete possession of and full charge and control of the machinery, as he had also when it was loaded on plaintiff’s boat, and until the same was unloaded; and the defendant Mansfield expected Nichols to employ some one owning a boat to transport the machinery.
+The plaintiff transported one boat-load of the machinery from Waldeck Landing to Velasco and unloaded the same there with the intention of returning to Waldeck Landing and bringing down the remainder of the machinery, and then reloading that left at Velasco, and to carry the same up the San Jacinto to Sheldon; that he returned to Waldeck Landing, loaded the balance of the machinery on his boat and placed the boiler in tow thereof, proceeded to Velasco, and anchored the boiler there, and carried said load of machinery to the landing of the Sheldon Canal Company, where it was unloaded, but the possession thereof was not unconditionally parted with by plaintiff.
+It was then plaintiff’s intention to return to Velasco and transport thence the balance of the machinery, except the boiler which was to be carried by rail to Houston, placed in the bayou and then transported by plaintiff to the landing of the Sheldon Company; but, that on March the 28th, the defendant Mansfield stopped plaintiff and Nichols from further transporting said machinery.
+That plaintiff, not intending to surrender his right to hold the machinery for his freight charges, which were $10 per day for twenty-eight days, was then sent by Mansfield with a letter to defendant Hahl, telling him that Hahl would pay the charges; that a few days thereafter, as soon as he could reach Houston, plaintiff presented said letter to Hahl, and was then told by him that he would have to see Mansfield; that while plaintiff was, in this way, held off by promises, Mansfield and Hahl, without plaintiff’s knowledge or consent, had the machinery carried from where plaintiff had left it to the plant of the Sheldon Canal Company, and defendants took possession thereof and refused to pay plaintiff’s charges thereon for transportation.
+The plaintiff advanced Nichols $10 in cash which was used to pay labor of loading the machinery on the boat, and he also paid Nichols the sum of $2.90 for labor in loading machinery and placing the boiler in tow of plaintiff’s boat. Hnder the agreement between plaintiff and Nichols, the latter was to pay all the labor for loading and unloading the machinery. None of defendants except Nichols had any agreement with plaintiff for payment of his charges. The plaintiff did not make delivery of any of the machinery hauled by him to any one, and has not been paid any of his freight charges or money advanced.
+Conclusions of Law.—1. Our conclusions of fact dispose of the first, second and third assignments of error, which complain of the court’s findings of fact, adversely to appellant.
+2. The fourth assignment complains of the court’s conclusion of law, that a lien was created in plaintiff’s favor upon the hauling of the machinery for freight charges, and that such lien was in no manner waived or lost, but still exists in full force and effect.
+We think this conclusion of the trial court is logically the legal sequence from its findings of fact.
+It is a well established principle that a common carrier has a lien for his proper charges on goods received from one who has authority to deliver them for transportation. It is certainly the rule, supported by the weight of authority, that when the owner has, by his own voluntary acts, clothed the sender with an apparent authority to act for him, then the carrier has a right to look to the owner for his reasonable charges, and to hold a lien on the goods for the charges. (Ryan v. Missouri, K. & T. Ry., 65 Texas, 13.) But it is contended that plaintiff was not a common carrier. The rule is, that all persons who transport goods from place to place for hire, for such persons as see fit to employ them, whether usually or occasionally, whether as a principal or an incidental and subordinate occupation, are common carriers. (Chevallier v. Straham, 2 Texas, 116; Haynie v. Baylor, 18 Texas, 508.
+As a common carrier’s lien is inseparably associated with possession of the goods and is dependent upon such possession, it follows that it will cease whenever the goods are unconditionally delivered. There is no unconditional delivery of the goods in this case by the plaintiff. In fact there was no delivery at all; but possession was taken of them by defendants against plaintiff’s consent, and from his possession.
+What we have said in considering this assignment of error disposes of the fifth. The judgment is affirmed.
+Affirmed.
