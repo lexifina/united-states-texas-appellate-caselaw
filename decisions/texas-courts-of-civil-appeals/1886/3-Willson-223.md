@@ -1,0 +1,23 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "2379"
+decided: "1886-11-20"
+citations: ["3 Willson 223"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. S. Bailey v. S. T. Crittenden."]
+source_url: "https://static.case.law/willson/3/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1367686
+---
+
+# Bailey v. Crittenden
+
+## Majority (Will-son, J.)
+
+Opinion by
+Will-son, J.
+§ 179. Fraudulent transfer of property to hinder, etc., creditors; malice does not constitute fraud; right of creditor to receive property of insolvent debtor in payment of debt; rules as to; erroneous charge; case stated. Appellee sued out an attachment against one Wheatly, and caused the same to be levied upon three bale's of cottpn in the possession of appellant; appellant claimed said cotton as his property, and ■ made the affidavit and executed the bond required by the statute for the trial of the right of property to said cotton. Said cotton had been transferred and delivered by Wheatly to appellant prior to the levy of the attachment. Appellee attacked the validity of this transfer, alleging that it was made for the purpose of hindering, delaying, etc., the creditors of said Wheatly. This was the issue in the case. Appellee recovered judgment against appellant and the sureties upon appellant’s claim bond for the value of the cotton, damages and costs. The court gave a general charge to the jury, and also special charges requested for both parties. It is manifest that the law of the case was not explained to the jury clearly and correctly. The several instructions given are inharmonious, conflicting,, and irreconcilable with each other, and were necessarily confusing to the jury. One paragraph of the charge is as follows: “If the defendant did not know such fraudulent purpose (referring to the purpose of Wheatly to hinder, delay and defeat his creditors), yet, if the defendant, out of motives of malice or revenge towards plaintiff, made the trade -with Wheatly, and the plaintiff was thereby hindered or delayed in the collection of his debt, your verdict should be for plaintiff.” This paragraph is certainly erroneous. The issue was whether the transaction between appellant and Wheatly was fraudulent, not whether it was malicious or revengef ul on the part of appellant. If it was not fraudulent, we cannot conceive how its validity could be affected by malicious or revengeful feelings or motives on the part of appellant towards appellee. The law of this case may be succinctly stated thus: If Wheatly transferred and delivered the cotton to appellant with the purpose of hindering, delaying or defeating his, Wheatly’s, creditors in the collection of their debts, and at the time of the transaction appellant knew of this fraudulent purpose, or was in possession of facts which would reasonably indicate' such fraudulent purpose, or as would reasonably be sufficient to put him upon inquiry in relation to such purpose, then such transfer would be fraudulent and void, and the cotton would bo subject to the attachment. [ W. & W. Con. Rep. § 1003. ] Ilut if appellant at the time of said transaction had no such knowledge, actual or constructive, of-the fraudulent purpose of Wheatly, if such purpose existed, but obtained the cotton in good faith, for a valuable consideration, the fraudulent purpose of Wheatly, if there was such purpose, in making said transfer, would not affect the title of appellant to the cotton, and said cotton would not be subject to said attachment. Furthermore, if Wheatly owed appellant, and the latter, actingin good faith, and with the sole purpose of securing his debt, received from Wheatly said cotton in payment of said debt, and if the transaction was open, and the value of said cotton was not greater than would reasonably be required to satisfy said debt, then said transaction on the part of appellant would not be fraudulent, although he may have known at the time that by taking the cotton other creditors of Wheatly would thereby be defeated, delayed or hindered in the collection of their debts, and in such case the cotton would’ not be subject to the attachment. [2 W. Con. Rep. § 507.] These rules of law applicable to the facts of this case were not explained to the jury in such a manner that the same could be understood by them. On the contrary the charge of the court did not explain the law correctly, and was well calculated to confuse and mislead the jury.
+November 20, 1886.
+Beversed and remanded.
