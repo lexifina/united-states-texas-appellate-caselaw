@@ -1,0 +1,36 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-05-15"
+citations: ["26 Tex. Civ. App. 287"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. B. Hyde v. I. F. Baker."]
+source_url: "https://static.case.law/tex-civ-app/26/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2877231
+---
+
+# Hyde v. Baker
+
+## Majority (COLLARD, Associate Justice.)
+
+COLLARD, Associate Justice.
+This is a suit by I. F. Baker against C. B. Hyde, appellee, to recover the value of $600 worth of ■drugs, the right to which is established by decree of the Court of Civil Appeals of the Fifth Supreme Judicial District. The decree is in favor of Baker, that he recover of and against Woodmancy & Hyde $600 worth of drugs in possession of the judgment debtors, as per the terms of the contract between Woodmancy and Hyde and one L. B. Ryan, as shown by their answer in garnishment in that case.
+The answer in garnishment in that cause shows that Woodmancy & Hyde purchased a stock of drugs from Ryan, paying $4000 therefor, part in cash and part on time; that at the time of the purchase of the drugstore, “Ryan left $600 worth of drugs in the stock of drugs so purchased from Ryan,” and that they, Woodmancy & Hyde, still have the $600 worth of drugs in possession, which were to be selected from the stock by mutual consent of the parties, “at such time as Ryan should designate.” The answer in garnishment also shows that “Ryan has transferred the said $600 worth of drugs to Isaac F. Baker.” So Baker became the owner of the $600 worth of drugs, and now sues for the value of the same, it being. shown that only about $200 worth of the original stock can be found, and that the parties could not perform their contract by delivery of the drugs.
+The court below rendered judgment for plaintiff Baker, against Hyde for $617.40, to bear 6 per cent interest per annum from the 24th day of February, 1900, the date of the judgment; and Hyde has appealed. Woodmancy was not made a party defendant on the ground that he had removed from the State and had left no property in the State. It was alleged and proved that Hyde had purchased the drugs from Woodmancy and had become individually liable to Baker.
+The court below filed conclusions of fact and law as follows, and we find the same facts as proved on the trial:
+“(1) I find that, on April 22, 1899, plaintiff I. F. Baker, by the judgment of the Court of Civil Appeals for the Fifth Supreme Judicial District of Texas, rendered on a writ of error from the District Court of Fannin County, in the suit of Texas Drug Company v. John C. Woodmancy et al., Ho. 4220, of this court, recovered a judgment in which it was adjudged by the said Court of Civil Appeals that the claim of I. F. Baker against defendants C. B. Hyde and John C. Woodmancy for $600 worth of drugs in their possession as per the terms of the contract between Woodmancy & Hyde and L. B. Ryan, as. shown by their answer in garnishment in said cause Ho. 422-0, was established.
+“(2) I find that the terms of said contract between said Woodmancy & Hyde and L. B. Ryan, as shown by said answer in garnishment, were, that said L. B. Ryan sold, on July 1, 1895, to said Woodmancy & Hyde, a stock of drugs for the sum of $4000; of which $1500 was paid in cash and the remainder was paid by notes. That at the time said Ryan sold Woodmancy & Hyde said stock of drugs, said Ryan left with Woodmancy & Hyde $600 worth of drugs which he did not sell, but which were mixed with said $4000 worth of drugs, and which were not separated from them; that by the agreement between said Ryan and Woodmancy & Hyde, the said $600 worth of drugs were to be selected from said stock of $4000 worth of drugs by mutual agreement between-said Byan and Woodmancy & Hyde, at such time as said Ryan might, designate.
+“(3) I find that said defendant Hyde, shortly after said drugs were delivered to him and Woodmancy by said Ryan, purchased the interest, of said Woodmancy in said drugs, retained sole possession and control of all of said drugs, including both the $4000 and the $600' worth of them, and has disposed of all of same except a remnant which is distributed through his drug store in Ladonia, Texas, among the other drugs of his store, and that $600 worth of said drugs at invoice price is not worth over $200.
+“(3a) I find that C. B. Hyde, the defendant, is a credible witness, and that his testimony on the trial was not discredited by me.
+“(4) I find that the mandate of said Court of Civil Appeals to this court commanding this court to observe said order of said Court of Civil Appeals made in said cause of John C. Woodmancy et al., plaintiffs in errorr, v. I. F. Baker et al., defendants in error, was filed in this court on July 10, 1899, that in the month of August, 1899, the plaintiff, I. F. Baker demanded of defendant C. B. Hyde the said $600 worth of said drugs at his store in Ladonia, when the defendant Hyde refused to deliver said drugs. That at said date, said defendant had already sold of said drugs all but said -remnant.
+“(5) I find that long before the filing of this suit said John C. Woodmancy abandoned the State of Texas and ever since has remained absent from the State, and that during this period he has owned no property within this State.
+“My conclusions óf law upon the foregoing findings of fact are:
+“(1) The judgment of said Court of Civil Appeals is mandatory upon this court, and as said judgment establishes the right of plaintiff to' $600 worth of drugs in the possession of defendant, that matter can not be readjudicated by this court.
+"(2) As plaintiff was thus entitled to $600 worth of said drugs, and defendant had disposed of all of said drugs but $200 worth, and by defendant’s own action it is now impossible to find the $600 worth of said drugs which plaintiff is entitled to by said judgment of Court of Civil Appeals, I conclude that the only judgment I can render is one for $600, with 6 per cent per annum interest from the date of the demand made by plaintiff upon defendant, as shown by the foregoing findings of facts.”
+Opinion. — 1. The judgment of the court below was correct in the conclusion that Baker was entitled to $600 worth of the drugs in the stock, and this demand would not be satisfied by the delivery of $200 worth of the stock to be estimated by the cost price, which cost price would be only a small part of the amount required by the obligation. The judgment of the Court of Civil Appeals is conclusive of this question and the court could not go behind it.
+2. The judgment of the Court of Civil Appeals sued on by appellee was shown by the mandate, which set out a copy of the judgment. The mandate is signed by the chief justice of the Court of Civil Appeals, attested by the clerk of the court and its seal.
+There was no error in admitting the mandate and the copy of the judgment therein. It was the final act and order of the court and was admissible. The judgment of the court was, by the terms of the mándate, duly authenticated and certified by the clerk and the presiding justice.
+We find no error in the judgment and it is affirmed.
+Affirmed.
