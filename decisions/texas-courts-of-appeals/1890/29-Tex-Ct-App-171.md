@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3546"
+decided: "1890-11-01"
+citations: ["29 Tex. Ct. App. 171"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. L. McLin v. The State."]
+source_url: "https://static.case.law/tex-ct-app/29/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148935
+---
+
+# McLin v. State
+
+## Majority (WHITE, Presiding Judge.)
+
+WHITE, Presiding Judge.
+Appellant was charged by the indictment with theft from the person. Penal Code, arts. 744, 745. The allegation was that be privately took “from the person and possession ” of one Priddy the property mentioned, “ without the consent and without the knowledge ” of Priddy. To sustain the allegations and make out the case it was incumbent upon the State to prove that the property was taken “ without the knowledge” of Priddy. Priddy himself is the only witness who knew anything about and testified as to the attendant circumstances and the manner of taking. Having told about his going up into the room, lying down with his clothes on and going to sleep, he says: “After I had slept some time I was awoke by defendant putting his hand in my pants pocket, which was tight, where I had my purse with the money in it. I was lying on my back. Ifelt him as he shoved his hand on down into my focket, and he then pulled my purse out of my pocket with the money in it. As he drew my purse and money out of my pocket I caught hold of his hand and took my pocket book from him, and said, ‘that don't go,' and took my pocket book from him and put it back into my pocket and went to sleep again. Defendant was standing by my bed the last I remember before I went to sleep the second time.” It was upon this transaction alone that the State elected to try the defendant. After sleeping about three hours Priddy again awoke and found that his money was gone; had been taken without his knowledge, and he found his empty purse in his vest pocket. This latter testimony was objected to by the defendant upon the ground that it was in fact proving another independent crime, and was not admissible to prove and did not prove either the identity, motive, or intent of the first act or crime of defendant, and because the évidence was calculated to prejudice defendant in the minds of the jury.
+Under the peculiar facts of the case we are inclined to believe that this evidence was admissible both as res gestee and as to the intent and motive of the first transaction, but it is unnecessary to decide that question in order to dispose of the case as made and upon which the conviction rests.
+As before stated, the prosecution elected to stand and claim a conviction upon the first transaction as detailed in the testimony of Priddy above set forth, and the court based the charge given upon and limited the jury to a finding upon that transaction. Moreover, he gave the jury a special instruction requested for the defendant, as follows, viz.: “ The indictment in this cause charges the defendant with theft from the person of W. F. Priddy, without the consent and without the knowledge of W. F. Priddy. How you are charged that if you believe the defendant did take the money from the person of the said Priddy, and you further believe that it was so taken with the knowledge of the said Priddy, or have a reasonable doubt thereof, you will acquit him.”
+We are of opinion that the verdict and judgment are against the evidence and against the law as correctly announced in this instruction.
+In Flynn v. The State, 42 Texas, 301, the pocket book in the pocket of the owner was seized by the accused, who inserted his hand into the pocket without the knowledge or consent of the owner. He had drawn the book half way out of the pocket when, upon being detected in the act, the accused relinquished his hold upon it, and it was held that these facts constituted theft from the person under our statute.
+And so in Green’s case, 28 Texas Court of Appeals, 493, the purse had been taken, and defendant’s offense was complete before the owner knew that the property had been taken from him.
+Hot so in this case. Here Priddy testifies: “I felt him as he shoved his hand on down into my pocket.” He then knew defendant was shoving his hand into his pocket, and he knew this before defendant had taken the purse. Had defendant’s hand taken hold of the purse in the pocket before Priddy knew what defendant was doing, then, indeed, under the Flynn case, supra, the offense would have been complete and the conviction would have been supported by the evidence. But defendant’s offense was not complete, and Priddy knew what he was doing before it was completed—that is, before defendant had taTcen the property. The judgment will have to be reversed because the evidence does not support the allegation in the indictment and is against the law as given in charge.
+In explaining the nature and character of the offense, the court in its charge copied in full the second subdivision of article 745 of the Penal Code, as follows: “The theft must be committed without the knowledge of the person from whom the property is taken, or so suddenly as not to allow time to make resistance before the property is carried away.” This latter portion of said charge was excepted to because it did not conform to the offense charged in the indictment, and stated a ground not alleged upon which defendant could be convicted. Jones v. The State, 22 Texas Ct. App., 680. But for the fact that the patent error was cured in subsequent portions of the charge, where it was sought to apply the law to the facts, the error would have been fatal and have necessitated a reversal. As it is, the error was fully cured when the court came to apply the law directly to the facts, and no possible harm could have been occasioned by “the error. Steagald v. The State, 22 Texas Ct. App., 465.
+Because the verdict and judgment are not supported by the evidence the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Judges all present and concurring.
