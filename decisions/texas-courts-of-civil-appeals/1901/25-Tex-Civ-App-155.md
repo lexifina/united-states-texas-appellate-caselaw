@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-01-30"
+citations: ["25 Tex. Civ. App. 155"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. R. O. Davis v. Homer Wells."]
+source_url: "https://static.case.law/tex-civ-app/25/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2874474
+---
+
+# Davis v. Wells
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+This is an action for libel brought by the appellant against'the appellee, based upon the following letter:
+“Waco, Tex., March 14, 1898.
+■“Mr. R. L. Rosebrough & Son, St. Louis:
+“Gents.—There is a man here by the name of J. O. Davis and who has a nice lot of designs who is selling work through this country in your name, and then going from" shop to shop and has his work done where he can have it done the cheapest and no reputable house will figure with him. I will say your reputation is not benefited in any way by the class of work he has done. There is a small shop owned here by O. J. Miller, who is doing some work for him. Mr. Davis worked for me last year. This is in confidence to you. You may investigate and find out for yourself. Respectfully,
+“Homer Wells."
+The final result of the foregoing letter was injurious to plaintiff, who was at the time soliciting orders for Rosebrough & Son in the .marble and monument business, afterwards incorporated as the Rosebrough Monument Company, and it might be inferred from the testimoney that this communication finally caused his discharge from the monument company. The court instructed the jury that the letter alleged to be libelous was a privileged communication, and the plaintiff "having failed to show malice upon the part of defendant in the publication, to return a verdict for defendant. This was done, and from the judgment rendered this appeal is taken.
+The trial court erred in instructing the jury that the letter was a privileged communication, and that there was no evidence of malice. Generally, it is a question of law whether a communication is privileged, hut cases may arise where, the character of communication becomes a mixed question of law and fact, and in such an instance, it is the duty of the trial court to submit the question to the jury, whether the alleged libelous matter is privileged. “A communication made in good faith upon any subject matter in which the party communicating has an interest, or in reference to which he has a duty, public or private, either legal, moral, or social, if made to a person having a corresponding interest or duty, is privileged.” 13 Am. and Eng. Enc. of Law, 1 „ed., ' 403.
+There are expressions found in some of the opinions of the courts of this State, which when closely scrutinized will be found to be dicta, to the effect that a communication, to become privileged, need not be made by one who rests under some duty to the party to whom the statement is made. These expressions are, in our opinion, opposed to the great weight of authority; especially to the rule announced by the courts of England, which have so frequently construed the common law upon this subject. The true rule, as we understand it, is correctly stated in the above quotation from the American and English Encyclopedia of Law. Cases might arise in which the duty of the party furnishing the statement is so well defined that the law itself .gives character to it; and in such a case the court should determine that the duty existed, as a matter of law, but such is not the case here. Whether the appellee rested under a duty to the parties to whom he addressed the-letter is a question of fact to be submitted to and considered by the jury. The evidence does not disclose any relationship of affinity or consanguinity between the appellee and Bosebrough & Son, nor does it disclose the existence of a friendship between such parties which would rest upon one the moral duty to protect the other; nor does it appear that any fiduciary or business relationship existed between these parties. It is possible that upon another trial some evidence bearing upon this-question may be offered, but in the absence of some such fact showing that the party making the communication rested under a duty to the-other, he must be regarded as a stranger who officiously intermeddles with the business of a third party.
+The information furnished by the letter is not one in which the public or the welfare of society is interested, but wholly relates to transactions-of a private nature.
+If it should be determined that the communication is privileged, exemption from liability will not exist if it was made upon express malice or with a want of good faith. There is some evidence in the record which would warrant the submission of these issues to the jury. We intimate no opinion as to the weight of that testimony, but are content with calling the court’s attention to the fact that there is some evidence which should be considered by the jury bearing upon the question of malice or the want of good faith of the party malting the communication. We distinguish malice from the want of good faith, because the sense in which they are here used does not necessarily imply that they have the same meaning, and the court in charging the jury should instruct them that if the communication was made upon express malice, or if there was a want of good faith upon the part of the party making it, in neither instance would its privileged character protect him. Express malice would possibly include a.want of good faith; but a want of good faith does not necessarily imply that the statement was made upon express malice. The statement may be made without the party entertaining any express malice towards the other, but still there-may be circumstances that would indicate a want of good faith -in making it.
+For the errors pointed out, the judgment of the court below is reversed and the cause remanded.
+Reversed and remanded.
