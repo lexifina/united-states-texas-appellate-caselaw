@@ -1,0 +1,47 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "621"
+decided: "1895-06-19"
+citations: ["11 Tex. Civ. App. 42"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. W. Tempel v. G. M. Dodge et al."]
+source_url: "https://static.case.law/tex-civ-app/11/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 246924
+cites_cases: ["1 Peters 12", "18 Am. Dec., 99", "5 N. Y., 334", "91 Am. Dec., 611"]
+---
+
+# Tempel v. Dodge
+
+## Majority (JAMES, Chief Justice.)
+
+JAMES, Chief Justice.
+Conclusions of Fact. — The Pacific Railway Improvement Company was incorporated in 1879, in Connecticut, and was organized for the purpose of construction of the Texas and Pacific Railway. In the year 1884, the business for which the corporation was formed, viz., constructing railways, was practically completed, the only witness testifying on this subject adding, “but there were quité a number of outstanding matters unsettled,” and we conclude that he meant by this, matters growing out of the construction of the road.
+It appears that its charter provided that, “the officers of this corporatian shall consist of a President, Vice-President, Secretary and Treasurer, and its affairs shall be managed by a board of five directors.”
+A by-law provided that an executive committee shall immediately after the adoption of the by-laws be appointed by the president, and afterwards, after the annual election in each year, consisting of two members in addition to the president. Said committee shall continue in office until after the next annual election, and to said committee shall be. and is hereby committed all the powers of the board of directors; and further provided, that the president should have power to appoint such counsel, etc., as should be necessary for carrying on the business of the company, subject to the approval of the board of directors or executive committee. These constitute all the provisions of the charter and by-laws that the record discloses.
+• There was no executive .committee appointed in 1887, 1888, 1889, and until the one appointed February 25, 1890, which appears to have performed no business, and had no business to perform, but the making of the contract with appellant. From all of which we conclude that all matters of business growing out ’of the construction of railways that were not finished in 1884 were'finished in 1887, when executive committees ceased to be appointed.
+In the year 1881, the company purchased about 17,000 acres of timbered .lands, for the purpose of obtaining railway ties therefrom; this land was paid for by the then President Dodge with corporate funds and the deed was made to Dodge, without objection. In this connection Dodge testified: “The Pacific Railway Improvement Company had an interest in the land when it was purchased^ but had no interest whatever in the land in February, 1890. After the land was purchased, the Pacific Railway Company found that it did not need it. When we came to settle up the affairs of the company, I purchased the land and paid the Pacific Railway Improvement Company for it, and the land has been held by me and has been in my possession and I paid the taxes on it ever since I purchased it.” This testimony was admitted without objection, and is not contradicted.
+On February 23, 1890, C. L. Frost, who had been elected president in 1884, and another, a director by the name of Jno. Adamson, entered into the following contract with appellant E. W. Tempel, a lawyer, to-wit:
+The State oe Texas, )
+County of Tarrant. )
+Know All Men by These Presents :
+That I, C. L. Frost, president of “The Pacific Railway Improvement Company,” a corporation duly incorporated under and by virtue of the State of Connecticut, in the United States, by virtue of the authority in me vested by the by-laws of said corporation, do hereby irrevocably, save for some good legal cause, constitute and appoint, subject to the approval of the executive committee of said corporation, one E. W. Tempel, an attorney, resident in the city of Fort Worth, Tarrant Co., Texas, as counsel of this said “Pacific Railway Improvement Company,” with full power and authority to institute and carry on any suit or suits, either in law or equity, in the name of “The Pacific Improvement Co.,” against its former president, G. M. Dodge, of the City of New York, in the ' State of New York, that may be necessary for the recovery from the ¡said G. M. Dodge, of the City of New York, of about 17200 acres of land, which was purchased in the month of March, 1881, of Máry E. or Mary A. Maverick, of San Antonio, Texas. Reference to said deed is here made for a more accurate description of said land. The Pacific Railway Improvement Company, through its president and executive committee, hereby further authorize and empower the said E. W. Tempel to do any and all lawful acts, requisite or necessary for the recovery of said property. And as consideration or compensation for the services, legally and otherwise to be performed by the said E. W. Tempel, the said Pacific Improvement Company, through its above-named president and executive committee, hereby agrees, covenants, binds and obligates itself to grant, transfer, and convey to the said E. W. Tempel an undivided one-half of all such lands that the said E. W. Tempel may recover, or secure, to the Pacific Railway Improvement Company. And if for any cause the Pacific Improvement Co. fails to execute such deed to such lands as he may recover for said company, or in case any suit, or suits instituted under this authority be compromised without the concurrence of said E. W. Tempel, then this obligation is to operate as a deed of conveyance of one undivided half of all lands he may recover for said company.
+Given under my hand and the seal of this corporation, this 22nd day of February, A. D. 1890.
+C. L. Frost, President.
+John Adamson, Secretary.
+Approved by the Executive Committee.
+C. L. Frost.
+Jno. Adamson.
+The record shows with clearness that this act of two of the directors was done at a time when there was no executive committee, and they had no power to bind the corporation by any act, but afterwards, on February 25, 1890, the president did appoint as an executive committee with himself, John Adamson and Max Elser, also a director, as members, and it appears that the approval as shown at the end of the contract by Frost and Adamson as the executive committee, was made after this appointment, as the result of a meeting called, which the other member, Elser, did not attend, and it appears that Elser declined to have anything to do with the matter. There was no authorization or ratification of this contract by Elser or the directors or the stockholders, but on the contrary it was promptly disaffirmed by them, and the corporation soon afterwards by regular proceedings acknowledged Dodge’s rights to the property and executed to him a release or quit claim deed to the property. This was, however, after the right of Tempel, if any, had vested.
+Tempel had, before the approval of his contract by the two members-of the committee, taken steps to recover the property from Dodge, but the act of the corporation in deeding the property to Dodge put an end to the proceedings that had been begun by Tempel, and he brought this suit against Dodge and the corporation to recover one-half of the property by virtue of his contract. His right to an interest in the property is all that we need consider on this appeal, for he could not have a personal judgment against the corporation for damages for breach of its contract, for the reason that there has been no service that would permit of it, and there was no case made by the evidence for damages against Dodge.
+The court instructed a verdict for the defendant.
+Conclusions of Lato. — From the view we take of the case we will state our conclusion in but one particular. The testimony is, that long before the contract upon which appellant bases his right was made, Dodge and the corporation had a settlement, and that the equitable title of the latter had become extinguished in favor of Dodge. The testimony is ample to establish this fact, lacldng, however, any evidence of a written release or transfer of such equity to Dodge at that time, but we think that such a transaction is not required to be evidenced by writing.
+The corporation having no title to the property, and having no right to recover the same of Dodge, at the time the contract was made with Tempel, it would follow, taking the facts to be as contained in this record, that Dodge had a complete defense against any action that Tempel might have prosecuted for the land under his contract.
+We conclude therefore: 1. That an anterior and superior title is shown in Dodge to the lands, and that he was entitled to a verdict for the same.
+2. The title to the land being in Dodge, any claim of appellant against the defendant corporation would be of necessity of a personal nature, and not in rem, and appellant was not entitled to such relief against the corporation upon service by publication, and such issues, if any, could not be determined in this proceeding.
+Delivered June 19, 1895.
+It is unnecessary to deal with other questions raised in the briefs. The verdict was correct upon the testimony, and the judgment will be affirmed.
+Affirmed.
+Writ of error refused by Supreme Court with written opinion.
