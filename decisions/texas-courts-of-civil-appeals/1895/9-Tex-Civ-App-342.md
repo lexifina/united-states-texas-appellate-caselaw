@@ -1,0 +1,35 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "1623"
+decided: "1895-01-09"
+citations: ["9 Tex. Civ. App. 342"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gulf, Colorado & Santa Fe Railway Company v. Loie John et al."]
+source_url: "https://static.case.law/tex-civ-app/9/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 242255
+cites_cases: ["12 South. Rep., 273", "13 South. Rep., 209", "16 S. E. Rep., 748", "16 S. W. Rep., 926", "17 S. W. Rep., 836", "18 S. E. Rep., 573", "21 S. W. Rep., 138", "21 S. W. Rep., 688", "41 N. W. Rep., 35", "43 Iowa, 396", "53 N. W. Rep., 797"]
+---
+
+# Gulf, Colorado & Santa Fe Railway Co. v. John
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+— By the derailment of a switch engine near Cameron, Texas, the engineer lost his life. His widow and children recovered a judgment in the sum of $8000, as compensation for the loss thus sustained.
+Their contention was, that the defective condition of the track caused the wreck; that it was due to the negligence of the engineer in running too fast. Upon these issues the evidence was conflicting, that of the fireman, brakeman, and a freight clerk who was riding in the caboose of the ditched train, corroborated by some other witnesses, tending to show that the roadbed and track, at the place of the wreck, were in bad condition, with rotten ties, to which the rails were insecurely fastened, and that in consequence, though the train was running at the usual rate of speed of twelve or fifteen miles per hour, the track spread and the train was derailed; that of many other witnesses, however, tending strongly to show that the roadbed and track wrere in a reasonably safe condition, and that the derailment resulted not from the spreading of the track, but from teetering, caused by a reckless rate of speed of thirty or forty miles per hour, while twenty miles was the maximum rate allowed under the rules of the company for trains of that class.
+The verdict of the jury determining these issues in favor of appellees is not, we think, without evidence to support it; and we therefore decline to disturb it.
+Conclusions of Law. — 1. Special exceptions to so much of appellees’ petition as charged a defective condition of appellant’s road at other places than that of the wreck were overruled; but as little or no testimony was offered to support these charges, and the court expressly directed the jury to disregard the evidence as to its condition at any other place than the wreck, the third and fourth assignments of error, challenging the correctness of this ruling on demurrer, would not require the judgment to be reversed. Tel. Co. v. Evans, 1 Texas Civ. App., 297; Tel. Co. v. Carter, 2 Texas Civ. App., 624.
+2. The exception to so much of said petition as charged the reasonable prospect of deceased for promotion in the railway service, and the consequent enhancement of wages, was properly overruled, that being a matter for the consideration of the jury in estimating the damages.
+3. After the deposition of the freight clerk mentioned above had been read in behalf of appellees, without objection, down to and including the answer to ninth interrogatory, which answer disclosed that he had had no experience on railroads or in running trains, appellant moved to exclude the sixth interrogatory and answer, reading: “What caused said locomotive and cars to be derailed? State fully.’-’ “The inferior condition of the ties and the spreading of the track caused the engine and caboose to be derailed, and the accident.” The only ground of objection stated in the bill of exceptions is, that “it appeared from the answer to the ninth interrogatory that said witness was not qualified to testify as an expert.”
+We find nothing in the record to indicate that the evidence was offered as that of an expert; nor did the interrogatory necessarily call for an opinion at all, and certainly not for one apart from a statement of the attendant circumstances within the observation of the witness. It has been several times ruled, both in and out of this State, that a nonexpert witness who knows the facts personally may, in certain cases, give an opinion, after stating the facts upon which such opinion is based; and that the opinion of such nonexpert witness concerning matters with which he is specially acquainted, but which can not be specifically described, is clearly competent. Railway v. Jarrard, 65 Texas, 560; Railway v. Locker, 78 Texas, 279; Railway v. Richards, 83 Texas, 203; 7 Am. and Eng. Encyc. of Law, 496, and notes. For kindred cases denying the admissibility of nonexpert opinions, see Bridge Co. v. Cartrett, 75 Texas, 631; Railway v. Hepner, 83 Texas, 136; Railway v. Thompson, 75 Texas, 501.
+This witness in other portions of his deposition, not objected to, testified, that he was in the caboose of the train at the time of the wreck; that it was running at the rate of about twelve or fifteen miles an hour; that the railway track spread and caused the engine to get off; that the ties were inferior at the place of the accident; that while they were not entirely rotten, they were not sound; and that there were marks on them, as if the engine had been running on the ties for some little distance from where it turned over.
+Having then been permitted — being an eye-witness to the occurrence —to testify, without objection, that “the railway track spread and caused the engine to get off the track,” and to the unsound condition of the ties, it seems to us that even if the objection to the sixth interrogatory and answer had been raised at the proper time and in the proper form, it was not clearly incompetent and prejudicial for him to state further in this connection, as the result of his observations, that the inferior condition of the ties caused the spreading of the track and the derailment of the train.
+4. If the testimony of physicians as to the. expectancy of life was incompetent, which we do not mean to intimate, it but accorded with other evidence establishing that fact, which went in without objection, and would not, therefore, require the judgment to be reversed. Railway v. Kindred, 57 Texas, 500. ,
+5. This brings us to the twenty-fourth and last assignment found in appellant’s brief, complaining that the. court should have charged, that if deceased, at the time of the accident, was- running his engine at a higher rate of speed than that prescribed by the rules of the company, it would preclude a recovery. The refusal of a somewhat similar charge we approved in Railway v. Thompson, 2 Texas Civil Appeals, 170. The charge was also objectionable in that it required the jury to find in favor of appellant in case the maximum rate of speed was exceeded, irrespective of whether that caused the accident.
+The judgment will be affirmed.
+Affirmed.
+Delivered January 9, 1895.
+Writ of error refused.
