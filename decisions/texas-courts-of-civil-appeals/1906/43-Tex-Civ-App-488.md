@@ -1,0 +1,27 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-06-20"
+citations: ["43 Tex. Civ. App. 488"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Coley v. Kansas City Southern Railway Company."]
+source_url: "https://static.case.law/tex-civ-app/43/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4388592
+cites_cases: ["129 Fed. Rep., 347", "186 U. S., 1", "91 Fed. Rep., 224"]
+---
+
+# Coley v. Kansas City Southern Railway Co.
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+Appellant brought this suit against appellee to recover damages alleged to have been received while he was attempting to make a coupling between two cars on appellee’s railroad. He alleged in his petition that the automatic couplers on the cars had been suffered to get out of repair, in that the draw bars and couplers were out of alignment, and that the ends of the cars were brought together, the automatic couplers would not hook and fasten without one of the draw bars being pushed and held in such a position as to meet the draw bar on the other car; that in order to make the coupling he stood outride the rail on one foot, caught hold of the side of the car with one hand and the lever that lifted the pin in the coupler with the other hand, pulled back and outward, reaching in with his foot against the coupler that he wanted to hold in place, and kept his foot there until the ears came together; and just as the coupling was made his foot slipped, catching his toes between the couplers and inflicting the injuries complained of. He alleged that he was the foreman of the crew in charge of one of the switch engines in appellee’s yards in the city of Mena, State of Arkansas, and was engaged in that service at the time he was injured.
+He also alleged that the ears in question were being used in interstate traffic, and that by the terms of a Federal statute, it was the duty of the railroad company to have said cars equipped with automatic couplers that would couple by impact; that it had failed to do so and, by reason of such failure, was guilty of negligence, and that the service which appellant was then attempting to perform was, on account of the failure to furnish such automatic couplers, dangerous and hazardous.
+The Federal statute referred to contains a clause, the effect of which is to cut off the defense of assumed risk when an employe is injured by reason of the failure to equip the ears with the couplers required by that statute; and, it is contended on behalf of appellant, that his case comes within the purview of that statute. The trial court took a different view of the matter; and, after hearing the testimony, instructed a verdict for the railroad, upon the theory that his own evidence made a case of contributory negligence and assumed risk.
+It is virtually conceded on behalf of appellant that unless he has brought his case within the scope of the Federal statute he is not entitled to recover; and this is undoubtedly true, because he stated on the witness stand, in substance, that he knew that it was very dangerous to attempt to make the coupling as he did, and knew that he was involving himself in gre&t risk when he did so.
+It is contended on behalf of appellee that while the Federal statute cuts off the defense of assumed risk, it leaves available that of contributory negligence; and that in this case the testimony fails to show that the cars referred to were being used in interstate traffic, and therefore both defenses were available. The undisputed testimony shows that the cars in question, loaded with steel rails, were shipped from Pueblo, Colorado, to Mena, Arkansas, which is the south end of the northern division of appellee’s railroad. Appellee 'was engaged in putting down new rails on its road. It had them shipped from Colorado and consigned to it at Mena, Arkansas. When they reached the latter point the cars were not unloaded but were put in the yard and held there until the rails were needed as the work progressed, when the cars were forwarded at different times and to different points along the road. The ears in question had been in the yard at Mena for several days when appellant received instructions to prepare them to be carried forward to be used in reconstructing the track, and it was while he was performing that service that he was injured. The place where they were to be used was about twenty miles from Mena, but within the State of Arkansas.
+On this 'state of facts we hold that the cars in question were not engaged in or being used for interstate traffic at the time appellant sustained his injuries. We do not stop to inquire whether or not a railroad engaged in transporting its own construction material is engaged in commerce at all; but, conceding that such a transaction constitutes commerce, we are of opinion that the transaction in question was not at the time appellant was injured interstate commerce. The interstate feature of the shipment terminated when the cars reached Mena. We are unable to distinguish this case from Gulf, O. & S. F. By. Go. v. State, 97 Texas, 274, 78 S. W. Bep., 495, in which our Supreme Court held that the transaction in that case constituted a domestic and not an interstate shipment.
+Ho reversible error has been shown and the judgment is affirmed.
+Affirmed.
