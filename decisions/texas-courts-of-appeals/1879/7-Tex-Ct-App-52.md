@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1879"
+citations: ["7 Tex. Ct. App. 52"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. M. Walker v. The State."]
+source_url: "https://static.case.law/tex-ct-app/7/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4414607
+---
+
+# Walker v. State
+
+## Majority (Winkler, J.)
+
+Winkler, J.
+The appellant was indicted in the District Court, and tried and convicted in the County Court, on a charge of aggravated assault. A motion was made in the County -Court to quash the indictment on the following grounds : First, because it does not appear from the face of the indictment that it was presented in the District Court of Camp County, or in a court having jurisdiction of the offence charged ; second, because there is no certified transcript of the proceedings in the District Court; third, because what purports to be the transcript fails to show that the indictment was found by the grand jury of the county, and by it “ presented to the District Court as required by law, a quorum of said jury being present at the time and, fourth, because what purports to be the transcript of said case is not under the seal of the District Court, and is insufficient in law without it.
+The motion to quash the indictment was overruled, and a bill of exceptions taken to the ruling, which presents the only matters upon which reliance is placed for a reversal of the judgment.
+The first ground of the motion to quash arises upon the face of the indictment. The precise objection to the indictment is that it does not contain one of the essential qualities required by the Code, thus : “ It must appear therefrom that the same was presented in a court having jurisdiction of the offence set forth.” Code Cr. Proc., art. 395, subd. 2 ; Rev. Code Cr. Proc., art. 420, cl. 2. The present clause is : “It must appear therefrom that the same was prosecuted in the District Court of the county inhere the grand jury is in session.” The clause of the article first above set out was the law in force when the proceeding under consideration took place, and by it the sufficiency of the indictment must be tested. The objection is not one of substance, and does not go to the foundation of the prosecution ; but, being taken advantage of in time for the omission to have been supplied by amendment, the motion to quash should have been sustained. Hauck v. The State, 1 Texas Ct. App. 357 ; Long v. The State, 1 Texas Ct. App. 466; Bosshard v. The State, 25 Texas (Supp.), 207 ; The State v. Hilton, 41 Texas, 565; Matthews v. The State, 44 Texas, 376. For the rules relating to amending indictments or informations, in matters of form, see Rev. Code Cr. Proc., art. 549 et. seq.
+Another ground of objection is to the effect that the record does not show that the indictment was presented in the District Court by the grand jury, a quorum thereof being present. By art. 389, as amended by act of May 25, 1876 (Gen. Laws 1876, sect. 8), it is provided that “the fact of the presentment of the indictment in open court by the grand jury shall be entered upon the minutes of the proceedings of the court, noting briefly the style of the criminal action and the file-number of the indictment, but omitting the name of the defendant unless in custody or under bond.” This was the law in force at the time the indictment purports to have been presented. The law now in force is the same. Code Cr. Proc., art. 415. This duty should not have been omitted. Hardy v. The State, 1 Texas Ct. App. 556.
+The other grounds of the motion relate to the manner of certifying the proceedings had in the District Court to the County Court, the principal objection being that the certificate is not under the seal of the District Court. The seal of the District Court “shall be used to authenticate the official acts of the clerk.” Rev. Civ. Stats., art. 1131. The act of August 12, 1876, required “ that, at the end of each term of the District Court of each county in this State, the district judge shall make an order transferring all criminal cases over which the District Court has no jurisdiction to-the several courts in the county having jurisdiction over the respective cases, and shall state in his order the causestrausferred and to what courts they are transferred; ” and that the clerk of the District Court shall deliver the indictments and all papers relating to each case to the proper court or justice, as directed in said order, and accompanying each case with a certified copy, etc. Gen. Laws 1876, p. 135. These provisions were substantially regnacted and embraced in the Revised Code of Criminal Procedure, arts. 435,437. What purports to be a transcript of the proceedings had in the District Court in the present case is as follows: —
+“The State op Texas. No. 206. Aggravated assault and battery. November Term, 1879. District Court, Camp County, Texas.
+“ Ordered by the court that this cause be transferred to the County Court of Camp County, and that the clerk certify the papers, and cost of same. I certify that the above is a true copy of the case as it remains on the minutes of said District Court. Clerk’s fees, $2.
+[Signed] “ J. T. Bohannon,
+‘‘ District Clerk. ’’
+This does not purport to be certified-as a transcript from the records of the District Court, embracing all that appears on the record. Among other things, it does not show that the indictment was returned into, the District Court by the grand jury. But besides this the document is not authenticated by the seal of the District Court. If it had been full and complete in other respects, it was not entitled to be considered, for the want of a seal.
+The court erred in overruling the motion to quash the indictment, which error should have been corrected on the motion for a new trial; and for this the judgment must be reversed and the case remanded.
+Reversed and remanded.
