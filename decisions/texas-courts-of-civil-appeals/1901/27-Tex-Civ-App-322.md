@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-11-07"
+citations: ["27 Tex. Civ. App. 322"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. W. Hunt and Wife v. G. W. Glasscock et al."]
+source_url: "https://static.case.law/tex-civ-app/27/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2885912
+cites_cases: ["43 S. W. Rep., 1045"]
+---
+
+# Hunt v. Glasscock
+
+## Majority (UEILL, Associate Justice.)
+
+ON MOTION TO STRIKE OUT APPELLANT’S BRIEF.
+UEILL, Associate Justice.
+This appeal was perfected by appellants’ filing a cost bond in the District Court on the 24th day of May, 1901; the transcript of the record was filed in this court on the 27th day of June, and a copy of appellants' brief was filed in the court below, and -copies in this court on the 12th day of October, 1901. The court at its last term adjourned on the 28th day of June, and the present term convened on the 7th day of October, 1901.
+In any appeal or writ of error the appellant or plaintiff in error is required to file the transcript with the clerk of the Court of Civil Appeals within ninety days from the perfecting of the appeal or service of the writ of error; provided, that for good cause the court may permit the transcript to be thereafter filed upon such terms as it may prescribe. Rev. Stats., art. 1015.
+“Hot less than five days before the time of filing the transcript in the Court of Civil Appeals the appellant or plaintiff in error shall file with the clerk of the district court a copy of his brief, which shall be by the clerk deposited with the papers of the cause, with the date of filing indorsed thereon, and the clerk shall forthwith give notice to the appellee or defendant in error, or his attorney of record, of the filing of such brief, and that in twenty days after such notice the appellee, or defendant in error, shall file a copy of his brief with the clerk of the Court of Civil Appeals, four copies. Rev. Stats., art. 1417.
+“When a cause is carried to the Courts of Civil Appeals, * * * it shall be docketed in the order of the date received, and the clerk shall transfer said cause to the trial docket thirty days after the same has been received and docketed. * * * Causes on the trial docket of said court shall be heard in the order of of date of filing, except," etc. Rev. Stats., art. 1022.
+“The trial docket will be called in regular order, according to the filing of the cases as they stand thereon, commencing with the first of those that have not been previously submitted." Rule 20, Ct. Civ. App. “Upon the call of the trial docket for the submission of cases either party may submit a cause if it appears to have been properly prepared for submission on his part, unless for good cause,” etc., Rule 21, Ct. Civ. App.
+The failure of appellant or plaintiff in error to file an assignment of errors and briefs in the lower court and in the appellate court in the time and in the manner prescribed by law and by the rules shall be ground for dismissing the appeal or writ of error for want of prosecution, by motion made by appellee or defendant in error, or other motion under rule 8, unless good cause is shown why it was not done in time and manner prescribed, and that they have been filed in such time and under such circumstances as the appellee or defendant in error has reasonably not suffered any material injury in the defense of the cause in the appellate court. In deciding such motion the court will give such direction to the case as will cause the least inconvenience or damage from such failure, so far as practicable. Rule 39.
+The Supreme Court construing article 1417, Revised Statutes, in Railway v. Holden, 93 Texas, 211, says: “We are of opinion that the statute means that appellant or plaintiff in error shall file his brief five days before the transcript is actually filed in the Court of Civil Appeals.” This construction is given regardless of when the transcript is filed, so it is filed within the time required by statute. “The object of the law,” says the court, in the case cited, “was to afford the appellee or defendant in error a convenient opportunity and sufficient time to prepare his brief in answer to that of his adversary. We do not think that it was the purpose of the Legislature to authorize a dismissal of the appeal on account of every slight departure from the rule. It was doubtless intended that in case of a failure to comply with the provisions the court should give such directions to the ease as to secure to the appellee the substantial benefits intended to be secured to him by the act. The Legislature contemplated no greater penalty when there was neither a willful nor grossly negligent infraction of the rule.”
+As the transcript was filed here on the 27th of June, to have complied with the statute a copy of their brief should have been filed in the District Court on the 21st of that month. If, then, notice of its filing had have been issued and served at once on appellees, they would, if they had complied with Revised Statutes, article 1417, have filed their briefs on the 12th day of July and the cause would have been ready for submission on briefs of both parties when this court convened. Or, if appellants had taken the entire time allowed for filing the record, which would have expired on the 22d of August, their briefs should have been filed on the 17th of that month. This would have required appellees to file their briefs, if they had been served at once with notice, on the 7th of September, and the cause could still have been submitted during the first week of the term. As it is, the brief not being filed until the 12th of October, appellees, if they had been served at once with notice, would not have been required to file their briefs until the 2d day of November, which would necessarily have delayed the submission of the cause on briefs of both parties.
+In the absence of any excuse for this delay, we are constrained to hold that it is a grossly negligent infraction of the statute as well as of the rules of this court. And for such gross negligence we have deemed it our duty to grant this motion and dismiss the case for want of prosecution. Railway v. Killingsworth, 43 S. W. Rep., 1045.
+Motion granted and cause dismissed.
+Dismissed.
+Writ of error refused.
