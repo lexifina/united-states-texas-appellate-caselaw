@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1899-05-24"
+citations: ["21 Tex. Civ. App. 361"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. Lawson, Guardian, et al., v. Estate of J. P. J. Dawson."]
+source_url: "https://static.case.law/tex-civ-app/21/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277052
+---
+
+# Lawson v. Estate of Dawson
+
+## Majority (RAIISTEY, Associate Justice.)
+
+RAIISTEY, Associate Justice.
+This is a contest over the probate of the will of J. P. J. Dawson, deceased; the contention of appellants being that the instrument sought to be probated was not executed with the formalities and solemnities and under the circumstances required by law to make it a valid will. The instrument was entirely in the handwriting of J. P. J. Dawson, deceased, and began as follows: “State of Texas, County of Hunt. — Be it known, that I, J. P. J. Dawson, being of sound mind, growing feeble in body and knowing the uncertainty of life, do of my own choice and in my own handwriting make this, my last will and testament subject to change in case of my life being prolonged.” Then follows further provision making bequests to some of his heirs and excluding others. The instrument is not signed or subscribed otherwise than in the manner as above shown.
+The evidence shows further that a short time after said Dawson’s death, and on the same day, at the instance of a daughter of the deceased, who is a beneficiary in the will, two parties made a search for the will and found it in the deceased’s trunk, in a paper box, with his deeds and other papers. The trunk was locked and the key was in his pants pocket, which were hanging at the head of his bed. It is further shown that deceased was of sound mind until he commenced dying, and the will disposed of all his property. The instrument being in the handwriting of the deceased, taken in connection with the statements made and the nominating clause of the instrument, and the evidence as to where it was found, etc., in our opinion fully shows 'that it was the intent of said Dawson at the time it was written that it should constitute his final will and testament, and that it is valid as such.
+Article 5335 of the Revised Statutes provides that, “Every last will and testament except where otherwise provided by law, shall be in writing and signed by the testator or by some other person by his direction and in his presence, and shall, if not wholly written by himself, be attested by two or more credible witnesses above the age of fourteen years subscribing their names thereto in the presence of the testator.” Article 5336 provides: “Where the will is wholly written by the testator the attestation of the subscribing witnesses as required by the preceding article may be dispensed with.” The authorities make a difference between the words “signed” and “subscribed.” Where, under the statute, the term “signed” is used, it is held that where the party writes his name either in the body or at the foot or end with the intent to'execute the instrument, that it will be sufficient for that purpose. Where the term “subscribed” is used, however, it is held that the name must be signed at the foot or end of the instrument in order to constitute an execution thereof.
+The English statute of frauds (29 Car. II, chap. 3, see. 19) required the realty of land to be in writing and signed by the testator or by some other person in his presence and by his direction. Under this statute the English courts held that “the place of signature is of secondary consequence, provided that wherever the testator may have chosen to place his name, he meant it to stand for his final signature and thereby authenticate the entire instrument as propounded.” As the statute did not require the signature to be subscribed, it was held that “a will in the testator’s own handwriting commencing, 'I, John Stiles, do declare this to be my last will,’ etc., was sufficiently 'signed’ within the statute, although not subscribed with his name.” The statute of England was changed in 1838 (1 Vict., chap. 26, sec. 9); so as to require such instruments to be signed by the testator at the foot thereof, or by some person in his presence and by his direction. Am. and Eng. Enc. of Law, p. 160; Woerner, Admin., sec. 39.
+In the States where the places of signature is not designated, the rule adopted under the English statute of fraud (29 Car. 11, chap. 3) prevails. Many of the States have by statute required such instruments to be subscribed, and where it is not so done the instrument is not valid. Our statute on the subject does not designate the place of signature, but merely requires that it be signed. We are therefore of the opinion that the place where the party affixes his signature is of secondary consequence, if it sufficiently appears that the intent to execute was present at the time. Fulshear v. Randon, 18 Texas, 275; Newton v. Emmerson, 66 Texas, 142.
+There is no error in the judgment probating the will, and it is affirmed.
+Affirmed.
