@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1896-10-31"
+citations: ["14 Tex. Civ. App. 542"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Owens v. Thomas A. Hord et al."]
+source_url: "https://static.case.law/tex-civ-app/14/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 267314
+---
+
+# Owens v. Hord
+
+## Majority (LIGHTFOOT, Chief Justice.)
+
+LIGHTFOOT, Chief Justice.
+This suit was brought by appellant to foreclose a mechanic’s lien on certain property in Oak Cliff. Defendants, after general answers, set up separate ownership in the property in K. E. Hord, the wife, and pleaded homestead. There was a recovery by plaintiff below for the debt, but a refusal of judgment foreclosing the mechanic’s lien, from which the plaintiff has appealed. A more specific statement of the issues will appear under the assignments of error considered.
+1. The first assignment of error is as follows: “The court erred in overruling plaintiff’s special exception to that part of defendant K. E. Hord’s answer, in which said defendant attempts by paroi testimony to explain and modify the deeds under which she claims, so as to engraft upon the said property a trust to the detriment of appellant, who is an innocent lien holder on same, without notice, in this:—the deeds under which she claims said land as her separate property, show on their face that said land is the community property of defendants Thomas A. Hord and K. E. Hord, and said defendant set up in her answer that she inherited from her grandfather’s estate $800, and from her father’s estate $500, and that she loaned same to her husband, Thomas A. Hord; that there was an understanding between them that he was to pay it back, and in compliance with that understanding he agreed with her to have said land conveyed to her, so as to vest in her a separate estate to said land; that she trusted her husband, Thomas A. Hord, to have said conveyance made in such manner, and that she supposed that the same was done, until her attention was called to it, after the institution of this suit.”
+This assignment of error is not well taken. The answer of K. E. Hord alleged that the land was her separate estate and that, from the deeds, it appeared to be community property, and that it was the home, stead of the family, “all of which was well known to the plaintiff at the time he charges said lumber and other articles contained in his said account were sold,” etc.
+The proposition of appellant announces a correct theory, but it is not applicable. If the deeds show the title to be in the community estate, but the party dealing with it has actual notice that it is the wife’s separate property, he cannot claim ignorance of the fact. Parker v. Coop, 60 Texas, 111. The answer presents an issue.
+But the record does not disclose that appellant’s exception was ever acted upon by the court, and the position could not, under such circumstances, be made available, even if the answer was defective.
+2. The second assignment of error is as follows: “The court erred in refusing to allow appellant to introduce the itemized account with the attached affidavit and the certificate of the county clerk showing that same had been duly recorded according to the terms of law, fixing his mechanic’s and material man’s lien upon said land and improvements, as shown by appellant’s bill of exceptions No. 1.”
+The bill of exceptions shows that appellees objected to the introduction of the evidence showing the mechanic’s lien, on the ground, “that the improvements (into which his said material went and became a part) upon said land were not sufficiently described, which objection was by the court sustained.”
+The account and affidavit describing the property on which the lien was sought were duly recorded, and were in exact conformity with the Revised Statutes, article 3166, and the land on which the improvements were located fully described by metes and bounds,.and closes qut as follows: “And this affiant claims a lien on said house, barn and fence and other improvements, and upon said land.” Appellees claim that it was. necessary to give a more definite description of the improvements. Appellant offered to prove that the house, barn and fencing on which he had fixed the lien were the only improvements on the lots, and that the material so furnished by him was the only material out of which such improvements were made, that the land was vacant at the time he sold the material, and there are no other improvements now on the land.
+The court erred in excluding the evidence. Revised Statutes, article 3167, provides as follows: “Both the contracts and accounts, when filed and recorded as above provided, shall be accompanied by a description of the lands, lots, houses and improvements made against which a lien is claimed.” In the case of Swope v. Stantzenberger, 39 Texas, 387, the description given was, a house situated upon the upper part of a tract of land described in a certain deed “recorded in Book G, on pages 157, 158 of the county records of Guadalupe County,” and it was held to be sufficient. That decision was rendered under the mechanic’s lien act of 1876; but the section in regard to description was in the exact language of our present statute. See also, Stuart v. Broome, 59 Texas, 466; Gillespie v. Remington, 66 Texas, 108; Seholes v. Hughes, 77 Texas, 482.
+In the last named case the rule recognized by Mr. Phillips is laid down: that if there is enough in the description to enable a party familiar with the locality to identify the premises intended to be described with reasonable certainty, it is sufficient. Phillips on Mechanic’s Liens, sec. 379. .
+Here we have a lien claimed on both the lots and the house, barn and fencing situated, thereon. The lots are clearly described by metes and bounds, and the house, barn and fencing are situated thereon. The testimony was clearly admissible, and the court erred in excluding it.
+The other testimony offered by appellent, as shown by his third, fourth and fifth assignments of error, was excluded by the court on the ground that no mechanic’s lien had been shown, and on that ground, we must hold that all of these assignments are well taken. The testimony was not objected to on any other ground, and we have not considered any other.
+For the errors indicated, the judgment is reversed and the cause remanded for a new trial.
+Reversed and rema/nded.
