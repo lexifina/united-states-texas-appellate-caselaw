@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1904-10-29"
+citations: ["37 Tex. Civ. App. 49"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. R. Casey v. St. Louis Southwestern Railway Company."]
+source_url: "https://static.case.law/tex-civ-app/37/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4379857
+cites_cases: ["139 U. S., 136", "139 U. S., 76", "55 S. W. Rep., 189"]
+---
+
+# Casey v. St. Louis Southwestern Railway Co.
+
+## Majority (RAINEY, Chief Justice.)
+
+RAINEY, Chief Justice.
+Suit by appellant to recover from appellee damages to a certain lot of cattle, shipped over appellee’s road. The grounds alleged were: (1) The failure to. have and maintain at Hillsboro, adequate, sufficient and proper pens; (2) the failure to unload all of said cattle into adequate and fit pens and to feed and water them; (3) the failure to properly care for said cattle; (4) the consequent breach of duty in subjecting the cattle to the conditions named.
+Appellee plead a clause in the contract requiring appellant to feed, water, etc. The shipment arrived at Hillsboro about 6:30 p. m., on February 5th, and a request was made to appellant to receive and unload, which was refused; that the shipment was unusually large and unprecedented, and such as it had never received for delivery there since the construction of the road; that upon arrival it unloaded six cars into its pens, and they had no other means of holding the others except upon the cars; that appellant was negligent in not receiving the cattle when tendered, he knowing at the time when the cattle were delivered at McGregor, that its pens were insufficient to hold the entire shipment, and that all of said cattle were in sound condition when finally delivered. That appellant was guilty of negligence in shipping over, its line instead of over the Missouri, Kansas & Texas Railway, a more direct route.
+Appellant, by appropriate plea in supplemental petition, rebutted the answer of appellee. A trial resulted in a verdict and judgment for the railway company.
+Conclusions of Fad.—Appellant shipped 510 head of cattle from San. Angelo to Hillsboro, over the Gulf, Colorado & Santa Fe Railway, to McGregor, and from thence over the line of appellee to destination. The cattle arrived at Hillsboro about 6:30 p. m., February 5th, and tender made, but not then received by appellant. In deference to the verdict we find the appellant negligent in not receiving the cattle when tendered. Six cars were unloaded in appellee’s pens, which were inadequate for the shipment, and the others remained on the cars all night. The cattle were damaged some by reason of insufficient pens and being held in the cars, -but the shipment was larger than the company was authorized to anticipate, and the company did all that was necessary under the conditions existing.
+Conclusions of Law.—1. The first and second assignments complain of the third and sixth paragraphs of the court’s charge, which assignments are not well taken. The charge, when considered as a whole, sufficiently presented appellant’s case in the particulars complained of, and if further instructions were desired, they should have been requested.
+2. The court gave the following special instructions: “The defendant in this cause was, under the law, only required to have such pens for delivering cattle as, according to custom and usage, was ordinarily and reasonably sufficient for the ordinary and usual volume of business at Hillsboro, of the defendant, to reasonably and safely unload said cattle, considering ordinary and usual number and amount of cattle that defendant had theretofore handled or might reasonably expect to handle for unloading and delivering; and if you find defendant’s pens were reasonably sufficient for its ordinary run of business, then in this case defendant would not be liable for any damages that might have resulted to plaintiffs cattle, if any, on account of not having larger cattle pens, or pens large enough to hold all of the plaintiff’s cattle at one time.” This is assigned as error, and one proposition only is submitted, which is as follows: "In respect to the loading and unloading of live stock, it is the duty of a carrier to furnish such facilities as are reasonably sufficient to meet and accommodate the necessities in that regard of the particular locality in question.” And it is contended that "the carrier must anticipate the conditions arising from the general volume of such business at that point and be ready to meet them by adequate equipment, and the extent of that equipment must be reasonably sufficient to accommodate the size of such shipments as are ordinarily tendered, not to it alone, but to carriers generally at that point.”
+We think the court presented the true rule to govern carriers in such cases. While carriers must look to the volume of business at the particular point, yet they are only to anticipate and make suitable provisions for the amount they will probably receive. The number of cattle . shipped over any particular road depends upon the cattle industry of the country through which it runs, its relations to the cattle markets, etc., and what other roads do in that regard does not control, unless the particular roads are so situated as to reasonably expect all or a part of such business. Take Chicago, for instance. We apprehend that roads entering Chicago from the east do not handle near the number of cattle that those do entering from the west, hence it would not be reasonable for the eastern roads to make the same provisions for handling cattle as those from the west; hence a road is only required to anticipate and make reasonable.provision for the volume of business that will be done by it or that might be reasonably expected.
+The judgment is affirmed.
+Affirmed.
+Writ of error refused.
