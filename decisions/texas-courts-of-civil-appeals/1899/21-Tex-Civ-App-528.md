@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1899-06-10"
+citations: ["21 Tex. Civ. App. 528"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pennsylvania Fire Insurance Company v. B. F. Moore."]
+source_url: "https://static.case.law/tex-civ-app/21/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277120
+cites_cases: ["101 Ala., 634"]
+---
+
+# Pennsylvania Fire Insurance v. Moore
+
+## Majority (FINLEY, Chief Justice.)
+
+FINLEY, Chief Justice.
+This suit was instituted in the County Court of Grayson County, Texas, by B. F. Moore, the appellee, against the Pennsylvania Fire Insurance Company, the appellant, to recover the contents of a certain insurance policy insuring the appellee against loss or damage by fire on certain grain in a sum not exceeding $500.
+On a trial before the court, without a jury, judgment was rendered oh March 23, 1899, for the sum of $500, with interest from February 15, 1899, at the rate of 6 per cent per annum, which was the full amount of the policy sued on. The insurance company has appealed.
+The only issue involved in this case is, whether what is known as the "coinsurance clause,” as contained ini the policy of insurance sued on, is a valid stipulation. It is agreed in the statement of facts that if the said clause is invalid the judgment of the court below should be affirmed, and that if it is valid the judgment should be reversed and reformed in favor of the appellee for the sum of $449.06, with interest at the rate of 6 per cent per annum from February 15, 1899.
+The clause in question is as follows: "It is understood and agreed to be a part of the consideration of this policy and the basis upon which the rate of premium is fixed, that the assured shall maintain insurance on each division of property as per division of this policy to the extent of the actual cash value thereof; and failing so to do, shall be an insurer to the extent of such cleficit, and in that event shall bear his, her, or their proper proportion of any loss.”
+In Ostrander on Fire Insurance, section 208, the principle involved in the restriction of liability here in question is recognized as valid. That author says: “It is competent for the insurance company to limit its liability in respect to any particular risk to such proportion of the loss as the sum insured bears to the value of the whole property covered; it being the obvious intention of such stipulation to cause the insured to become mutually interested with the insurer in partial losses, and thereby to secure greater care and watchfulness in the protection of the property.” The text is supported by citing Christian v. Insurance Company, 101 Ala., 634, 14 Southwestern Reporter, 374. The case cited fully sustains the proposition announced by the text-writer. • Discussing such clause, that court said: “We do not concur in the proposition that the clause is unreasonable and unjust, and for this reason ought not to be sustained. True, the amount of property which an open policy, — or “blanket policy,” as it is sometimes called, — of this character could be made to cover, under some circumstances, might be so valuable that a recovery for loss by fire would not be commensurate with the premium paid, but this condition can not occur except by the voluntary action of the insured. The amount of the insurance is $900. By not permitting the value of the property insured to exceed the amount of the insurance, the entire loss is recoverable. If the whole property insured had not exceeded $900 the entire loss would be recoverable under the provisions of the policy. The risk the insured carries, under the provisions of this policy, is increased in proportion as he increases the value of the property covered by the policy beyond the amount of the insurance, and the extent of the liability of the insurer is proportionately diminished. We know of no rule of law or public policy which prohibits an insurance company from limiting the risk it will carry. Its premiums, in great, part, are -regulated by the amount of risk. If the insured had taken out a policy for $1800, — an amount equal in value to the whole property covered by the policy at the time of the fire, — the company would have been liable for the whole of the loss.”
+Such limitation of indemnity has long been applied to marine insurance, and we see no sound reason why it should not be applied to fire policies, when the contract expressly so- provides. In Richards on Insurance, treating of this restriction in marine insurance, at section 23, it is said: “Sometimes by the attachment of a coinsurance clause the fire policy is made to resemble the marine contract in that respect. Otherwise in fire insurance, where the property is only partially covered by insurance, the insured recovers in case of partial loss under the policy as much as though he had been paying premiums for full insurance, whereas in reality he has only been paying premiums for part insurance.” The authority just quoted recognizes the principle involved here to be the same as that pertaining to average in marine insurance, which is universally sustained.
+The contention of appellee, that the restriction is unreasonable and contrary to public policy, is not sustained by authority, and in-our judgment there is no good reason upon which to base a decision to that effect, and we therefore hold the clause valid.
+The judgment will be reformed and affirmed at appellee’s cost, according to the terms of the agreement.
+Reformed and affirmed.
