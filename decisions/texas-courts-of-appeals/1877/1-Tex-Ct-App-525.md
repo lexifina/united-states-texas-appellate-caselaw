@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1877"
-citations: ["1 Tex. Ct. App. 525", "1 Tex. Ct. App. 586"]
+decided_precision: "year"
+citations: ["1 Tex. Ct. App. 525"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Lewis Martin v. The State."]
 source_url: "https://static.case.law/tex-ct-app/1/cases/0525-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 123793
-cites_cases: ["105 Mass. 588", "16 Wend. 53", "8 Mass. 107", "8 Pick. 354"]
+cites_cases: ["105 Mass. 588", "8 Pick. 354"]
 ---
 
 # Martin v. State
