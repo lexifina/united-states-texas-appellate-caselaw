@@ -1,0 +1,34 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "130"
+decided: "1893-05-03"
+citations: ["3 Tex. Civ. App. 378"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of El Paso v. James A. Ashford."]
+source_url: "https://static.case.law/tex-civ-app/3/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 220952
+cites_cases: ["1 Ohio St., 431", "112 U. S., 88", "15 Pet., 141", "19 Kans., 570", "19 N. W. Rep., 413", "31 Am. Dec., 517", "5 N. Y., 424"]
+---
+
+# City of El Paso v. Ashford
+
+## Majority (FISHER, Chief Justice.)
+
+FISHER, Chief Justice.
+Appellant’s first and second assignments of error complain of the refusal of the court to sustain demurrers addressed to the answer of appellee and to his petition in his suit against the city.
+The case made by the pleadings of appellee is, that the compensation of 5 per cent allowed by the city was for assessing and collecting the tax for each year; that this amount so allowed was 5 per cent on the amount of taxes collected; that as he had assessed the taxes for the year 1887, that the services so rendered in making such assessment was reasonably worth 3a per cent of the 5 per cent commission allowed; that as his term of office expired in August of 1887, and although the taxes were collected by his successor in office for that year, he was nevertheless entitled to compensation for the services rendered in making and preparing the assessment rolls by virtue of which the collection of the taxes was accomplished. In these allegations, in which he seeks his relief against the city, he states, that he was put to expense in the employment of a clerk, whose services were necessary to his assistance in preparing the assessment rolls, and that he incurred other expense in the preparation of such rolls, enumerating in his pleadings the items thereof.
+We do not understand from these allegations that he seeks to recover compensation from the city for .the expense incurred in clerk hire and the preparation and the completion of the tax rolls, but that these facts were simply alleged as matter of inducement showing that his services in the making and preparation of the tax rolls was reasonably worth the 3-J per cent of the 5 per cent commission allowed to the assessor and collector. He asked for no judgment upon these items, nor was any so rendered. The basis of his claim "was that his entire services as assessor, in proportion to the entire amount of the 5 per cent commission allowed by law to the assessor and collector, was the sum of 3-J per cent."
+The next question raised by the demurrers is, can the appellee maintain his action for a proportionate share of the 5 per cent commission as compensation for services rendered in making the assessment, or shall the entire amount of the commission go to the assessor and collector that actually collects the taxes ?
+It is apparent from the ordinances of the city providing compensation for its assessor and collector, that the 5 per cent should be compensation for assessing as well as collecting, and that it shall be determined by the amount of taxes collected. The evident purpose was to provide a compensation for the assessor as well as the collector; and in reaching this result, it makes no difference whether the taxes were collected by the incoming or the outgoing officer. It is true that the ordinance did not undertake to provide what per cent of this amount should be paid as compensation for assessing and as compensation for collecting the taxes. The ordinance contemplated that the functions of the two offices should be performed by one incumbent. The functions performed by the assessor are entirely different from the functions performed by the collector, although those duties are required to be performed by one man.
+To determine in this case that the compensation allowed the assessor and collector for the performance of those separate duties should go to the incumbent that actually collected the taxes would have the effect of depriving the assessor of compensation for the services rendered in preparing the assessment rolls. Such a construction would evidently be a perversion of the ordinance that allowed compensation to the assessor. As to what per cent of the commission allowed the assessor would be entitled to, is an amount to be determined and adjusted by the facts in the particular case. The facts in this case very clearly demonstrate that the value of the services in making and preparing the assessment rolls is reasonably worth the sum of 3per cent of the 5 per cent commission allowed by law.
+The question of compensation in this case is in some respects governed by the law of apportionment. Here are two parties—that is, the outgoing assessor and the incoming collector—entitled to compensation out of a particular fund. The question arises, how shall this fund be apportioned between the two ? In arriving at an equitable apportionment, it is very necessary to consider the question of cost, labor, and expense, and the services rendered by each in the performance of the duties connected with the office. The evidence in this case is very satisfactory and to the point, that the services rendered by the assessor are worth more than the services rendered by the collector, and that the sum of 3-¡- per cent of the 5 per cent commission allowed by the ordinance is no more than a reasonable compensation to the assessor and a fair apportionment of the entire commission.
+We think the /charge of the court presenting these views of the question to the jury was proper.
+It is further insisted, that the item claimed by appellee of $200 for services rendered in the sidewalk matter is illegal, because there was no compensation allowed or fixed therefor by the city.
+This may be true, but' it is a question we do not undertake to decide, as we deem it unnecessary, because the jury in arriving at their verdict evidently did not consider it and include it in their estimate of the compensation that the appellee was entitled to; for the uncontradicted evidence in the record shows that appellee’s services in making the assessment rolls was reasonably worth the sum of 3-J- per cent of the 5 per cent commission allowed by the ordinance, and that the amount of taxes actually collected on said rolls was the sum of $46,042. A mathematical calculation will show, that according to the undisputed evidence in the record the appellee was entitled to the sum of $1611.49—$161.14 more than he was allowed by the verdict of the jury. This sidewalk item is separate and distinct altogether from that in which he seeks compensation for the preparation of the assessment rolls.
+We find no error in the record, and affirm the judgment.
+Affirmed.
+Delivered May 3, 1893.
+Motion for rehearing refused.
