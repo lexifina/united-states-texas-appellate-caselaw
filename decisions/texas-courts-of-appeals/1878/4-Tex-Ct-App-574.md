@@ -1,0 +1,32 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["4 Tex. Ct. App. 574"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Curry v. The State."]
+source_url: "https://static.case.law/tex-ct-app/4/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4418265
+cites_cases: ["14 Ga. 55"]
+---
+
+# Curry v. State
+
+## Majority (Ector, P. J.)
+
+Ector, P. J.
+The first point which we propose to notice in this case is raised by the appellant on a motion in arrest of judgment. It is insisted, on the part of appellant, that the indictment is not sufficient to charge an assault with intent to rape. The indictment, after charging the defendant with the commission of an assault upon one Sophia Washington, in the usual form, giving time and venue, states that defendant did “ attempt by force to have carnal kuowledge of her, the said Sophia Washington, without the consent of the said Sophia Washington, and that said Henry Curry did then and there, in the manner and by the means aforesaid, willfully, unlawfully, and feloniously attempt to ravish and have carnal knowledge of her, the said Sophia Washington, against the will and without the consent of the said Sophia Washington,” etc. Although the word “ intent ” is not used by the pleader, the offense is so particularly described that the intent with which the assault was made sufficiently appears.
+The same question was before the Supreme Court of Georgia, and the court says :
+“ Is there any difference between an assault with attempt to ravish and assault with intent to ravish ? We do not deny that there is a distinction between an intent and an attempt to do anything. The former implies the purpose only; the latter, an actual effort to carry that purpose into execution. But the question is whether, in crimes which require force as an element in their commission, there is any substantial difference between an assault with intent and an assault with intent to perpetrate the offense? We think not.” Johnson v. The State, 14 Ga. 55.
+In the case at bar the prime elements are stated, to wit: ‘ ‘ forcibly and against her will carnally to know the said Sophia Washington.”
+Our Penal Code, in defining the offense of which the appellant was tried and convicted, uses the words intent and attempt interchangeably. We believe that the indictment charges the offense substantially in the language of the Code defining it, and that is sufficient. . “ Rape is the carnal knowledge of a woman without her consent, obtained by force,” etc. Penal Code, art. 523.
+“If it appear on the trial of an indictment for rape that the offense, though not committed, was attempted by the use of any of the means spoken of in articles 524, 525, and 526, but not such as to bring the offense within the definition of an assault with intent to commit a rape, the jury may find the defendant guilty of an attempt to commit the offense, and affix the punishment prescribed in article 494.” Ibid., art. 530.
+“If any person shall assault a woman, with intent to commit the offense of rape, he shall be punished by confinement in the penitentiary not less than two years nor more than seven years.” Ibid., art. 494.
+The indictment describes the offense with sufficient certainty to prevent the appellant from being prejudiced in his defense, and the offense charged is defined by such circumstances as will enable him to plead the judgment that may be given upon it in bar of any prosecution for the same offense; and this is all that is required. Code Cr. Proc., art. 398.
+In all cases of felony, it is the duty of the judge, whether it is asked or not, to deliver to the jury a written charge, in which he shall distinctly set forth the law applicable to the case. Code Cr. Proc., art. 594; Maria v. The State, 28 Texas, 711. The charge given to the jury in this case does not fully comply with this requirement of the Code. We think the facts of the case were not such as to limit the jury to finding whether or not the defendant was guilty of an assault with intent to rape. The court also should have submitted to the jury a charge as to the law of an aggravated assault.
+As was said by Justice Moore, “ obviously there is a manifest distinction between an assault to commit a rape and an assault with intent to have an improper connection. Any such violent or indecent familiarity with the person of a female against her will, when the latter is the extent of the purpose and intent of the aggressor, is an aggravated assault, and should be punished as such. But whatever may be the cause, or brutally obscene character, of the assault, if it appear from the evidence that it was not the object or intent of the aggressor to accomplish his desired purpose by force, against the will and without consent, then the more aggravated offense has not been committed.” Pefferling v. The State, 40 Texas, 486.
+Can it be said that appellant is shown to have committed the offense "of. an assault to commit a rape? If the assault was made with the unlawful intent as defined by the Code, the offense is complete, although the offender, from fear, resistance, or other cause, may have abandoned his purpose without resort to the greater force, which he designed using, if necessary, to accomplish the intent with which he made the assault; while to maintain an indictment for this offense under article 530, it must be shown that there was an attempt to commit a rape by force, threats, or fraud. Thompson v. The State, 43 Texas, 584. And this force, as defined.by the Code, “must have been such as might reasonably appear to be sufficient to overcome resistance, taking into consideration the relative strength of the parties, and other circumstances of the case.” Penal Code, art. 525.
+Taking, then, into consideration the manner, time, place, and circumstances under which the assault was made in this case, and the relative strength of the parties, however wanton and outrageous the assault, are we justified in presuming that it was the purpose and intent of appellant to accomplish his design by force, and without the consent of Sophia Washington? We think not. The burden was upon the State to show, beyond a reasonable doubt, that such was his intention; and as this was not done, defendant’s motion for a new trial should have been granted. The judgment of the lower court is, therefore, reversed, and the cause remanded.
+Reversed and remanded.
