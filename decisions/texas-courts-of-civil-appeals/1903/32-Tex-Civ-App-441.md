@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-05-13"
+citations: ["32 Tex. Civ. App. 441"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thompson & Simpson v. J. Rust et al."]
+source_url: "https://static.case.law/tex-civ-app/32/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4371703
+cites_cases: ["49 S. W. Rep., 412", "67 S. W. Rep., 1065"]
+---
+
+# Thompson & Simpson v. Rust
+
+## Majority (FLY, Associate Justice.)
+
+FLY, Associate Justice.
+—This is an action of trespass to try title to one-third of two tracts of land, each containing 320 acres, instituted by appellee Bust against A. M. McCarty, the other appellee, and Wells Thompson and Friench Simpson. McCarty pleaded not guilty and filed a cross-action against the other parties, claiming two-thirds of the 640 acres for which the suit was instituted, and asking for a partition of the land. Thompson and Simpson pleaded not guilty and limitation of five and ten years. It was agreed by the parties that McCarty was the owner in fee simple of two-thirds of the land, and that the appellants and Rust were not claiming his portion, and that McCarty was not claiming the remaining one-third of the land. The contest was thereby narrowed to one between Rust and appellants as to the title to 213 1-3 acres of land, being one-third of 640 acres of land, the headright of Jesse Brookshire. McCarty was adjudged to be the owner of two-thirds of the land and J. Rust of the other third, and commissioners were appointed to make partition of the land.
+• John H. Robsop was the common source of title of appellants and Rust. Robson died intestate in the year 1860, leaving surviving him his wife, M. E. Robson, who afterwards married J. S. West, and two children, both of whom died intestate prior to 1893, their mother Mrs. West surviving them. Mrs. West, joined by her husband, on June 16, 1893, conveyed the land in controversy by warranty deed to J. Rust, who paid her $320 for the land, which was the fair market value thereof. At the time that Rust bought the land no one was in possession of it, and he had no notice, actual or constructive, that anyone had any claini of any character on the land through the estate of John H. Robson.
+Administration was opened on the estate of John H. Robson in Colorado County, where he had resided for many years immediately preceding his death in December, 1860, and was closed in January, 1888. The inventory showed, among other property belonging to the estate, “213 acres in Wharton County by virtue of Jessie Brookshire certificate, appraised at $2—$426.” An order of sale was obtained by the administrator to sell the 213 acres, and on' June 25, 1878, the county court confirmed a sale of the land to Wells Thompson for $226, and on July 1, 1878 a deed was executed by the administrator to Thompson for land described as “two hundred and thirteen acres of land situated in the county of Wharton, surveyed by virtue of certificate issued to Jesse Brookshire.” That deed was not recorded in Wharton County until May 23, 1901, long after this suit had been instituted. J. C. Cooper, whose connection with the title of the land does not appear, made a quitclaim deed to Thompson in 1878, which was recorded in Wharton County in 1879. Rust’s deed from Mrs. M. E. West and J. S. West was duly recorded in Wharton County in June, 1894.
+The deed from Mrs. West and husband to Rust was not a mere conveyance of chance of title, but was a warranty deed to the land itself. The language of the deed is: “Have granted, bargained, sold and conveyed, and by these presents do grant, bargain, sell and convey unto the said J. Rust, his heirs and assigns, all our right, title, claim and interest in and to the undivided one-third interest of all that certain tract or parcel of land lying, being and situate in the county of Wharton, State of Texas,” etc. It is also stated that 213 1-3 acres of land is conveyed, and this statement is followed by a general warranty of the premises. Bust paid full value for the land, and it clearly appears from all the facts and circumstances that the land itself, and not a mere chance of it, was conveyed by the deed. Deeds containing similar language and made under similar circumstances have been uniformly held, in Texas, to be a sufficient basis upon which to found the character of innocent purchaser. Christopher v. Garrett, 74 Texas, 453; Kempner v. Beaumont Lumber Co., 20 Texas Civ. App., 307, 49 S. W. Rep., 412; Laughlin v. Tips, 8 Texas Civ. App., 649; Moore v. Swift (Texas Civ. App.), 67 S. W. Rep., 1065.
+The proceedings in the administration of the. estate in Colorado County did not serve as notice to Bust that land in Wharton County had been sold by the administrator to Thompson. Such proceedings would not be constructive notice of the sale of land even in the county where the administration was pending, and it is not pretended that Bust had actual notice of such sale. Allen v. Atchison, 26 Texas, 616; Russell v. Farquhar, 55 Texas, 355; Lewis v. Cole, 60 Texas, 341; Rev. Stats., arts. 4640, 4699.
+It is too plain for discussion that the quitclaim deed from J. C. Cooper to Thompson, although duly recorded, gave no notice that Thompson had a deed from the administrator of the Bobson estate. Cooper had no right, title or interest in the land, and why a deed was obtained from him does not appear.
+The trial judge placed his decision on the lack of description in the administrator’s deed and on the fact that Bust was an innocent purchaser for value of the land. Having come to the conclusion that the latter ground is sustained by the law and facts, it becomes unnecessary to discuss the other ground.
+The judgment is affirmed.
+Affirmed.
+Writ of error refused.
