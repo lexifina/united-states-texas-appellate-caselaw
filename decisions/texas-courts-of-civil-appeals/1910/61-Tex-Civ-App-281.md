@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1910-05-25"
+citations: ["61 Tex. Civ. App. 281"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Houston Electric Company v. Crecy Jones."]
+source_url: "https://static.case.law/tex-civ-app/61/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4401445
+---
+
+# Houston Electric Co. v. Jones
+
+## Majority (NEILL, Associate Justice.)
+
+NEILL, Associate Justice.
+— This is a suit for personal injuries alleged to have been sustained by Crecy Jones in attempting to board one of defendant’s street cars. She alleged that while she was in the act of getting on the car, which had stopped to enable her to become a passenger, the motorman and conductor in charge of the car suddenly started it forward, and that she was thrown to the ground and dragged a distance of about thirty feet, and thereby injured. Her petition alleged another and different cause of action, but it was, on exceptions of defendant, dismissed before trial for reason of a misjoinder of actions. .The defense pleaded by defendant was, not guilty. The trial, which was before a jury, resulted in a judgment in plaintiff’s favor for $750.
+No witness to the accident, if any occurred, alleged to be the cause of plaintiff’s injuries, except herself, was introduced in evidence by either party. Nor was the car, its operatives nor any one on or near it so identified by her testimony as to enable the defendant to call witnesses to contradict her testimony, unless the_ fact of the occurrence of the accident and the witnesses to it were otherwise known to the defendant or its agents. The defendant, at any rate, only introduced its servants who operated its cars at the place, and about the time plaintiff claimed she was injured, who testified that they never saw nor knew anything of its occurrence. Before defendant introduced such negative testimony, or, as for that, any testimony at all, or plaintiff’s reputation or testimony was in any way impugned, unless it was self-impugnable, the plaintiff introduced a number of witnesses who testified, over defendant’s objections that such evidence was irrelevant and inadmissible, that her character as well as her general reputation for truth and veracity, was good. Bills of exceptions were reserved to the admission of such testimony, and its introduction, over the objection, is made the basis of a number of assignments of error.
+It is a general rule of law .that in civil actions the character of the parties is irrelevant. “However just,” says Jones on Evidence, section 148, “the inference which might in many cases be drawn as to the merits of the controversy from the character of the parties, such inferences are too vague and unreliable for that degree of certainty which should prevail in legal tribunals. If -in all cases of contracts and torts such evidence were to be received, the result would be more dependent on the popularity of the party, than on its merits. The testimony would consist largely of' matters of opinion and be greatly affected by bias and partisanship, and would cause intolerable delay and expense.” Though the plaintiff in this case is a negress, the presumption in favor of her good character, if unassailed, is .as strong as it is in favor of one of any other race, and we cannot, on account of her color or “previous condition of servitude,” presume it weak in order to permit testimony that its reputation is good to be introduced, however desirous we might be, by reason of sympathy towards the negro race, to do so. The same law must be handed out in this State to black and white.
+Since. the reputation of a witness will be presumed good until attacked, it is clear that a party cannot fortify the credit of his witness by proving good character for truth, until the credibility of the witness has been assailed; for it is only when the reputation of a witness is directly attacked by the adverse party, that his reputation can be sustained by evidence of witnesses that it is good and such as to entitle his testimony to credence. The nature of this case is not such, nor is the answer of defendant such as to put either plaintiff’s character for righteousness or reputation for truth in issue. Therefore, all the assignments of error which complain of the admission of the testimony to such a character or reputation of her, are sustained.
+The statements testified to by other witnesses as to what plaintiff told them in regard to how she received her injuries, not being of the res gestae, were inadmissible as evidence to show how she was injured, and should not have been admitted over defendant’s objections. Her appearance, expressions of suffering, declarations of pain and statements as to the location on her person of her wounds, after she claimed that she had been hurt, were original evidence to the faot of her injury; but not 'as to how the injury was inflicted.
+On account of the errors indicated the judgment is reversed, and the cause remanded.
+Reversed and remanded.
