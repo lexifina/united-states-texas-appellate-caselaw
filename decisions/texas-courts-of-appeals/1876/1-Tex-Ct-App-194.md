@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1876"
+citations: ["1 Tex. Ct. App. 194"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peyton Mitchell v. The State."]
+source_url: "https://static.case.law/tex-ct-app/1/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 123817
+cites_cases: ["3 Hemp. 324", "4 Ohio, 349"]
+---
+
+# Mitchell v. State
+
+## Majority (White, J.)
+
+White, J.
+One Job Jackson and the appellant in the •case were jointly indicted in the district court of Brazoria county, charged with having murdered one James Hammer ■on the 5th day of September, 1875. The indictment was presented at the October term, 1875, and is in the ordinary form of indictments for murder.
+On the 12th day of October, 1875, when the case was regularly reached for trial, the parties defendant asked for •a severance, and Peyton Mitchell, the appellant, was placed upon trial. His application for a continuance, which was ■overruled by the court, was made on the 11th of October. He saved a bill of exceptions, and this is also one of the grounds of error complained of.
+It was alleged in the application that the two witnesses whose testimony was desired would prove that, during the night prior to the time when the murder was said to have been committed, they (the witnesses) “saw defendant a great distance from the place where the murder was committed, and that defendant was in such a state of drunkenness as to be wholly unable to stand or walk without assistance, and was physically incapacitated to such an extent as to render it improbable, if not impossible, that he could have •committed the deed.” He also expected to prove by the same witnesses the presence of two escaped convicts in the immediate neighborhood of the homicide, just prior to its commission, and for some time previous thereto, and that said convicts were never seen or heard of in the neighborhood after the killing.
+Another ground for the continuance was that the testimony, as taken before the justice who acted as an examining court in this case, was not in court, and that neither defendant nor his counsel had had an opportunity to examine it.
+The transcript shows that the subpoenas for defendant’s witnesses were issued and placed in the hands of the sheriff the day after the indictment was filed in court, and that on. the very day before trial—to wit, the 11th of October—the witnesses were duly summoned ; and yet the defendant does not mention that fact in his application, nor does he say anything as to what became of the process, nor is there any- - thing to show that the witnesses were absent the day after the application was overruled—to wit, the 12th day of October—when the case was called and the party put upon his trial.
+We do not think the court erred in overruling the application because it was too indefinite. The place where, and the-distance at which, the two witnesses saw the defendant in such drunken condition should have been stated, so as to-enable the court to judge as to whether or not the distance was-a “great distance.” Winkfield v. The State, 41 Texas, 148.
+The same thing may be said of the proposed proof relative to “ the two escaped convicts;” the allegations were not sufficiently specific in showing the facts and their materiality. We think the same objections are good, as against the other ground of the application, in regard to the testimony taken before the examining court. Some reason should have been stated as to why it was necessary that-defendant and his counsel should have had this testimony; as, for instance (if such were the fact), that one of the witnesses had since died, and that the party desired to use the testimony as provided for in the act approved 10th November, 1866. Gen. Laws, 160.
+A critical examination of the certified copy of the indictment, sent up to correct the record, will show that it is not obnoxious to the objections urged in the motion in arrest of judgment, and, therefore, the court did not err in overruling said motion.
+The only other point necessary to be noticed is the one presented, both in the motion to strike out the testimony, and in the bill of exceptions and the motion for a new trial. To state the question succinctly, it is" urged that, because the testimony shows that the murder was committed in the-perpetration of, or an attempt to prepetrate, burglary or robbery, therefore the conviction was not warranted—the-indictment being an ordinary indictment for murder,, charging it to have been done solely with express malice-aforethought.
+Even if the evidence positively established the fact that the murder was committed in the perpetration of, or attempt to perpetrate, robbery or burglary—which the evidence-objected to in this case did not—still we do not see why it would be inconsistent to show that it was also done with express malice aforethought, and, in either case, why a conviction could not properly be had. If the pleader had: alleged that the crime was committed in the perpetration, of, or attempt to perpetrate, burglary or robbery, then he-would be held to prove the fact alleged. But where, as in this case, he alleges it to have been done upon express malice aforethought, there would be no incongruity that we can perceive in his showing that fact, and also the additional fact of burglary or robbery. The charge of the court, which was a clear and forcible exposition of the law applicable to the case, submitted the question of malice-aforethought to the jury, and contained no instructions-relative to the perpetration of, or the attempt to perpetrate,, burglary or robbery. No additional charges were asked by-defendant’s counsel.
+We deem it, therefore, unnecessary to discuss the principles and rules of law applicable to murder in connection with the facts presented.
+So far as the facts are concerned, inasmuch as another-party is still awaiting his trial for the same offense, we deem it inexpedient to comment upon them. Suffice it to say,, from the evidence set out in the record before us the jury were not unwarranted in finding this defendant guilty of the-most inhuman and atrocious murder of a small and delicate-■boy, about fourteen or fifteen years of age, by choking him. to death, and, under the evidence, we cannot say that the jury have inflicted too severe a punishment by leaving him .subject to the death penalty under the law.
+Believing that defendant had a fair and impartial trial, and that no error has been committed in the court below for which the judgment should be reversed, the judgment is in all things affirmed.
+Affirmed.
