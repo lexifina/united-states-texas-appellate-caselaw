@@ -1,0 +1,30 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1903-04-04"
+citations: ["32 Tex. Civ. App. 158"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Casey-Swasey Company et al. v. Manchester Fire Insurance Company."]
+source_url: "https://static.case.law/tex-civ-app/32/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4371392
+cites_cases: ["35 S. W. Rep., 956", "37 S. W. Rep., 628", "60 S. W. Rep., 661", "61 S. W. Rep., 537", "70 S. W. Rep., 17"]
+---
+
+# Casey-Swasey Co. v. Manchester Fire Insurance
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+—The property covered by the insurance policy declared on in this case was destroyed by fire January 27, 1902. Z. P. West, who was then owner both of the policy and of the property insured, transferred the policy immediately after the fire to J. T. Meroney, who afterwards assigned it to appellant. Appellee, the company issuing the policy pleaded as grounds of forfeiture, inter alia, breaches of the iron safe clause and of the clause against “fraud and false swearing concerning the insurance or the subject matter thereof, whether before or after the loss.” These defenses were sustained by the special verdict. But the waiver pleaded in avoidance of these as well as other alleged forfeitures seems also to have been sustained by the special -verdict, as will be seen from the answers of the jury to special issues following: “27. You will find whether or not the insurance company, or J. S. Aldehoff, its adjuster, after it, or he, had knowledge of the facts alleged in its answer herein, as avoiding the policy, did any acts or act whereby it or he recognized the binding force and validity of said policy, or if it or he ever did any acts or act for the purpose of making West or his assignees believe that it or he recognized the binding force of said policy, and whether or not the said West or his assignees, by said act or acts, were in fact deceived and misled into believing that the insurance company recognized the binding force of said policy. Ans. 27th. Yes.’ 28. You will find whether or not, after the defendant company had knowledge of the matters set up in its answer, it asserted any right under said policy that would recognize its continuing validity, and that actually deceived and misled West or his assignees into believing that the company was intending to claim any right thereunder and recognize its validity, and through which the said West or his assignees were actually induced to expend any money. Ans. 28th. Yes.’ ”
+Appellee made a motion to set aside these findings upon the ground that there was no evidence whatever to support them, and also upon the ground that the evidence was not sufficient to support them, and further moved the court to proceed to enter judgment upon the other findings in its favor. On the other hand, appellant made a motion to enter judgment in its favor upon the whole verdict. Both motions were submitted and acted upon together, the court overruling appellant’s and granting appellee’s.
+Error is first assigned to the judgment upon the ground that the answers of the jury to the special issues above quoted entitled appellant to a judgment. But appellant seems to have overlooked the fact that these findings were, on motion of appellee, set aside for want of evidence to sustain them, and has made no assignment requiring us to review this ruling, if, indeed, such a ruling could be reviewed on appeal.
+It was not only the province but also the duty of the district judge to grant the motion of appellee to set aside these findings if he considered the evidence- wholly insufficient to warrant them, as alleged in the motion. But the court went further, as was also asked in the motion, and, after thus setting aside a material part of the verdict, covering as it did the important issue of waiver, which was raised both by the pleadings and the evidence, rendered judgment upon the remainder of the verdict and the undisputed facts, instead of granting a new trial. In this the court erred, and the error is fundamental. A special verdict, though comprising many findings, is but one verdict, and no material part of it can be-set aside for want of sufficient evidence to sustain it without setting it all aside. But if each material finding be treated as a separate verdict, the result would be the same, since the statute makes it conclusive between the parties as to the facts found. Rev. Stats., art. 1332.
+The court can not disregard any such finding and enter judgment,'even upon conclusive evidence to the contrary, as has been expressly decided. Waller v. Liles, 96 Texas, 21, 70 S. W. Rep., 17.
+In any view of the case, therefore, the court erred, as is apparent on the face of the record, in rendering judgment for appellee, and for this error, though not assigned, the judgment must be reversed.
+We can not agree with appellant in the contention, urged in its second assignment, that the verdict established a substantial compliance with the iron safe clause, for we can not distinguish this case from Kemendo v. Insurance Co., 94 Texas, 367, 60 S. W. Rep., 661.
+The remaining assignments become immaterial so far as this appeal is concerned, and as our jurisdiction is not final, and as it is not clear either that the rulings complained of were erroneous or that they will be important on another trial, we will not discuss them.
+It seems worthy of mention, however, that the issue of waiver was submitted in a very general way, and not, as we think it should have been, with reference to the specific acts alleged by appellant as constituting the waiver. The following cases seem applicable to this _issue. Insurance Co. v. Moriarty, 37 S. W. Rep., 628 (writ refused, 38 S. W. Rep.); Roberts, Willis & Taylor Co. v. Insurance Co., 13 Texas Civ. App., 64, 35 S. W. Rep., 956; Insurance Co. v. Evants, 25 Texas Civ. App., 300, 61 S. W. Rep., 537.
+Reversed and remanded.
+Reversed and remanded.
