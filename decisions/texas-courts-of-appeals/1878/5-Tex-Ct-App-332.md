@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["5 Tex. Ct. App. 332"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Wyatt and M. Stanley v. D. C. Barmore, County Judge."]
+source_url: "https://static.case.law/tex-ct-app/5/cases/0332-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4417331
+---
+
+# Wyatt v. Barmore
+
+## Majority (Ector, P. J.)
+
+Ector, P. J.
+The relators, Robert Wyatt and Martin Stanley, have filed an application in this court for a peremptory writ of mandamus against the defendant, as judge •of the County Court of Brazos County, to compel him to take jurisdiction of, and to proceed to judgment in his said ■court in a certain cause against the relators, wherein they are charged with a misdemeanor. Relators refer to and make part of their motion their application under oath to ■the County Court, and the transcript from the records of the •County Court of Brazos County, containing the proceedings ■of said court in said cause, herewith filed.
+The petition to the County Court substantially states that the relators were arrested on a charge of running a horse-race on a public highway in Brazos County; were carried before one Grus Brewer, a justice of the peace of Brazos County, tried, and convicted; that relators, knowing the ■charge to be false and frivolous, failed to employ counsel to defend them ; that they were anxious then and there to secure a new trial, but were ignorant, uneducated men, and did not know how to proceed, and the justice did not instruct them how this could be done; that as soon as they could they employed counsel to secure them a new trial before the justice of the peace, or to appeal the case in the event they failed to obtain a new trial; that they repaired with their counsel to the place, and presented at the office of said justice (where his court was required by law to be held) a motion for new trial, and were prepared to give bond and perfect an appeal in the terms of the law; that the justice of the peace was not at his office, and refused to attend, or entertain in any shape the motion for new trial, but vacated his office after rendering judgment in the case. The motion for new trial was left on the justice’s docket-book, together with notices of the appeal and appeal-bond.
+The petition before the defendant, as county judge, set out in detail all the facts ; and, in addition, avers a meritorious defence, and prayed for a certiorari to the justice, and for a writ of habeas corpus and enlargement on bail; and, in the alternative, for such other remedial writ or process as would secure to them their legal right of appeal. The petition was sworn to by the relators. The county judge indorsed on the petition a fiat granting the writ of habeas corpus, making it returnable on December 15, 1877, and also a fiat for a certiorari to the justice, in the usual form. The papers were duly served. The hearing under the writ of habeas corpus took place on December 17th, and resulted in releasing the relators on bail and docketing the cause for trial in the County Court. It was called for trial at the next regular term of the County Court, when the county attorney filed a motion to dismiss the cause, “ first, because the same has been brought into this court without authority of law; second, because this court has no jurisdiction of this case.” The motion, being heard and considered by the court, was sustained. The court ordered that the cause be dismissed for the want of jurisdiction, and that a procedendo be ordered to the justice of the peace to enforce his judgment in the cause.
+Section 6 of article 5 of the Constitution provides that “ the Court of Appeals, and the judges thereof, shall have power to issue the writ of habeas corpus; and, under such regulations as may be prescribed by law, to issue such writs as may be necessary to enforce its own jurisdiction.” As the fine imposed by the justice of the peace was under $100, it is admitted that this court has no jurisdiction of the cause on appeal. This being the case, it is by no means clear that this court has the supervisory power over the County Court to issue a peremptory writ of mandamus, even if the act complained of was only ministerial in its character. It was the duty of the defendant, as the presiding judge of the County Court, to pass upon the motion of the county attorney; and as his action thereupon involved judicial action, this court has no jurisdiction by mandamus to compel him to set aside the judgment of dismissal on the motion, and proceed to judgment in his said County Court. Rains v. Simpson, Sup. Ct. Texas, Tyler term, 1878 Porter v. Klahn, Texas Ct. App., Tyler term, 1878.
+The application for mandamus is therefore refused, and the cause dismissed.
+Ordered accordingly.
