@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-03-25"
+citations: ["38 Tex. Civ. App. 549"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. B. Jolly v. J. N. Diehl et al."]
+source_url: "https://static.case.law/tex-civ-app/38/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2341895
+cites_cases: ["15 S. W. Rep., 559", "32 S. W. Rep., 785", "37 S. W. Rep., 252", "52 S. W. Rep., 278"]
+---
+
+# Jolly v. Diehl
+
+## Majority (CONNER, Chief Justice.)
+
+CONNER, Chief Justice.
+Appellant instituted this suit in the form of trespass to try title against the appellee J. N. Diehl, to recover certain land described in appellant’s petition. Diehl disclaimed title, but the State National Bank intervened and claimed said land by virtue of a judgment, order of sale and sheriff’s deed. The case was submitted upon special issues, and from a verdict and judgment in intervener’s favor this appeal has been prosecuted.
+Among other rights asserted by appellant was title by virtue of a conveyance of the land in controversy from C. B. Morgan to appellee Diehl on the 26th day of August, 1896. The State National Bank was at the time a creditor of Morgan’s, and the levy and sale under which it claimed title was by virtue of a judgment subsequently rendered against him, and one of the few special issues submitted to the jury was whether the conveyance from Morgan to Diehl was made with the intent to hinder and delay the intervener. The jury found this issue in intervener’s favor, and as presented to us, the judgment seems to be predicated largely, if not altogether, upon this finding.
+Appellant complains, among other things, of the failure of the court to submit the issue of whether the land in controversy was the homestead of Morgan at the time of Morgan’s conveyance to Diehl. Appellees’ reply to this complaint is, that the evidence shows beyond dispute that it was not such homestead. The facts, briefly stated, show that at the time of the conveyance to Diehl, Morgan was the head of a family, consisting of a wife and children, and resided upon several lots situated in an addition to the city of Fort Worth, beyond the corporate limits. The land in controversy was situated several miles distant, but was used in connection with the lots in the addition stated, for the purposes of a home. It appears that such use had continued for many years prior to the time of the conveyance by Morgan to Diehl, and we have been unable to agree with the contention, that the mere fact that Morgan’s actual residence was upon lots forming part of the addition to the city of Fort Worthy deprives the land in controversy of its homestead character. It is true the evidence indicates that at the time of the trial residences north, south and west of the Morgan residence had been built, but to our minds it has not been made to clearly appear that the Morgan residence at the time of the conveyance to Diehl was so surrounded and situated with reference to the city of Fort Worth and adjoining residences, as that we can say it conclusively appears to have been situated within a town or village, and hence to have lost its homestead character. Mansur & Tibbetts Imp. Co. v. Graham, 12 Texas Ct. Rep., 205; Wilder & Co. v. McConnell, 91 Texas, 600; Paris Exchange National Bank v. Hulen, 21 Texas Civ. App., 285, 52 S. W. Rep., 278; J. B. Watkins Land-Mortgage Co. v. Abbott, 14 Texas Civ. App., 447, 37 S. W. Rep., 252, and other cases cited in appellant’s brief. Appellant’s special charge No. 1, though inartistically drawn, should have been given. This charge, after instructing the jury as to what would constitute the homestead, was to the effect that if the jury found the land in controversy at the date of Morgan’s transfer to Diehl was a homestead, their finding should be in favor of appellant on the issue made by the intervener and submitted by the court, as hereinbefore stated. If it be conceded that the conveyance to Diehl by Morgan was for the purpose of avoiding the payment of Morgan’s debt to the bank, nevertheless if the property in fact constituted part of Morgan’s homestead, the conveyance does not fall within Revised Statutes, article 2544, declaring conveyances given with intent to delay, hinder or defraud creditors, void. See Wood v. Chambers, 20 Texas, 247; Cox v. Shropshire, 25 Texas, 113.
+Other questions are presented by the pleadings, evidence and assignments of error, but in the view we take of the case they may become immaterial upon another trial, and are therefore left without discussion and undetermined. For the error of the court, however, in refusing to give the special charge indicated, the judgment is reversed and the cause remanded for another trial.
+Reversed and remanded.
