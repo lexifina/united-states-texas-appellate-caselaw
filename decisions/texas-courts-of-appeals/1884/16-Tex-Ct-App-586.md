@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3190"
+decided: "1884-06-25"
+citations: ["16 Tex. Ct. App. 586"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee Reed v. The State."]
+source_url: "https://static.case.law/tex-ct-app/16/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4453386
+cites_cases: ["55 Me., 477", "70 Ala., 13"]
+---
+
+# Reed v. State
+
+## Majority (White, Presiding Judge.)
+
+White, Presiding Judge.
+Two counts, one for theft and one for embezzlement, were contained in the indictment. After the evidence for the State was in, the district attorney elected the count upon embezzlement as the one upon which alone he claimed a conviction. This count for embezzlement alleged that defendant, as agent and bailee of one Gustave Gross, received into his custody the horse, and, as such agent, did fraudulently misapply and convert the said horse to his own use. In this second count these acts of defendant are alleged to have been done and committed in Milam county. The evidence shows that defendant hired the horse and came into possession of him in Williamson county. Did the district court of Milam county have jurisdiction of the offense ? If defendant was guilty of embezzlement, then under the statute he could be prosecuted in any county in which “he may have taken or received the property, or through or into which he may have undertaken to transport it.” (Code Crim. Proc., Art. 219; Cole v. State, decided at the present term.)
+Two points are urgently insisted upon as fatal to the validity of a conviction in this case for embezzlement:
+1. That our statute does not include as embezzlement a bailment which occurs from and is constituted by a hiring.
+2. That if the hiring of a horse constituted a bailment such as is contemplated in the statute, then, to give the district court of Milam county jurisdiction of the offense, it must appear that at the time of the hiring in Williamson county it was understood that the horse was to be taken by the bailee into Milam county i that is, defendant must have undertaken to transport it into Milam county.
+Article 876, Penal Code, in defining and punishing the crime of embezzlement, mentions amongst those subject to the provisions therein contained, any officer, agent, etc., consignee or bailee of money or property, etc.
+Whether a fraudulent conversion by a bailee for hire was embezzlement came up for decision before the Supreme Court of Alabama upon a statute very similar to ours, and the court say: “Bailment is a term of very large signification, and is defined as a delivery of goods in trust upon a contract, expressed or implied, that the trust shall be executed and the goods returned by the bailee as soon as the purpose of the bailment shall be answered. (2 Kent, 559.) The accuracy of this definition is questioned by Judge Story, who defines a bailment as a delivery of a thing in trust for some special object or purpose, and upon a contract, express or implied, to conform to the object or purpose of the trust. (Story on Bail., sec. 2.) There are different kinds of bailments, involving different rights and duties on the part of the bailor or bailee. When the general term bailment, bailor or bailee is employed, whether in a private writing, in a verbal contract, or in a statute, its real meaning can be ascertained only by reference to the subject matter and the circumstances attending its employment.
+“The connection in which the term bailee is found in the statute under consideration indicates very clearly that it is not used in its largest sense—that it was not intended to comprehend every species of bailment, and all who might stand to the owner of money, property or effects in the relation of a bailee. It is limited and confined to bailees of a particular class, those having possession wholly and exclusively for the benefit of the bailor—bailments where the owner parts with the actual possession, not with the right of property general or special, and is not without right to resume possession. The hirer of chattels for a term is a bailee, doubtless, but of a particular class or kind. The trust created is not exclusively for the benefit of the bailor, but rather for his own benefit. * * * * It is not a bailment of this character the statute refers to, but to bailments in which the bailor and bailee stand in a fiduciary relation, in which the bailee acts for and on account of the bailor, and not for himself.” (Watson v. The State, 70 Ala., 13.) In Watson’s case, the facts of which are in every respect similar to the case before us, the court further held that the word “bailee” in the statute was a bailee standing in the relation of agent. And, this, we think, is a proper construction of the word used in our statute. The property embezzled must have come into possession or care of the party charged, by virtue of such office, agency or employment. (See 43 Texas, 455; 4 Texas Ct. of App., 406; 21 Texas, 775; 5 Denio, N. Y., 79.)
+It would only be by virtue of such construction that jurisdictional venue of the offense could be entertained in any county other than the one in which the property was received, because his liability in such other county would only arise from an undertaking on his part to transport the property into it, and such undertaking would not likely arise under a relationship other than that of principal and agent.
+On the facts as exhibited in this record, we do not think the statutory offense of embezzlement can be predicated, a bailee for hire of personal property not being such a bailee as the statute contemplates.
+But, even if embezzlement could have been predicated upon the relation existing between the parties, still the jurisdiction of the district court of Milam county could not attach in the case, unless it had been shown that defendant undertook to transport the horse into Milam county when he received it in Williamson county. This was not done. If any offense is shown by the record, it is theft of the horse, and, had the conviction been on the first count in the indictment, which was dismissed, we see no reason why such conviction could not have been sustained upon ample authority. (Bish. on Stat. Crimes, sec. 419; Maddox v. The State, 41 Texas, 205; Quitzow v. The State, 1 Texas Ct. App., 65; State v. Coombs, 55 Me., 477; 70 Ala., 13.)
+Because the conviction for embezzlement is not warranted either by the law or the evidence, the judgment is reversed and the cause remanded.
+Reversed and remanded.
+Opinion delivered June 25, 1884.
