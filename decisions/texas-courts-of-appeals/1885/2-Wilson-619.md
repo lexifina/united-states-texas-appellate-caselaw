@@ -1,0 +1,25 @@
+---
+court: "Texas Courts of Appeals"
+docket: "3253"
+decided: "1885-05-13"
+citations: ["2 Wilson 619"]
+reporter: "willson"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. M. Byars v. J. M. Crisp."]
+source_url: "https://static.case.law/willson/2/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1370543
+cites_cases: ["1 McLean, 509", "12 Iowa, 405", "43 Ind. 105", "49 Ala. 402", "50 Ill. 432", "56 Mo. 17", "6 Cal. 26"]
+---
+
+# Byars v. Crisp
+
+## Majority (Will-son, J.)
+
+Opinion by
+Will-son, J.
+§ 707. Special judge of county court; may be elected, when; case stated. This cause was tried before J. P. Orr, Esq., who was elected special judge of the county court of Wilbarger county, to hold the May term, 1884, -of said court. It appears in the record that J. Doan, the judge of said court, on April 18, 1884, sent to the commissioners’ court of said county his written resignation, of said office, to take effect instanter. When the time arrived for holding the May term of said court, no action in the matter had been taken by the commissioners’ court, and the members of the bar in attendance proceeded to the election of a special judge, and Mr. Orr being elected, he held said term of said county court. Held: Our statute provides for the eledtion of a special judge of the county court, when the regular judge fails to appear at the time appointed for holding the court, or when during the term he is absent, or unable or unwilling to hold said court. [R. S. art. 1140.] When, however, there is a vacancy in the office of county judge, this provision of the law does not apply, and in such case there is no authority for the election of a special judge. A vacancy in the office is filled by the commissioners’ court of the county, until the next general election. [Const, art. V, sec. 28; R. S. arts. 1137, 1518, 1519.]
+§ 708. Resignation of office; when it taJces effect to create a vacancy. If, therefore, the resignation of the county judge created a vacancy in that office, before the election of the special judge, such election was without authority of law, and the proceedings of the term of the court held by him are null and absolutely void. Did the resignation create a vacancy, and at what time? We are not aware of any decision of the courts of this state bearing upon the question. There can be no doubt that a civil officer can resign his office at pleasure. [U. S. v. Wright, 1 McLean, 509.] But when does the resignation take effect so as to create a vacancy? In Williams v. Fitts, 49 Ala. 402, it was said: “When an officer transmits an unconditional resignation, which he intends shall reach the officer or authority’ intended to receive it, he resigns. He has given formal expression to his will, and sent away a notice of it to whom it may concern. There is nothing more for him to do. Nobody else is authorized to accept it. It needs no acceptance.” [Citing Nourse v. Clarke, 3 Nevada, 566; People v. Porter, 6 Cal. 26.] In U. S. v. Wright, supra, it was said: “It is only necessary that tlie resignation should be received to take effect, and this does not depend upon the acceptance or rejection of the resignation.” In The People v. Porter, supra, it was held that the tenure of office depends upon the will of the incumbent during his term, and that to render his resignation effectual* it was not necessary that it should be accepted. But upon this point the authorities are not uniform. In The State v. Boecker, 56 Mo. 17, it was held that a resignation is not in general complete, until it has been accepted by the authority capable of receiving it, with the knowledge and consent of the person resigning. But in that case, it is to be observed, the resignation by its terms was to take effect in futuro, and in such cases a different rule from that which governs an unconditional eo instante resignation, seems to obtain. In Iowa and Indiana it has been held that when a written resignation is tendered to the proper authority, and filed by him without objection, the office becomes vacant. [Gates v. Delaware, 12 Iowa, 405; State v. Hauss, 43 Ind. 105.] And in Illinois it was held that, a resignation which had been received by a court, and filed by the clerk, was to be considered as accepted without an entry of an order to that effect. [Pace v. People, 50 Ill. 432.] We conclude that the correct rule is, that when an officer delivers his unconditional resignation to the proper authority, to take effect at once, it is effectual without acceptance, and the office is vacant. This being our view of the law, we hold the resignation of the county judge created a vacancy in that office, at once, which could only be filled by the commissioners’ court of the county; and' that during the existence of such vacancy there was no authority of law for the election of a special judge of said county court; and that the judgment and other proceedings of the special judge in this case are void.
+May 13, 1885.
+Reversed and remanded.
