@@ -1,0 +1,38 @@
+---
+court: "Texas Courts of Civil Appeals"
+docket: "2031"
+decided: "1895-11-30"
+citations: ["11 Tex. Civ. App. 515"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. J. Good v. J. M. Caldwell."]
+source_url: "https://static.case.law/tex-civ-app/11/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 246765
+---
+
+# Good v. Caldwell
+
+## Majority (HUNTER, Associate Justice.)
+
+HUNTER, Associate Justice.
+On the 37th day of November, 1893, the plaintiff J. M. Caldwell, and L. J. Good entered into a written contract whereby it was stipulated that Caldwell agreed to pasture for Good from 500 to 600 head of' cattle, in the Thomas and Harris pastures in Scurry County, Texas, from the date of the contract until April 1, 1894, and then follows this stipulation:
+“Said party of the second part (Good) hereby agrees and hinds himself to pay to said party of the first part (Caldwell) the sum of twenty cents per head per month for all of said cattle delivered to him by said party of the first part, at the time said cattle are taken out of said pasture, one-half of said pasturage to be paid when the cattle are put in said pasture, and the other half to be paid when they are to he taken out.”
+Then followed other stipulations in the contract binding Caldwell to keep the pasture fence in good repair, and keep out all estray cattle, and not put any other cattle in said pasture during the time Good’s cattle were in there.
+Suit was filed in Justice’s Court of Scurry. County, where the cattle were pastured under said contract, on March 31, 1894, based upon said contract for pasturing cattle to the amount of $147.63, and the further sum of $50 as damages. Total amount claimed $197.63.
+The defendant, Good, filed a written plea in abatement, to the jurisdiction of the court over his person, alleging that he was not a resident of Scurry County, but was a citizen of Texas, and resided in Runnels County, of said State; and that the contract sued on did not stipulate for the payment of the sum due for said pasturage of cattle in Scurry County, and claiming his privilege under the statute to be sued in the county of his residence, he prayed that the suit be dismissed. This plea was sworn to as required by law, and was the only defense filed or made in the Justice’s Court.
+The transcript from the Justice’s Court recites that this “plea of privilege was heard by the court and overruled,” and then follows a judgment by the Justice of the Peace reciting that the defendant, though present in person and by attorney, refused to answer, and he renders judgment, upon hearing the evidence, etc., against the defendant Good, “for $93 on contract, and the further sum of $50 as damages.”
+The defendant appealed from this judgment to the County Court of Scurry County, executing a supersedeas bond.
+In the 'County Court the defendant Good again presented his pied to the jurisdiction of the Justice’s Court over his person, and claimed the right to be sued in the county of his residence; and in addition to said plea, he filed for the first time a general denial, and also a special answer setting up that the plaintiff, Caldwell, had violated the contract himself, and by way of reconvention claimed damages against the plaintiff in the sum of $342. He also, in his said special answer, sets up a verbal contract made just after the signing and delivery of the written contract, whereby it was agreed that if Caldwell violated the stipulations of the written contract binding upon him, then he should forfeit his Tight to collect the 20 cents a month for pasturage.
+The record does not disclose the objections of the plaintiff^ to the plea of privilege filed by the defendant, but the order overruling the plea recites that it was heard upon argument of counsel, and the law being for the plaintiff, the said plea was overruled, to which defendant excepted.
+The County Court, as shown by its judgment, sustained an exception to all of the answer of defendant except the general denial, the ground of the exception being, that the defendant had failed to make such answer in the Justice’s Court, and was therefore precluded and estopped from making it in the County Court.
+We are of opinion that the ruling of the County Court in sustaining the exceptions to the special answer of defendant, setting up a breach of the written contract on the part of plaintiff, and setting up the oral contract in defense of the plaintiff’s claim, was correct, as no counterclaim or setoff can be plead in the County Court, unless it had been relied on in the Justice’s Court. Revised Statutes, art. 316.
+We think, however, the court erred in holding the plea of privilege bad. We are clearly of opinion that the plea as presented is good, and if proved on the trial thereof, the action should be dismissed, because the plaintiff’s right of action is based upon the breach of a written contract, and there is but one defendant and he is a natural person, not alleged to be a corporation, and he states that he is a resident citizen of Runnels County and does not reside in Scurry County.
+The contract was not for the rent of lands, as contended by the plaintiff, because the entire and full possession of the lands remained with the owner. It might as well be contended that, because I hire a liveryman to keep and feed my horse for a certain sum per month, I have thereby rented his stables. The written contract fails to state any particular place of payment; that part of the contract which provides for payment when the cattle are taken out of the pasture, only fixes the time of payment, and not the place.
+In all pleas in abatement to the jurisdiction of the court, the rule is to negative every fact that would give the court jurisdiction, and wé do not mean to infringe upon this rule; but the rule must be considered with reference to the case made by the plaintiff, and it is frivolous for a man, when sued out of his county, and who wishes to insist upon his privilege of being sued in the county of his residence, to be compelled to come into court and plead and swear to it, that he is not a county,, nor a foreign corporation, nor a married woman; or where he is sued upon a promissory note, to be, compelled to plead that the suit is not one for divorce, nor to revise the order of a County Court probating a will, nor one on the part of the State to forfeit a charter. There can be no good reason found for such construction of the rule, and we are disinclined to carry it that far.
+Delivered November 30, 1895.
+We are also of opinion that the court erred in permitting the plaintiff to prove that he was damaged $50 by reason of the defendant’s failing to pay the plaintiff the amount due for the pasturage. The measure of damages in this case would be 20 cents per month per head, for the cattle pastured, and interest from the first of April, 1894, at the rate of six per cent per annum, subject to be reduced by such payments as defendant had made; and, should this suit be dismissed, and a new one commenced, of course, the matter in reconvention and set off attempted to be set up in the County Court can then be plead in the court where the suit is commenced, subject, however, to such exceptions for insufficiency as the plaintiff may properly urge.
+There are other errors assigned, but we do not think they are likely to arise on another trial, in view of this decision, and wé, therefore, express no opinion on them.
+For the reasons above given, the judgment herein is reversed and cause remanded.
+Reversed and remanded.
