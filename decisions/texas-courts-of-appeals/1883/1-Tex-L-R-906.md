@@ -1,0 +1,39 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1883-03"
+citations: ["1 Tex. L. R. 906"]
+reporter: "tex-l-r"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGIA A. DAVIS, et al. v. BREWSTER, et al."]
+source_url: "https://static.case.law/tex-l-r/1/cases/0906-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1207747
+cites_cases: ["56 Tex. 479"]
+---
+
+# Davis v. Brewster
+
+## Majority (Stayton J.)
+
+Opinion by
+Stayton J.
+This cause was before this court at the last term, and is reported iu 56 Tex. 479.
+It was then remanded, because there was no evidence directly showing that the defendants were aware of any want of instruction by Mrs. Davis to pass the absolute title to the property in controversy by the instrument executed by berself and husband, and for want of certainty and clearness in the proof.
+It is claimed now, as it was upon the former appeal by the plaintiffs, that the deed was executed solely to secure the defendant, in so far as it would do so, against their liability upon the bonds of N. T. Davis as sureties, and that it was intended by all parties simply as a mortgage ; while by the defendants it is claimed that the instrument was intended for what it appears upon its face to be, an absolute conveyence.
+On the former trial Nelson T. Davis did not testify, and the case of the plaintiffs rested upon the testimony of Mrs. Davis and two of the defendants.
+On the last trial the plaintiffs rested their ease upon the testimony of themselves, and the defendants upon the testimoy of Baker and Brewster.
+Each side testify unqualifiedly to a state of facts consistent with their pleadings. Among other things, N. T. Davis testified as follows:
+“Baker, Brewster and Bice induced my wife to execute the deed by means of the statements, threats and promises which they made to me, and which I have before stated, and which I truthfully and fully detailed to her in August, 1881. There was an understanding between Baker, Brewster, Rice and myself, authorizing me to make these statements to my wife. They knew she was the owner of the property, and that it was necessary for her to sign the deed to it. Their statements were made to me with the intent and purpose that I should repeat them to her, and by such means frighten her and induce her to sign the deed. The deed was on its face an absolute conveyenee, but it was delivered upon the condition that it was to be deeded back to my wife if nothing was obtained in judgment against said Baker, Brewster and Rice by the county or State. The deed was in no event to be an absolute sale to Baker, Brewster and Rice, or either of them, but was delivered to them by my wife and myself as a mortgage on the property, and was accepted by them on delivery, with the distinct understanding that it was only a mortgage to secure against the loss of any money they might be compelled to pay by reason of having become sureties for me on my official bond as tax collector of Harris county. I know the facts that I testify about, because I made the negotiations and transacted the bnsiness connected with the matter. Baker, Brewster and Bice did not pay any consideration for the property, neither did they, or either of them, ever agree to pay anything or give anything in consideration therefor. R othing was ever said about a consideration of any kind. They have never paid any consideration since the deed was executed.”
+The first assignment of error which raises the question of sufficiency of the evidence to sustain the verdict, in view of the disposition which will he made of the case, will not bo considered. The second assignment of error calls in question the correctness of a charge given at the request of the defendants, which was as follows :
+“Ho representations of Davis to his wife to induce her to sign the deed in controversy are binding on the defendants unless the representations so made were in accordance with the agreement or understanding between Davis on the one side, and Baker, Brewster and Rice on the other, as to the purpose and object of the deed, or unless they authorized him to make such representations. .If, therefore you believe from the evidence that Mrs. Davis was induced to sign the deed by the representations of her husband that it was but a mortgage, or intended to operate only as a mortgage, you will find for the defendants, unless you further believe from the testimony that it was so understood and intended by Davis, Baker, Brewster and Rice, before Davis made such representations to bis wife or that he was authorized by them to make such representations to her.”
+Under the evidence in the case we are of the opinion that the court erred in giving the latter part of this charge ; for the same would, preclude the jury from considering the intent, understanding and purpose of the parties at the time the deed was delivered, unless Mi’s. Davis ivas induced to make the deed intending it as, and believing it to be, a mortgage, in consequenee of representations made to her by her husband in accordance with a prior agreement, between him and defendants, or unless they authorized him to make such representation to the wife prior to the time he may have made them.
+This instruction practically made the character of the instrument to turn upon the intention of the defendants and the husband prior to the execution and delivery of the deed, and prior to the time the husband may have made representations to the wife which influenced her to execute the deed.
+This was not the true inquiry; the real question Avas, Avith Avhat intent did Davis and Avife execute the instrument which Avas not completed until its delivery, and Avith what intent did the defendants receive it.
+If it Avas delivered and secured Avith an intention and understanding betAveen the parties that it only should be a security for the debt of Davis, then that is its true chracter, whatever contrary intentions the defendants and Davis may have had prior to time the instrument was delivered.
+If there Avas no agreement betAveen the defendants and Davis that the conveyance, although absolute in form, Avas to be in effect but a mortgage, and if there Avas no authorization by the defendants to Davis to represent to his wife that the instrument should be but a mortgage ; yet if he so represented to her, and she, relying upon such representation, executed the deed, understandig and intending it to be only a mortgage, and it was afterwards delivered to the defendants by the husband, they having knoAvledge at the time of the delivery that the Avife only intended and understood it to be a mortgage, then mortgage it is ; and the defendants could not in such case be heard to claim an3' other character for the paper.
+The testimony of Davis tends to show that the deed Avas delivered to and accepted by the defendants with a distinct understanding between them and Davis and wife that it should only be a mortgage.
+Whatever may havejoeen the prior agreement betAveen them, Davis and the defendants, it was subjéct to alteration up to the time of the delivery of the deed, and the mutual-intention of the parties at the time must give character to the instrument.
+The charge of the court given without request was- a fair and clear presentation of the case to the jury, under the evidence, and what effect the charge given at request of defendants may have had upon the jury we can not know, for it was in conflict with the charge which the court had correctly given, and withdrew most probably from the jury’s-consideration one of the most important inquiries in the case.
+The court did not err in refusing !o give the charge referred to in the third assginment of error.
+For the error of the court in giving the charge requested by the defendants, the judgment is reversed and the cause is remanded. Reversed and remanded.
