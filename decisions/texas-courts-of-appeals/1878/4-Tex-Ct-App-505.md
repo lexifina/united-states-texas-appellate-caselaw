@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1878"
+citations: ["4 Tex. Ct. App. 505"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Bybee v. The State."]
+source_url: "https://static.case.law/tex-ct-app/4/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4418017
+---
+
+# Bybee v. State
+
+## Majority (Ector, P. J.)
+
+Ector, P. J.
+The appellant, with Jefferson Ake, William Ake, and Silas Berry, was jointly indicted for the theft of a gelding from William C. McDougle, in the county of Williamson, on May 30, 1876. Defendants severed on the trial. Appellant was tried and convicted, and his punishment assessed at twelve years’ confinement in the penitentiary.
+We find no error in the charge of the court that requires a reversal of the judgment. The fourth subdivision of the charge is as follows : ‘ ‘ All persons who are guilty of acting together in the commission of an offense are principal offenders, and may be prosecuted and convicted as such.” This portion of the charge of the court was excepted to by the defendant, “because the evidence does not show the defendant, Bybee, to have been present at the time the horse alleged to have been stolen was taken, or that said Bybee was knowing to the theft, or in anywise aided or acted with any person in the theft of said horse, or that the defendant was ever in possession of the stolen animal in Williamson County.” The testimony, taken as a whole, we think, rendered that portion of the charge complained of eminently proper. No additional instructions were asked.
+Appellant and Berry were arrested together in Kimble County, on June 17, 1876, by a sheriff’s posse from San Saba, Llano, Burnet, and Williamson Counties, who were in pursuit of stolen horses. When arrested, there were two horses hobbled out on the mesquite flat which they had been riding, one of them being the animal described in the indictment. On the trial appellant made no effort to prove that this animal belonged to, or was the one ridden by, Berry. They spoke of them, in'the presence of each other, as “ our horses, or the Ake horses, which we were riding the night before.” When arrested, they were concealing themselves in a mountain, and were not discovered by the sheriff’s posse until a gun-barrel of one of them was discovered through the brush. On the trial, appellant produced two or three .witnesses who testified that the horses were first seen in Kimble County in the possession of Bob Thompson and George Campbell, and that appellant and Berry were not seen in Kimble County until the morning of their arrest.
+It' is certain that appellant was in Williamson County about the time the animal was stolen; that he was found in possession of the stolen animal in Kimble County ; and no attempt was made by him, when first found in possession, to give a reasonable account of how he came by the gelding. The evidence shows that the gelding was stolen in Williamson County, near Corn Hill, on the night of May 30, 1876.
+Appellant attempted, on the trial, to prove an alibi by the witness Joe Morris, who testified: “I live in Williamson County, and remember about the time the horses were stolen. I went to Corn Hill, Williamson County, and was told by Major Lea, the next morning, that the horses were stolen; this was about nine o’clock, a. m. My post-office is at Corn Hill, Williamson County. I was frequently there; live about five miles from there. The night before, and the night the horse was stolen, I was with Bill Bybee. We stayed at Daniel Bobbins’, which is in Williamson County, about five miles from Corn Hill; saw him three or four days afterwards in the neighborhood; was not with him the night after the horse was stolen.”
+The State, after Morris had been examined as a witness, reintroduced McDougle, the owner of the gelding, who testified that he did not know his horse was stolen until two or. three days after he was gone; that he did not tell any one he was stolen the day after it was done, because he did not know it himself. Hurt, another State’s witness, testified that he did not tell any one that his horse was stolen, because he did not know it himself for two days after it was taken. The jury evidently concluded that Morris was mistaken as to the time the gelding was stolen, or did not believe his testimony. The mere fact that none of the State’s witnesses testified that they saw appellant in possession of the stolen animal in Williamson County, in view of all the other facts and circumstances of this case, would not authorize us to reverse the judgment. The jury evidently believed, from the evidence, that appellant was guilty as charged in the indictment, and that in taking the gelding he was acting with others in a wholesale horse-stealing expedition ; and this may account for their fixing his punishment at twelve years in the penitentiary. ’ We think that the evidence is sufficient to support the judgment. None of the other assignments of error are well taken.
+After a critical examination of the entire record, we can find no reason why appellant should not suffer the penalty assessed by the jury. The judgment of the lower court is, therefore, affirmed.
+Affirmed.
