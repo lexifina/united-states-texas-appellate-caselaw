@@ -1,0 +1,26 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1897-03-20"
+citations: ["15 Tex. Civ. App. 687"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. W. Childs v. James Wilkinson."]
+source_url: "https://static.case.law/tex-civ-app/15/cases/0687-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 264355
+---
+
+# Childs v. Wilkinson
+
+## Majority (RAINEY, Associate Justice.)
+
+RAINEY, Associate Justice.
+Appellee brought this suit' in the District Court of Dallas County to restrain the sale of certain personal property under an execution issued out of the Justice’s Court in a cause in which appellant H. W. Childs was plaintiff and appellee was defendant, which judgment was for the recovery of certain specific personal property described in said petition; and in the alternative, for $176 in money.
+The evidence shows that in the Justice’s Court said H. W. Childs recovered from James Wilkinson, appellee, a judgment for $16 damages, and for the recovery of certain specific personal property described in the judgment, or for its value. The -property mentioned in said judgment had been siezed by virtue of a writ of sequestration issued in the suit, and replevied by Wilkinson, the appellee. On the day after the rendition of the judgment in the Justice’s Court, the attorney for Wilkinson informed H. W. Childs that Wilkinson did not intend to take an appeal from the judgment, and that he had a right under the law to return the property sequestered in satisfaction of the judgment, and that he, Childs, could get and take said property, to which Childs made no reply. That said property was in the same condition and place as when it was sequestered, which was in a public place, and was never under lock and key. There was no offer then made to deliver the property to the officer who had sequestered it. When the constable of Precinct No. 1 of Dallas County, who levied the writ of sequestration, went to Wilkinson to demand a levy, Wilkinson told him that he had tendered the property sequestered in the suit, and that if he wanted it, he would have to pay rent on it.
+The ground upon which plaintiff sought an injunction was that he had tendered to said Childs and the constable the identical property described in said petition. That he had made tender of the same, which had been refused, and that he was still ready and willing to turn over said property in accordance with said judgment, and that said property was still situated where it was when levied upon. An injunction was granted as prayed for, and upon the trial said injunction was perpetuated—from which judgment this appeal was taken.
+The only question that arises for consideration in the case is, whether or not there was such a delivery made of the property as is contemplated by law in such cases. We think not.
+The statute provides (art. 4877) that in cases of this character the defendant shall have the right to deliver the property within ten days after the rendition of judgment to the sheriff or constable of the court in which such judgment is rendered; and article 4878 provides; “if the property tendered back by the defendant has been injured or damaged while in his possession under such bond, the sheriff or constable to whom the same is tendered shall not receive the same, unless the defendant at the same time tenders a reasonable amount for such injury or damage, to be judged of by such sheriff or constable.” We think it clear that in order for the defendant to satisfy the judgment by a delivery bf the property replevied, it is essential that the delivery be made to an officer of the court in which judgment is rendered; and it is not sufficient for the tender to be made to the plaintiff in the case. Of course, if the property was tendered to the plaintiff, and accepted by him, he would be estopped by reason thereof; but a tender to him which is refused or not accepted, does not relieve the defendant from making tender to the proper officer. The statute makes the officer the judge as to whether or not the property when tendered back is in the same condition as when turned over to the defendant under the bond, and if said property is not in as good condition as when replevied, it is the duty of the officer to reject it, unless at the same time the amount of damage done is tendered in money to him. The officer having seized the property, he was better calculated to know of its condition than the plaintiff, and the plaintiff is entitled to have it delivered to the officer that he may judge of its condition before accepting it.
+When the defendant wishes to satisfy the judgment by returning the property, he becomes the actor in the premises, and in order for him to discharge himself from a money liability it is necessary that he comply with the law, by delivering the property to the proper officer. Under the facts of this case there was no proper tender made of the property replevied, and the court below erred in perpetuating the injunction.
+The cause having been tried by the court without a jury, and it appearing that all the material proof was adduced on the trial, the judgment of the court below is reversed, and judgment here rendered for appellant.
+Reversed and rendered. ■
