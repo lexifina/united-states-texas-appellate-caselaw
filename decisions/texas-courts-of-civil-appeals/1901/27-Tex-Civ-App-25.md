@@ -1,0 +1,29 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-10-30"
+citations: ["27 Tex. Civ. App. 25"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. Harding v. Commissioners Court of McLennan County."]
+source_url: "https://static.case.law/tex-civ-app/27/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2885269
+---
+
+# Harding v. Commissioners Court
+
+## Majority (KEY, Associate Justice.)
+
+KEY, Associate Justice.
+E. Harding, the plaintiff in error, instituted this proceeding against the Commissioners Court of McLennan County to restrain that court from declaring the result of an election held under the local option liquor law. A temporary injunction was granted, but upon final hearing it was dissolved and judgment rendered against the plaintiff.
+The petition for the election and the order made by the Commissioners Court under which the election was held, described the territory as school districts Nos. 9 and 66, but followed such description with field notes giving specific boundaries; and the agreed facts upon which the case is submitted in this court show that school district No. 9 was not embraced in the territory described by metes and bounds, and that the territory so described included part of school districts Nos. 23 and 24, as well as district No. 66. It is contended by the plaintiff in error that the law did not authorize a local option election in the territory described by-metes and bounds, and therefore the pretended election is- null and void. The court below seems to have held otherwise, and decided the case-against the plaintiff upon the theory that the election was valid.
+We deem it unnecessary to decide that question, because, as the caséis presented in this court, we think the proper judgment was rendered,, conceding the plaintiff’s contention as to the illegality of the election. No citizen is entitled to an injunction to prevent a criminal prosecution,, however unfounded such prosecution may be, unless it is made to appear that some property right of his will be interfered with and injury result, therefrom; or that he will be harassed with a multiplicity of unfounded prosecutions. On this phase of the case, the agreed facts are as follows r
+“5. That the election was held on the 8th day of September, 1900, and resulted in favor of prohibition, and that the Commissioners Court was about to declare and publish the result of said election and enforce-local option at Axtell at the time the writ of injunction was applied for by plaintiff, R. Harding, restraining the Commissioners Court from declaring and publishing the result of said election.
+“6. That the plaintiff, R. Harding, prior to said election and at the-time he applied for writ of injunction, was engaged in the sale of beer and other spirituous and intoxicating liquors at Axtell, Texas, within the limits of said described local option districts as described by metes.- and bounds, and was legally carrying on such business.
+“7. That the enforcement of local option at the time plaintiff applied for a writ of injunction would have' closed said business of plaintiff,. R. Harding, and would have injured his said business.”
+The commissioners court has no jurisdiction whatever to try any proceeding, either civil or criminal, instituted for the purpose of enforcing-local option laws; and we do not understand the statement that “said court was about to declare and publish the result of the election and enforce local option” as meaning that that court would attempt to try the plaintiff for supposed violations of the law, or do anything more in that regard than cause him to be prosecuted in the prqper court. It is-not made to appear that the court having jurisdiction to try alleged violations of local option laws would not, if the election referred to was illegal and void, so hold and acquit the plaintiff of any charge that-might be preferred against him for unlawfully selling liquor in the territory referred to. Nor is it made to appear that he would be harassed with numerous prosecutions and be unable to give bond and continue his. business pending such prosecutions. True, it is agreed that the enforcement of local option would have resulted in closing and injuring his-business; but if the election was null and void, then the action of the-Commissioners Court in declaring the result of the election xvould not make a valid local option law, and it is fair to presume that the court having jurisdiction of any prosecution attempted thereunder would so declare, and acquit the plaintiff of any charge preferred against him; and therefore local option would not be enforced.
+We are not unmindful of the fact that our Supreme Court in Sumner v. Crawford, 91 Texas, 132, has intimated that it is mot necessary in all cases for the applicant for an injunction to show that he has no adequate remedy at law. We find no fault with the reasons assigned for the view foreshadowed in that case, and believe that the law is as therein intimated; but the cases referred to are exceptions to the general rule, and we do not believe that this case comes within the rule of exception. When reduced to a final analysis, the object of this suit seems to be an effort to forestall a criminal prosecution, without making it appear that any property right would be interfered with or pecuniary injury sustained pending such prosecution; in which, if the plaintiff’s contention is correct, the local option law would not be enforced and would be declared null and void and he be acquitted of any charge brought thereunder.
+• For the reasons stated, we concluded that the proper judgment was rendered by the District Court, and that judgment will be affirmed.
+Affirmed.
+Writ of error refused.
