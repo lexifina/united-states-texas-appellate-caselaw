@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1877"
+citations: ["1 Tex. Ct. App. 664"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. Rasberry v. The State."]
+source_url: "https://static.case.law/tex-ct-app/1/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 123733
+---
+
+# Rasberry v. State
+
+## Majority (.White, J.)
+
+.White, J.
+Appellant was tried and convicted, and fined '$100, in the county court, upon an information charging him with aggravated assault and battery. The case was tried without the intervention of a jury—the jury having been waived—and the case submitted to the court, as now seems to be permissible under our law. Acts Fifteenth Legislature, Gen. Laws, 20, sec. 11.
+The motion in arrest of judgment presents the sufficiency of the information, and the motion for a new trial declares the judgment to be contrary to the law and the evidence.
+Without copying the statutes, we refer to the General Laws, Fifteenth Legislature, page 20, section 8, and General Laws, Fifteenth Legislature, page 87, sections 13, 14, and 15, and to Article 403, Code of Criminal Procedure (Pasc. Dig., Art. 2870), as containing the rules of practice in regard to the mode and manner of instituting proceedings-by, and the necessary requisites of, informations in criminal cases.
+Now let us apply these provisions of the statutes to the' objections presented by defendant on his motion in arrest, of judgment. The grounds urged were two, viz.:
+1st. Because the information in this case does not appear to have been made or returned into open court at any regular term thereof; nor does said information appear tO' be signed by any person authorized to present said information.
+2d. Because said information fails to charge, in plain and intelligible language, any offense against the laws of the-state of Texas, but is vague, unintelligible, uncertain, and indefinite.
+In the case of The State v. Corbitt it was held “that it. is not a valid objection to an information, otherwise regular,, that it was not presented to the court while in session;” and the reasons given for the conclusion are most satisfactory. 42 Texas, 88.
+Among the requisites for an information it will be observed that it is nowhere prescribed that the information be signed officially by the county or district attorney, as is provided for the foreman of the grand jury in the requisites to indictments. Pasc. Dig., Art. 2863, subdiv. 9. And yet in the latter case it has been held, and correctly, that the indictment is not affected by the want of the signature of the foreman of the grand jury. The State v. Powell, 24 Texas, 135 ; Pasc. Dig., Art. 2955. The complaint upon which the information was based in this case, and which was filed and made a part of the information, was sworn to and subscribed by complainant before the county attorney, and that fact is officially certified to by the county attorney by his indorsement upon the same. Besides this, the information-, itself, in the body thereof, recites the fact, and purports to-have been made by the county attorney. This, we think, was sufficient, though undoubtedly the better practice would, be for the county attorney to sign the information officially.. But, again, such an objection tQ the information “ was not a good ground in a motion in arrest of judgment, it not having been made and ruled upon before trial.” Matthews v. The State, 44 Texas, 378, citing Terrell v. The State, decided by the supreme court at the Tyler term, 1874, which latter-case is unpublished. Pasc. Dig., Art. 2955.
+The other objection, that the information 66 fails to charge, in plain and intelligible language, any offense against the-laws of the state of Texas,” is not well taken. It charges-defendant with having committed the assault with a deadly weapon, and, in another count, charges that “serious bodily injury was inflicted upon the person assaulted.” Pasc. Dig., Art. 2150; Chambers v. The State, 42 Texas, 254.
+It is further contended that the judgment is contrary to-the law and the evidence, and that the defendant was justifiable in the commission of the assault and battery because it was committed 16 for the preservation of order in a meeting-assembled for lawful purposes,” as provided in Article 2145, Paschal’s Digest. This statute is controlled by the Article immediately following it, which declares that “ where violence is permitted to effect a lawful purpose, only that degree of force must be used which is necessary to eflect such purpose.” Pasc. Dig., Art. 2146.
+But two witnesses were examined—one for the state and one for the defendant. Their testimony was conflicting in some material points, and upon which the judge seems to-have given credence to the state’s witness. Both agreed, however, as to the origin and subject-matter of the difficulty. Britton Rasberry gave a dancing party at his house the Monday night after Christmas, at which he seems to-'have had a number of friends, among whom was one Isaac Bevil. After the dance had been going on for some time, Easberry concluded to change the character of the dance "from “long sets” to “short sets,” “in order that all could get a chance to -dance,” and so ordered the prompter, or the party calling the figures. Unquestionably he had right to do this, the party being his party, and in his •own house, or castle. Bevil, it seems, objected, and •“ said he did not like that way. Easberry told him to hush up, but he kept on cursing about it, when defendant hit him with his fist, and told him to get out of the house, •and then he reached up and got a pestle from a shelf and hit him with it.” The information charges that the pestle was a hominy pestle, though that fact is not proved. How•ever, the state’s witness says the pestle was “ about the size of his wrist,” and that defendant “ hit Isaac in the forehead with it, and made a little scar in Isaac’s head.” He • says further, “ I could have killed a man with the pestle.” We think the pestle, the means used by Easberry to quiet Bevil and preserve order in the house, was unnecessarily severe, and deprives him of his right to claim immunity under the statute referred to.
+The judgment of the lower court is affirmed.
+Affirmed.
