@@ -1,0 +1,35 @@
+---
+court: "Texas Courts of Appeals"
+decided: "1898-12-10"
+citations: ["20 Tex. Civ. App. 150"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Atkinson v. H. L. Phares et al."]
+source_url: "https://static.case.law/tex-civ-app/20/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 274388
+cites_cases: ["36 S. W. Rep., 785"]
+---
+
+# Atkinson v. Phares
+
+## Majority (BOOKHOUT, Associate Justice.)
+
+BOOKHOUT, Associate Justice.
+John Atkinson instituted this suit in the District Court of Dallas County in the ordinary form of trespass to try title against H. L. Phares and Sarah A. Phares, his wife, to recover 3 2-5 acres of land -situated in Dallas County, together with rents thereon at the rate of $50 per month. The defendants answered by general denial, and further, that the plaintiff’s claim to the land was based upon a trustee sale under a deed of trust executed by appellees upon the land in controversy on the 18th day of March, 1892, and that the land was then a part of their homestead and the deed of trust was null and void, and prayed for a cancellation of the same.
+There was a trial before a jury which resulted in a verdict and judgment for the defendants, from which the plaintiff has prosecuted an appeal to this court. Additional facts appear in the opinion.
+Appellant’s first assignment of error complains of the action of the court in refusing to render judgment for the appellant upon the findings of the jury and the undisputed evidence in the case, in that it conclusively appears therefrom that the appellees had voluntarily converted the land upon which they actually resided into an urban homestead, and the land in controversy was rural property at the time of the execution of appellees’ deed of trust and could not be blended with the urban homestead and exempted to the appellees.
+The land formerly was the community property of Peter Casey and his wife, Sarah A. -Casey, now Sarah A. Phares. Peter Casey died and his land was partitioned between his children and his surviving wife, she receiving one tract of about 7 1-2 acres, upon which was located a dwelling house and improvements, the same being on the east side of Miller’s Ferry road, and another tract of about 3 2-5 acres lying on the west side of said road about 200 feet northwest of the 7 1-2 acres tract. Mrs. Casey lived upon the 7 1-2 acres tract and her children, consisting of sons and daughters, lived with her. In 1889 Mrs. Casey and H. L. Phares were married and thereafter lived upon the said 7 1-2 acres of land. In March, 1892, H. L. Phares and Sarah A. Phares executed a deed of trust on the 3 2-5 acres lying west of the Miller’s Ferry road to secure a note executed by them. They defaulted in the payment of said note, and said deed of trust was foreclosed.
+Appellant claims title by virtue of his purchase under foreclosure of said deed of trust. Appellees claim that the 3 2-5 acres was a part of their homestead at the time of the execution of said deed of trust and has since so remained, and that the said deed of trust is void.
+Previous to 1889 all the land of appellee was rural property, and some time in the year 1889 the land became a part of the city of Dallas by the extension of the corporate limits of said city. After the extension of the boundary of the city the land was located right on the outskirts of the city. After this extension the 7 1-2 acres lying on the east side of the road was platted into lots and blocks with other lands in that vicinity and. called “Ervay Street Heights Addition,” and a map thereof, after being signed and acknowledged by appellees and others, was filed for record among the record of deeds of Dallas County in January, 1891. The record does not show that the city ever accepted said plat or the streets, or that appellees ever sold any lot or lots by reference to it. The fences of appellee were not changed after the recording of said plat; the streets were never opened, nor were the lots and blocks ever actually marked or divided upon the ground. In said plat Miller’s Ferry road is designated as Home Street. The land in controversy is not embraced in said plat.
+The jury found in answer to special issues submitted to them that after the extension of the city limits, so as to take in appellees’ property, that appellees did not elect to treat and utilize said property as city property, but continued to treat the same as a farm.
+There is no controversy but that previous to the extension of the city limits of Dallas, in 1889, the land in dispute was a part of the rural homestead of Mrs. Casey, now Mrs. Phares. She was the head of a family and lived upon the property. Hpon her marriage to H. L. Phares the land continued a part of such rural homestead and so remained, unless it lost its character as such by the extension of the city limits over it and the platting of the 7 1-2 acres of land upon which they actually lived, into lots and blocks, and the acknowledgment and recording of the said plat.
+We are of the opinion that under the facts of this case the land did not lose its character as a rural homestead by the acts of the appellees in merely platting a part of their homestead into lots and blocks and the acknowledgment of the plat, and causing the same to be recorded. Posey v. Bass, 77 Texas, 512; Neeley v. Case, 36 S. W. Rep., 785.
+If, however, .this were not so, then the verdict of the jury shows that at the time of the execution of the deed of trust upon the land H. L. Phares was a market gardener, engaged in the occupation of raising and vending vegetables, and the land in controversy was in cultivation by him and being used to carry on such occupation. ■
+It being shown that the 7 1-2 acres east of the road upon which appellees lived and the 3 2-5 acres in controversy were at the time of the execution of said deed of trust of less value than $5000, and that H. L. Phares was the head of a family, the land under these findings would be protected as a place for the carrying on of his occupation, and hence a part of his homestead. Waggoner v. Haskell, 89 Texas, 435; Posey v. Bass, supra.
+Finding no error in the record the judgment is affirmed.
+Affirmed.
+additional conclusions of fact.
+The record does not show that the three" acres tract of land was ever platted into lots and blocks. We find that it never was so platted. The land in controversy being three acres west of Home Street, was rented to a tenant for the year 1889. In 1890 it was rented to a tenant ■ who cultivated the same on shares. The appellees cultivated the same as a vegetable garden during the years 1891 and 1892. During the years 1893 and 1894 the said three acres were rented, said renting being by the year. Since that time appellees have continuously cultivated and used it in connection with the 7 1-2 acres upon which they lived as a market garden. There are improvements beyond the Ervay Street Heights Addition consisting of several dwelling houses.
+Writ of error refused.
