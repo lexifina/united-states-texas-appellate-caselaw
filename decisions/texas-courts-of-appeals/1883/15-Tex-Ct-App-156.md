@@ -1,0 +1,28 @@
+---
+court: "Texas Courts of Appeals"
+docket: "1645"
+decided: "1883-11-28"
+citations: ["15 Tex. Ct. App. 156"]
+reporter: "tex-ct-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D. M. Burke v. The State."]
+source_url: "https://static.case.law/tex-ct-app/15/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136427
+---
+
+# Burke v. State
+
+## Majority (Willson, Judge.)
+
+Willson, Judge.
+1. It is argued by counsel for defendant that the learned trial judge, in his charge to the jury, did not sufficiently define and explain the term “accomplice,” as used in Article 741 of the Code of Criminal Procedure. This objection was not presented in the court below by exception'to the charge, nor by requesting a special charge, nor by making it a ground in the motion for a new trial. We are not, therefore, called upon to consider it; but, in view of another trial of the case, will suggest that the learned judge, having told the jury that an accomplice was one who was “criminally connected with the offense committed,” should have instructed them further as to what would constitute such criminal connection with the theft here charged on the part of the State’s witness Sealy. In other words, the jury should have been told that if the witness Sealy, knowing the intent of the defendant to steal the cattle, aided and assisted him in the commission of the theft, then he, the witness, was an accomplice within the meaning of the article cited, notwithstanding he might have been, at the-time, the hired hand of the defendant, and acting for and under the orders of the defendant in taking the cattle.
+2. Upon the trial the State proved by Shands, the owner of the stolen cattle, a certain conversation had by him with one Otto, in relation to the cattle, and also certain conduct of said Otto with reference to said cattle. Otto was in possession of the cattle at the ranch of the defendant at the time Shands, the owner, found and recovered them. These declarations and acts of Otto, as testified to by Shands, tended to connect the defendant with the theft of the cattle, and the effect of such testimony would unquestionably be prejudicial to the defendant. No objection was made to it at the time it was introduced, but when the witness had finished testifying, defendant’s counsel moved to exclude this portion of his testimony because incompetent for any purpose; which motion was refused; and to this action of the court exception was taken and saved by bill.
+In signing the bill of exception, the learned judge states that he refused and denied the motion upon the following grounds: “ First. Defendant, by his attorney, had the opportunity to object to said questions, and had not done so. Second. While the witness was making his statement, and testifying in response there to, as above shown, defendant had ample opportunity to interpose objections to said testimony of witness Shands, but made no objections until the witness had ended his statement, and then moved to exclude. Third. It had been shown in evidence that said Otto was then in the employ of the defendant, and in charge of his ranch and cattle, and in possession of said cow and calf at the time and place spoken of by the witness Shands. Fourth. Said Otto had been, by defendant, presented and sworn as a witness in this case for defendant, and was not placed on the stand by said defendant. Fifth. The defendant had before, on the trial, placed Mrs. Otto, wife of said Mr. Otto, on the stand, and Mrs. Otto had, for the defendant, testified in this case, as shown by the statement of facts.”
+Opinion delivered November 28, 1883.
+None of the foregoing reasons would make the testimony complained of competent and admissible. It would be admissible evidence upon two grounds only: First, that Otto and the defendant were co-conspirators in the theft of the cattle, and that, at the time of the said declarations and acts of said Otto, the common design of the conspiracy had not been fully accomplished; or, second, that the.defendant was present and cognizant of the said declarations and acts of said Otto. Neither of these grounds, however, existed- in this case, and we are clearly of the opinion that this .portion of the. testimony of Shands was incompetent and inadmissible against the defendant for any purpose.
+But, not having been objected to at the time it was introduced, is the defendant thereby precluded from objecting to it by motion to exclude it? We think not. It is the proper practice, where it can be done, to object to evidence • when it is offered, but it is frequently the case that illegal evidence gets before the jury before any objection can be interposed to it. It has always been the practice in this State to entertain a motion to exclude incompetent testimony, though not objected to at the time it was offered and introduced. (Gaines v. Salmon, 16 Texas, 311; Hubby v. Camplin, 22 Texas, 582; Sharp v. Baker, Id., 306.)
+We are of the oprnion-that the court erred" in refusing to exclude that portion of the witness Shands’s testimony which detailed the statements and- conduct of Otto, because the same was incompetent evidence against the defendant, and was calculated to prejudice his case in the minds of the jury; and for this error the judgment must be reversed and the cause remanded.
+Other errors complained of are not considered, because they are of a character that will not likely occur in any future trial of the case. The judgment is reversed and cause remanded.
+Reversed and remanded.
