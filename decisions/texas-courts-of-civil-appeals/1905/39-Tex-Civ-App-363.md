@@ -1,0 +1,31 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1905-05-06"
+citations: ["39 Tex. Civ. App. 363"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. H. Keith et al. v. N. W. Keith et al."]
+source_url: "https://static.case.law/tex-civ-app/39/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2344274
+---
+
+# Keith v. Keith
+
+## Majority (EAHSTEY, Chief Justice.)
+
+EAHSTEY, Chief Justice.
+This is an action for trespass to try title brought by appellees against appellants to recover their interest in three hundred and twenty acres of land in Franklin County, Texas.
+Appellees claim, in effect, that they and the appellants are the heirs of Dr. Nicholas Keith, from whom the land in controversy was inherited, and appellees are suing for their interest in the land. The appellants plead not guilty and the ten years’ statute of limitation, and further that, if plaintiffs were entitled to recover any part of said land, they have judgment against appellees for their proportion of taxes paid on said land by appellant.
+Judgment was rendered for appellees for the interest in the land claimed by them respectively.
+On the trial the court, over the objections of appellees, admitted in evidence the thirteenth interrogatory and answer thereto, in. the depositions of N. W. Keith. The interrogatory was: “Now see if you can describe the other in this suit. Here is N. E. Keith. What relation to you, if any ? (2) Polly Berkley and Martha Martin, formerly Martha Berkley, N. W. Keith, Jr., John Keith, L. T. Fields, Emily Beclcnell, the Ratliffs, William, Charles M. and Jesse and Annie Martin, daughter of James Fields, the Ratliff’s children, of Marie Keith, daughter of Benson B. Keith,—what relation are they to you, if any? To which he answered: “Polly Berkley and Martha Martin are my sisters, and I suppose these other plaintiffs are my nephews and nieces,” etc. The objection to this part of the answer was because the interrogatory was leading and because the witness did not know the facts, but simply “supposes” they were his nephews and nieces, and that said answer is hearsay.-
+The witness does not state any facts upon which he bases his supposition that the parties were his nephews and nieces. He is sixty-four years of age, and it is a fair inference from his testimony that he had been long separated from his sisters and did not know his nephews and nieces. Under these circumstances his mere supposition was not competent to prove heirship, and it seems that this testimony was all the testimony tending to show the relationship of these parties. The right of these parties to recover rested upon their relationship to Dr. Nicholas Keith, and this testimony was not sufficient upon which to base a judgment that said parties were entitled to an interest in the land. The court erred in admitting this evidence over appellants’ objection.
+The court erred in excluding the testimony of W. N. Keith, to the effect that in 1883, John and Alex Keith and Tom and Lon Berkley sold their interests in the land by verbal sale to Sarah- Keith, who paid the purchase money for same. This testimony was not pertinent to show a conveyance of title as a verbal sale of land does not conve}r title, unless the vendee takes possession of the land and makes valuable and permanent improvments thereon, but it was pertinent to show notice to said parties that the defendants were claiming the land adversely to them. Defendants were in possession of the land, and if there was such a sale and said parties knew of such possession, then limitation started to running, and more than ten years having elapsed since the sale, said parties would be barred from a recovery.
+The court erred in holding that John Beeknell was entitled to one-twelfth of said land. _ John Beeknell married Emily Keith, who inherited a child’s portion of said land, which was one-twelfth. She died without issue, leaving surviving her John Beeknell, her husband, and various brothers and sisters. Beeknell was not her sole heir. In the absence of a will by her, her brothers and sisters inherited one-half of her landed estate, the other half going to her husband, John Becknell.
+Lon Berkley not being a party" to the suit, it was error for the court to render judgment in her favor for a part of the land. One cotenant can maintain an action for possession against a trespasser, and a recovery inures to the benefit of the other cotenants, but such is not the rule when a cotenant is in possession and suit is brought against him to be allowed the right of entry. In such a case all desiring benefit of a recovery must be made parties.
+The appellants were in possession of the land, having part fenced and improvements on said part so fenced, but the evidence was conflicting as to their claiming adversely to the plaintiffs. If claiming adversely, the evidence failed to show that defendants had brought home notice to the plaintiffs that they were so claiming. What is here said as to notice of an adverse claim does not apply to those who sold their interests to Sarah Keith, if that fact is shown.
+The possession of one cotenant is not adverse to other cotenants, unless the possessor gives notice to the others of his adverse claim, or does some act which clearly indicates his adverse claim, of Avhich the others have notice, or of Avhich they should take notice.
+The court erred in ordering a partition of the land. There was no prayer for partition in the amended original petition on which the case was tried, though the original petition prayed for partition. The filing of the amended petition took the place of the original petition, which Avas abandoned by the filing of the amended petition. Besides, all the interested parties were not made parties to the suit. Lon Berkley was not a party, nor was the wife of Dr. Nicholas Keith, who has a life interest in one-third .of the land, if living.
+We have duly considered the other assignments presented but do not think them well taken. For the errors indicated the judgment is reversed and cause remanded.
+Reversed and remanded.
