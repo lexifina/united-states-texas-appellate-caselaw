@@ -1,0 +1,33 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1901-06-15"
+citations: ["26 Tex. Civ. App. 439"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M. B. Odell et al. v. D. E. Kennedy."]
+source_url: "https://static.case.law/tex-civ-app/26/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2875937
+cites_cases: ["32 S. W. Rep., 874"]
+---
+
+# Odell v. Kennedy
+
+## Majority (STEPHENS, Associate Justice.)
+
+STEPHENS, Associate Justice.
+This appeal is from a judgment in favor of appellee, who sued to recover 320 acres of land in Comanche County, patented to Benjamin F. Ware, January 21, 1847.
+By deed dated October 8, 1847, acknowledged March 23, 1849, and recorded in Comanche County October 24, 1857, William McConnell, who was from May, 1846, to May, 1850, the administrator of the estate of Benamin F. Ware, deceased, duly appointed by the probate court of Harris County, conveyed to John McConnell, from whom appellee deraigned title, “all that certain tract or parcel of land, known and granted to Benjamin F. Ware, now deceased, situated and described as the patent will show in Milam district, three hundred and twenty acres of land, third class, which said patent is made a part of this title for the more certain identification of the property conveyed,” — this description being a quotation from the deed.
+There was nothing on the face of the deed to indicate that it was made by William McConnell in the capacity of administrator, except the following : “And I further bind myself, heirs, and administrators as being the administrator on the estate of the late Benj. F. Ware, deceased, a citizen of the within after giving due notice according to law in the public prints I proceeded to sell on the first Tuesday in the month, and the said-John McConnell becoming the highest bidder for said property, it was legally struck down at public auction to the said John McConnell.”
+. In the patent, which was volume 2, No. 88, the land was described by metes and bounds as being in Milam district on the Leon, 81 % miles above junction of the three forks forming Little River.
+The inventory of the property of the estate of Benjamin F. Ware, deceased, filed at May term, 1846, of probate court of Harris County, when McConnell was appointed administrator, contained, besides a description of two town lots and a “corporal’s discharge,” only the following: “Headright certificate, second class, for 320 acres of land, issued No. 586 by Harrisburg Board of Land Commrs. Novbr. 21, 1839, located in Milam County, with field notes signed by I. Snively, Co. Surveyor, valued at 50 cts. per acre. 160,000.”
+In the application of the administrator for an order to sell “all the property” in his hands belonging to said estate, filed March 27, 1847, and granted at the July term, 1847, the only property mentioned, besides the town lots, was thus described: “A certificate calling for 320 acres of land, No. 88, third class, which has been located in Milam County and patented.” In the account of sales, filed July 29, 1848, and approved by order entered at that term, besides the lots, was the following: “To one patent for 320 acres land, bought by-at 12%c per aeree •cash, $40.00.” In the final account, filed at the March term, 1850, which was approved at the May term, 1850, we find, besides report of the sale ■of lots, the following: “Sold 320 acres, patent to B. F. Ware, to Jno. McConnell, at 12% pr. acre. 40.00.”
+This report of the administrator represented that he had disposed of all the property of the estate. The field notes of the original location •of the land in controversy, transcribed from the original records of Milam County and kept in the surveyor’s office of Comanche County, were signed by J. Snively, deputy surveyor of Milam County, showing the survey to have been made on the 39th day of August, 1845, as follows : “Republic of Texas, County of Milam. Survey for Benjamin F. Ware, of 320 acres of land situated on the Leon, 81% miles above the junction of the three forks forming Little River, being the quantity of land to which he is entitled by virtue of conditional certificate No. 586, second class, issued by the Board of Land Commissioners for Harrisburg County, the 21st Nov. 1839,” giving the same field notes found in the patent.
+This statement of the facts leaves little to be said upon the questions of law which appellant’s numerous assignments of error attempt to raise. It was a located certificate, hence land, which was ordered to be sold, and not an unlocated certificate, a mere chattel, as in the case of East v. Dugan, 79 Texas, 329. When issued and located, the certificate was a conditional headright, but when patented, which was before the sale of the land was applied for and ordered, it had evidently become, as was required by law, an unconditional one, which accounts for the change in the number of the certificate, without affecting the identity of the land. Davis v. Bargas, 12 Texas Civ. App., 59, 32 S. W. Rep., 874.
+The change in the classification is quite as easily explained. Under the laws of the Republic, whether a conditional headright was of the second or third class depended upon the date of the arrival of the immigrant in Texas, or the age of the permanent citizen, and not upon the quantity of land granted, as was the case after the establishment of the. General Land Office. Sayles’ Real Estate Laws of Texas, arts. 237, 515. So that, when the conditional certificate was issued, it was, according to the law then prevailing, of the second class, but when the unconditional one was issued, it fell within the third class, the quantity of land called for being only 320 acres.
+Since the sale was ordered and approved by the probate court, the deed of the administrator, asknowledged thereafter, was sufficient to pass the title, without reciting the source of the power, or his official capacity. The existence of the power was the essential thing. Bennett v. Cattle Co., 1 Texas Civ. App., 321, and cases there cited.
+The failure of the application for letters of administration to show that Benjamin F. Ware died possessed of an estate to be administered was not fatal to the jurisdiction of the probate court, since there was such an estate, and the necessity for administration existed and was. shown in the application.
+Finding no material error in any of the rulings complained of, we overrule all the assignments of error and affirm the judgment.
+Affirmed.
+Writ of error refused.
