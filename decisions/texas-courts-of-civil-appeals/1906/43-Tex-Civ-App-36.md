@@ -1,0 +1,24 @@
+---
+court: "Texas Courts of Civil Appeals"
+decided: "1906-04-21"
+citations: ["43 Tex. Civ. App. 36"]
+reporter: "tex-civ-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Armour and Company v. W. R. Dumas."]
+source_url: "https://static.case.law/tex-civ-app/43/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4387877
+cites_cases: ["100 U. S., 213", "109 U. S., 478", "111 U. S., 313", "126 N. Y., 105", "167 Mass., 588", "173 Pa., 162", "25 S. W. Rep., 1087", "37 S. W. Rep., 171", "51 S. W. Rep., 537", "55 Vt., 84", "62 N. E. Rep., 784", "73 N. W. Rep., 434", "99 Fed. Rep., 679"]
+---
+
+# Armour & Co. v. Dumas
+
+## Majority (SPEER, Associate Justice.)
+
+SPEER, Associate Justice.
+Appellee recovered a judgment against appellant for personal injuries sustained by him in stepping upon the points of some upturned nails protruding through a piece of board lying upon the floor of the building in which he was at work.. The paragraph of the court’s charge upon which the recovery was had, and which indicates the negligence relied on, is as follows: “If you believe and find from the evidence that defendant’s foreman in charge of the workers with whom plaintiff was engaged on the occasion of his alleged injury, or if defendant’s employes (if any) charged with the duty of keeping the floor clean of rubbish failed to use ordinary care to see that the floor where plaintiff was working was reasonably safe, then defendant would be guilty of negligence; and if by reason of such failure (if any) a piece of timber with spikes or nails therein with upturned points was left and permitted to remain upon the floor; and if plaintiff, while in said room, pursuant to the discharge of his duties, jumped or stepped upon said spikes or nails and was thereby injured; and you find plaintiff’s injury was the direct result of such negligence (if any you find), and plaintiff is not precluded from a recovery by subsequent instructions herein, then your verdict will be for the plaintiff. But if you do not believe that the employees of the defendant above mentioned were guilty of negligence in the matter herein submitted to you, then plaintiff could not recover.” The “subsequent instructions” comprehended charges to the effect that if appellee knew of the presence of pieces of timber with nails in them, he assumed the risk of the danger and that if he was guilty of contributory negligence he could not recover. So that, as thus qualified, we are confronted with the question, does the charge quoted state a correct proposition of law as applied to the facts of this case? We are of opinion it does not. The evidence shows that appellee, together with a number of other employees, was engaged in the construction of a large building for appellant. There was what was known as a sweeping gang, whose duty it was to sweep up the trash, pieces of boards, nails, et cetera, into piles in the basement room where appellee was engaged in mixing concrete for the building, and if there was any negligence shown, it was that of the employees constituting this sweeping gang. The carpenters, the sweeping gang and appellee, all being engaged in the common work of erecting the building, with no authority the one over the other, were fellow servants, and the negligence of the others was assumed by each when he entered the common employment. But it is insisted that the duty of exercising care to furnish a reasonably safe place to work, resting upon appellant, was absolute and nonassignable. But to this general rule there is the well-known exception that the master is not liable where the danger to which the employee is exposed is merely a transitory one, due to no fault of plan or construction, but is one where the work is of such a character that as it progresses the environment of the servant must necessarily undergo frequent changes, and the injury is traceable to one of these transitory changes. This exception finds its illustrations for the most part in cases involving the construction of works. (Armour v. Hahn, 111 U. S., 313; Durst v. Carnegie Steel Co., 173 Pa., 162; Butler v. Townsend, 126 N. Y., 105; 2d Labatt, Master & Servant, secs. 587, 588 and 612a.) The authorities cited by appellee do not involve the exceptional condition of affairs here adverted to, but are cases of completed structures or places or work for the servant and are fit instance of the application of the general rule that the master can not.delegate to another the duty of supplying a safe place to work.
+Under the undisputed facts, appellee received his injuries from a cause the risk of which he assumed, and can not recover.
+The judgment is therefore reversed and here rendered in favor of appellant.
+Reversed and rendered.
+Writ of error refused.
