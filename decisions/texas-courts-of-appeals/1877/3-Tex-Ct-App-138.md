@@ -1,7 +1,8 @@
 ---
 court: "Texas Courts of Appeals"
 decided: "1877"
-citations: ["3 Tex. Ct. App. 138", "1 Tex. Ct. App. 734"]
+decided_precision: "year"
+citations: ["3 Tex. Ct. App. 138"]
 reporter: "tex-ct-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["M. C. Stapp v. The State."]
 source_url: "https://static.case.law/tex-ct-app/3/cases/0138-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4407756
-cites_cases: ["10 Cal. 309", "22 Ala. 39", "29 Ala. 17", "4 Minn. 438"]
 ---
 
 # Stapp v. State
